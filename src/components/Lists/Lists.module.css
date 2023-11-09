@@ -1,0 +1,24 @@
+.lists {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  margin: 100px 0px;
+}
+
+.lists div {
+  display: flex;
+  gap: 10px;
+}
+.lists div span {
+  color: #99794c;
+  font-weight: 600;
+  font-size: 12px;
+}
+.lists div h1 {
+  font-family: "Sorts Mill Goudy", serif;
+  font-size: 50px;
+}
+
+.lists div a:hover h1{
+  color: #99794c;
+}

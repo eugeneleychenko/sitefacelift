@@ -1,0 +1,32 @@
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 70px;
+  font-size: 14px;
+  color: #fff;
+}
+
+.nav a {
+  color: #ede8e1;
+  &:hover {
+    color: #fff;
+  }
+}
+
+.navRight {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.navRight a{
+  font-size: 16px;
+  font-weight: 300;
+}
+
+@media (max-width: 1250px) {
+  .nav{
+    display: none;
+  }
+}

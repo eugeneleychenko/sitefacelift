@@ -1,0 +1,75 @@
+.members {
+  margin: 150px 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 10px;
+}
+
+.card {
+  position: relative;
+}
+.card img {
+  width: 100%;
+  height: auto;
+}
+
+.cardContentDiv {
+  position: absolute;
+  bottom: 40px;
+  color: white;
+  padding: 10px 30px;
+  width: 100%;
+  overflow: hidden;
+}
+.cardContent {
+  transition: all 0.8s;
+  transform: translateY(30px);
+  -webkit-transform: translateY(30px);
+  -moz-transform: translateY(30px);
+  -ms-transform: translateY(30px);
+  -o-transform: translateY(30px);
+  -webkit-transition: all 0.8s;
+  -moz-transition: all 0.8s;
+  -ms-transition: all 0.8s;
+  -o-transition: all 0.8s;
+}
+.cardContent h2 {
+  color: white;
+  font-family: "Sorts Mill Goudy", serif;
+  font-size: 30px;
+  line-height: 41px;
+}
+
+.card:hover .cardContentDiv .cardContent {
+  transform: translateY(0px);
+  -webkit-transform: translateY(0px);
+  -moz-transform: translateY(0px);
+  -ms-transform: translateY(0px);
+  -o-transform: translateY(0px);
+}
+.social {
+  margin-top: 20px;
+  display: flex;
+  gap: 20px;
+}
+
+.social a {
+  border-radius: 100px;
+  width: 25px;
+  height: 25px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  -ms-border-radius: 100px;
+  -o-border-radius: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 1s;
+  -webkit-transition: all 1s;
+  -moz-transition: all 1s;
+  -ms-transition: all 1s;
+  -o-transition: all 1s;
+  &:hover {
+    border: 1px solid white;
+  }
+}

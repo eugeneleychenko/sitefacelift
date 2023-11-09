@@ -1,0 +1,23 @@
+.knowledge {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin: 100px 0;
+}
+.knowledgeLeft h5 {
+  font-size: 12px;
+  font-weight: 600;
+  color: #99794c;
+  letter-spacing: 1.6px;
+  margin-bottom: 10px;
+}
+.knowledgeLeft h1 {
+  font-family: "Sorts Mill Goudy", serif;
+  font-size: 60px;
+  line-height: 60px;
+}
+
+.knowledgeRight .button {
+  padding: 15px 25px;
+  margin-top: 25px;
+  color: black;
+}
