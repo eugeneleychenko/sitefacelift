@@ -38,6 +38,15 @@
   -webkit-animation: fadeUp 0.7s ease-in-out;
 }
 
+.sliderContent h2 {
+  font-size: 50px;
+  text-align: center;
+  color: white;
+  font-weight: 500;
+  animation: fadeUp 0.7s ease-in-out;
+  -webkit-animation: fadeUp 0.7s ease-in-out;
+}
+
 .sliderContent img {
   width: 380px;
   height: auto;

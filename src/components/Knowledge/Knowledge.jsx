@@ -1,6 +1,8 @@
 import React from "react";
 import styles from "./Knowledge.module.css";
 function Knowledge() {
+  const valueProp = `Giordano Law Offices Personal Injury & Employment Lawyers is an award winning Harlem-based New York City law firm specializing in Personal Injury, Civil Rights, and Employment Litigation. Giordano Law continues to win awards like Super Lawyers year after year because of our experience and high-level of care for our clients. Over decades, our top rated firm has recovered millions of dollars for clients. For injury and some employment cases, you will not have to pay a fee unless we are successful and get a recovery for you. \nCall or text us today, we will never charge you for an initial consultation. With Us, It’s Personal.`
+  const CTA = "BOOK YOUR FREE CONSULTATION NOW   "
   return (
     <div className={styles.knowledge}>
       <div className={styles.knowledgeLeft} data-aos="fade-right">
@@ -9,15 +11,9 @@ function Knowledge() {
       </div>
       <div className={styles.knowledgeRight} data-aos="fade-left">
         <p>
-          Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-          nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.
-          <br />
-          <br />
-          Reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-          culpa qui officia deserunt mollit anim id est laborum.
+         {valueProp}
         </p>
-        <button className={`btn ${styles.button}`}>FREE EVALUATION</button>
+        <button className={`btn ${styles.button}`}>{CTA}</button>
       </div>
     </div>
   );

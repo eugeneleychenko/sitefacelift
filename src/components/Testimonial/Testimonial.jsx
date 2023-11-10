@@ -13,19 +13,19 @@ import "swiper/css/pagination";
 import { Autoplay, Pagination } from "swiper/modules";
 const testimonalData = [
   {
-    text: `"Tempus urna et pharetra pharetra massa. Iaculis urna id volutpat lacus. Lacus laoreet non curabitur gravida arcu ac tortor."`,
-    author: "Daniel Taylor",
-    profesation: "Co Founder",
+    text: `"Carmen was absolutely wonderful to work with. He was truly honest and I never felt taken advantage of. I can't recommend this law office and Carmen enough."`,
+    author: "Jaime Oliver",
+    profesation: "New York",
   },
   {
-    text: `"Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus. Orci ac auctor augue mauris augue."`,
-    author: "Susan Ward",
-    profesation: "Judge",
+    text: `"Even after the case we still keep in contact for any question that we still might have, for people who do not speak English I recommend him, he makes sure that the person in the case understands everything that happens in their case."`,
+    author: "Atriz R",
+    profesation: "Manhattan, New York",
   },
   {
-    text: `"Fringilla est ullamcorper eget nulla facilisi etiam dignissim diam. Blandit turpis cursus in hac.Duis aute irure dolor in reprehenderit in."`,
-    author: "Joseph Terry,",
-    profesation: "Paralegal",
+    text: `"When you go to their office you feel like you are home, they treat you like family, with empathy and professionalism; They are simply the best! I totally recommend this law firm. If you need reliable, experienced, and professional representation in your case, this is the right place to come, Giordano Law offices!"`,
+    author: "Jesus Antonio M.",
+    profesation: "Bronx, New York",
   },
 ];
 function Testimonial() {

@@ -1,6 +1,10 @@
 import React from "react";
 import styles from "./Appointment.module.css";
 import startImg from "../../assets/new-testimonials-stars.png";
+
+const paragraph = "Call or text (646) 217-0749 to get a free consultation";
+
+
 function Appointment() {
   return (
     <div className={styles.appointment}>
@@ -13,8 +17,8 @@ function Appointment() {
         decoding="async"
       />
       <h1>The Right Approach To Your Legal Problem</h1>
-      <p>Call us +012 34 56 789 or get your first consultation FREE!</p>
-      <button className="btn">REQUEST APPOITMENT</button>
+      <p>{paragraph}</p>
+      <button className="btn">REQUEST APPOINTMENT</button>
     </div>
   );
 }

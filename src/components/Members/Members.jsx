@@ -7,37 +7,26 @@ import member4 from "../../assets/member-4.jpg";
 import { BiLogoFacebook, BiLogoTwitter, BiLogoLinkedin } from "react-icons/bi";
 const members = [
   {
-    name: "Walter Hankins",
+    name: "Carmen 'Jack' Giordano, Esq.",
     img: member1,
-    position: "Junior Partner",
-    facebook: "/",
-    linkedin: "/",
-    twitter: "/",
+    position: "Principal Attorney",
   },
   {
-    name: "Jenny Kang",
+    name: "Stefanie Behler Soriano, Esq.",
     img: member2,
-    position: "Attorney",
-    facebook: "/",
-    linkedin: "/",
-    twitter: "/",
+    position: "Associate Attorney",
   },
   {
-    name: "Kent Bracamonte",
+    name: "Brian Robinson, Esq.",
     img: member3,
-    position: "Legal assistant",
-    facebook: "/",
-    linkedin: "/",
-    twitter: "/",
+    position: "Of Counsel",
+
   },
   {
-    name: "Crystal Deane",
+    name: "Toni Marie Angeli, Esq.",
     img: member4,
-    position: "Court clerk",
-    facebook: "/",
-    linkedin: "/",
-    twitter: "/",
-  },
+    position: "Of Counsel"
+  }
 ];
 function Members() {
   return (
@@ -49,17 +38,7 @@ function Members() {
             <div className={styles.cardContent}>
               <h2>{item.name}</h2>
               <p>{item.position}</p>
-              <div className={styles.social}>
-                <a href={item.facebook} target="_blank" rel="noreferrer">
-                  <BiLogoFacebook />
-                </a>
-                <a href={item.linkedin} target="_blank" rel="noreferrer">
-                  <BiLogoLinkedin />
-                </a>
-                <a href={item.twitter} target="_blank" rel="noreferrer">
-                  <BiLogoTwitter />
-                </a>
-              </div>
+              
             </div>
           </div>
         </div>

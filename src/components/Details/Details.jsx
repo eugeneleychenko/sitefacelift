@@ -9,27 +9,21 @@ import { Link } from "react-router-dom";
 const detailsData = [
   {
     url: "/",
-    title: "Company Commercial",
+    title: "EXCELLENT TRACK RECORD",
     content:
-      "At vero eos et accusamus et justo odio blanditiis similique in culpa.",
+      "Our award-winning attorneys have recovered over $20 Million dollars for our clients. You won't find tougher advocates.",
   },
   {
     url: "/",
-    title: "Intellectual Property",
+    title: "TRANSPARENT FEES",
     content:
-      "At vero eos et accusamus et justo odio blanditiis similique in culpa.",
+      "Consultations are always free and we take all personal injury cases on a contingency basis, meaning, you will not be charged until we are successful at obtaining a recovery for you.",
   },
   {
     url: "/",
-    title: "Personal Injury",
+    title: "UNPARALLELED CUSTOMER SERVICE",
     content:
-      "At vero eos et accusamus et justo odio blanditiis similique in culpa.",
-  },
-  {
-    url: "/",
-    title: "Consumer Rights",
-    content:
-      "At vero eos et accusamus et justo odio blanditiis similique in culpa.",
+      "You are not just a number at our firm. When you become our clients, you have unparalleled access to our attorneys and we are available 24/7 for you.",
   },
 ];
 

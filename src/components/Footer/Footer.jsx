@@ -3,15 +3,18 @@ import styles from "./Footer.module.css";
 import logo from "../../assets/new-logo-gold.png";
 import { BiLogoFacebook, BiLogoTwitter, BiLogoLinkedin } from "react-icons/bi";
 import { Link } from "react-router-dom";
+
+
+
 function Footer() {
   return (
     <footer className={styles.footer}>
       <div>
-        <img src={logo} alt="Logo" />
+        {/* <img src={logo} alt="Logo" />
         <p>
           Lorem ipsum dolor sit amet, consectetur scing elit, sed do eiusmod
           tempor incididu! Nut ut labore et dolore magna aliqua.
-        </p>
+        </p> */}
         <div className={styles.social}>
           <a href="/" target="_blank" rel="noreferrer">
             <BiLogoFacebook />

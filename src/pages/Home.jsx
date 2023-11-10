@@ -37,15 +37,15 @@ function Home() {
       <section>
         <Testimonial />
       </section>
-      <section className="container">
+      {/* <section className="container">
         <BlogPosts />
-      </section>
+      </section> */}
       <section>
         <Members />
       </section>
-      <section className="container">
+      {/* <section className="container">
         <Experience />
-      </section>
+      </section> */}
       <hr />
       <section className="container">
         <Appointment />
