@@ -15,17 +15,17 @@ const testimonalData = [
   {
     text: `"Carmen was absolutely wonderful to work with. He was truly honest and I never felt taken advantage of. I can't recommend this law office and Carmen enough."`,
     author: "Jaime Oliver",
-    profesation: "New York",
+    location: "New York",
   },
   {
     text: `"Even after the case we still keep in contact for any question that we still might have, for people who do not speak English I recommend him, he makes sure that the person in the case understands everything that happens in their case."`,
     author: "Atriz R",
-    profesation: "Manhattan, New York",
+    location: "Manhattan, New York",
   },
   {
     text: `"When you go to their office you feel like you are home, they treat you like family, with empathy and professionalism; They are simply the best! I totally recommend this law firm. If you need reliable, experienced, and professional representation in your case, this is the right place to come, Giordano Law offices!"`,
     author: "Jesus Antonio M.",
-    profesation: "Bronx, New York",
+    location: "Bronx, New York",
   },
 ];
 function Testimonial() {
@@ -50,7 +50,7 @@ function Testimonial() {
               <img src={testimonialStarts} alt="" />
               <h1>{item.text}</h1>
               <h3>
-                by {item.author}, {item.profesation}
+                by {item.author}, {item.location}
               </h3>
             </div>
           </SwiperSlide>

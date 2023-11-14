@@ -8,32 +8,28 @@ import { BiLogoFacebook, BiLogoTwitter, BiLogoLinkedin } from "react-icons/bi";
 const members = [
   {
     name: "Carmen 'Jack' Giordano, Esq.",
-    img: member1,
     position: "Principal Attorney",
   },
   {
     name: "Stefanie Behler Soriano, Esq.",
-    img: member2,
     position: "Associate Attorney",
   },
   {
     name: "Brian Robinson, Esq.",
-    img: member3,
     position: "Of Counsel",
-
   },
   {
     name: "Toni Marie Angeli, Esq.",
-    img: member4,
     position: "Of Counsel"
   }
 ];
+const memberImages = [member1, member2, member3, member4];
 function Members() {
   return (
     <div className={styles.members}>
       {members.map((item, index) => (
         <div className={styles.card} key={index}>
-          <img src={item.img} alt={item.name} />
+          <img src={memberImages[index]} alt={item.name} />
           <div className={styles.cardContentDiv}>
             <div className={styles.cardContent}>
               <h2>{item.name}</h2>

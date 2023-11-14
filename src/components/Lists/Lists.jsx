@@ -2,49 +2,29 @@ import React from "react";
 import styles from "./Lists.module.css";
 import { Link } from "react-router-dom";
 
+const baseImgUrl = "https://courtroom.qodeinteractive.com/wp-content/uploads/2023/07/img-with-text-";
+
 const topics = [
-  {
-    img: "https://courtroom.qodeinteractive.com/wp-content/uploads/2023/07/img-with-text-1.jpg",
-    title: "EMPLOYMENT LAW",
-  },
-  {
-    img: "https://courtroom.qodeinteractive.com/wp-content/uploads/2023/07/img-with-text-2.jpg",
-    title: "PERSONAL INJURY",
-  },
-  {
-    img: "https://courtroom.qodeinteractive.com/wp-content/uploads/2023/07/img-with-text-3.jpg",
-    title: "GENERAL LITIGATION",
-  },
-  {
-    img: "https://courtroom.qodeinteractive.com/wp-content/uploads/2023/07/img-with-text-4.jpg",
-    title: "WRONGFUL DEATH",
-  },
-  {
-    img: "https://courtroom.qodeinteractive.com/wp-content/uploads/2023/07/img-with-text-5.jpg",
-    title: "CIVIL RIGHTS",
-  },
-  {
-    img: "https://courtroom.qodeinteractive.com/wp-content/uploads/2023/07/img-with-text-6.jpg",
-    title: "DISCRIMINATION",
-  },
-  {
-    img: "https://courtroom.qodeinteractive.com/wp-content/uploads/2023/07/img-with-text-7.jpg",
-    title: "ENTERTAINMENT",
-  },
-  {
-    img: "https://courtroom.qodeinteractive.com/wp-content/uploads/2023/07/img-with-text-8.jpg",
-    title: "SEXUAL HARASSMENT",
-  },
-  {
-    img: "https://courtroom.qodeinteractive.com/wp-content/uploads/2023/07/img-with-text-9.jpg",
-    title: "WRONGFUL TERMINATION",
-  },
+  "EMPLOYMENT LAW",
+  "PERSONAL INJURY",
+  "GENERAL LITIGATION",
+  "WRONGFUL DEATH",
+  "CIVIL RIGHTS",
+  "DISCRIMINATION",
+  "ENTERTAINMENT",
+  "SEXUAL HARASSMENT",
+  "WRONGFUL TERMINATION",
 ];
+
+const topicsWithImages = topics.map((title, index) => ({
+  img: `${baseImgUrl}${index + 1}.jpg`,
+  title,
+}));
 
 function Lists() {
   return (
     <div className={styles.lists}>
-      {topics.slice(4).map((topic, index) => (
+      {topicsWithImages.slice(4).map((topic, index) => (
         <div key={index}>
           <span>{String(index + 1).padStart(2, '0')}</span>
           <Link>

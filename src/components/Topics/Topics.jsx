@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./Topics.module.css";
-function Topics() {
+
   const topics = [
     {
       img: "https://courtroom.qodeinteractive.com/wp-content/uploads/2023/07/img-with-text-1.jpg",
@@ -39,7 +39,7 @@ function Topics() {
       title: "WRONGFUL TERMINATION",
     },
   ];
-
+  function Topics() {
   return (
     <div className={styles.topics}>
       {topics.slice(0, 4).map((topic, index) => (

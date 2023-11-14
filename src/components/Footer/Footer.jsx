@@ -4,7 +4,9 @@ import logo from "../../assets/new-logo-gold.png";
 import { BiLogoFacebook, BiLogoTwitter, BiLogoLinkedin } from "react-icons/bi";
 import { Link } from "react-router-dom";
 
-
+const address = "226 Malcolm X Blvd, New York, NY 10027"
+const phoneNumber = "(646) 217-0749"
+const email = "Info@Gio-Law.com"
 
 function Footer() {
   return (
@@ -55,15 +57,15 @@ function Footer() {
             href="https://www.google.com/maps/place/35+Ridge+St,+New+York,+NY+10002,+USA/@40.7165617,-73.9867446,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25980135e5fff:0x1200dbe5ac7a800!8m2!3d40.7165577!4d-73.9845559?_ga=2.94611102.304902709.1697972977-111006533.1697636651"
             target="_blank"
           >
-            650 Birmingham Street, London 3000, UK
+            {address}
           </a>
         </p>
 
         <p>
-          <a href="tel:00123456789">00 411 22 012</a>
+          <a href={`tel:${phoneNumber}`}>{phoneNumber}</a>
         </p>
         <p>
-          <a href="mailto:info@example.com">theme@example.com</a>
+          <a href={`mailto:${email}`}>{email}</a>
         </p>
       </div>
       <div>
@@ -80,7 +82,7 @@ function Footer() {
         </p>
         <p>
           <a class="qodef--underline-link" href="/faq">
-            What Is Domestic Violance?
+            What Is Domestic Violence?
           </a>
         </p>
         <p>

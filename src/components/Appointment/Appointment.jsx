@@ -1,11 +1,12 @@
-import React from "react";
+import React, { useContext } from "react";
 import styles from "./Appointment.module.css";
 import startImg from "../../assets/new-testimonials-stars.png";
-
-const paragraph = "Call or text (646) 217-0749 to get a free consultation";
+import { AppContext } from '../../context/AppContext';
 
 
 function Appointment() {
+  const { paragraph } = useContext(AppContext);
+
   return (
     <div className={styles.appointment}>
       <img
