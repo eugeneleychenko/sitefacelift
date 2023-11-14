@@ -13,62 +13,36 @@ def encode_image(image_path):
     with open(image_path, "rb") as image_file:
         return base64.b64encode(image_file.read()).decode('utf-8')
 
-image_path = "./miro1.jpg"
+image_path = "./gio-law.com_ (1).png"
 base64_image = encode_image(image_path)
 
 client = OpenAI()
 response = client.chat.completions.create(
     model="gpt-4-vision-preview",
+    temperature=0,
     messages=[
         {
             "role": "user",
             "content": [
                 {
                     "type": "text",
-                #     "text": """
-                #     This image is a Figma mockup of a ficticious law firm. To make sure I am not making any spelling mistakes, return 
-                #     1. Header Section:
-                #         - Logo
-                #         - Navigation Bar
-
-                #     2. Main Banner Section:
-                #     - Main Title
-                #     - Tagline
-                #     - Call-to-Action Button
-
-                #     3. Introductory Section:
-                #     - Heading
-                #     - Description Text
-                #     - Call-to-Action Button
-
-                #     4. Services Overview Section:
-                #     - Subsections with Images and Service Titles
-
-                #     5. Specialization Section:
-                #     - List of Specializations
-
-                #     6. Additional Services Section:
-                #     - Service Titles with Call-to-Action Buttons
-
-                #     7. Testimonials Section:
-                #     - Testimonial Quotes
-                #     - Rating Indicators
-                #     - Attribution
-
-                #     8. Profiles Section:
-                #     - Profile Images and Names
-
-                #     9. Call-to-Action Section:
-                #     - Promotional Tagline
-                #     - Contact Information
-                #     - Secondary Call-to-Action Button
-
-                #     10. Footer Section:
-                #     - Multiple Columns with Information Categories
+                    "text": """
+                  const testimonalData = (Return 3 testimonials from this site. They should be in an array of objects, including text, author, location. For example "[
+  {
+    text: `""Carmen was absolutely wonderful to work with. He was truly honest and I never felt taken advantage of. I can't recommend this law office and Carmen enough.""`,
+    author: ""Jaime Oliver"",
+    location: ""New York"",
+  },
+  {
+    text: `""Even after the case we still keep in contact for any question that we still might have, for people who do not speak English I recommend him, he makes sure that the person in the case understands everything that happens in their case.""`,
+    author: ""Atriz R"",
+    location: ""Manhattan, New York"",
+  }]")
                     
-                #     no need for any full sentences.
-                    # """
-                     "text": "This image is a miro flowchart. Can you, in a bulleted list talk about the steps, in order."
+                    
+              Use actual words examples from this mockup. If it is not available, say so.  no need for any full sentences.
+                    """
+                     
                 },
                 
                 {

@@ -10,7 +10,7 @@ function Lists() {
   const { topics } = useContext(AppContext);
   const topicsWithImages = topics.map((topic, index) => ({
     img: `${baseImgUrl}${index + 1}.jpg`,
-    title: topic.title,
+    title: topic.toLowerCase().split(' ').map(word => word.charAt(0).toUpperCase() + word.substring(1)).join(' '),
   }));
   return (
     <div className={styles.lists}>
@@ -18,13 +18,14 @@ function Lists() {
         <div key={index}>
           <span>{String(index + 1).padStart(2, '0')}</span>
           <Link>
-            <h1>{topic.title.toLowerCase().split(' ').map(word => word.charAt(0).toUpperCase() + word.substring(1)).join(' ')}</h1>
+            <h1>{topic.title}</h1>
           </Link>
         </div>
       ))}
     </div>
   );
-
 }
+
+
 
 export default Lists;

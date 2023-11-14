@@ -93,43 +93,16 @@ const testimonalData = [
 ];
 //Lists.js 
 const topics = [
-    {
-      img: "https://courtroom.qodeinteractive.com/wp-content/uploads/2023/07/img-with-text-1.jpg",
-      title: "EMPLOYMENT LAW",
-    },
-    {
-      img: "https://courtroom.qodeinteractive.com/wp-content/uploads/2023/07/img-with-text-2.jpg",
-      title: "PERSONAL INJURY",
-    },
-    {
-      img: "https://courtroom.qodeinteractive.com/wp-content/uploads/2023/07/img-with-text-3.jpg",
-      title: "GENERAL LITIGATION",
-    },
-    {
-      img: "https://courtroom.qodeinteractive.com/wp-content/uploads/2023/07/img-with-text-4.jpg",
-      title: "WRONGFUL DEATH",
-    },
-    {
-      img: "https://courtroom.qodeinteractive.com/wp-content/uploads/2023/07/img-with-text-5.jpg",
-      title: "CIVIL RIGHTS",
-    },
-    {
-      img: "https://courtroom.qodeinteractive.com/wp-content/uploads/2023/07/img-with-text-6.jpg",
-      title: "DISCRIMINATION",
-    },
-    {
-      img: "https://courtroom.qodeinteractive.com/wp-content/uploads/2023/07/img-with-text-7.jpg",
-      title: "ENTERTAINMENT",
-    },
-    {
-      img: "https://courtroom.qodeinteractive.com/wp-content/uploads/2023/07/img-with-text-8.jpg",
-      title: "SEXUAL HARASSMENT",
-    },
-    {
-      img: "https://courtroom.qodeinteractive.com/wp-content/uploads/2023/07/img-with-text-9.jpg",
-      title: "WRONGFUL TERMINATION",
-    },
-  ];
+  "EMPLOYMENT LAW",
+  "PERSONAL INJURY",
+  "GENERAL LITIGATION",
+  "WRONGFUL DEATH",
+  "CIVIL RIGHTS",
+  "DISCRIMINATION",
+  "ENTERTAINMENT",
+  "SEXUAL HARASSMENT",
+  "WRONGFUL TERMINATION",
+];
 
 
   return (

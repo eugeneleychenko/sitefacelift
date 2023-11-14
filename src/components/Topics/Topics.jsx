@@ -4,7 +4,8 @@ import { AppContext } from '../../context/AppContext';
   
   function Topics() {
 
-  const {topics } = useContext(AppContext);  
+  const { topics } = useContext(AppContext);  
+  const baseImgUrl = "https://courtroom.qodeinteractive.com/wp-content/uploads/2023/07/img-with-text-";
   return (
     <div className={styles.topics}>
       {topics.slice(0, 4).map((topic, index) => (
@@ -13,12 +14,12 @@ import { AppContext } from '../../context/AppContext';
             loading="lazy"
             width="400"
             height="605"
-            src={topic.img}
+            src={`${baseImgUrl}${index + 1}.jpg`}
             class="attachment-full size-full"
             alt="a"
             decoding="async"
           />
-          <h4>{topic.title}</h4>
+          <h4>{topic}</h4>
         </div>
       ))}
     </div>
