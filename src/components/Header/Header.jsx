@@ -1,15 +1,15 @@
-import React, { useState } from "react";
+import React, { useState, useContext } from "react";
 import styles from "./Header.module.css";
 import Nav from "../Nav/Nav";
 import { CiMenuFries } from "react-icons/ci";
 import { BiSearch } from "react-icons/bi";
 import { RxCross2 } from "react-icons/rx";
 import { Link } from "react-router-dom";
+import { AppContext } from '../../context/AppContext';
 
 
 const Header = () => {
-  const linkNames = ["ABOUT", "PRACTICE AREAS", "OUR TEAM", "CASE RESULTS", "TESTIMONIALS","BLOG","CONTACT"
-];
+  const {linkNames} = useContext(AppContext);
   const [isActive, setIsActive] = useState(false);
 
 

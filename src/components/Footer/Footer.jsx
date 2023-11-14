@@ -1,14 +1,15 @@
-import React from "react";
+import React, { useContext } from "react";
 import styles from "./Footer.module.css";
 import logo from "../../assets/new-logo-gold.png";
 import { BiLogoFacebook, BiLogoTwitter, BiLogoLinkedin } from "react-icons/bi";
 import { Link } from "react-router-dom";
+import { AppContext } from '../../context/AppContext';
 
-const address = "226 Malcolm X Blvd, New York, NY 10027"
-const phoneNumber = "(646) 217-0749"
-const email = "Info@Gio-Law.com"
+
 
 function Footer() {
+
+  const {address, phoneNumber, email} = useContext(AppContext);
   return (
     <footer className={styles.footer}>
       <div>

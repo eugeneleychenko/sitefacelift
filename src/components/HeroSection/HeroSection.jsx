@@ -1,4 +1,4 @@
-import React from "react";
+import React, {useContext} from "react";
 import styles from "./HeroSection.module.css";
 // import signature from "../../assets/slider-signature.png";
 import slide1 from "../../assets/slider-1.jpg";
@@ -14,11 +14,12 @@ import "swiper/css/pagination";
 // import required modules
 import { Autoplay, EffectFade, Navigation, Pagination } from "swiper/modules";
 import Header from "../Header/Header";
+import { AppContext } from '../../context/AppContext';
 
-const companyName = "Giordano Law Offices"
-const subHeading = "Personal Injury & Employment Lawyers"
+
 
 function HeroSection() {
+  const {companyName, subHeading } = useContext(AppContext);
   return (
     <div className={styles.heroSection}>
       <Header />
