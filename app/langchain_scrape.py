@@ -7,10 +7,13 @@ from langchain.schema.messages import SystemMessage
 from dotenv import load_dotenv
 import html2text
 import requests
+import openai
+import csv
 
 load_dotenv()
 
 def ask_questions_to_website(url):
+    # print(openai.__file__)
     # Load the website content
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
     response = requests.get(url, headers=headers)
@@ -37,11 +40,11 @@ def ask_questions_to_website(url):
     # print(doc.page_content)
 
     # Initialize the QAGenerationChain
-    model = ChatOpenAI(temperature=0, model="gpt-3.5-turbo-16k")
+    model = ChatOpenAI(temperature=0, model="gpt-4-1106-preview")
     
     # Define the questions
     questions = [
-        "create a CTA to call or text the contact number for a consultation.",
+        "return the CTA which usually phrases like 'to call or text the contact number for a consultation'.",
         "Find 3 advantages that sets this firm apart.",
         "what is the address of this firm?",
         "What is the phone number of this firm?",
@@ -58,17 +61,20 @@ def ask_questions_to_website(url):
         "Return 3 testimonials from this site.",
         "Return 9 practice areas of this law firm, in an array."
     ]
+    # questions =  "return the CTA which usually phrases like 'to call or text the contact number for a consultation'.",
 
     # Run the chain for each question and print the results
     for question in questions:
         chat_template = ChatPromptTemplate.from_messages(
             [
                 SystemMessage(content=doc.page_content),
-                HumanMessagePromptTemplate.from_template("{text}"),
+                HumanMessagePromptTemplate.from_template("Only respond with the answer. No full sentences. {text}"),
             ]
         )
         qa = model(chat_template.format_messages(text=question))
-        print(f"Question: {question}\nAnswer: {qa[0]['answer']}\n")
+        print(f"Question: {question}\nAnswer: {qa.content}\n")
+        
+   
 
 # # Use the function
 ask_questions_to_website('https://gio-law.com/')
