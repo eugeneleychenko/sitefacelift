@@ -7,7 +7,7 @@ Law.com)
 [ ![Company
 logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20155'%3E%3C/svg%3E)![Company
 logo](https://gio-law.com/wp-content/uploads/2021/08/Giordano-new-logo-white-
-transparent.png) ](/)
+transparent.webp) ](/)
 
   * [Home](https://gio-law.com/)
   * [Our Firm](https://gio-law.com/about-us/)
@@ -128,7 +128,7 @@ transparent.png) ](/)
 [ ![Company
 logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20155'%3E%3C/svg%3E)![Company
 logo](https://gio-law.com/wp-content/uploads/2021/04/Giordano-new-logo-white-
-transparent.png) ](/)
+transparent.webp) ](/)
 
 [Free Consultation](tel:\(646\)%20217-0749)
 
@@ -254,7 +254,8 @@ __ Next
 
 ![Gio Law
 Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20540%20367'%3E%3C/svg%3E)![Gio
-Law Logo](https://gio-law.com/wp-content/uploads/2023/01/Gio-Law-NYC-1.jpeg)
+Law Logo](https://gio-law.com/wp-content/uploads/2023/01/Gio-Law-
+NYC-1.jpeg.webp)
 
 # Personal Injury Law Firm New York
 
@@ -276,7 +277,7 @@ never charge you for an initial consultation. With Us, It’s Personal.
 ![Photo of lawyer and a
 client](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20958%20970'%3E%3C/svg%3E)![Photo
 of lawyer and a client](https://gio-law.com/wp-
-content/uploads/2021/06/Giordano-Law-Offices-Main-NYC-Office-v3-min.jpg)
+content/uploads/2021/06/Giordano-Law-Offices-Main-NYC-Office-v3-min.jpg.webp)
 
 ## CALL OR TEXT YOUR NEW YORK CITY PERSONAL INJURY LAWYERS NOW
 
@@ -297,7 +298,7 @@ content/uploads/2021/06/Giordano-Law-Offices-Main-NYC-Office-v3-min.jpg)
 [All Practice Areas](/practice-areas/)
 
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20619%20355'%3E%3C/svg%3E)![](https://gio-
-law.com/wp-content/uploads/2021/06/Group-4-min.png)
+law.com/wp-content/uploads/2021/06/Group-4-min.png.webp)
 
 Giordano Law Offices Personal Injury & Employment Lawyers is committed to
 helping people in need that have been injured or harmed as a result of
@@ -320,7 +321,7 @@ never stop working for you.
 ![Photo of the
 team](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20583'%3E%3C/svg%3E)![Photo
 of the team](https://gio-law.com/wp-content/uploads/2021/07/Meet-the-team-img-
-min.png)
+min.png.webp)
 
 ## Meet The Team
 
@@ -344,7 +345,7 @@ layout the options and we are always there for you when you need us.
 ![photo of lawyer
 working](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20470%20275'%3E%3C/svg%3E)![photo
 of lawyer working](https://gio-law.com/wp-
-content/uploads/2021/06/Untitled-17-5-min.png)
+content/uploads/2021/06/Untitled-17-5-min.png.webp)
 
 ### Excellent Track Record
 
@@ -354,7 +355,7 @@ clients. You won't find tougher advocates.
 ![Photo of
 Lawyers](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20460%20269'%3E%3C/svg%3E)![Photo
 of Lawyers](https://gio-law.com/wp-
-content/uploads/2021/07/Rectangle-116-7.png)
+content/uploads/2021/07/Rectangle-116-7.webp)
 
 ### Transparent Fees
 
@@ -365,7 +366,7 @@ obtaining a recovery for you.
 ![Photo of lawyer
 working](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20460%20269'%3E%3C/svg%3E)![Photo
 of lawyer working](https://gio-law.com/wp-
-content/uploads/2021/07/Rectangle-116-8.png)
+content/uploads/2021/07/Rectangle-116-8.png.webp)
 
 ### Unparalleled Customer Service
 
@@ -382,7 +383,7 @@ request form to Get a Free Consultation
 [See more reviews](/client-reviews/)
 
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20141%20141'%3E%3C/svg%3E)![](https://gio-
-law.com/wp-content/uploads/2021/06/157247-2.png)
+law.com/wp-content/uploads/2021/06/157247-2.png.webp)
 
 Even after the case we still keep in contact for any question that we still
 might have, for people who do not speak English I recommend him, he makes sure
@@ -392,7 +393,7 @@ Atriz RManhattan, New York
 
 ![Atriz
 R](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2060%2060'%3E%3C/svg%3E)![Atriz
-R](https://gio-law.com/wp-content/uploads/2021/06/atriz-rosario-1.png)
+R](https://gio-law.com/wp-content/uploads/2021/06/atriz-rosario-1.png.webp)
 
 When you go to their office you feel like you are home, they treat you like
 family, with empathy and professionalism; They are simply the best! I totally
@@ -405,7 +406,7 @@ Jesus Antonio M. Bronx, New York
 ![Jesus Antonio M.
 ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20200'%3E%3C/svg%3E)![Jesus
 Antonio M. ](https://gio-law.com/wp-content/uploads/2021/06/Jesus-Antionio-
-Mojica.jpeg)
+Mojica.jpeg.webp)
 
 Lenox Avenue attorney Carmen Giordano is honest, experienced, and determined
 to win. He and his staff consistently provide incredible customer service and
@@ -415,7 +416,8 @@ Daniel "Dapper Dan" Day Harlem, New York
 
 ![Daniel "Dapper Dan"
 Day](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20251%20193'%3E%3C/svg%3E)![Daniel
-"Dapper Dan" Day](https://gio-law.com/wp-content/uploads/2021/06/image-17.png)
+"Dapper Dan" Day](https://gio-law.com/wp-
+content/uploads/2021/06/image-17.png.webp)
 
 I went back to get help a second time. That’s about the best endorsement I can
 give. And I’ll call them them again if a need arises. I received not just a
@@ -427,7 +429,7 @@ Todd Ames New York
 
 ![Todd
 Ames](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20260%20260'%3E%3C/svg%3E)![Todd
-Ames](https://gio-law.com/wp-content/uploads/2021/06/Todd-Ames-1-1.jpg)
+Ames](https://gio-law.com/wp-content/uploads/2021/06/Todd-Ames-1-1.jpg.webp)
 
 I cannot recommend Giordano Law Offices Personal Injury & Employment Lawyers
 enough. Jack and Stefanie did an incredible job in navigating a particularly
@@ -439,7 +441,7 @@ Kirsten Jamieson New York
 ![Kirsten
 Jamieson](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20250%20250'%3E%3C/svg%3E)![Kirsten
 Jamieson](https://gio-law.com/wp-content/uploads/2021/06/Kirsten-
-Jamieson-1.jpg)
+Jamieson-1.jpg.webp)
 
 I was working with Carmen Jack Giordano and Stefani on my case. They were both
 incredibly prompt to answer any questions I had, helped me along the way the
@@ -449,7 +451,8 @@ Jessi Aylward New York
 
 ![Jessi
 Aylward](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20250%20250'%3E%3C/svg%3E)![Jessi
-Aylward](https://gio-law.com/wp-content/uploads/2021/06/Jessi-Aylward-1.jpg)
+Aylward](https://gio-law.com/wp-content/uploads/2021/06/Jessi-
+Aylward-1.jpg.webp)
 
 After reading reviews and Carmen coming to my area of the neighborhood since I
 was in pain from the accident I chose their law services to work with as a
@@ -462,7 +465,8 @@ Miss Memphis New York
 
 ![Miss
 Memphis](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20260%20260'%3E%3C/svg%3E)![Miss
-Memphis](https://gio-law.com/wp-content/uploads/2021/06/Miss-Memphis-1.jpg)
+Memphis](https://gio-law.com/wp-content/uploads/2021/06/Miss-
+Memphis-1.jpg.webp)
 
 Jack was extremely attentive and provided great advice for my case. He was
 available and able to answer any questions I had. I was impressed by his
@@ -474,7 +478,7 @@ Cara Snower New York
 ![Cara
 Snower](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20325'%3E%3C/svg%3E)![Cara
 Snower](https://gio-law.com/wp-content/uploads/2021/06/Giordano-Law-team-fm-
-pic-gradient-bg.jpg)
+pic-gradient-bg.jpg.webp)
 
 Jack and the team were amazing. I had a complicated situation and they made it
 simple and seamless on my end. I would highly recommend Jack and the folks at
@@ -485,7 +489,7 @@ Will Bernard New York
 ![Will
 Bernard](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20260%20260'%3E%3C/svg%3E)![Will
 Bernard](https://gio-law.com/wp-content/uploads/2021/06/Will-
-Bernard-260px-1.jpg)
+Bernard-260px-1.jpg.webp)
 
 Carmen was absolutely wonderful to work with. He was truly honest and I never
 felt taken advantage of. I can't recommend this law office and Carmen enough.
@@ -494,7 +498,8 @@ Jaime Oliver New York
 
 ![Jaime
 Oliver](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20260%20260'%3E%3C/svg%3E)![Jaime
-Oliver](https://gio-law.com/wp-content/uploads/2021/06/Jaime-Oliver-1.jpg)
+Oliver](https://gio-law.com/wp-content/uploads/2021/06/Jaime-
+Oliver-1.jpg.webp)
 
 __ Previous
 
@@ -506,7 +511,7 @@ that the person in the case understands everything that happens in their case
 
 ![Atriz
 R](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2060%2060'%3E%3C/svg%3E)![Atriz
-R](https://gio-law.com/wp-content/uploads/2021/06/atriz-rosario-1.png)
+R](https://gio-law.com/wp-content/uploads/2021/06/atriz-rosario-1.png.webp)
 
 Atriz RManhattan, New York
 
@@ -519,7 +524,7 @@ offices!
 ![Jesus Antonio M.
 ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20200'%3E%3C/svg%3E)![Jesus
 Antonio M. ](https://gio-law.com/wp-content/uploads/2021/06/Jesus-Antionio-
-Mojica.jpeg)
+Mojica.jpeg.webp)
 
 Jesus Antonio M. Bronx, New York
 
@@ -529,7 +534,8 @@ a solid commitment to serving the Harlem community.
 
 ![Daniel "Dapper Dan"
 Day](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20251%20193'%3E%3C/svg%3E)![Daniel
-"Dapper Dan" Day](https://gio-law.com/wp-content/uploads/2021/06/image-17.png)
+"Dapper Dan" Day](https://gio-law.com/wp-
+content/uploads/2021/06/image-17.png.webp)
 
 Daniel "Dapper Dan" Day Harlem, New York
 
@@ -541,7 +547,7 @@ situation.
 
 ![Todd
 Ames](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20260%20260'%3E%3C/svg%3E)![Todd
-Ames](https://gio-law.com/wp-content/uploads/2021/06/Todd-Ames-1-1.jpg)
+Ames](https://gio-law.com/wp-content/uploads/2021/06/Todd-Ames-1-1.jpg.webp)
 
 Todd Ames New York
 
@@ -553,7 +559,7 @@ expected...
 ![Kirsten
 Jamieson](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20250%20250'%3E%3C/svg%3E)![Kirsten
 Jamieson](https://gio-law.com/wp-content/uploads/2021/06/Kirsten-
-Jamieson-1.jpg)
+Jamieson-1.jpg.webp)
 
 Kirsten Jamieson New York
 
@@ -563,7 +569,8 @@ whole time, and did a great job. Highly recommend this law office.
 
 ![Jessi
 Aylward](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20250%20250'%3E%3C/svg%3E)![Jessi
-Aylward](https://gio-law.com/wp-content/uploads/2021/06/Jessi-Aylward-1.jpg)
+Aylward](https://gio-law.com/wp-content/uploads/2021/06/Jessi-
+Aylward-1.jpg.webp)
 
 Jessi Aylward New York
 
@@ -576,7 +583,8 @@ and fast as possible.
 
 ![Miss
 Memphis](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20260%20260'%3E%3C/svg%3E)![Miss
-Memphis](https://gio-law.com/wp-content/uploads/2021/06/Miss-Memphis-1.jpg)
+Memphis](https://gio-law.com/wp-content/uploads/2021/06/Miss-
+Memphis-1.jpg.webp)
 
 Miss Memphis New York
 
@@ -588,7 +596,7 @@ initial intake. I'll be recommending Jack to others!
 ![photo of a
 person](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20325'%3E%3C/svg%3E)![photo
 of a person](https://gio-law.com/wp-content/uploads/2021/06/Giordano-Law-team-
-fm-pic-gradient-bg.jpg)
+fm-pic-gradient-bg.jpg.webp)
 
 Cara Snower New York
 
@@ -599,7 +607,7 @@ Giordano Law!
 ![Will
 Bernard](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20260%20260'%3E%3C/svg%3E)![Will
 Bernard](https://gio-law.com/wp-content/uploads/2021/06/Will-
-Bernard-260px-1.jpg)
+Bernard-260px-1.jpg.webp)
 
 Will Bernard New York
 
@@ -608,7 +616,8 @@ felt taken advantage of. I can't recommend this law office and Carmen enough.
 
 ![Jaime
 Oliver](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20260%20260'%3E%3C/svg%3E)![Jaime
-Oliver](https://gio-law.com/wp-content/uploads/2021/06/Jaime-Oliver-1.jpg)
+Oliver](https://gio-law.com/wp-content/uploads/2021/06/Jaime-
+Oliver-1.jpg.webp)
 
 Jaime Oliver New York
 
@@ -618,7 +627,7 @@ __ Next
 
 [
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20450%20108'%3E%3C/svg%3E)![](https://gio-
-law.com/wp-content/uploads/2021/06/google-reviews-2-1.png)
+law.com/wp-content/uploads/2021/06/google-reviews-2-1.png.webp)
 ](https://www.google.com/search?q=giordano+law+offices+new+york&oq=Giordano+la&aqs=chrome.0.69i59j69i57j69i59j0i20i263j0j69i61j69i60l2.4433j0j7&sourceid=chrome&ie=UTF-8#lrd=0x89c2f60df2f1a067:0xdaff7af06a59e1c9,1)
 
 ## Trusted
@@ -630,7 +639,7 @@ See more reviews
 ![New York Personal
 Injury](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20141%20141'%3E%3C/svg%3E)![New
 York Personal Injury](https://gio-law.com/wp-
-content/uploads/2021/05/157247-2.png)
+content/uploads/2021/05/157247-2.png.webp)
 
 When you go to their office you feel like you are home, they treat you like
 family, with empathy and professionalism; They are simply the best! I totally
@@ -641,7 +650,7 @@ offices!
 ![Jesus Antonio M.
 ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)![Jesus
 Antonio M. ](https://gio-law.com/wp-content/uploads/2021/05/Jesus-Antionio-
-Mojica-1-150x150.jpeg)
+Mojica-1-150x150.jpeg.webp)
 
 Jesus Antonio M. Bronx, New York
 
@@ -651,7 +660,7 @@ that the person in the case understands everything that happens in their case
 
 ![Atriz
 R](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2060%2060'%3E%3C/svg%3E)![Atriz
-R](https://gio-law.com/wp-content/uploads/2021/05/atriz-rosario.png)
+R](https://gio-law.com/wp-content/uploads/2021/05/atriz-rosario.png.webp)
 
 Atriz RManhattan, New York
 
@@ -662,7 +671,7 @@ a solid commitment to serving the Harlem community.
 ![Daniel "Dapper Dan"
 Day](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)![Daniel
 "Dapper Dan" Day](https://gio-law.com/wp-content/uploads/2021/05/dapper-dan-
-harlem-biopic-movie-150x150.jpg)
+harlem-biopic-movie-150x150.jpg.webp)
 
 Daniel "Dapper Dan" Day Harlem, New York
 
@@ -673,7 +682,7 @@ __ Next
 ![New York Personal
 Injury](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20450%20108'%3E%3C/svg%3E)![New
 York Personal Injury](https://gio-law.com/wp-content/uploads/2021/05/google-
-reviews-2-1.png)
+reviews-2-1.png.webp)
 
 ## Case Results
 
@@ -703,7 +712,7 @@ clients and we stop at nothing to get a recovery and justice for our clients.
 ![New York Personal
 Injury](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%20102'%3E%3C/svg%3E)![New
 York Personal Injury](https://gio-law.com/wp-
-content/uploads/2021/04/Rectangle-216.png)
+content/uploads/2021/04/Rectangle-216.png.webp)
 
 ## $1M
 
@@ -716,7 +725,7 @@ content/uploads/2021/04/Rectangle-216.png)
 ![New York Personal
 Injury](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%20102'%3E%3C/svg%3E)![New
 York Personal Injury](https://gio-law.com/wp-
-content/uploads/2021/04/Rectangle-216.png)
+content/uploads/2021/04/Rectangle-216.png.webp)
 
 ## $2.7M
 
@@ -729,7 +738,7 @@ content/uploads/2021/04/Rectangle-216.png)
 ![New York Personal
 Injury](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%20102'%3E%3C/svg%3E)![New
 York Personal Injury](https://gio-law.com/wp-
-content/uploads/2021/04/Rectangle-216.png)
+content/uploads/2021/04/Rectangle-216.png.webp)
 
 ## contact us
 
@@ -746,7 +755,7 @@ Your Message Has Not been sent. Try again later.
 ![Company
 logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20155'%3E%3C/svg%3E)![Company
 logo](https://gio-law.com/wp-content/uploads/2021/04/Giordano-new-logo-white-
-transparent.png)
+transparent.webp)
 
 Main Office:
 
@@ -800,7 +809,7 @@ Service Areas:
 ![Company
 logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20155'%3E%3C/svg%3E)![Company
 logo](https://gio-law.com/wp-content/uploads/2021/04/Giordano-new-logo-white-
-transparent.png)
+transparent.webp)
 
 [(646) 217-0749](tel:\(646\)%20217-0749)
 

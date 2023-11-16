@@ -1,0 +1,106 @@
+Question,Answer,QuestionArr
+return the CTA which usually phrases like 'to call or text the contact number for a consultation'.,Call or Text Now (646) 217-0749,paragraph
+"
+        "" Find 3 advantages that sets this firm apart. organize it in this way {
+            ""title"": 3-4 word title of the advantage,
+            ""content"": 2 sentences talking about the advantage.
+            }
+        
+        ","{
+    ""title"": ""Excellent Track Record"",
+    ""content"": ""The award-winning attorneys at the firm have recovered over $20 Million dollars for clients. They are recognized for their legal acumen and success across multiple practice areas.""
+},
+{
+    ""title"": ""Transparent Fees"",
+    ""content"": ""Consultations are always free, and personal injury cases are taken on a contingency basis. Clients are not charged until a successful recovery is obtained.""
+},
+{
+    ""title"": ""Unparalleled Customer Service"",
+    ""content"": ""Clients are treated like family with unparalleled access to attorneys. The firm is available 24/7 for client needs.""
+}",detailsData
+What is the address of this firm?,"226 Malcolm X Blvd, New York, NY 10027",address
+What is the phone number of this firm?,(646) 217-0749,phoneNumber
+What is the contact email of this firm?,Info@Gio-Law.com,email
+"In an array, return in UPPERCASE the navigation items of this site.","[""HOME"", ""OUR FIRM"", ""PERSONAL INJURY LAW"", ""EMPLOYMENT LAW & TITLE IX"", ""RESULTS"", ""CONTACT"", ""ESPAÑOL""]",linkNames
+What is the name of this company?,Giordano Law Offices Personal Injury & Employment Lawyers,companyName
+What is the subheading of this company?,Seasoned Tough Advocates,subHeading
+"Near the top of the site, there will a paragraph description about this firm, return it.","Giordano Law Offices Personal Injury & Employment Lawyers is an award winning Harlem-based New York City law firm specializing in Personal Injury, Civil Rights, and Employment Litigation. Giordano Law continues to win awards like Super Lawyers year after year because of our experience and high-level of care for our clients. Over decades, our top rated firm has recovered millions of dollars for clients. 
+
+For injury and some employment cases, you will not have to pay a fee unless we are successful and get a recovery for you. Call or text us today, we will never charge you for an initial consultation. With Us, It’s Personal.",valueProp
+What is the CTA close to the top of the site?,start your Free Consultation,CTA
+"Return 9 practice areas of this law firm, in an array.","[
+  ""Personal Injury"",
+  ""Employment Law & Title IX"",
+  ""Civil Rights"",
+  ""Discrimination"",
+  ""Sexual Harassment"",
+  ""Wrongful Termination"",
+  ""General Litigation"",
+  ""Wrongful Death"",
+  ""Entertainment""
+]",topics
+"
+        ( Return, in an array of objects, 4 names of lawyers and their titles. For example [
+            {
+                name: ""Carmen 'Jack' Giordano, Esq."",
+                position: ""Principal Attorney"",
+            },
+            {
+                name: ""Stefanie Behler Soriano, Esq."",
+                position: ""Associate Attorney"",
+            }]
+        
+        ","```json
+[
+    {
+        ""name"": ""Carmen “Jack” Giordano"",
+        ""position"": ""N/A""
+    },
+    {
+        ""name"": ""Stefanie Behler Soriano"",
+        ""position"": ""N/A""
+    },
+    {
+        ""name"": ""Brian T. Robinson"",
+        ""position"": ""N/A""
+    },
+    {
+        ""name"": ""Toni Marie Angeli"",
+        ""position"": ""N/A""
+    }
+]
+```",members
+ When is the firm open?,"Monday to Friday: 10.00 AM – 8.00 PM
+Saturday: Closed
+Sunday: Closed",openHours
+"
+          Return 3 testimonials from this site. They should be in an array of objects, including text, author, location. For example """"[
+            {
+                text: ""Carmen was absolutely wonderful to work with. He was truly honest and I never felt taken advantage of. I can't recommend this law office and Carmen enough."",
+                author: ""Jaime Oliver"",
+                location: ""New York"",
+            },
+            {
+                text: ""Even after the case we still keep in contact for any question that we still might have, for people who do not speak English I recommend him, he makes sure that the person in the case understands everything that happens in their case."",
+                author: ""Atriz R"",
+                location: ""Manhattan, New York"",
+            }]""
+        ","```json
+[
+    {
+        ""text"": ""Even after the case we still keep in contact for any question that we still might have, for people who do not speak English I recommend him, he makes sure that the person in the case understands everything that happens in their case"",
+        ""author"": ""Atriz R"",
+        ""location"": ""Manhattan, New York""
+    },
+    {
+        ""text"": ""When you go to their office you feel like you are home, they treat you like family, with empathy and professionalism; They are simply the best! I totally recommend this law firm. If you need reliable, experienced, and professional representation in your case, this is the right place to come, Giordano Law offices!"",
+        ""author"": ""Jesus Antonio M."",
+        ""location"": ""Bronx, New York""
+    },
+    {
+        ""text"": ""Lenox Avenue attorney Carmen Giordano is honest, experienced, and determined to win. He and his staff consistently provide incredible customer service and a solid commitment to serving the Harlem community."",
+        ""author"": ""Daniel \""Dapper Dan\"" Day"",
+        ""location"": ""Harlem, New York""
+    }
+]
+```",testimonalData

@@ -9,6 +9,7 @@ import html2text
 import requests
 import openai
 import csv
+import json
 
 load_dotenv()
 
@@ -43,38 +44,94 @@ def ask_questions_to_website(url):
     model = ChatOpenAI(temperature=0, model="gpt-4-1106-preview")
     
     # Define the questions
+    questionsArr = [
+                    "paragraph","detailsData", "address", 
+                    "phoneNumber", "email", "linkNames", 
+                    "companyName", "subHeading", "valueProp", "CTA",
+                    "topics", "members", "openHours", "testimonalData"
+                    
+                    ]
     questions = [
         "return the CTA which usually phrases like 'to call or text the contact number for a consultation'.",
-        "Find 3 advantages that sets this firm apart.",
-        "what is the address of this firm?",
+        """
+        " Find 3 advantages that sets this firm apart. organize it in this way {
+            "title": 3-4 word title of the advantage,
+            "content": 2 sentences talking about the advantage.
+            }
+        
+        """,
+        "What is the address of this firm?",
         "What is the phone number of this firm?",
         "What is the contact email of this firm?",
-        "In an array, return the navigation items of this site.",
+        "In an array, return in UPPERCASE the navigation items of this site.",
         "What is the name of this company?",
         "What is the subheading of this company?",
         "Near the top of the site, there will a paragraph description about this firm, return it.",
         "What is the CTA close to the top of the site?",
         "Return 9 practice areas of this law firm, in an array.",
-        "Return, in an array of objects, 4 names of lawyers and their titles.",
-        "What is the firm open?",
-        "What is the phone number of this firm?",
-        "Return 3 testimonials from this site.",
-        "Return 9 practice areas of this law firm, in an array."
+        """
+        ( Return, in an array of objects, 4 names of lawyers and their titles. For example [
+            {
+                name: "Carmen 'Jack' Giordano, Esq.",
+                position: "Principal Attorney",
+            },
+            {
+                name: "Stefanie Behler Soriano, Esq.",
+                position: "Associate Attorney",
+            }]
+        
+        """,
+        " When is the firm open?",
+        
+        """
+          Return 3 testimonials from this site. They should be in an array of objects, including text, author, location. For example ""[
+            {
+                text: "Carmen was absolutely wonderful to work with. He was truly honest and I never felt taken advantage of. I can't recommend this law office and Carmen enough.",
+                author: "Jaime Oliver",
+                location: "New York",
+            },
+            {
+                text: "Even after the case we still keep in contact for any question that we still might have, for people who do not speak English I recommend him, he makes sure that the person in the case understands everything that happens in their case.",
+                author: "Atriz R",
+                location: "Manhattan, New York",
+            }]"
+        """
     ]
     # questions =  "return the CTA which usually phrases like 'to call or text the contact number for a consultation'.",
 
     # Run the chain for each question and print the results
-    for question in questions:
+    results = []
+    for i, question in enumerate(questions):
         chat_template = ChatPromptTemplate.from_messages(
             [
                 SystemMessage(content=doc.page_content),
-                HumanMessagePromptTemplate.from_template("Only respond with the answer. No full sentences. {text}"),
+                HumanMessagePromptTemplate.from_template("""Only respond with the answer. No full sentences.
+                                                         If it doesn't exists say 'N/A'. 
+                                                          {text}"""),
             ]
         )
         qa = model(chat_template.format_messages(text=question))
+        results.append((question, qa.content, questionsArr[i]))
         print(f"Question: {question}\nAnswer: {qa.content}\n")
         
-   
+    # Create a CSV file with the questions and answers
+    with open('qa_results.csv', 'w', newline='', encoding='utf-8') as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerow(['Question', 'Answer', 'QuestionArr'])
+        for i, result in enumerate(results):
+            writer.writerow([result[0], result[1], result[2]])
+
+# Create a JSON file with the questions and answers
+    with open('/Users/eugeneleychenko/Downloads/sfl/sitefacelift/src/data1.json', 'w', encoding='utf-8') as jsonfile:
+        json_results = {}
+        for q, (_, a, _) in zip(questionsArr, results):
+            if isinstance(a, str) and (a.startswith('{') or a.startswith('[')):
+                try:
+                    a = json.loads(a.replace('}{', '},{'))
+                except json.JSONDecodeError:
+                    pass
+            json_results[q] = a
+        json.dump(json_results, jsonfile, indent=4)
 
 # # Use the function
 ask_questions_to_website('https://gio-law.com/')
