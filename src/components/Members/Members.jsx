@@ -20,7 +20,7 @@ function Members() {
             <div className={styles.cardContentDiv}>
               <div className={styles.cardContent}>
                 <h2>{item.name}</h2>
-                <p>{item.position}</p>
+                {item.position !== "n/a" && <p>{item.position}</p>}
               </div>
             </div>
           </div>
