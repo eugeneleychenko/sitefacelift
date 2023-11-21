@@ -1,5 +1,5 @@
 Question,Answer,QuestionArr
-return the CTA which usually phrases like 'to call or text the contact number for a consultation'.,Call or Text Now (646) 217-0749,paragraph
+return the CTA which usually phrases like 'to call or text the contact number for a consultation'.,Call Now (212) 729-4090,paragraph
 "
         "" Find 3 advantages that sets this firm apart. organize it in this way {
             ""title"": 3-4 word title of the advantage,
@@ -7,38 +7,26 @@ return the CTA which usually phrases like 'to call or text the contact number fo
             }
         
         ","{
-    ""title"": ""Excellent Track Record"",
-    ""content"": ""The award-winning attorneys at the firm have recovered over $20 Million dollars for clients. They are recognized for their legal acumen and success across multiple practice areas.""
+    ""title"": ""Digital Innovation"",
+    ""content"": ""Avenue Law Firm prides itself on innovation, serving clients entirely digitally. They utilize technology and forward-thinking to provide the best possible experience.""
 },
 {
-    ""title"": ""Transparent Fees"",
-    ""content"": ""Consultations are always free, and personal injury cases are taken on a contingency basis. Clients are not charged until a successful recovery is obtained.""
+    ""title"": ""Comprehensive Support"",
+    ""content"": ""The firm assists with real estate transactions from beginning to end. They are dedicated to guiding clients through every step of the buying or selling process.""
 },
 {
-    ""title"": ""Unparalleled Customer Service"",
-    ""content"": ""Clients are treated like family with unparalleled access to attorneys. The firm is available 24/7 for client needs.""
+    ""title"": ""Diverse Expertise"",
+    ""content"": ""Avenue Law Firm has expertise in a wide range of legal areas including real estate, business law, and insurance litigation. Their team is equipped to handle complex legal matters across various sectors.""
 }",detailsData
-What is the address of this firm?,"226 Malcolm X Blvd, New York, NY 10027",address
-What is the phone number of this firm?,(646) 217-0749,phoneNumber
-What is the contact email of this firm?,Info@Gio-Law.com,email
-"In an array, return in UPPERCASE the navigation items of this site.","[""HOME"", ""OUR FIRM"", ""PERSONAL INJURY LAW"", ""EMPLOYMENT LAW & TITLE IX"", ""RESULTS"", ""CONTACT"", ""ESPAÑOL""]",linkNames
-What is the name of this company?,Giordano Law Offices Personal Injury & Employment Lawyers,companyName
-What is the subheading of this company?,Seasoned Tough Advocates,subHeading
-"Near the top of the site, there will a paragraph description about this firm, return it.","Giordano Law Offices Personal Injury & Employment Lawyers is an award winning Harlem-based New York City law firm specializing in Personal Injury, Civil Rights, and Employment Litigation. Giordano Law continues to win awards like Super Lawyers year after year because of our experience and high-level of care for our clients. Over decades, our top rated firm has recovered millions of dollars for clients. 
-
-For injury and some employment cases, you will not have to pay a fee unless we are successful and get a recovery for you. Call or text us today, we will never charge you for an initial consultation. With Us, It’s Personal.",valueProp
-What is the CTA close to the top of the site?,start your Free Consultation,CTA
-"Return 9 practice areas of this law firm, in an array.","[
-  ""Personal Injury"",
-  ""Employment Law & Title IX"",
-  ""Civil Rights"",
-  ""Discrimination"",
-  ""Sexual Harassment"",
-  ""Wrongful Termination"",
-  ""General Litigation"",
-  ""Wrongful Death"",
-  ""Entertainment""
-]",topics
+What is the address of this firm?,"99 Park Avenue, 10th Floor, New York, NY 10016",address
+What is the phone number of this firm?,(212) 729-4090,phoneNumber
+What is the contact email of this firm?,N/A,email
+"In an array, return in UPPERCASE the navigation items of this site. If the markdown contains several levels, only return the highest level.","[""REAL ESTATE"", ""BUSINESS LAW"", ""INSURANCE LITIGATION"", ""ABOUT"", ""RESOURCES"", ""CONTACT""]",linkNames
+What is the name of this company?,Avenue Law Firm,companyName
+What is the subheading of this company?,N/A,subHeading
+"Near the top of the site, there will a paragraph description about this firm, return it.","When searching for a home, many people think of hiring only a real estate agent. While people in this profession can greatly help with your housing search or sale, they aren’t the only experts you want on your team. The buying and selling of homes is a serious legal transaction, and it is easy to get stuck in a bad contract or pay more in a mortgage than you need to. Additionally, local laws can make real estate transactions complicated, and agents don’t always know the intricacies of the laws. This is why having a real estate law firm on your side is a good idea.",valueProp
+What is the CTA close to the top of the site?,Call Now (212) 729-4090,CTA
+"Return 9 practice areas of this law firm, in an array.","[""Real Estate"", ""Residential Real Estate"", ""Business Law"", ""Insurance Litigation"", ""Tech Startups Law"", ""International Client Services"", ""Insurance Law"", ""Personal Injury"", ""Commercial Real Estate""]",topics
 "
         ( Return, in an array of objects, 4 names of lawyers and their titles. For example [
             {
@@ -53,26 +41,24 @@ What is the CTA close to the top of the site?,start your Free Consultation,CTA
         ","```json
 [
     {
-        ""name"": ""Carmen “Jack” Giordano"",
-        ""position"": ""N/A""
+        ""name"": ""Peter Zinkovetsky, Esq."",
+        ""position"": ""Managing Partner""
     },
     {
-        ""name"": ""Stefanie Behler Soriano"",
-        ""position"": ""N/A""
+        ""name"": ""Anna Boudakova, Esq."",
+        ""position"": ""Senior Associate""
     },
     {
-        ""name"": ""Brian T. Robinson"",
-        ""position"": ""N/A""
+        ""name"": ""Carla González, JD"",
+        ""position"": ""Office Manager""
     },
     {
-        ""name"": ""Toni Marie Angeli"",
-        ""position"": ""N/A""
+        ""name"": ""Anna Rovenskaya, Esq."",
+        ""position"": ""Senior Associate""
     }
 ]
 ```",members
- When is the firm open?,"Monday to Friday: 10.00 AM – 8.00 PM
-Saturday: Closed
-Sunday: Closed",openHours
+ When is the firm open?,N/A,openHours
 "
           Return 3 testimonials from this site. They should be in an array of objects, including text, author, location. For example """"[
             {
@@ -88,19 +74,19 @@ Sunday: Closed",openHours
         ","```json
 [
     {
-        ""text"": ""Even after the case we still keep in contact for any question that we still might have, for people who do not speak English I recommend him, he makes sure that the person in the case understands everything that happens in their case"",
-        ""author"": ""Atriz R"",
-        ""location"": ""Manhattan, New York""
+        ""text"": ""Peter is an absolute professional who takes pride in what he does, communicates effectively and promptly, and genuinely cares about his clients. We feel very fortunate to have worked with Petro to close on our apartment in Manhattan. He led us through the process and has even taken the time to answer our questions after deal closing. He provides excellent legal services at a very reasonable price. Highly recommend him and his team."",
+        ""author"": ""Marra A"",
+        ""location"": ""N/A""
     },
     {
-        ""text"": ""When you go to their office you feel like you are home, they treat you like family, with empathy and professionalism; They are simply the best! I totally recommend this law firm. If you need reliable, experienced, and professional representation in your case, this is the right place to come, Giordano Law offices!"",
-        ""author"": ""Jesus Antonio M."",
-        ""location"": ""Bronx, New York""
+        ""text"": ""This firm went above and beyond to secure a real estate contract for us. They were so detail oriented and added beneficial clauses that I did not know existed. It really left me feeling a strong sense of security with the contract. I will absolutely be using them again."",
+        ""author"": ""George P"",
+        ""location"": ""N/A""
     },
     {
-        ""text"": ""Lenox Avenue attorney Carmen Giordano is honest, experienced, and determined to win. He and his staff consistently provide incredible customer service and a solid commitment to serving the Harlem community."",
-        ""author"": ""Daniel \""Dapper Dan\"" Day"",
-        ""location"": ""Harlem, New York""
+        ""text"": ""Peter Zinkovetsky is my go-to attorney for all my real estate needs! This year we used his law firm for two real estate transactions (NYC and Hamptons) and couldn’t be happier. The entire team is extremely responsive, knowledgeable, and super easy to work with. Look no further!"",
+        ""author"": ""Igor B."",
+        ""location"": ""N/A""
     }
 ]
 ```",testimonalData

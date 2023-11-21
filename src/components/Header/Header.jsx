@@ -26,7 +26,7 @@ const Header = () => {
             <RxCross2 />
           </div>
         </div>
-        <ul className={styles.menuItems}>
+        <ul className={styles.menuItems} style={{ gap: `${5700 / linkNames.join('').length}px` }}>
           {linkNames.map((item, index) => (
             <li key={index}>
               <Link>{item}</Link>

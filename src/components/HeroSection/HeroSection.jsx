@@ -47,7 +47,7 @@ function HeroSection() {
           <img src={slide1} alt="Slider 1" className={styles.sliderImage} />
           <div className={styles.sliderContent}>
             <h1>{companyName}</h1>
-            <h2>{subHeading}</h2>
+            {subHeading !== "N/A" && <h2>{subHeading}</h2>}
             {/* <img src={signature} alt="Slider Signature" /> */}
           </div>
         </SwiperSlide>
@@ -56,14 +56,14 @@ function HeroSection() {
           <div className={styles.sliderContent}>
             <h1 data-aos="fade-up">{companyName}</h1>
             {/* <img src={signature} alt="Slider Signature" /> */}
-            <h2 data-aos="fade-up">{subHeading}</h2>
+            {subHeading !== "N/A" && <h2 data-aos="fade-up">{subHeading}</h2>}
           </div>
         </SwiperSlide>
         <SwiperSlide className={styles.slide}>
           <img src={slide3} alt="Slider 3" className={styles.sliderImage} />
           <div className={styles.sliderContent}>
             <h1 data-aos="fade-up">{companyName}</h1>
-            <h2 data-aos="fade-up">{subHeading}</h2>
+            {subHeading !== "N/A" && <h2 data-aos="fade-up">{subHeading}</h2>}
             {/* <img src={signature} alt="Slider Signature" /> */}
           </div>
         </SwiperSlide>

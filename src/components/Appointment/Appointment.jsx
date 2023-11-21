@@ -18,7 +18,7 @@ function Appointment() {
         decoding="async"
       />
       <h1>The Right Approach To Your Legal Problem</h1>
-      <p>{paragraph}</p>
+      {paragraph !== "N/A" && <p>{paragraph}</p>}
       <button className="btn">REQUEST APPOINTMENT</button>
     </div>
   );

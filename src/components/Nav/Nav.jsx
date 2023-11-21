@@ -10,8 +10,9 @@ function Nav() {
   return (
     <nav className={styles.nav}>
       <div className={styles.navLeft}>
-        <span>{openHours}</span> • {"  "}
-        <a href={`tel:${phoneNumber}`}>{phoneNumber}</a>
+        {openHours !== "N/A" && <span>{openHours}</span>}
+        {openHours !== "N/A" && phoneNumber !== "N/A" && " • "}
+        {phoneNumber !== "N/A" && <a href={`tel:${phoneNumber}`}>{phoneNumber}</a>}
       </div>
       <div className={styles.navRight}>
         <Link to={"#"}>Our Attorneys</Link>•<Link to={"#"}>FAQ</Link>•

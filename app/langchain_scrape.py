@@ -10,38 +10,46 @@ import requests
 import openai
 import csv
 import json
+import os
+
+
 
 load_dotenv()
 
-def ask_questions_to_website(url):
-    # print(openai.__file__)
-    # Load the website content
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
-    response = requests.get(url, headers=headers)
-    html = response.text
+def ask_questions_to_website(urls):
+    markdown_files = []
+    for url in urls:
+        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
+        response = requests.get(url, headers=headers)
+        html = response.text
 
-    # Create an html2text.HTML2Text object and override some properties
-    h = html2text.HTML2Text()
-    h.ignore_links = False
+        h = html2text.HTML2Text()
+        h.ignore_links = True  # Set to True to ignore links
+        markdown = h.handle(html)
 
-    # Convert the HTML to Markdown
-    markdown = h.handle(html)
-    # print(markdown)
+        def save_markdown_to_file(markdown, filename):
+            with open(filename, 'w', encoding='utf-8') as f:
+                f.write(markdown)
+            return filename
+
+        markdown_file = save_markdown_to_file(markdown, f'{url.replace("/", "_")}.md')
+        markdown_files.append(markdown_file)
     
-    def save_markdown_to_file(markdown, filename):
-        with open(filename, 'w', encoding='utf-8') as f:
-            f.write(markdown)
 
-# Save the markdown content to a file
-    save_markdown_to_file(markdown, 'site.md')
+# Then load all the markdown files
+    loaders = [TextLoader(file) for file in markdown_files]
+    docs = [loader.load() for loader in loaders]
+    page_contents = []
+    for doc in docs:
+        for item in doc:
+            page_contents.append(item.page_content)
 
-# Then load the markdown file
-    loader = TextLoader('site.md')
-    doc = loader.load()[0]
-    # print(doc.page_content)
+    all_page_content = " ".join(page_contents)
+    print(all_page_content)
 
     # Initialize the QAGenerationChain
     model = ChatOpenAI(temperature=0, model="gpt-4-1106-preview")
+    # model = ChatOpenAI(temperature=0, model="gpt-3.5-turbo-1106")
     
     # Define the questions
     questionsArr = [
@@ -63,7 +71,7 @@ def ask_questions_to_website(url):
         "What is the address of this firm?",
         "What is the phone number of this firm?",
         "What is the contact email of this firm?",
-        "In an array, return in UPPERCASE the navigation items of this site.",
+        "In an array, return in UPPERCASE the navigation items of this site. If the markdown contains several levels, only return the highest level.",
         "What is the name of this company?",
         "What is the subheading of this company?",
         "Near the top of the site, there will a paragraph description about this firm, return it.",
@@ -104,7 +112,7 @@ def ask_questions_to_website(url):
     for i, question in enumerate(questions):
         chat_template = ChatPromptTemplate.from_messages(
             [
-                SystemMessage(content=doc.page_content),
+                SystemMessage(content=all_page_content),
                 HumanMessagePromptTemplate.from_template("""Only respond with the answer. No full sentences.
                                                          If it doesn't exists say 'N/A'. 
                                                           {text}"""),
@@ -122,7 +130,12 @@ def ask_questions_to_website(url):
             writer.writerow([result[0], result[1], result[2]])
 
 # Create a JSON file with the questions and answers
-    with open('/Users/eugeneleychenko/Downloads/sfl/sitefacelift/src/data1.json', 'w', encoding='utf-8') as jsonfile:
+    
+    
+    company_name = url.split('www.')[-1].split('.com')[0] + '.com'
+    directory = f'/Users/eugeneleychenko/Downloads/sfl/sitefacelift/src/data/{company_name}'
+    os.makedirs(directory, exist_ok=True)
+    with open(f'{directory}/data.json', 'w', encoding='utf-8') as jsonfile:
         json_results = {}
         for q, (_, a, _) in zip(questionsArr, results):
             if isinstance(a, str) and (a.startswith('{') or a.startswith('[')):
@@ -134,4 +147,5 @@ def ask_questions_to_website(url):
         json.dump(json_results, jsonfile, indent=4)
 
 # # Use the function
-ask_questions_to_website('https://gio-law.com/')
+urls = [ 'https://www.avenuelawfirm.com/team/','https://www.avenuelawfirm.com/about/', 'https://www.avenuelawfirm.com/']
+ask_questions_to_website(urls)

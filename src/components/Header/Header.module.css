@@ -28,7 +28,8 @@
   align-items: center;
   /* gap: 75px; */
   color: #fff;
-  justify-content: space-between;
+  /* justify-content: space-between; */
+  justify-content: space-evenly; /* or space-evenly */
   padding: 0;
   margin: 0;
   list-style-type: none;
@@ -43,7 +44,8 @@
   font-weight: 600;
   letter-spacing: 2px;
   position: relative;
-  margin: 0 37.5px; /* Half of the previous gap to distribute it evenly on both sides */
+  /* margin: 0 37.5px; Half of the previous gap to distribute it evenly on both sides */
+  margin: 0; /* Half of the previous gap to distribute it evenly on both sides */
   &:hover {
     &::before {
       opacity: 1;

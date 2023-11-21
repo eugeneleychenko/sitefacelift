@@ -12,20 +12,21 @@ function Members() {
   const { members } = useContext(AppContext);
   const memberImages = [member1, member2, member3, member4];
   return (
-    <div className={styles.members}>
-      {members.map((item, index) => (
-        <div className={styles.card} key={index}>
-          <img src={memberImages[index]} alt={item.name} />
-          <div className={styles.cardContentDiv}>
-            <div className={styles.cardContent}>
-              <h2>{item.name}</h2>
-              <p>{item.position}</p>
-              
+    members === "N/A" ? null : (
+      <div className={styles.members}>
+        {members.map((item, index) => (
+          <div className={styles.card} key={index}>
+            <img src={memberImages[index]} alt={item.name} />
+            <div className={styles.cardContentDiv}>
+              <div className={styles.cardContent}>
+                <h2>{item.name}</h2>
+                <p>{item.position}</p>
+              </div>
             </div>
           </div>
-        </div>
-      ))}
-    </div>
+        ))}
+      </div>
+    )
   );
 }
 

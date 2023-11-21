@@ -1,172 +1,170 @@
 Skip to content
 
-[ ![](data:image/svg+xml;nitro-empty-
+![](data:image/svg+xml;nitro-empty-
 id=NjU1Ojg2Mg==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzIzMCA5NzYiIHdpZHRoPSIzMjMwIiBoZWlnaHQ9Ijk3NiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
-](https://www.avenuelawfirm.com)
 
-[ Call Now (212) 729-4090 ](tel:2127294090)
+Call Now (212) 729-4090
 
-  * [Real Estate](https://www.avenuelawfirm.com/)
+  * Real Estate
     * Residential Real Estate
-      * [New York Residential Real Estate](https://www.avenuelawfirm.com/residential-real-estate/)
-      * [Manhattan Residential Real Estate](https://www.avenuelawfirm.com/residential-real-estate/#manhattan-residential-real-estate-lawyer)
+      * New York Residential Real Estate
+      * Manhattan Residential Real Estate
     * Commercial Real Estate
-      * [New York Commercial Real Estate](https://www.avenuelawfirm.com/new-york-commercial-real-estate-attorney/)
-      * [Manhattan Commercial Real Estate](https://www.avenuelawfirm.com/manhattan-commercial-real-estate-attorney/)
+      * New York Commercial Real Estate
+      * Manhattan Commercial Real Estate
     * Properties
-      * [Co-Ops](https://www.avenuelawfirm.com/co-ops/)
-      * [Condos](https://www.avenuelawfirm.com/condos/)
-      * [Houses](https://www.avenuelawfirm.com/houses/)
-      * [Townhomes](https://www.avenuelawfirm.com/townhomes/)
-    * [International Real Estate Transactions](https://www.avenuelawfirm.com/international-real-estate-investor-transactions/)
-  * [Business Law](https://www.avenuelawfirm.com/manhattan-business-lawyer/)
+      * Co-Ops
+      * Condos
+      * Houses
+      * Townhomes
+    * International Real Estate Transactions
+  * Business Law
   * Insurance Litigation
-    * [Insurance Law](https://www.avenuelawfirm.com/personal-injury-attorney-nyc/)
-    * [Personal Injury](https://www.avenuelawfirm.com/personal-injury-attorney-nyc/)
-  * [About](https://www.avenuelawfirm.com/about/)
+    * Insurance Law
+    * Personal Injury
+  * About
     * Practice Areas
-      * [Tech Startups Law](https://www.avenuelawfirm.com/tech-attorneys-usa/)
-      * [International Client Services](https://www.avenuelawfirm.com/international-client-services/)
-      * [Information Technology (IT) Law Firm](https://www.avenuelawfirm.com/manhattan-it-lawyer/)
+      * Tech Startups Law
+      * International Client Services
+      * Information Technology (IT) Law Firm
     * Offices
-      * [New York City](https://www.avenuelawfirm.com/manhattan-real-estate-lawyer/)
-      * [The Hamptons](https://www.avenuelawfirm.com/hamptons-real-estate-lawyer/)
-      * [Westchester](https://www.avenuelawfirm.com/westchester-real-estate-lawyer/)
-      * [Queens](https://www.avenuelawfirm.com/queens-real-estate-lawyer/)
-      * [Brooklyn](https://www.avenuelawfirm.com/brooklyn-real-estate-lawyer/)
-      * [Long Island](https://www.avenuelawfirm.com/long-island-real-estate-lawyer/)
-      * [Staten Island](https://www.avenuelawfirm.com/staten-island-real-estate-lawyer/)
-      * [Bronx](https://www.avenuelawfirm.com/bronx-real-estate-lawyer/)
-    * [Team](https://www.avenuelawfirm.com/team/)
-    * [Press](https://www.avenuelawfirm.com/press-articles/)
+      * New York City
+      * The Hamptons
+      * Westchester
+      * Queens
+      * Brooklyn
+      * Long Island
+      * Staten Island
+      * Bronx
+    * Team
+    * Press
   * Resources
-    * [Blog](https://www.avenuelawfirm.com/blog/)
-    * [Testimonials](https://www.avenuelawfirm.com/testimonials/)
-  * [Contact](https://www.avenuelawfirm.com/contact/)
+    * Blog
+    * Testimonials
+  * Contact
 
 ____ Menu
 
-  * [Real Estate](https://www.avenuelawfirm.com/)
+  * Real Estate
     * Residential Real Estate
-      * [New York Residential Real Estate](https://www.avenuelawfirm.com/residential-real-estate/)
-      * [Manhattan Residential Real Estate](https://www.avenuelawfirm.com/residential-real-estate/#manhattan-residential-real-estate-lawyer)
+      * New York Residential Real Estate
+      * Manhattan Residential Real Estate
     * Commercial Real Estate
-      * [New York Commercial Real Estate](https://www.avenuelawfirm.com/new-york-commercial-real-estate-attorney/)
-      * [Manhattan Commercial Real Estate](https://www.avenuelawfirm.com/manhattan-commercial-real-estate-attorney/)
+      * New York Commercial Real Estate
+      * Manhattan Commercial Real Estate
     * Properties
-      * [Co-Ops](https://www.avenuelawfirm.com/co-ops/)
-      * [Condos](https://www.avenuelawfirm.com/condos/)
-      * [Houses](https://www.avenuelawfirm.com/houses/)
-      * [Townhomes](https://www.avenuelawfirm.com/townhomes/)
-    * [International Real Estate Transactions](https://www.avenuelawfirm.com/international-real-estate-investor-transactions/)
-  * [Business Law](https://www.avenuelawfirm.com/manhattan-business-lawyer/)
+      * Co-Ops
+      * Condos
+      * Houses
+      * Townhomes
+    * International Real Estate Transactions
+  * Business Law
   * Insurance Litigation
-    * [Insurance Law](https://www.avenuelawfirm.com/personal-injury-attorney-nyc/)
-    * [Personal Injury](https://www.avenuelawfirm.com/personal-injury-attorney-nyc/)
-  * [About](https://www.avenuelawfirm.com/about/)
+    * Insurance Law
+    * Personal Injury
+  * About
     * Practice Areas
-      * [Tech Startups Law](https://www.avenuelawfirm.com/tech-attorneys-usa/)
-      * [International Client Services](https://www.avenuelawfirm.com/international-client-services/)
-      * [Information Technology (IT) Law Firm](https://www.avenuelawfirm.com/manhattan-it-lawyer/)
+      * Tech Startups Law
+      * International Client Services
+      * Information Technology (IT) Law Firm
     * Offices
-      * [New York City](https://www.avenuelawfirm.com/manhattan-real-estate-lawyer/)
-      * [The Hamptons](https://www.avenuelawfirm.com/hamptons-real-estate-lawyer/)
-      * [Westchester](https://www.avenuelawfirm.com/westchester-real-estate-lawyer/)
-      * [Queens](https://www.avenuelawfirm.com/queens-real-estate-lawyer/)
-      * [Brooklyn](https://www.avenuelawfirm.com/brooklyn-real-estate-lawyer/)
-      * [Long Island](https://www.avenuelawfirm.com/long-island-real-estate-lawyer/)
-      * [Staten Island](https://www.avenuelawfirm.com/staten-island-real-estate-lawyer/)
-      * [Bronx](https://www.avenuelawfirm.com/bronx-real-estate-lawyer/)
-    * [Team](https://www.avenuelawfirm.com/team/)
-    * [Press](https://www.avenuelawfirm.com/press-articles/)
+      * New York City
+      * The Hamptons
+      * Westchester
+      * Queens
+      * Brooklyn
+      * Long Island
+      * Staten Island
+      * Bronx
+    * Team
+    * Press
   * Resources
-    * [Blog](https://www.avenuelawfirm.com/blog/)
-    * [Testimonials](https://www.avenuelawfirm.com/testimonials/)
-  * [Contact](https://www.avenuelawfirm.com/contact/)
+    * Blog
+    * Testimonials
+  * Contact
 
-[ ![](data:image/svg+xml;nitro-empty-
+![](data:image/svg+xml;nitro-empty-
 id=ODIzOjU2NA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCAzMDIiIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjMwMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
-](https://www.avenuelawfirm.com)
 
-  * [Real Estate](https://www.avenuelawfirm.com/)
+  * Real Estate
     * Residential Real Estate
-      * [New York Residential Real Estate](https://www.avenuelawfirm.com/residential-real-estate/)
-      * [Manhattan Residential Real Estate](https://www.avenuelawfirm.com/residential-real-estate/#manhattan-residential-real-estate-lawyer)
+      * New York Residential Real Estate
+      * Manhattan Residential Real Estate
     * Commercial Real Estate
-      * [New York Commercial Real Estate](https://www.avenuelawfirm.com/new-york-commercial-real-estate-attorney/)
-      * [Manhattan Commercial Real Estate](https://www.avenuelawfirm.com/manhattan-commercial-real-estate-attorney/)
+      * New York Commercial Real Estate
+      * Manhattan Commercial Real Estate
     * Properties
-      * [Co-Ops](https://www.avenuelawfirm.com/co-ops/)
-      * [Condos](https://www.avenuelawfirm.com/condos/)
-      * [Houses](https://www.avenuelawfirm.com/houses/)
-      * [Townhomes](https://www.avenuelawfirm.com/townhomes/)
-    * [International Real Estate Transactions](https://www.avenuelawfirm.com/international-real-estate-investor-transactions/)
-  * [Business Law](https://www.avenuelawfirm.com/manhattan-business-lawyer/)
+      * Co-Ops
+      * Condos
+      * Houses
+      * Townhomes
+    * International Real Estate Transactions
+  * Business Law
   * Insurance Litigation
-    * [Insurance Law](https://www.avenuelawfirm.com/personal-injury-attorney-nyc/)
-    * [Personal Injury](https://www.avenuelawfirm.com/personal-injury-attorney-nyc/)
-  * [About](https://www.avenuelawfirm.com/about/)
+    * Insurance Law
+    * Personal Injury
+  * About
     * Practice Areas
-      * [Tech Startups Law](https://www.avenuelawfirm.com/tech-attorneys-usa/)
-      * [International Client Services](https://www.avenuelawfirm.com/international-client-services/)
-      * [Information Technology (IT) Law Firm](https://www.avenuelawfirm.com/manhattan-it-lawyer/)
+      * Tech Startups Law
+      * International Client Services
+      * Information Technology (IT) Law Firm
     * Offices
-      * [New York City](https://www.avenuelawfirm.com/manhattan-real-estate-lawyer/)
-      * [The Hamptons](https://www.avenuelawfirm.com/hamptons-real-estate-lawyer/)
-      * [Westchester](https://www.avenuelawfirm.com/westchester-real-estate-lawyer/)
-      * [Queens](https://www.avenuelawfirm.com/queens-real-estate-lawyer/)
-      * [Brooklyn](https://www.avenuelawfirm.com/brooklyn-real-estate-lawyer/)
-      * [Long Island](https://www.avenuelawfirm.com/long-island-real-estate-lawyer/)
-      * [Staten Island](https://www.avenuelawfirm.com/staten-island-real-estate-lawyer/)
-      * [Bronx](https://www.avenuelawfirm.com/bronx-real-estate-lawyer/)
-    * [Team](https://www.avenuelawfirm.com/team/)
-    * [Press](https://www.avenuelawfirm.com/press-articles/)
+      * New York City
+      * The Hamptons
+      * Westchester
+      * Queens
+      * Brooklyn
+      * Long Island
+      * Staten Island
+      * Bronx
+    * Team
+    * Press
   * Resources
-    * [Blog](https://www.avenuelawfirm.com/blog/)
-    * [Testimonials](https://www.avenuelawfirm.com/testimonials/)
-  * [Contact](https://www.avenuelawfirm.com/contact/)
+    * Blog
+    * Testimonials
+  * Contact
 
 ____ Menu
 
-  * [Real Estate](https://www.avenuelawfirm.com/)
+  * Real Estate
     * Residential Real Estate
-      * [New York Residential Real Estate](https://www.avenuelawfirm.com/residential-real-estate/)
-      * [Manhattan Residential Real Estate](https://www.avenuelawfirm.com/residential-real-estate/#manhattan-residential-real-estate-lawyer)
+      * New York Residential Real Estate
+      * Manhattan Residential Real Estate
     * Commercial Real Estate
-      * [New York Commercial Real Estate](https://www.avenuelawfirm.com/new-york-commercial-real-estate-attorney/)
-      * [Manhattan Commercial Real Estate](https://www.avenuelawfirm.com/manhattan-commercial-real-estate-attorney/)
+      * New York Commercial Real Estate
+      * Manhattan Commercial Real Estate
     * Properties
-      * [Co-Ops](https://www.avenuelawfirm.com/co-ops/)
-      * [Condos](https://www.avenuelawfirm.com/condos/)
-      * [Houses](https://www.avenuelawfirm.com/houses/)
-      * [Townhomes](https://www.avenuelawfirm.com/townhomes/)
-    * [International Real Estate Transactions](https://www.avenuelawfirm.com/international-real-estate-investor-transactions/)
-  * [Business Law](https://www.avenuelawfirm.com/manhattan-business-lawyer/)
+      * Co-Ops
+      * Condos
+      * Houses
+      * Townhomes
+    * International Real Estate Transactions
+  * Business Law
   * Insurance Litigation
-    * [Insurance Law](https://www.avenuelawfirm.com/personal-injury-attorney-nyc/)
-    * [Personal Injury](https://www.avenuelawfirm.com/personal-injury-attorney-nyc/)
-  * [About](https://www.avenuelawfirm.com/about/)
+    * Insurance Law
+    * Personal Injury
+  * About
     * Practice Areas
-      * [Tech Startups Law](https://www.avenuelawfirm.com/tech-attorneys-usa/)
-      * [International Client Services](https://www.avenuelawfirm.com/international-client-services/)
-      * [Information Technology (IT) Law Firm](https://www.avenuelawfirm.com/manhattan-it-lawyer/)
+      * Tech Startups Law
+      * International Client Services
+      * Information Technology (IT) Law Firm
     * Offices
-      * [New York City](https://www.avenuelawfirm.com/manhattan-real-estate-lawyer/)
-      * [The Hamptons](https://www.avenuelawfirm.com/hamptons-real-estate-lawyer/)
-      * [Westchester](https://www.avenuelawfirm.com/westchester-real-estate-lawyer/)
-      * [Queens](https://www.avenuelawfirm.com/queens-real-estate-lawyer/)
-      * [Brooklyn](https://www.avenuelawfirm.com/brooklyn-real-estate-lawyer/)
-      * [Long Island](https://www.avenuelawfirm.com/long-island-real-estate-lawyer/)
-      * [Staten Island](https://www.avenuelawfirm.com/staten-island-real-estate-lawyer/)
-      * [Bronx](https://www.avenuelawfirm.com/bronx-real-estate-lawyer/)
-    * [Team](https://www.avenuelawfirm.com/team/)
-    * [Press](https://www.avenuelawfirm.com/press-articles/)
+      * New York City
+      * The Hamptons
+      * Westchester
+      * Queens
+      * Brooklyn
+      * Long Island
+      * Staten Island
+      * Bronx
+    * Team
+    * Press
   * Resources
-    * [Blog](https://www.avenuelawfirm.com/blog/)
-    * [Testimonials](https://www.avenuelawfirm.com/testimonials/)
-  * [Contact](https://www.avenuelawfirm.com/contact/)
+    * Blog
+    * Testimonials
+  * Contact
 
-[ Call Now (212) 729-4090 ](tel:2127294090)
+Call Now (212) 729-4090
 
 ## At Avenue Law Firm, Our Priority Is Our Clients.
 
@@ -174,7 +172,7 @@ TOP RATED REAL ESTATE LAW FIRM
 
 ## When You Need Us, We Are Here to Help.
 
-[ Call Now (212) 729-4090 ](tel:2127294090)
+Call Now (212) 729-4090
 
 Featured In
 
@@ -209,9 +207,8 @@ id=MTE4Njo2NjI=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTIwMCA4MDAiIHdpZHRoPSIxMjAwIiB
 
 ### Residential Real Estate
 
-Our [Real Estate Law Firm](https://www.avenuelawfirm.com/residential-real-
-estate/#manhattan-residential-real-estate-lawyer/) Handles Residential
-Closings in NYC, Long Island Including Hamptons, Westchester & Upstate NY.
+Our Real Estate Law Firm Handles Residential Closings in NYC, Long Island
+Including Hamptons, Westchester & Upstate NY.
 
 ### Co-Ops
 
@@ -223,7 +220,7 @@ laws that surround this unique kind of property. If you are considering buying
 into a co-op or are ready to sell your portion, it is essential that you have
 a real estate attorney working with you.
 
-[Learn More](https://www.avenuelawfirm.com/co-ops/)
+Learn More
 
 ### Condos
 
@@ -232,7 +229,7 @@ Avenue Law Firm specializes in real estate transactions involving condos. We
 work hand in hand with our clients to ensure their rights are protected and
 the condo closing process is as smooth as possible.
 
-[Learn More](https://www.avenuelawfirm.com/condos/)
+Learn More
 
 ### Houses
 
@@ -242,7 +239,7 @@ States. Our firm is specially trained to handle the full lifecycle of real
 estate transactions to ensure our clients receive the best possible options
 for purchasing or selling a home.
 
-[Learn More](https://www.avenuelawfirm.com/houses/)
+Learn More
 
 ### Townhouses
 
@@ -254,7 +251,7 @@ with its own set of challenges. Our experienced real estate attorneys are well
 versed in representing purchasers and sellers of townhouses and are ready to
 assist you with all your legal needs.
 
-[Learn More](https://www.avenuelawfirm.com/townhomes/)
+Learn More
 
 ### Brownstones
 
@@ -276,7 +273,7 @@ numerous deals in the Hamptons and surrounding areas.  Whether you are buying
 a new home, a vacation home or a rental/investment property our attorneys can
 assist you each step of the way. Contact us today to find out how we can help.
 
-[Learn More](https://www.avenuelawfirm.com/hamptons-real-estate-lawyer/)
+Learn More
 
 ### Westchester
 
@@ -286,7 +283,7 @@ schools, safe neighborhoods and a strong community spirit. Our Westchester
 real-estate attorneys are here to help you buy your own piece of the suburban
 American dream, all within an easy commute to the greatest city in the world.
 
-[Learn More](https://www.avenuelawfirm.com/westchester-real-estate-lawyer/)
+Learn More
 
 __
 
@@ -303,14 +300,13 @@ attorney about purchasing, selling or renting your  investment property.
 
 ### Health Care Properties
 
-[Avenue Law Firm](https://www.avenuelawfirm.com/)'s real estate healthcare
-lawyers counsel clients in real estate matters specific to the healthcare
-industry. We are dedicated to success in every aspect of real estate work
-including the acquisition and dispositions of all types of healthcare
-properties , as well as  medical and dental office leasing, and financing,
-including SBA financing.  Additionally our attorneys handle purchase and sale
-of healthcare practices, practice buy-ins, partnership agreements, employment
-contracts and vendor agreements.
+Avenue Law Firm's real estate healthcare lawyers counsel clients in real
+estate matters specific to the healthcare industry. We are dedicated to
+success in every aspect of real estate work including the acquisition and
+dispositions of all types of healthcare properties , as well as  medical and
+dental office leasing, and financing, including SBA financing.  Additionally
+our attorneys handle purchase and sale of healthcare practices, practice buy-
+ins, partnership agreements, employment contracts and vendor agreements.
 
 ### Multifamily
 
@@ -523,17 +519,17 @@ document deadlines. The real estate markets in Manhattan, Westchester, and
 Southampton are competitive, and it is easy to get lost without proper legal
 advice. You don’t want to be left in the dark.
 
-[ Call Now (212) 729-4090 ](tel:2127294090)
+Call Now (212) 729-4090
 
 ![](data:image/svg+xml;nitro-empty-
 id=MTU0NTo1MDU=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAxMSA0ODYiIHdpZHRoPSIxMDExIiBoZWlnaHQ9IjQ4NiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
 
 ### Locations Served
 
-  * [ __ New York City ](https://www.avenuelawfirm.com/manhattan-real-estate-lawyer/)
-  * [ __ The Hamptons ](https://www.avenuelawfirm.com/hamptons-real-estate-lawyer/)
-  * [ __ Long Island ](https://www.avenuelawfirm.com/long-island-real-estate-lawyer/)
-  * [ __ Westchester ](https://www.avenuelawfirm.com/westchester-real-estate-lawyer/)
+  * __ New York City
+  * __ The Hamptons
+  * __ Long Island
+  * __ Westchester
   * __ Rockland County
   * __ Putnam County
   * __ Orange County
@@ -541,7 +537,7 @@ id=MTU0NTo1MDU=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAxMSA0ODYiIHdpZHRoPSIxMDExIiB
   * __ Sullivan County
   * __ Ulster County
 
-[ View More Services ](https://www.avenuelawfirm.com/services/)
+View More Services
 
 ### Testimonials
 
@@ -662,71 +658,65 @@ Toggle
       * Contact Avenue Law Firm
       * Schedule a Free Consultation 
 
-[ ![](data:image/svg+xml;nitro-empty-
+![](data:image/svg+xml;nitro-empty-
 id=MTgyMTo4NjM=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzIzMCA5NzYiIHdpZHRoPSIzMjMwIiBoZWlnaHQ9Ijk3NiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
-](https://www.avenuelawfirm.com)
 
-[ Facebook-square __](https://www.facebook.com/theavenuelawfirm/) [ Instagram
-__](https://www.instagram.com/avenuelawfirm/?igshid=YmMyMTA2M2Y=) [ Linkedin
-__](https://www.linkedin.com/company/avenue-law-firm/about/)
+Facebook-square __ Instagram __ Linkedin __
 
-[ ![](data:image/svg+xml;nitro-empty-
+![](data:image/svg+xml;nitro-empty-
 id=MTg2MDo1NTk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCAzMDIiIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjMwMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
-](https://www.avenuelawfirm.com)
 
-[ Facebook-square __](https://www.facebook.com/theavenuelawfirm/) [ Instagram
-__](https://www.instagram.com/avenuelawfirm/?igshid=YmMyMTA2M2Y=) [ Linkedin
-__](https://www.linkedin.com/company/avenue-law-firm/about/)
+Facebook-square __ Instagram __ Linkedin __
 
 Navigation
 
-  * [Home](https://www.avenuelawfirm.com/)
-  * [About](https://www.avenuelawfirm.com/about/)
-  * [Blog](https://www.avenuelawfirm.com/blog/)
-  * [Press](https://www.avenuelawfirm.com/press-articles/)
-  * [Contact](https://www.avenuelawfirm.com/contact/)
+  * Home
+  * About
+  * Blog
+  * Press
+  * Contact
 
-  * [Home](https://www.avenuelawfirm.com/)
-  * [About](https://www.avenuelawfirm.com/about/)
-  * [Blog](https://www.avenuelawfirm.com/blog/)
-  * [Press](https://www.avenuelawfirm.com/press-articles/)
-  * [Contact](https://www.avenuelawfirm.com/contact/)
+  * Home
+  * About
+  * Blog
+  * Press
+  * Contact
 
 Practices
 
-  * [Real Estate](https://www.avenuelawfirm.com/)
-  * [Residential Real Estate](https://www.avenuelawfirm.com/residential-real-estate/)
-  * [Business Law](https://www.avenuelawfirm.com/manhattan-business-lawyer/)
-  * [Insurance Litigation](https://www.avenuelawfirm.com/personal-injury-attorney-nyc/)
-  * [Tech Startups Law](https://www.avenuelawfirm.com/tech-attorneys-usa/)
-  * [International Client Services](https://www.avenuelawfirm.com/international-client-services/)
+  * Real Estate
+  * Residential Real Estate
+  * Business Law
+  * Insurance Litigation
+  * Tech Startups Law
+  * International Client Services
 
-  * [Real Estate](https://www.avenuelawfirm.com/)
-  * [Residential Real Estate](https://www.avenuelawfirm.com/residential-real-estate/)
-  * [Business Law](https://www.avenuelawfirm.com/manhattan-business-lawyer/)
-  * [Insurance Litigation](https://www.avenuelawfirm.com/personal-injury-attorney-nyc/)
-  * [Tech Startups Law](https://www.avenuelawfirm.com/tech-attorneys-usa/)
-  * [International Client Services](https://www.avenuelawfirm.com/international-client-services/)
+  * Real Estate
+  * Residential Real Estate
+  * Business Law
+  * Insurance Litigation
+  * Tech Startups Law
+  * International Client Services
 
 Properties
 
-  * [Condos](https://www.avenuelawfirm.com/condos/)
-  * [Co-Ops](https://www.avenuelawfirm.com/co-ops/)
-  * [Houses](https://www.avenuelawfirm.com/houses/)
-  * [Townhomes](https://www.avenuelawfirm.com/townhomes/)
-  * [Commercial](https://www.avenuelawfirm.com/new-york-commercial-real-estate-attorney/)
+  * Condos
+  * Co-Ops
+  * Houses
+  * Townhomes
+  * Commercial
 
-  * [Condos](https://www.avenuelawfirm.com/condos/)
-  * [Co-Ops](https://www.avenuelawfirm.com/co-ops/)
-  * [Houses](https://www.avenuelawfirm.com/houses/)
-  * [Townhomes](https://www.avenuelawfirm.com/townhomes/)
-  * [Commercial](https://www.avenuelawfirm.com/new-york-commercial-real-estate-attorney/)
+  * Condos
+  * Co-Ops
+  * Houses
+  * Townhomes
+  * Commercial
 
 Offices
 
-  * [ __ 99 Park Avenue, 10th Floor, New York, NY 10016 ](https://goo.gl/maps/xXBRsvpNaWZDk9hQ6)
-  * [ __ 400 Garden City Plaza, Ste. 438, Garden City, NY 11530 ](https://goo.gl/maps/DXijPAzSMi5J3b8s8)
-  * [ __ 53 Hill Street, Ste 9, Southampton, NY 11968 ](https://goo.gl/maps/GSVDAJoDrQt4VUii6)
+  * __ 99 Park Avenue, 10th Floor, New York, NY 10016
+  * __ 400 Garden City Plaza, Ste. 438, Garden City, NY 11530
+  * __ 53 Hill Street, Ste 9, Southampton, NY 11968
   * __ 2626 E 14th St, Suite 201 Brooklyn, NY 11235
 
 **Disclaimer:** The information you obtain at this site is not, nor is it
@@ -739,9 +729,8 @@ exact facts and circumstances of that case. Avenue Law Firm cannot guarantee a
 specific result in any legal matter. Any testimonial or case result listed on
 this site is based on an actual legal case and represents the results achieved
 in that particular case, and does not constitute a guarantee, warranty or
-prediction of the outcome of any other legal matter. [Privacy
-Policy](https://www.avenuelawfirm.com/privacy-policy/) | [Terms of
-Service](https://www.avenuelawfirm.com/terms-of-service/).
+prediction of the outcome of any other legal matter. Privacy Policy | Terms of
+Service.
 
 Copyright © 2023, Avenue Law Firm. All Rights Reserved.
 

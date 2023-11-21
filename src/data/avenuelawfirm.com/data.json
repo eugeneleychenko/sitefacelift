@@ -1,0 +1,33 @@
+{
+    "paragraph": "Call Now (212) 729-4090",
+    "detailsData": "{\n    \"title\": \"Digital Innovation\",\n    \"content\": \"Avenue Law Firm prides itself on innovation, serving clients entirely digitally. They utilize technology and forward-thinking to provide the best possible experience.\"\n},\n{\n    \"title\": \"Comprehensive Support\",\n    \"content\": \"The firm assists with real estate transactions from beginning to end. They are dedicated to guiding clients through every step of the buying or selling process.\"\n},\n{\n    \"title\": \"Diverse Expertise\",\n    \"content\": \"Avenue Law Firm has expertise in a wide range of legal areas including real estate, business law, and insurance litigation. Their team is equipped to handle complex legal matters across various sectors.\"\n}",
+    "address": "99 Park Avenue, 10th Floor, New York, NY 10016",
+    "phoneNumber": "(212) 729-4090",
+    "email": "N/A",
+    "linkNames": [
+        "REAL ESTATE",
+        "BUSINESS LAW",
+        "INSURANCE LITIGATION",
+        "ABOUT",
+        "RESOURCES",
+        "CONTACT"
+    ],
+    "companyName": "Avenue Law Firm",
+    "subHeading": "N/A",
+    "valueProp": "When searching for a home, many people think of hiring only a real estate agent. While people in this profession can greatly help with your housing search or sale, they aren\u2019t the only experts you want on your team. The buying and selling of homes is a serious legal transaction, and it is easy to get stuck in a bad contract or pay more in a mortgage than you need to. Additionally, local laws can make real estate transactions complicated, and agents don\u2019t always know the intricacies of the laws. This is why having a real estate law firm on your side is a good idea.",
+    "CTA": "Call Now (212) 729-4090",
+    "topics": [
+        "Real Estate",
+        "Residential Real Estate",
+        "Business Law",
+        "Insurance Litigation",
+        "Tech Startups Law",
+        "International Client Services",
+        "Insurance Law",
+        "Personal Injury",
+        "Commercial Real Estate"
+    ],
+    "members": "```json\n[\n    {\n        \"name\": \"Peter Zinkovetsky, Esq.\",\n        \"position\": \"Managing Partner\"\n    },\n    {\n        \"name\": \"Anna Boudakova, Esq.\",\n        \"position\": \"Senior Associate\"\n    },\n    {\n        \"name\": \"Carla Gonz\u00e1lez, JD\",\n        \"position\": \"Office Manager\"\n    },\n    {\n        \"name\": \"Anna Rovenskaya, Esq.\",\n        \"position\": \"Senior Associate\"\n    }\n]\n```",
+    "openHours": "N/A",
+    "testimonalData": "```json\n[\n    {\n        \"text\": \"Peter is an absolute professional who takes pride in what he does, communicates effectively and promptly, and genuinely cares about his clients. We feel very fortunate to have worked with Petro to close on our apartment in Manhattan. He led us through the process and has even taken the time to answer our questions after deal closing. He provides excellent legal services at a very reasonable price. Highly recommend him and his team.\",\n        \"author\": \"Marra A\",\n        \"location\": \"N/A\"\n    },\n    {\n        \"text\": \"This firm went above and beyond to secure a real estate contract for us. They were so detail oriented and added beneficial clauses that I did not know existed. It really left me feeling a strong sense of security with the contract. I will absolutely be using them again.\",\n        \"author\": \"George P\",\n        \"location\": \"N/A\"\n    },\n    {\n        \"text\": \"Peter Zinkovetsky is my go-to attorney for all my real estate needs! This year we used his law firm for two real estate transactions (NYC and Hamptons) and couldn\u2019t be happier. The entire team is extremely responsive, knowledgeable, and super easy to work with. Look no further!\",\n        \"author\": \"Igor B.\",\n        \"location\": \"N/A\"\n    }\n]\n```"
+}

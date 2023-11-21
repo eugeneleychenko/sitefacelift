@@ -72,29 +72,29 @@ function Footer() {
       <div>
         <h1>Questions</h1>
         <p>
-          <a class="qodef--underline-link" href="/faq">
+          <a class="qodef--underline-link" href="/">
             Do I Need A Personal Lawyer?
           </a>
         </p>
         <p>
-          <a class="qodef--underline-link" href="/faq">
+          <a class="qodef--underline-link" href="/">
             How Can We Help You?
           </a>
         </p>
         <p>
-          <a class="qodef--underline-link" href="/faq">
+          <a class="qodef--underline-link" href="/">
             What Is Domestic Violence?
           </a>
         </p>
         <p>
-          <a class="qodef--underline-link" href="/faq/">
+          <a class="qodef--underline-link" href="/">
             Are You Licensed In My Country?
           </a>
         </p>
         <p>
           <a
             class="qodef--underline-link"
-            href="https://courtroom.qodeinteractive.com/faq/"
+            href="/"
           >
             How Do I Choose a Lawyer?
           </a>
