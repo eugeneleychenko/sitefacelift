@@ -67,10 +67,10 @@ function Home({ match }) {
   const members = cleanedMemberData === 'N/A' ? 'N/A' : JSON.parse(cleanedMemberData);
   //Nav.jsx
   const openHours = data.openHours;
-  const cleanedTestimonalData = data.testimonalData.replace(/```json\n|\n```/g, '');
+  const cleanedTestimonalData = data.testimonalData ? data.testimonalData.replace(/```json\n|\n```/g, '') : null;
 
-// Parse the cleaned string into an array of objects
-  const testimonalData = JSON.parse(cleanedTestimonalData);
+  // Parse the cleaned string into an array of objects if it's not null
+  const testimonalData = cleanedTestimonalData ? JSON.parse(cleanedTestimonalData) : null;
   // const testimonalData = data.testimonalData;
   //Lists.js 
   // const topics = JSON.parse(data.topics);

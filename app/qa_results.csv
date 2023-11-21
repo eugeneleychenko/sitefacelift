@@ -1,32 +1,34 @@
 Question,Answer,QuestionArr
-return the CTA which usually phrases like 'to call or text the contact number for a consultation'.,Call Now (212) 729-4090,paragraph
+return the CTA which usually phrases like 'to call or text the contact number for a consultation'.,Call Us At 718-878-3781,paragraph
 "
         "" Find 3 advantages that sets this firm apart. organize it in this way {
             ""title"": 3-4 word title of the advantage,
             ""content"": 2 sentences talking about the advantage.
             }
         
-        ","{
-    ""title"": ""Digital Innovation"",
-    ""content"": ""Avenue Law Firm prides itself on innovation, serving clients entirely digitally. They utilize technology and forward-thinking to provide the best possible experience.""
-},
-{
-    ""title"": ""Comprehensive Support"",
-    ""content"": ""The firm assists with real estate transactions from beginning to end. They are dedicated to guiding clients through every step of the buying or selling process.""
-},
-{
-    ""title"": ""Diverse Expertise"",
-    ""content"": ""Avenue Law Firm has expertise in a wide range of legal areas including real estate, business law, and insurance litigation. Their team is equipped to handle complex legal matters across various sectors.""
-}",detailsData
-What is the address of this firm?,"99 Park Avenue, 10th Floor, New York, NY 10016",address
-What is the phone number of this firm?,(212) 729-4090,phoneNumber
-What is the contact email of this firm?,N/A,email
-"In an array, return in UPPERCASE the navigation items of this site. If the markdown contains several levels, only return the highest level.","[""REAL ESTATE"", ""BUSINESS LAW"", ""INSURANCE LITIGATION"", ""ABOUT"", ""RESOURCES"", ""CONTACT""]",linkNames
-What is the name of this company?,Avenue Law Firm,companyName
-What is the subheading of this company?,N/A,subHeading
-"Near the top of the site, there will a paragraph description about this firm, return it.","When searching for a home, many people think of hiring only a real estate agent. While people in this profession can greatly help with your housing search or sale, they aren’t the only experts you want on your team. The buying and selling of homes is a serious legal transaction, and it is easy to get stuck in a bad contract or pay more in a mortgage than you need to. Additionally, local laws can make real estate transactions complicated, and agents don’t always know the intricacies of the laws. This is why having a real estate law firm on your side is a good idea.",valueProp
-What is the CTA close to the top of the site?,Call Now (212) 729-4090,CTA
-"Return 9 practice areas of this law firm, in an array.","[""Real Estate"", ""Residential Real Estate"", ""Business Law"", ""Insurance Litigation"", ""Tech Startups Law"", ""International Client Services"", ""Insurance Law"", ""Personal Injury"", ""Commercial Real Estate""]",topics
+        ","[
+    {
+        ""title"": ""24/7 Availability"",
+        ""content"": ""The Law Offices of Robert Tsigler, PLLC offers round-the-clock availability for emergencies. Clients can expect prompt responses and immediate assistance at any time.""
+    },
+    {
+        ""title"": ""Diverse Expertise"",
+        ""content"": ""The firm's attorneys have a wide range of experience in various legal areas including criminal defense, immigration, and family law. This diverse expertise allows them to handle complex cases with a comprehensive approach.""
+    },
+    {
+        ""title"": ""Client-Centric Approach"",
+        ""content"": ""Each case is treated with a unique strategy tailored to the client's needs. The firm prioritizes client satisfaction and works tenaciously to achieve the best possible outcomes.""
+    }
+]",detailsData
+What is the address of this firm?,"299 Broadway, Suite 1400, New York, New York 10007",address
+What is the phone number of this firm?,718-878-3781,phoneNumber
+What is the contact email of this firm?,null,email
+"In an array, return in UPPERCASE the navigation items of this site. If the markdown contains several levels, only return the highest level.","[""ABOUT US"", ""CRIMINAL DEFENSE"", ""IMMIGRATION"", ""FAMILY LAW"", ""LOCATIONS"", ""RESULTS"", ""NEWS"", ""BLOG"", ""CONTACT US""]",linkNames
+What is the name of this company?,"Law Offices of Robert Tsigler, PLLC",companyName
+What is the subheading of this company?,Premier Defense Proven Results,subHeading
+"Near the top of the site, there will a paragraph description about this firm, return it.","As a premier criminal defense firm in NYC, the Law Offices of Robert Tsigler, PLLC is dedicated to providing clients with the highest level of quality representation, no matter what they face. The personal attention we give to each case helps ensure clients have a defense solution tailored to their unique needs with the goal of protecting their legal rights and representing their best interests. Our NYC criminal attorneys strongly believe that our clients come first and our priority is to always work to achieve the best possible result in their case. We tenaciously fight for these outcomes and leave no stone unturned when helping our clients through trial.",valueProp
+What is the CTA close to the top of the site?,718-878-3781,CTA
+"Return 9 practice areas of this law firm, in an array.","[""Criminal Defense"", ""Immigration"", ""Family Law"", ""Divorce"", ""Child Custody & Visitation"", ""ACS Investigations"", ""Child Neglect"", ""Spousal Support"", ""Property Division""]",topics
 "
         ( Return, in an array of objects, 4 names of lawyers and their titles. For example [
             {
@@ -41,24 +43,24 @@ What is the CTA close to the top of the site?,Call Now (212) 729-4090,CTA
         ","```json
 [
     {
-        ""name"": ""Peter Zinkovetsky, Esq."",
-        ""position"": ""Managing Partner""
+        ""name"": ""Robert Tsigler"",
+        ""position"": ""Attorney""
     },
     {
-        ""name"": ""Anna Boudakova, Esq."",
-        ""position"": ""Senior Associate""
+        ""name"": ""Michael Zigismund"",
+        ""position"": ""Attorney""
     },
     {
-        ""name"": ""Carla González, JD"",
-        ""position"": ""Office Manager""
+        ""name"": ""Joseph Caldarera"",
+        ""position"": ""Attorney""
     },
     {
-        ""name"": ""Anna Rovenskaya, Esq."",
-        ""position"": ""Senior Associate""
+        ""name"": ""Edwin Drantivy"",
+        ""position"": ""Attorney""
     }
 ]
 ```",members
- When is the firm open?,N/A,openHours
+ When is the firm open?,24/7,openHours
 "
           Return 3 testimonials from this site. They should be in an array of objects, including text, author, location. For example """"[
             {
@@ -74,19 +76,19 @@ What is the CTA close to the top of the site?,Call Now (212) 729-4090,CTA
         ","```json
 [
     {
-        ""text"": ""Peter is an absolute professional who takes pride in what he does, communicates effectively and promptly, and genuinely cares about his clients. We feel very fortunate to have worked with Petro to close on our apartment in Manhattan. He led us through the process and has even taken the time to answer our questions after deal closing. He provides excellent legal services at a very reasonable price. Highly recommend him and his team."",
-        ""author"": ""Marra A"",
-        ""location"": ""N/A""
+        ""text"": ""For whom ever is interested in my opinion there are many lawyers that are not very nice which I feel should be since they get paid well for their services which are not cheap but I feel like I lucked out with Mr Scott Migden he was very respectful informative as well and due to the situation I might have not looked so happy of the out come due to stress I’m sorry but very appreciative i’am and I would like to give thanks and let people know if you get Mr Scott migden he does seem sincere on trying to help people I would recommend him I hope the immigration lawyer will be the same thanks again Mr Scott migden for a job well done 👍by the way folks they did have a translator 🙂"",
+        ""author"": ""Carlos"",
+        ""location"": null
     },
     {
-        ""text"": ""This firm went above and beyond to secure a real estate contract for us. They were so detail oriented and added beneficial clauses that I did not know existed. It really left me feeling a strong sense of security with the contract. I will absolutely be using them again."",
-        ""author"": ""George P"",
-        ""location"": ""N/A""
+        ""text"": ""“ The best criminal defense lawyer. Takes his client’s calls at any time of the day or night. He was always there for me and my family. Saved my life. ”"",
+        ""author"": ""Jacquille"",
+        ""location"": null
     },
     {
-        ""text"": ""Peter Zinkovetsky is my go-to attorney for all my real estate needs! This year we used his law firm for two real estate transactions (NYC and Hamptons) and couldn’t be happier. The entire team is extremely responsive, knowledgeable, and super easy to work with. Look no further!"",
-        ""author"": ""Igor B."",
-        ""location"": ""N/A""
+        ""text"": ""“I retained Robert Tsigler to help me with a criminal case. He exceeded all my expectations and was able to get a great resolution for me. He always made sure that i understood everything that was going on and his fee was reasonable. He was highly respected by the district attorney.”"",
+        ""author"": ""David"",
+        ""location"": null
     }
 ]
 ```",testimonalData

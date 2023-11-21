@@ -1,0 +1,35 @@
+{
+    "paragraph": "Call us at 1-800-LAW-5432",
+    "detailsData": "{\n    \"title\": \"Extensive Experience\",\n    \"content\": \"The partners at Marc J. Bern & Partners LLP have been part of cases that have resulted in excess of 3 billion in settlements and awards. They have over 60 years of combined experience in handling high-profile cases across the United States.\"\n},\n{\n    \"title\": \"Client-Focused Service\",\n    \"content\": \"Despite being a large firm, they provide personal attention to each case, ensuring thorough and client-focused representation. They work closely with clients to determine the best strategy for success.\"\n},\n{\n    \"title\": \"Nationally Recognized\",\n    \"content\": \"The firm's attorneys have received numerous accolades, including selections to Super Lawyers and recognition as top attorneys in various legal fields. Their reputation is bolstered by their commitment to protecting the rights of their clients.\"\n}",
+    "address": "One Grand Central Place, 60 East 42nd Street, Suite 950, New York, NY 10165",
+    "phoneNumber": "1-800-LAW-5432",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "PRACTICE AREAS",
+        "ATTORNEYS",
+        "OUR FIRM",
+        "CASE RESULTS",
+        "NEWS",
+        "CAREERS",
+        "CONTACT US"
+    ],
+    "companyName": "Marc J. Bern & Partners LLP",
+    "subHeading": "NATIONALLY RECOGNIZED",
+    "valueProp": "Welcome to **Marc J. Bern & Partners LLP**. Our attorneys in New York and throughout the country represent clients in personal injury, medical malpractice, construction accident, defective product, dangerous medication, consumer fraud, and product liability cases.",
+    "CTA": "1-800-LAW-5432",
+    "topics": [
+        "9/11 Victim Compensation Fund",
+        "Boy Scouts of America Abuse Claims",
+        "Business Interruption",
+        "Dangerous Medications",
+        "Defective Products",
+        "Diseases, Toxic Torts & Lead",
+        "Employment Law (CA)",
+        "Environmental Law",
+        "FELA Railroad Claims"
+    ],
+    "members": "```json\n[\n    {\n        \"name\": \"Marc Jay Bern\",\n        \"position\": \"Founding Partner\"\n    },\n    {\n        \"name\": \"Joseph J. Cappelli\",\n        \"position\": \"Senior Partner\"\n    },\n    {\n        \"name\": \"Thomas J. Joyce\",\n        \"position\": \"Partner\"\n    },\n    {\n        \"name\": \"Stephen Monroe\",\n        \"position\": \"Partner\"\n    }\n]\n```",
+    "openHours": null,
+    "testimonalData": null
+}

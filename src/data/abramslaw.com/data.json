@@ -1,0 +1,36 @@
+{
+    "paragraph": "ALWAYS FOR YOU",
+    "detailsData": "{\n    \"title\": \"Local and State-Wide Reach\",\n    \"content\": \"Abrams Fensterman has a strong local presence with roots in Brooklyn and extends services across New York with five offices. They emphasize collaboration and accessibility, ensuring clients receive top-tier legal services throughout the state.\"\n},\n{\n    \"title\": \"Diverse Practice Areas\",\n    \"content\": \"The firm offers a comprehensive range of legal services, from Health Law to Intellectual Property & Entertainment. This diversity allows them to serve a wide array of client needs under one umbrella.\"\n},\n{\n    \"title\": \"Experienced Legal Team\",\n    \"content\": \"Abrams Fensterman boasts a team of seasoned attorneys, including partners and associates with specialized expertise. Their attorneys are recognized as leaders in their fields, providing knowledgeable and strategic legal counsel.\"\n}",
+    "address": "3 Dakota Drive, Suite 300, Lake Success, NY 11042",
+    "phoneNumber": "(516) 328-2300",
+    "email": "N/A",
+    "linkNames": [
+        "ABOUT US",
+        "PRACTICE AREAS",
+        "ATTORNEYS",
+        "MEDIA",
+        "FAQS",
+        "CAREERS",
+        "CONTACT US",
+        "SEARCH",
+        "MAKE A PAYMENT"
+    ],
+    "companyName": "Abrams Fensterman LLP",
+    "subHeading": "Always Focused, Fearless, For You",
+    "valueProp": "Since 2000, Abrams Fensterman, LLP has provided exceptional legal service to major corporations, small businesses, health care providers, real estate developers, families, and more. With strong Brooklyn roots, our full-service law firm has since branched out to serve New Yorkers from five offices throughout the state.",
+    "CTA": "Make a Payment\nContact Us",
+    "topics": [
+        "Cannabis Law Group",
+        "Civil Litigation",
+        "Corporate & Securities Law",
+        "Criminal Defense, White Collar Criminal Defense & Government Investigations",
+        "Elder & Special Needs Law",
+        "Employment Law and Litigation",
+        "Health Law",
+        "Intellectual Property & Entertainment",
+        "Real Estate Law and Litigation"
+    ],
+    "members": "```json\n[\n    {\n        \"name\": \"Robert Abrams\",\n        \"position\": \"Executive Partner\"\n    },\n    {\n        \"name\": \"Moriah Adamo\",\n        \"position\": \"Partner\"\n    },\n    {\n        \"name\": \"Joseph D. Addabbo\",\n        \"position\": \"Associate\"\n    },\n    {\n        \"name\": \"Daniel S. Alter\",\n        \"position\": \"Partner\"\n    }\n]\n```",
+    "openHours": "N/A",
+    "testimonalData": null
+}

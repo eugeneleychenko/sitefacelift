@@ -114,7 +114,7 @@ def ask_questions_to_website(urls):
             [
                 SystemMessage(content=all_page_content),
                 HumanMessagePromptTemplate.from_template("""Only respond with the answer. No full sentences.
-                                                         If it doesn't exists say 'N/A'. 
+                                                         If it doesn't exists, return null. 
                                                           {text}"""),
             ]
         )
@@ -147,5 +147,5 @@ def ask_questions_to_website(urls):
         json.dump(json_results, jsonfile, indent=4)
 
 # # Use the function
-urls = [ 'https://www.avenuelawfirm.com/team/','https://www.avenuelawfirm.com/about/', 'https://www.avenuelawfirm.com/']
+urls = [ 'https://www.tsiglerlaw.com/','https://www.tsiglerlaw.com/attorney-robert-tsigler/', 'https://www.tsiglerlaw.com/michael-zigismund/', 'https://www.tsiglerlaw.com/joseph-caldarera/', 'https://www.tsiglerlaw.com/edwin-drantivy/']
 ask_questions_to_website(urls)

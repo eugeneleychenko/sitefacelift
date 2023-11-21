@@ -1,0 +1,34 @@
+{
+    "paragraph": "Call (212) 675-1125 for a free consultation.",
+    "detailsData": "{\n    \"title\": \"Experienced Legal Team\",\n    \"content\": \"The Price Law Firm's attorneys bring decades of experience in complex civil litigation and real estate law. Founder Joshua C. Price has been litigating on behalf of clients in New York courts for over two decades.\"\n},\n{\n    \"title\": \"Comprehensive Real Estate Services\",\n    \"content\": \"The firm offers a full range of services in New York real estate practice, handling everything from condo and co-op sales to rent control disputes. They provide individualized client service for both residential and commercial real estate matters.\"\n},\n{\n    \"title\": \"Client-Centered Approach\",\n    \"content\": \"The Price Law Firm is committed to individualized client service, ensuring ready access to the attorney handling the case. They pride themselves on responding promptly to client questions and concerns.\"\n}",
+    "address": "1115 Broadway, Suite 1053, New York, NY 10010",
+    "phoneNumber": "(212) 675-1125",
+    "email": "jprice@thepricelawfirmllc.com",
+    "linkNames": [
+        "HOME",
+        "ABOUT",
+        "RESIDENTIAL",
+        "COMMERCIAL",
+        "CONTACT",
+        "PAY INVOICE",
+        "NEWS"
+    ],
+    "companyName": "The Price Law Firm LLC",
+    "subHeading": "Quality Representation in NYC Real Estate Transactions + Litigation",
+    "valueProp": "The Price Law Firm covers the full range of client needs in our New York real estate practice. We handle condo and co-op sales, rent control tenant succession disputes, commercial leasing, mortgage workouts and any other project, transaction or dispute that relates to real property.",
+    "CTA": "Free Consultation (212) 675-1125",
+    "topics": [
+        "Landlord-Tenant Law",
+        "Rent Stabilization & Rent Control",
+        "Co-Op & Condo Disputes",
+        "Real Estate Closings",
+        "Commercial Leasing",
+        "Commercial Real Estate Litigation",
+        "Lease Audit Litigation",
+        "Yellowstone Injunction",
+        "Adverse Possession"
+    ],
+    "members": "```json\n[\n    {\n        \"name\": \"Joshua C. Price\",\n        \"position\": \"Founder\"\n    },\n    {\n        \"name\": \"Heather Ticotin\",\n        \"position\": \"Partner\"\n    },\n    {\n        \"name\": \"John M. Churneftsky\",\n        \"position\": \"Partner\"\n    }\n]\n```",
+    "openHours": "null",
+    "testimonalData": "null"
+}

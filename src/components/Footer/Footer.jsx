@@ -66,7 +66,7 @@ function Footer() {
           <a href={`tel:${phoneNumber}`}>{phoneNumber}</a>
         </p>
         <p>
-          {email !== "n/a" && (
+          {email && (
             <a href={`mailto:${email}`}>{email}</a>
           )}
         </p>

@@ -1,0 +1,49 @@
+{
+    "paragraph": "Call Us At 718-878-3781",
+    "detailsData": [
+        {
+            "title": "24/7 Availability",
+            "content": "The Law Offices of Robert Tsigler, PLLC offers round-the-clock availability for emergencies. Clients can expect prompt responses and immediate assistance at any time."
+        },
+        {
+            "title": "Diverse Expertise",
+            "content": "The firm's attorneys have a wide range of experience in various legal areas including criminal defense, immigration, and family law. This diverse expertise allows them to handle complex cases with a comprehensive approach."
+        },
+        {
+            "title": "Client-Centric Approach",
+            "content": "Each case is treated with a unique strategy tailored to the client's needs. The firm prioritizes client satisfaction and works tenaciously to achieve the best possible outcomes."
+        }
+    ],
+    "address": "299 Broadway, Suite 1400, New York, New York 10007",
+    "phoneNumber": "718-878-3781",
+    "email": null,
+    "linkNames": [
+        "ABOUT US",
+        "CRIMINAL DEFENSE",
+        "IMMIGRATION",
+        "FAMILY LAW",
+        "LOCATIONS",
+        "RESULTS",
+        "NEWS",
+        "BLOG",
+        "CONTACT US"
+    ],
+    "companyName": "Law Offices of Robert Tsigler, PLLC",
+    "subHeading": "Premier Defense Proven Results",
+    "valueProp": "As a premier criminal defense firm in NYC, the Law Offices of Robert Tsigler, PLLC is dedicated to providing clients with the highest level of quality representation, no matter what they face. The personal attention we give to each case helps ensure clients have a defense solution tailored to their unique needs with the goal of protecting their legal rights and representing their best interests. Our NYC criminal attorneys strongly believe that our clients come first and our priority is to always work to achieve the best possible result in their case. We tenaciously fight for these outcomes and leave no stone unturned when helping our clients through trial.",
+    "CTA": "718-878-3781",
+    "topics": [
+        "Criminal Defense",
+        "Immigration",
+        "Family Law",
+        "Divorce",
+        "Child Custody & Visitation",
+        "ACS Investigations",
+        "Child Neglect",
+        "Spousal Support",
+        "Property Division"
+    ],
+    "members": "```json\n[\n    {\n        \"name\": \"Robert Tsigler\",\n        \"position\": \"Attorney\"\n    },\n    {\n        \"name\": \"Michael Zigismund\",\n        \"position\": \"Attorney\"\n    },\n    {\n        \"name\": \"Joseph Caldarera\",\n        \"position\": \"Attorney\"\n    },\n    {\n        \"name\": \"Edwin Drantivy\",\n        \"position\": \"Attorney\"\n    }\n]\n```",
+    "openHours": "24/7",
+    "testimonalData": "```json\n[\n    {\n        \"text\": \"For whom ever is interested in my opinion there are many lawyers that are not very nice which I feel should be since they get paid well for their services which are not cheap but I feel like I lucked out with Mr Scott Migden he was very respectful informative as well and due to the situation I might have not looked so happy of the out come due to stress I\u2019m sorry but very appreciative i\u2019am and I would like to give thanks and let people know if you get Mr Scott migden he does seem sincere on trying to help people I would recommend him I hope the immigration lawyer will be the same thanks again Mr Scott migden for a job well done \ud83d\udc4dby the way folks they did have a translator \ud83d\ude42\",\n        \"author\": \"Carlos\",\n        \"location\": null\n    },\n    {\n        \"text\": \"\u201c The best criminal defense lawyer. Takes his client\u2019s calls at any time of the day or night. He was always there for me and my family. Saved my life. \u201d\",\n        \"author\": \"Jacquille\",\n        \"location\": null\n    },\n    {\n        \"text\": \"\u201cI retained Robert Tsigler to help me with a criminal case. He exceeded all my expectations and was able to get a great resolution for me. He always made sure that i understood everything that was going on and his fee was reasonable. He was highly respected by the district attorney.\u201d\",\n        \"author\": \"David\",\n        \"location\": null\n    }\n]\n```"
+}
