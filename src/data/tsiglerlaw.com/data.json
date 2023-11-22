@@ -1,19 +1,6 @@
 {
     "paragraph": "Call Us At 718-878-3781",
-    "detailsData": [
-        {
-            "title": "24/7 Availability",
-            "content": "The Law Offices of Robert Tsigler, PLLC offers round-the-clock availability for emergencies. Clients can expect prompt responses and immediate assistance at any time."
-        },
-        {
-            "title": "Diverse Expertise",
-            "content": "The firm's attorneys have a wide range of experience in various legal areas including criminal defense, immigration, and family law. This diverse expertise allows them to handle complex cases with a comprehensive approach."
-        },
-        {
-            "title": "Client-Centric Approach",
-            "content": "Each case is treated with a unique strategy tailored to the client's needs. The firm prioritizes client satisfaction and works tenaciously to achieve the best possible outcomes."
-        }
-    ],
+    "detailsData": "{\n        \"title\": \"24/7 Availability\",\n        \"content\": \"The Law Offices of Robert Tsigler, PLLC offers round-the-clock availability for emergencies. Clients can expect prompt responses and immediate assistance at any time.\"\n    },\n    {\n        \"title\": \"Diverse Expertise\",\n        \"content\": \"The firm's attorneys have a wide range of experience in various legal areas including criminal defense, immigration, and family law. This diverse expertise allows them to handle complex cases with a comprehensive approach.\"\n    },\n    {\n        \"title\": \"Client-Centric Approach\",\n        \"content\": \"Each case is treated with a unique strategy tailored to the client's needs. The firm prioritizes client satisfaction and works tenaciously to achieve the best possible outcomes.\"\n    }",
     "address": "299 Broadway, Suite 1400, New York, New York 10007",
     "phoneNumber": "718-878-3781",
     "email": null,
@@ -45,5 +32,5 @@
     ],
     "members": "```json\n[\n    {\n        \"name\": \"Robert Tsigler\",\n        \"position\": \"Attorney\"\n    },\n    {\n        \"name\": \"Michael Zigismund\",\n        \"position\": \"Attorney\"\n    },\n    {\n        \"name\": \"Joseph Caldarera\",\n        \"position\": \"Attorney\"\n    },\n    {\n        \"name\": \"Edwin Drantivy\",\n        \"position\": \"Attorney\"\n    }\n]\n```",
     "openHours": "24/7",
-    "testimonalData": "```json\n[\n    {\n        \"text\": \"For whom ever is interested in my opinion there are many lawyers that are not very nice which I feel should be since they get paid well for their services which are not cheap but I feel like I lucked out with Mr Scott Migden he was very respectful informative as well and due to the situation I might have not looked so happy of the out come due to stress I\u2019m sorry but very appreciative i\u2019am and I would like to give thanks and let people know if you get Mr Scott migden he does seem sincere on trying to help people I would recommend him I hope the immigration lawyer will be the same thanks again Mr Scott migden for a job well done \ud83d\udc4dby the way folks they did have a translator \ud83d\ude42\",\n        \"author\": \"Carlos\",\n        \"location\": null\n    },\n    {\n        \"text\": \"\u201c The best criminal defense lawyer. Takes his client\u2019s calls at any time of the day or night. He was always there for me and my family. Saved my life. \u201d\",\n        \"author\": \"Jacquille\",\n        \"location\": null\n    },\n    {\n        \"text\": \"\u201cI retained Robert Tsigler to help me with a criminal case. He exceeded all my expectations and was able to get a great resolution for me. He always made sure that i understood everything that was going on and his fee was reasonable. He was highly respected by the district attorney.\u201d\",\n        \"author\": \"David\",\n        \"location\": null\n    }\n]\n```"
+    "testimonalData": "```json\n[\n    {\n        \"text\": \"For whom ever is interested in my opinion there are many lawyers that are not very nice which I feel should be since they get paid well for their services which are not cheap but I feel like I lucked out with Mr Scott Migden he was very respectful informative as well.\",\n        \"author\": \"Carlos\",\n        \"location\": null\n    },\n    {\n        \"text\": \"\u201c The best criminal defense lawyer. Takes his client\u2019s calls at any time of the day or night. He was always there for me and my family. Saved my life. \u201d\",\n        \"author\": \"Jacquille\",\n        \"location\": null\n    },\n    {\n        \"text\": \"\u201cI retained Robert Tsigler to help me with a criminal case. He exceeded all my expectations and was able to get a great resolution for me. He always made sure that i understood everything that was going on and his fee was reasonable. He was highly respected by the district attorney.\u201d\",\n        \"author\": \"David\",\n        \"location\": null\n    }\n]\n```"
 }

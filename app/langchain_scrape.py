@@ -28,9 +28,10 @@ def ask_questions_to_website(urls):
         markdown = h.handle(html)
 
         def save_markdown_to_file(markdown, filename):
-            with open(filename, 'w', encoding='utf-8') as f:
+            os.makedirs('markdown', exist_ok=True)
+            with open(os.path.join('markdown', filename), 'w', encoding='utf-8') as f:
                 f.write(markdown)
-            return filename
+            return os.path.join('markdown', filename)
 
         markdown_file = save_markdown_to_file(markdown, f'{url.replace("/", "_")}.md')
         markdown_files.append(markdown_file)
@@ -50,7 +51,8 @@ def ask_questions_to_website(urls):
     # Initialize the QAGenerationChain
     model = ChatOpenAI(temperature=0, model="gpt-4-1106-preview")
     # model = ChatOpenAI(temperature=0, model="gpt-3.5-turbo-1106")
-    
+    # model=AzureChatOpenAI(temperature=0, deployment_name=os.getenv("OPENAI_DEPLOYMENT_NAME"), openai_api_version="2023-05-15" )
+   
     # Define the questions
     questionsArr = [
                     "paragraph","detailsData", "address", 
@@ -62,10 +64,12 @@ def ask_questions_to_website(urls):
     questions = [
         "return the CTA which usually phrases like 'to call or text the contact number for a consultation'.",
         """
-        " Find 3 advantages that sets this firm apart. organize it in this way {
+        " Find 3 advantages that sets this firm apart. organize the objects in this way {
             "title": 3-4 word title of the advantage,
             "content": 2 sentences talking about the advantage.
             }
+            
+           here is an example of an output: "detailsData": "{\n    \"title\": \"Nationwide Resources\",\n    \"content\": \"The Cochran Firm has offices nationwide with a team of experienced and aggressive personal injury attorneys and criminal defense lawyers. They offer tireless and effective legal representation across the country.\"\n  },\n  {\n    \"title\": \"Diverse Specializations\",\n    \"content\": \"Attorneys at The Cochran Firm specialize in a variety of practice areas including personal injury, civil rights, medical malpractice, and employment discrimination. This allows them to handle a wide range of cases with expert knowledge.\"\n  },\n  {\n    \"title\": \"Legacy of Excellence\",\n    \"content\": \"Founded by legendary attorney Johnnie L. Cochran, Jr., The Cochran Firm continues his mission of providing justice to the wronged and giving a voice to the silenced. They are committed to restoring justice and advocating for individual rights.\"\n  }",
         
         """,
         "What is the address of this firm?",
@@ -147,5 +151,5 @@ def ask_questions_to_website(urls):
         json.dump(json_results, jsonfile, indent=4)
 
 # # Use the function
-urls = [ 'https://www.tsiglerlaw.com/','https://www.tsiglerlaw.com/attorney-robert-tsigler/', 'https://www.tsiglerlaw.com/michael-zigismund/', 'https://www.tsiglerlaw.com/joseph-caldarera/', 'https://www.tsiglerlaw.com/edwin-drantivy/']
+urls = [ 'https://www.pricelawfirmnyc.com/about', 'https://www.pricelawfirmnyc.com/']
 ask_questions_to_website(urls)

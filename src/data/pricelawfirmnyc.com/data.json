@@ -1,6 +1,6 @@
 {
-    "paragraph": "Call (212) 675-1125 for a free consultation.",
-    "detailsData": "{\n    \"title\": \"Experienced Legal Team\",\n    \"content\": \"The Price Law Firm's attorneys bring decades of experience in complex civil litigation and real estate law. Founder Joshua C. Price has been litigating on behalf of clients in New York courts for over two decades.\"\n},\n{\n    \"title\": \"Comprehensive Real Estate Services\",\n    \"content\": \"The firm offers a full range of services in New York real estate practice, handling everything from condo and co-op sales to rent control disputes. They provide individualized client service for both residential and commercial real estate matters.\"\n},\n{\n    \"title\": \"Client-Centered Approach\",\n    \"content\": \"The Price Law Firm is committed to individualized client service, ensuring ready access to the attorney handling the case. They pride themselves on responding promptly to client questions and concerns.\"\n}",
+    "paragraph": "Call Us Now for a Free Consultation: (212) 675-1125",
+    "detailsData":  "{\n    \"title\": \"Experienced Legal Advice\",\n    \"content\": \"The Price Law Firm covers a full range of client needs in New York real estate practice, integrating a solid understanding of local markets with negotiation and litigation strategies. They handle a variety of real estate matters, ensuring thorough preparation and energetic advocacy.\"\n  },\n  {\n    \"title\": \"Individualized Client Service\",\n    \"content\": \"The firm is committed to providing individualized service, maintaining ready access to the attorney handling the case. They pride themselves on their ability to respond promptly to client questions and concerns.\"\n  },\n  {\n    \"title\": \"Rent Regulation Expertise\",\n    \"content\": \"Specializing in complex civil litigation, particularly in the controversial area of rent stabilization and rent control, The Price Law Firm has made substantial contributions to the development of this area of law. They offer aggressive representation for both landlords and tenants.\"\n}",
     "address": "1115 Broadway, Suite 1053, New York, NY 10010",
     "phoneNumber": "(212) 675-1125",
     "email": "jprice@thepricelawfirmllc.com",
@@ -19,14 +19,14 @@
     "CTA": "Free Consultation (212) 675-1125",
     "topics": [
         "Landlord-Tenant Law",
+        "Commercial Real Estate Law",
+        "Residential Real Estate Law",
         "Rent Stabilization & Rent Control",
         "Co-Op & Condo Disputes",
         "Real Estate Closings",
+        "Real Estate Administrative Hearings",
         "Commercial Leasing",
-        "Commercial Real Estate Litigation",
-        "Lease Audit Litigation",
-        "Yellowstone Injunction",
-        "Adverse Possession"
+        "Commercial Landlord/Tenant Disputes"
     ],
     "members": "```json\n[\n    {\n        \"name\": \"Joshua C. Price\",\n        \"position\": \"Founder\"\n    },\n    {\n        \"name\": \"Heather Ticotin\",\n        \"position\": \"Partner\"\n    },\n    {\n        \"name\": \"John M. Churneftsky\",\n        \"position\": \"Partner\"\n    }\n]\n```",
     "openHours": "null",

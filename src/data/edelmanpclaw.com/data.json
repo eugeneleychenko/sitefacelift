@@ -1,0 +1,36 @@
+{
+    "paragraph": "CALL 212-235-1197 OR **SCHEDULE A FREE CONSULTATION** TO GET STARTED",
+    "detailsData": "{\n    \"title\": \"We Go All In\",\n    \"content\": \"With every case, Edelman & Edelman, P.C. commits all of the firm\u2019s resources to pursue a positive outcome. They are not afraid to spend whatever is necessary to present a winning case on behalf of their clients.\"\n  },\n  {\n    \"title\": \"Best Experts Hired\",\n    \"content\": \"The firm does thorough research to find leading experts in the field relevant to your injury. They regularly collaborate with medical experts, scientists, and academics to strengthen your case.\"\n  },\n  {\n    \"title\": \"Opposition Knowledge\",\n    \"content\": \"With over 65 years of experience, Edelman & Edelman, P.C. knows the tactics used by opposing attorneys. They use proven strategies to counter these tactics and ensure your compensation is maximized.\"\n  }",
+    "address": "61 Broadway, Suite 2220, New York, NY 10006",
+    "phoneNumber": "212-235-1197",
+    "email": "null",
+    "linkNames": [
+        "HOME",
+        "ABOUT US",
+        "OUR LAWYERS",
+        "WHAT WE DO",
+        "CLIENT TESTIMONIALS",
+        "CASE RESULTS",
+        "CLIENT REVIEWS",
+        "MEDIA",
+        "CONTACT"
+    ],
+    "companyName": "Edelman & Edelman, P.C.",
+    "subHeading": "Attorneys And Counselors At Law",
+    "valueProp": "We know that there are a lot of firms you can choose from to handle your case. However, we are the only firm that has a reputation for being as diligent, thorough and committed to your success. When you choose Edelman & Edelman, P.C., you know that everything possible will be done to secure the best available outcome for you and your family.",
+    "CTA": "212-235-1197",
+    "topics": [
+        "Personal Injury",
+        "Construction Accidents",
+        "Traumatic Brain Injuries",
+        "Medical Malpractice",
+        "Wrongful Death",
+        "Unsafe Products",
+        "Wrongful Convictions",
+        "Sexual Abuse",
+        "Bad Faith Insurance Claims"
+    ],
+    "members": "```json\n[\n    {\n        \"name\": \"Martin W. Edelman\",\n        \"position\": \"Attorney\"\n    },\n    {\n        \"name\": \"Paul F. Callan\",\n        \"position\": \"Attorney & CNN Legal Analyst\"\n    },\n    {\n        \"name\": \"Danny Cevallos\",\n        \"position\": \"Attorney & Legal Analyst for NBC and MSNBC\"\n    },\n    {\n        \"name\": \"Paul H. Maloney IV\",\n        \"position\": \"Attorney\"\n    }\n]\n```",
+    "openHours": null,
+    "testimonalData": "```json\n[\n    {\n        \"text\": \"Personal Injury View Story\",\n        \"author\": null,\n        \"location\": null\n    },\n    {\n        \"text\": \"Construction Injury View Story\",\n        \"author\": null,\n        \"location\": null\n    },\n    {\n        \"text\": \"Motor Vehicle Accident View Story\",\n        \"author\": null,\n        \"location\": null\n    }\n]\n```"
+}

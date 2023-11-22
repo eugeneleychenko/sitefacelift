@@ -15,6 +15,7 @@ import { Autoplay, Pagination } from "swiper/modules";
 
 function Testimonial() {
   const {testimonalData } = useContext(AppContext);
+  console.log(testimonalData)
 
   return (
     testimonalData ? (

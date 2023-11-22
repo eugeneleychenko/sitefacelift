@@ -1,34 +1,47 @@
 Question,Answer,QuestionArr
-return the CTA which usually phrases like 'to call or text the contact number for a consultation'.,Call Us At 718-878-3781,paragraph
+return the CTA which usually phrases like 'to call or text the contact number for a consultation'.,Call Us Now for a Free Consultation: (212) 675-1125,paragraph
 "
-        "" Find 3 advantages that sets this firm apart. organize it in this way {
+        "" Find 3 advantages that sets this firm apart. organize the objects in this way {
             ""title"": 3-4 word title of the advantage,
             ""content"": 2 sentences talking about the advantage.
             }
+            
+           here is an example of an output: ""detailsData"": ""{
+    ""title"": ""Nationwide Resources"",
+    ""content"": ""The Cochran Firm has offices nationwide with a team of experienced and aggressive personal injury attorneys and criminal defense lawyers. They offer tireless and effective legal representation across the country.""
+  },
+  {
+    ""title"": ""Diverse Specializations"",
+    ""content"": ""Attorneys at The Cochran Firm specialize in a variety of practice areas including personal injury, civil rights, medical malpractice, and employment discrimination. This allows them to handle a wide range of cases with expert knowledge.""
+  },
+  {
+    ""title"": ""Legacy of Excellence"",
+    ""content"": ""Founded by legendary attorney Johnnie L. Cochran, Jr., The Cochran Firm continues his mission of providing justice to the wronged and giving a voice to the silenced. They are committed to restoring justice and advocating for individual rights.""
+  }"",
         
-        ","[
-    {
-        ""title"": ""24/7 Availability"",
-        ""content"": ""The Law Offices of Robert Tsigler, PLLC offers round-the-clock availability for emergencies. Clients can expect prompt responses and immediate assistance at any time.""
-    },
-    {
-        ""title"": ""Diverse Expertise"",
-        ""content"": ""The firm's attorneys have a wide range of experience in various legal areas including criminal defense, immigration, and family law. This diverse expertise allows them to handle complex cases with a comprehensive approach.""
-    },
-    {
-        ""title"": ""Client-Centric Approach"",
-        ""content"": ""Each case is treated with a unique strategy tailored to the client's needs. The firm prioritizes client satisfaction and works tenaciously to achieve the best possible outcomes.""
-    }
+        ","""detailsData"": [
+  {
+    ""title"": ""Experienced Legal Advice"",
+    ""content"": ""The Price Law Firm covers a full range of client needs in New York real estate practice, integrating a solid understanding of local markets with negotiation and litigation strategies. They handle a variety of real estate matters, ensuring thorough preparation and energetic advocacy.""
+  },
+  {
+    ""title"": ""Individualized Client Service"",
+    ""content"": ""The firm is committed to providing individualized service, maintaining ready access to the attorney handling the case. They pride themselves on their ability to respond promptly to client questions and concerns.""
+  },
+  {
+    ""title"": ""Rent Regulation Expertise"",
+    ""content"": ""Specializing in complex civil litigation, particularly in the controversial area of rent stabilization and rent control, The Price Law Firm has made substantial contributions to the development of this area of law. They offer aggressive representation for both landlords and tenants.""
+  }
 ]",detailsData
-What is the address of this firm?,"299 Broadway, Suite 1400, New York, New York 10007",address
-What is the phone number of this firm?,718-878-3781,phoneNumber
-What is the contact email of this firm?,null,email
-"In an array, return in UPPERCASE the navigation items of this site. If the markdown contains several levels, only return the highest level.","[""ABOUT US"", ""CRIMINAL DEFENSE"", ""IMMIGRATION"", ""FAMILY LAW"", ""LOCATIONS"", ""RESULTS"", ""NEWS"", ""BLOG"", ""CONTACT US""]",linkNames
-What is the name of this company?,"Law Offices of Robert Tsigler, PLLC",companyName
-What is the subheading of this company?,Premier Defense Proven Results,subHeading
-"Near the top of the site, there will a paragraph description about this firm, return it.","As a premier criminal defense firm in NYC, the Law Offices of Robert Tsigler, PLLC is dedicated to providing clients with the highest level of quality representation, no matter what they face. The personal attention we give to each case helps ensure clients have a defense solution tailored to their unique needs with the goal of protecting their legal rights and representing their best interests. Our NYC criminal attorneys strongly believe that our clients come first and our priority is to always work to achieve the best possible result in their case. We tenaciously fight for these outcomes and leave no stone unturned when helping our clients through trial.",valueProp
-What is the CTA close to the top of the site?,718-878-3781,CTA
-"Return 9 practice areas of this law firm, in an array.","[""Criminal Defense"", ""Immigration"", ""Family Law"", ""Divorce"", ""Child Custody & Visitation"", ""ACS Investigations"", ""Child Neglect"", ""Spousal Support"", ""Property Division""]",topics
+What is the address of this firm?,"1115 Broadway, Suite 1053, New York, NY 10010",address
+What is the phone number of this firm?,(212) 675-1125,phoneNumber
+What is the contact email of this firm?,jprice@thepricelawfirmllc.com,email
+"In an array, return in UPPERCASE the navigation items of this site. If the markdown contains several levels, only return the highest level.","[""HOME"", ""ABOUT"", ""RESIDENTIAL"", ""COMMERCIAL"", ""CONTACT"", ""PAY INVOICE"", ""NEWS""]",linkNames
+What is the name of this company?,The Price Law Firm LLC,companyName
+What is the subheading of this company?,Quality Representation in NYC Real Estate Transactions + Litigation,subHeading
+"Near the top of the site, there will a paragraph description about this firm, return it.","The Price Law Firm covers the full range of client needs in our New York real estate practice. We handle condo and co-op sales, rent control tenant succession disputes, commercial leasing, mortgage workouts and any other project, transaction or dispute that relates to real property.",valueProp
+What is the CTA close to the top of the site?,Free Consultation (212) 675-1125,CTA
+"Return 9 practice areas of this law firm, in an array.","[""Landlord-Tenant Law"", ""Commercial Real Estate Law"", ""Residential Real Estate Law"", ""Rent Stabilization & Rent Control"", ""Co-Op & Condo Disputes"", ""Real Estate Closings"", ""Real Estate Administrative Hearings"", ""Commercial Leasing"", ""Commercial Landlord/Tenant Disputes""]",topics
 "
         ( Return, in an array of objects, 4 names of lawyers and their titles. For example [
             {
@@ -43,24 +56,20 @@ What is the CTA close to the top of the site?,718-878-3781,CTA
         ","```json
 [
     {
-        ""name"": ""Robert Tsigler"",
-        ""position"": ""Attorney""
+        ""name"": ""Joshua C. Price"",
+        ""position"": ""Founder""
     },
     {
-        ""name"": ""Michael Zigismund"",
-        ""position"": ""Attorney""
+        ""name"": ""Heather Ticotin"",
+        ""position"": ""Partner""
     },
     {
-        ""name"": ""Joseph Caldarera"",
-        ""position"": ""Attorney""
-    },
-    {
-        ""name"": ""Edwin Drantivy"",
-        ""position"": ""Attorney""
+        ""name"": ""John M. Churneftsky"",
+        ""position"": ""Partner""
     }
 ]
 ```",members
- When is the firm open?,24/7,openHours
+ When is the firm open?,null,openHours
 "
           Return 3 testimonials from this site. They should be in an array of objects, including text, author, location. For example """"[
             {
@@ -73,22 +82,4 @@ What is the CTA close to the top of the site?,718-878-3781,CTA
                 author: ""Atriz R"",
                 location: ""Manhattan, New York"",
             }]""
-        ","```json
-[
-    {
-        ""text"": ""For whom ever is interested in my opinion there are many lawyers that are not very nice which I feel should be since they get paid well for their services which are not cheap but I feel like I lucked out with Mr Scott Migden he was very respectful informative as well and due to the situation I might have not looked so happy of the out come due to stress I’m sorry but very appreciative i’am and I would like to give thanks and let people know if you get Mr Scott migden he does seem sincere on trying to help people I would recommend him I hope the immigration lawyer will be the same thanks again Mr Scott migden for a job well done 👍by the way folks they did have a translator 🙂"",
-        ""author"": ""Carlos"",
-        ""location"": null
-    },
-    {
-        ""text"": ""“ The best criminal defense lawyer. Takes his client’s calls at any time of the day or night. He was always there for me and my family. Saved my life. ”"",
-        ""author"": ""Jacquille"",
-        ""location"": null
-    },
-    {
-        ""text"": ""“I retained Robert Tsigler to help me with a criminal case. He exceeded all my expectations and was able to get a great resolution for me. He always made sure that i understood everything that was going on and his fee was reasonable. He was highly respected by the district attorney.”"",
-        ""author"": ""David"",
-        ""location"": null
-    }
-]
-```",testimonalData
+        ",null,testimonalData

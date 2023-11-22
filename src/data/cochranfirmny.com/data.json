@@ -1,0 +1,32 @@
+{
+    "paragraph": "Don\u2019t wait! Call our **New York** office for a free legal consultation.",
+    "detailsData": "{\n    \"title\": \"Nationwide Resources\",\n    \"content\": \"The Cochran Firm has offices nationwide with a team of experienced and aggressive personal injury attorneys and criminal defense lawyers. They offer tireless and effective legal representation across the country.\"\n  },\n  {\n    \"title\": \"Diverse Specializations\",\n    \"content\": \"Attorneys at The Cochran Firm specialize in a variety of practice areas including personal injury, civil rights, medical malpractice, and employment discrimination. This allows them to handle a wide range of cases with expert knowledge.\"\n  },\n  {\n    \"title\": \"Legacy of Excellence\",\n    \"content\": \"Founded by legendary attorney Johnnie L. Cochran, Jr., The Cochran Firm continues his mission of providing justice to the wronged and giving a voice to the silenced. They are committed to restoring justice and advocating for individual rights.\"\n  }",
+    "address": "null",
+    "phoneNumber": "212-553-9215",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "ABOUT US",
+        "PRACTICE AREAS",
+        "PERSONAL INJURY",
+        "OFFICE LOCATIONS",
+        "RESULTS",
+        "OUR ATTORNEYS",
+        "FAQ",
+        "NEWS"
+    ],
+    "companyName": "The Cochran Firm",
+    "subHeading": "New York",
+    "valueProp": "Welcome to the NYC office of The Cochran Firm, a law firm founded by legendary attorney Johnnie L. Cochran, Jr. over four decades ago. With offices nationwide and a team of some of the country\u2019s most experienced and aggressive personal injury attorneys and criminal defense lawyers, The Cochran Firm has reputation for tireless and effective legal representation. The attorneys at the NYC office specialize in slip and fall cases, personal injury, auto accidents, medical malpractice, civil rights violations, and employment discrimination.",
+    "CTA": "212-553-9215",
+    "topics": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Civil Rights",
+        "Auto Accidents",
+        "Employment Discrimination"
+    ],
+    "members": "```json\n[\n    {\n        \"name\": \"Derek Sells\",\n        \"position\": \"Chairman of the Cochran Firm\"\n    },\n    {\n        \"name\": \"Tracey Brown\",\n        \"position\": \"Managing Attorney\"\n    },\n    {\n        \"name\": \"Paul Weitz\",\n        \"position\": \"Managing Attorney\"\n    },\n    {\n        \"name\": \"Michael Fischbein\",\n        \"position\": \"Licensed In: New Jersey, New York, Pennsylvania\"\n    }\n]\n```",
+    "openHours": "24/7",
+    "testimonalData": "```json\n[\n    {\n        \"text\": \"The Cochran Firm is undoubtedly the best! With them, you\u2019re more than just a client; you\u2019re family.\",\n        \"author\": \"Z. Robinson\",\n        \"location\": null\n    },\n    {\n        \"text\": \"My family and I had a wonderful experience with our lawyer at The Cochran Firm. We were treated like family. The Firm was sympathetic to our situation and needs. \",\n        \"author\": \"B. Monroe\",\n        \"location\": null\n    },\n    {\n        \"text\": \"The Cochran Firm is absolutely hands down the best law firm I have ever dealt with. They were professional, understanding and cared about me as a client. I could call my attorney anytime and they were there to assist me. \",\n        \"author\": \"T. Willoughby\",\n        \"location\": null\n    }\n]\n```"
+}

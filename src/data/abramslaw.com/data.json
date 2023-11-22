@@ -31,6 +31,6 @@
         "Real Estate Law and Litigation"
     ],
     "members": "```json\n[\n    {\n        \"name\": \"Robert Abrams\",\n        \"position\": \"Executive Partner\"\n    },\n    {\n        \"name\": \"Moriah Adamo\",\n        \"position\": \"Partner\"\n    },\n    {\n        \"name\": \"Joseph D. Addabbo\",\n        \"position\": \"Associate\"\n    },\n    {\n        \"name\": \"Daniel S. Alter\",\n        \"position\": \"Partner\"\n    }\n]\n```",
-    "openHours": "N/A",
+    "openHours": null,
     "testimonalData": null
 }
