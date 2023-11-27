@@ -1,0 +1,34 @@
+{
+    "paragraph": "Call Us Today! 1-800-529-2676",
+    "detailsData": "{\n    \"title\": \"Decades of Experience\",\n    \"content\": \"Finkelstein & Partners has been winning serious injury lawsuits since 1959, offering over 60 years of legal expertise. Their long-standing presence signifies a deep understanding of the law and a commitment to client service.\"\n  },\n  {\n    \"title\": \"No Fee Promise\",\n    \"content\": \"The firm operates on a contingency fee basis, meaning clients don't pay attorney fees unless they win damages. This approach allows clients to pursue justice without upfront costs, ensuring legal representation is accessible.\"\n  },\n  {\n    \"title\": \"Multiple Office Locations\",\n    \"content\": \"With multiple offices across New York and New Jersey, Finkelstein & Partners provides convenient access to legal services. Their expansive reach allows them to serve a diverse client base and offer personalized attention.\"\n  }",
+    "address": "1279 NY-300 Newburgh NY, 12550",
+    "phoneNumber": "1-800-529-2676",
+    "email": "null",
+    "linkNames": [
+        "HOME",
+        "ABOUT US",
+        "PRACTICE AREAS",
+        "OFFICE LOCATIONS",
+        "60 YEARS OF RESULTS",
+        "BLOG",
+        "CAREERS"
+    ],
+    "companyName": "Finkelstein & Partners, LLP",
+    "subHeading": "Great Settlements Are No Accident\u2122.",
+    "valueProp": "Founded in 1959 by Howard S. Finkelstein, Finkelstein & Partners has grown from one office in Newburgh, NY to multiple offices in New York and New Jersey, with a staff of more than 85 attorneys and 170 para-professionals. We remain dedicated to providing our clients with personal service and unsurpassed legal representation and client service.",
+    "CTA": "Call Us Today! 1-800-529-2676",
+    "topics": [
+        "Car Accidents",
+        "Construction Accidents",
+        "Motorcycle Accidents",
+        "Bicycle Accidents",
+        "Bus Accidents",
+        "Pedestrian Injuries",
+        "Nursing Home Abuse",
+        "Workers\u2019 Compensation",
+        "Wrongful Death"
+    ],
+    "members": "```json\n[\n    {\n        \"name\": \"Andrew Finkelstein\",\n        \"position\": \"Personal Injury\"\n    },\n    {\n        \"name\": \"Robert J. Camera\",\n        \"position\": \"Personal Injury\"\n    },\n    {\n        \"name\": \"Kara L. Campbell\",\n        \"position\": null\n    },\n    {\n        \"name\": \"Duncan W. Clark\",\n        \"position\": \"Personal Injury\"\n    }\n]\n```",
+    "openHours": "null",
+    "testimonalData": "```json\n[\n    {\n        \"text\": \"I had a very good experience with this outfit. I would definitely recommend. Brian Acard and his team are hard workers, at the end of it I'm happy with my settlement. Thank you guys for everything you have done for me and my family.\",\n        \"author\": \"Rod S.\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Experts in personal injury. A caring and compassionate environment. They were by our side through the entire process. Outstanding attorneys and support staff. Thank you.\",\n        \"author\": \"Georgeann R.\",\n        \"location\": null\n    },\n    {\n        \"text\": \"I will refer every one who needs a reliable law firm Finklestein and Partners is the one.\",\n        \"author\": \"Laquita S.\",\n        \"location\": null\n    }\n]\n```"
+}

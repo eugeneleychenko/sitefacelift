@@ -1,0 +1,50 @@
+{
+    "paragraph": null,
+    "detailsData": "{\n    \"title\": \"Big Firm Sophistication\",\n    \"content\": \"BurgherGray offers the expertise and capability of a large firm, ensuring that clients receive top-notch legal counsel. Their attorneys have honed their skills in large corporate law firms and in-house legal departments.\"\n  },\n  {\n    \"title\": \"Small Firm Touch\",\n    \"content\": \"Despite their extensive experience, BurgherGray prides itself on providing personalized and responsive service akin to a small firm. They focus on creativity and efficiency in addressing their clients' legal needs.\"\n  },\n  {\n    \"title\": \"Diverse Legal Services\",\n    \"content\": \"The firm provides a wide array of services across various sectors, including corporate transactions, business litigation, and intellectual property. This diversity allows them to cater to a broad spectrum of legal requirements.\"\n  }",
+    "address": "1350 Broadway | Suite 1510  \nNew York, NY 10018",
+    "phoneNumber": "646.513.3231",
+    "email": "info@burghergray.com",
+    "linkNames": [
+        "ABOUT",
+        "PRACTICE AREAS",
+        "CLIENTS SERVED",
+        "TEAM",
+        "OUR HEADLINES",
+        "OFFICES"
+    ],
+    "companyName": "BurgherGray LLP",
+    "subHeading": null,
+    "valueProp": "We are a dynamic corporate law firm comprised of highly experienced and diverse attorneys that counsel clients ranging from early-stage companies to Fortune 100 companies on a range of complex business litigation and transactional matters. Our clients come to us to partner with a diverse law firm that can marry BigLaw sophistication with small firm creativity and responsiveness to deliver best value in solving some of their most complex legal challenges.",
+    "CTA": "STAY CURRENT",
+    "topics": [
+        "Data Security, Privacy, & Governance",
+        "M&A, Divestitures and Joint Ventures",
+        "Capital Markets and Finance",
+        "Labor & Employment",
+        "Hospitality",
+        "Investment Management",
+        "General Corporate and Commercial Transactions",
+        "Financial Restructuring and Bankruptcy",
+        "Intellectual Property and Technology"
+    ],
+    "members": [
+        {
+            "name": "GOPAL M. BURGHER",
+            "position": "PARTNER"
+        },
+        {
+            "name": "WAYNE CHAN",
+            "position": "PARTNER"
+        },
+        {
+            "name": "ROBERT M. DRILLINGS",
+            "position": "PARTNER"
+        },
+        {
+            "name": "SANDRA HONEGAN-POUNDER",
+            "position": "PARTNER"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": null
+}

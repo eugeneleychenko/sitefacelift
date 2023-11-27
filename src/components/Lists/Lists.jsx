@@ -14,7 +14,7 @@ function Lists() {
   }));
   return (
     <div className={styles.lists}>
-      {topicsWithImages.slice(4).map((topic, index) => (
+      {topicsWithImages && topicsWithImages.length > 0 && topicsWithImages.slice(4).map((topic, index) => (
         <div key={index}>
           <span>{String(index + 1).padStart(2, '0')}</span>
           <Link>

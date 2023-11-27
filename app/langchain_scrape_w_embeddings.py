@@ -1,11 +1,15 @@
-from langchain.document_loaders import TextLoader
+from langchain.document_loaders import BSHTMLLoader
 from langchain.chat_models import ChatOpenAI
-# from langchain.schema import StrOutputParser
+#from langchain.schema import StrOutputParser
 from langchain.prompts import ChatPromptTemplate
 from langchain.prompts import HumanMessagePromptTemplate
 from langchain.schema.messages import SystemMessage
 from dotenv import load_dotenv
-import html2text
+#from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain.text_splitter import HTMLHeaderTextSplitter
+from langchain.embeddings import OpenAIEmbeddings
+from langchain.vectorstores import FAISS
+from langchain.chains import RetrievalQA
 import requests
 import openai
 import csv
@@ -13,33 +17,18 @@ import json
 import os
 
 
-
 load_dotenv()
 
 def ask_questions_to_website(urls):
-    markdown_files = []
+    html_docs = []
     for url in urls:
-        # headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
-        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36'}
+        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
         response = requests.get(url, headers=headers)
         html = response.text
-
-        h = html2text.HTML2Text()
-        h.ignore_links = True  # Set to True to ignore links
-        markdown = h.handle(html)
-
-        def save_markdown_to_file(markdown, filename):
-            os.makedirs('markdown', exist_ok=True)
-            with open(os.path.join('markdown', filename), 'w', encoding='utf-8') as f:
-                f.write(markdown)
-            return os.path.join('markdown', filename)
-
-        markdown_file = save_markdown_to_file(markdown, f'{url.replace("/", "_")}.md')
-        markdown_files.append(markdown_file)
+        html_docs.append(html)
     
-
-# Then load all the markdown files
-    loaders = [TextLoader(file) for file in markdown_files]
+# Then load all the HTML documents using BSHTMLLoader
+    loaders = [BSHTMLLoader(doc) for doc in html_docs]
     docs = [loader.load() for loader in loaders]
     page_contents = []
     for doc in docs:
@@ -50,7 +39,7 @@ def ask_questions_to_website(urls):
     print(all_page_content)
 
     # Initialize the QAGenerationChain
-    model = ChatOpenAI(temperature=0, model="gpt-4-1106-preview")
+    # model = ChatOpenAI(temperature=0, model="gpt-4-1106-preview")
     # model = ChatOpenAI(temperature=0, model="gpt-3.5-turbo-1106")
     # model=AzureChatOpenAI(temperature=0, deployment_name=os.getenv("OPENAI_DEPLOYMENT_NAME"), openai_api_version="2023-05-15" )
    
@@ -70,7 +59,7 @@ def ask_questions_to_website(urls):
             "content": 2 sentences talking about the advantage.
             }
             
-           here is an example of an output: {\n    \"title\": \"Nationwide Resources\",\n    \"content\": \"The Cochran Firm has offices nationwide with a team of experienced and aggressive personal injury attorneys and criminal defense lawyers. They offer tireless and effective legal representation across the country.\"\n  },\n  {\n    \"title\": \"Diverse Specializations\",\n    \"content\": \"Attorneys at The Cochran Firm specialize in a variety of practice areas including personal injury, civil rights, medical malpractice, and employment discrimination. This allows them to handle a wide range of cases with expert knowledge.\"\n  },\n  {\n    \"title\": \"Legacy of Excellence\",\n    \"content\": \"Founded by legendary attorney Johnnie L. Cochran, Jr., The Cochran Firm continues his mission of providing justice to the wronged and giving a voice to the silenced. They are committed to restoring justice and advocating for individual rights.\"\n  }
+           here is an example of an output: "detailsData": "{\n    \"title\": \"Nationwide Resources\",\n    \"content\": \"The Cochran Firm has offices nationwide with a team of experienced and aggressive personal injury attorneys and criminal defense lawyers. They offer tireless and effective legal representation across the country.\"\n  },\n  {\n    \"title\": \"Diverse Specializations\",\n    \"content\": \"Attorneys at The Cochran Firm specialize in a variety of practice areas including personal injury, civil rights, medical malpractice, and employment discrimination. This allows them to handle a wide range of cases with expert knowledge.\"\n  },\n  {\n    \"title\": \"Legacy of Excellence\",\n    \"content\": \"Founded by legendary attorney Johnnie L. Cochran, Jr., The Cochran Firm continues his mission of providing justice to the wronged and giving a voice to the silenced. They are committed to restoring justice and advocating for individual rights.\"\n  }",
         
         """,
         "What is the address of this firm?",
@@ -112,22 +101,39 @@ def ask_questions_to_website(urls):
     ]
     # questions =  "return the CTA which usually phrases like 'to call or text the contact number for a consultation'.",
 
-    # Run the chain for each question and print the results
+    # Split the all_page_content
+    html_header_splitter = HTMLHeaderTextSplitter(headers_to_split_on=[("h1", "Main Heading"), ("h2", "Subheading")])
+    html_header_splits = html_header_splitter.split_text(all_page_content)
+
+    # Define our text splitter
+    # text_splitter = RecursiveCharacterTextSplitter(chunk_size=1500, chunk_overlap=150)
+    # all_splits = text_splitter.split_documents(html_header_splits)
+
+    # Embed the splits
+    embeddings = OpenAIEmbeddings()
+    vectordb = FAISS.from_texts(html_header_splits, embeddings)
+
+    # Build a QA chain
+    qa_chain = RetrievalQA.from_chain_type(
+        llm=ChatOpenAI(model_name="gpt-4-1106-preview", temperature=0),
+        chain_type="stuff",
+        retriever=vectordb.as_retriever(),
+    )
+
+    # Ask a question!
     results = []
     for i, question in enumerate(questions):
         chat_template = ChatPromptTemplate.from_messages(
             [
                 SystemMessage(content=all_page_content),
                 HumanMessagePromptTemplate.from_template("""Only respond with the answer. No full sentences.
-                                                         If it doesn't exists, return null. Not the string null, but the value null. 
-                                                         
+                                                         If it doesn't exists, return null. 
                                                           {text}"""),
             ]
         )
-        qa = model(chat_template.format_messages(text=question))
+        qa = qa_chain.run(chat_template.format_messages(text=question))
         results.append((question, qa.content, questionsArr[i]))
         print(f"Question: {question}\nAnswer: {qa.content}\n")
-        
     # Create a CSV file with the questions and answers
     with open('qa_results.csv', 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.writer(csvfile)
@@ -138,9 +144,6 @@ def ask_questions_to_website(urls):
 # Create a JSON file with the questions and answers
     
     
-    if 'www.' not in url:
-        url = url.replace('https://', 'https://www.')
-        url = url.replace('http://', 'http://www.')
     company_name = url.split('www.')[-1].split('.com')[0] + '.com'
     directory = f'/Users/eugeneleychenko/Downloads/sfl/sitefacelift/src/data/{company_name}'
     os.makedirs(directory, exist_ok=True)
@@ -156,5 +159,5 @@ def ask_questions_to_website(urls):
         json.dump(json_results, jsonfile, indent=4)
 
 # # Use the function
-urls = [ 'https://www.solovelawfirm.com/practice-areas/', 'https://www.solovelawfirm.com/']
+urls = [ 'https://www.newyorkcitydiscriminationlawyer.com/', 'https://www.newyorkcitydiscriminationlawyer.com/team/', 'https://www.newyorkcitydiscriminationlawyer.com/testimonials/']
 ask_questions_to_website(urls)

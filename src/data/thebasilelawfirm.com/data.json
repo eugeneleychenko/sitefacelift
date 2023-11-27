@@ -1,0 +1,31 @@
+{
+    "paragraph": null,
+    "detailsData": "{\n    \"title\": \"Industry Changing Wins\",\n    \"content\": \"The firm has won landmark decisions that have changed the industry, advocating for small public companies and their shareholders. Their victories include altering the application of usury laws to convertible notes.\"\n  },\n  {\n    \"title\": \"Dedicated Legal Team\",\n    \"content\": \"The Basile Law Firm offers clients a dedicated team of attorneys with over 100 years of combined experience. They specialize in complex financial and securities litigation, providing knowledgeable representation.\"\n  },\n  {\n    \"title\": \"Custom Restructuring Programs\",\n    \"content\": \"They provide innovative and custom solutions for public companies, focusing on recapitalization and debt remediation. Their restructuring plans are designed to facilitate growth and capital raising for their clients.\"\n  }",
+    "address": "390 N. Broadway, Ste. 140, Jericho, New York 11753",
+    "phoneNumber": "516-455-1500",
+    "email": "Mark@thebasilelawfirm.com",
+    "linkNames": [
+        "HOME",
+        "ABOUT US",
+        "SERVICES",
+        "MEDIA",
+        "CONTACT",
+        "MORE"
+    ],
+    "companyName": "THE BASILE LAW FIRM P.C.",
+    "subHeading": "Securities and Finance Litigation.",
+    "valueProp": "We represent both private and public companies, and their shareholders, in complex financial and securities litigation in many federal and state courts around the country. We have represented more public companies in  convertible debt litigation than any other firm in the country and regularly work with securities attorneys, corporate attorneys, financial consultants, forensic stock analysis experts and issuer management teams to develop prosecution and defense strategies in dealing with these types of funders and their aggressive actions.",
+    "CTA": "Subscribe for Updates!",
+    "topics": [
+        "Contract Services",
+        "Intellectual Property",
+        "Mergers & Acquisitions",
+        "Restructuring & Debt Remediation",
+        "Securities Litigation",
+        "SPACs and deSPACing",
+        "Defense Based Act Claims"
+    ],
+    "members": "```json\n[\n    {\n        \"name\": \"Mark R. Basile, Esq.\",\n        \"position\": \"Securities Litigation and Corporate Restructuring Attorney\"\n    }\n]\n```",
+    "openHours": null,
+    "testimonalData": "```json\n[{\"text\": \"As a seasoned Tax Attorney, I have stood up for businesses on federal and state tax issues around the country. Taxpayers need a voice and representation when dealing with taxing authorities.\", \"author\": \"Han Boruchov, Esq.\", \"location\": null}, {\"text\": \"Our Dallas Texas office not only handles securities litigation and public company restructuring matters, but we also handle many commercial litigation matters dealing with intellectual property, oil & gas, artificial intelligence and finance.\", \"author\": \"Tyler K. Berger, Esq.\", \"location\": null}, {\"text\": \"Not every conflict can be resolved through negotiation. Many times lawsuits are commenced by aggressive creditors seeking to collect on unconscionable and/or unlawful contracts. It is important to understand the complexities and structure of financial transactions in order to protect your company. That's why we represent dozens of public companies in complex federal and state court litigation\", \"author\": \"Eric J. Benzenberg, Esq.\", \"location\": null}]\n```"
+}

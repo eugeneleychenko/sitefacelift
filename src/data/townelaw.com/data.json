@@ -1,0 +1,35 @@
+{
+    "paragraph": "Call or send us a message to request a FREE case evaluation.",
+    "detailsData": "{\n    \"title\": \"Comprehensive Services\",\n    \"content\": \"The Towne Law Firm, P.C. offers a wide array of legal services ranging from transactional to litigation. They handle matters as small as traffic tickets to complex business disputes.\"\n  },\n  {\n    \"title\": \"Multiple Locations\",\n    \"content\": \"With six offices across New York, Vermont, Massachusetts, and New Jersey, the firm is conveniently accessible. They are equipped to serve clients throughout the Capital Region, New York State, and the Northeast.\"\n  },\n  {\n    \"title\": \"Award-Winning Firm\",\n    \"content\": \"The firm has been recognized as a 2022 Best Lawyers 'Best Law Firms' by U.S. News and has attorneys named to the Super Lawyers and Rising Star lists. Their commitment to excellence is evident in their legal advocacy.\"\n  }",
+    "address": "500 New Karner Road, PO Box 15072, Albany, NY 12205",
+    "phoneNumber": "(518) 452-1800",
+    "email": "info@townelaw.com",
+    "linkNames": [
+        "ABOUT",
+        "CAPABILITIES",
+        "OUR TEAM",
+        "MAKE A PAYMENT",
+        "NEWS",
+        "CAREERS",
+        "LOCATIONS",
+        "CONTACT"
+    ],
+    "companyName": "The Towne Law Firm, P.C.",
+    "subHeading": "Creating Value With Creative Solutions",
+    "valueProp": "Headquartered in Albany, New York, the attorneys and professional staff of The Towne Law Firm, P.C. (TLF) comprise a general practice law firm advising clients and trying cases in a broad range of legal fields. From matters as small as a traffic ticket to the most complex business disputes, you may rely on our experience and availability. Our six offices are in New York, Vermont, Massachusetts, and New Jersey, but the scope of our legal practice ranges from transactional to litigation services. Our team approach ensures our clients are provided with comprehensive service and personalized attention.",
+    "CTA": "Contact Us",
+    "topics": [
+        "Administrative Law",
+        "Alternative Dispute Resolution, Mediation and Arbitration",
+        "Automobile Dealer Representation",
+        "Business Law",
+        "Construction Law",
+        "Corporate Bankruptcy and Business Restructuring",
+        "Environmental Law",
+        "Equine and Gaming Law",
+        "Estate Planning, Administration and Litigation"
+    ],
+    "members": "```json\n[\n    {\n        \"name\": \"Robert H. Cohen\",\n        \"position\": \"Attorney\"\n    },\n    {\n        \"name\": \"Megan L. Bassler\",\n        \"position\": \"Attorney\"\n    },\n    {\n        \"name\": \"Robert H. Coughlin, Jr.\",\n        \"position\": \"Attorney\"\n    },\n    {\n        \"name\": \"Robert E. Cummings\",\n        \"position\": \"Attorney\"\n    }\n]\n```",
+    "openHours": null,
+    "testimonalData": "```json\n[\n    {\n        \"text\": \"The Towne Law Firm represented me for an extensive auto accident. What obviously was a very emotional and traumatic time in my life was mitigated by the extraordinary professionalism, care and thoroughness of the entire legal team. \",\n        \"author\": \"R.K.\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Very good attorneys there and they actually care when they represent you.\",\n        \"author\": \"I.F.\",\n        \"location\": null\n    },\n    {\n        \"text\": \"First-time homebuyer, Shalini made the closing process super easy [with] quick responses and took her time to explain the process and inform us every step of the way.\",\n        \"author\": \"D.S.\",\n        \"location\": null\n    }\n]\n```"
+}

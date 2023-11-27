@@ -1,0 +1,34 @@
+{
+    "paragraph": "Email us for a response",
+    "detailsData": "{\n    \"title\": \"Real Estate Focus\",\n    \"content\": \"Rosenberg & Estis, P.C. is New York City's largest firm focusing solely on real estate, providing comprehensive legal representation to various stakeholders. Their specialization allows for a deep understanding of the industry and tailored solutions.\"\n  },\n  {\n    \"title\": \"Diverse Practice Areas\",\n    \"content\": \"The firm offers full-service representation across numerous real estate-related legal areas, from administrative law to zoning and land use. This breadth of services ensures clients can address all their legal needs within one firm.\"\n  },\n  {\n    \"title\": \"Award-Winning Culture\",\n    \"content\": \"Rosenberg & Estis, P.C. has been recognized on Crain\u2019s 2023 list of Best Places to Work in NYC, highlighting their dedication to a positive work environment. Their commitment to diversity and inclusion fosters a collaborative and supportive culture.\"\n  }",
+    "address": "733 Third Avenue  \nNew York, NY 10017",
+    "phoneNumber": "212-867-6000",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "ABOUT",
+        "ATTORNEYS",
+        "PRACTICE AREAS",
+        "NEWS & EVENTS",
+        "CAREERS",
+        "CONTACT"
+    ],
+    "companyName": "Rosenberg & Estis, P.C.",
+    "subHeading": "New York City's Premier Real Estate Law Firm",
+    "valueProp": "With over 90 attorneys, Rosenberg & Estis, P.C. is New York City\u2019s largest firm focusing solely on real estate. Our full-service firm collaborates on every aspect of real estate to provide comprehensive legal representation to owners, developers, investors and stakeholders.",
+    "CTA": "LEARN MORE",
+    "topics": [
+        "Administrative Law / Rent Regulations",
+        "Construction",
+        "Co-Op / Condo",
+        "Litigation",
+        "Opportunity Zones",
+        "Property Tax (Certiorari)",
+        "Reorganization & Bankruptcy",
+        "State & Federal Court Appeals",
+        "Tax Incentives & Affordable Housing"
+    ],
+    "members": "```json\n[\n    {\n        \"name\": \"Eric S. Askanase\",\n        \"position\": \"Member\"\n    },\n    {\n        \"name\": \"Luise A. Barrack\",\n        \"position\": \"Member\"\n    },\n    {\n        \"name\": \"Daniel M. Bernstein\",\n        \"position\": \"Member\"\n    },\n    {\n        \"name\": \"Matthew S. Blum\",\n        \"position\": \"Member\"\n    }\n]\n```",
+    "openHours": null,
+    "testimonalData": null
+}

@@ -1,0 +1,32 @@
+{
+    "paragraph": "Schedule A Consultation:  (646) 770-3868",
+    "detailsData": "{\n    \"title\": \"Effective Legal Plan\",\n    \"content\": \"Most lawyers plan to win, but The Mandel Law Firm knows how to effectuate the plan. They combine knowledge of the law with practical application to achieve desired results.\"\n  },\n  {\n    \"title\": \"Reputation for Excellence\",\n    \"content\": \"The Mandel Law Firm has earned its reputation one client at a time, focusing on individual attention and aggressive representation. They are committed to their values and clients' success.\"\n  },\n  {\n    \"title\": \"Comprehensive Family Law\",\n    \"content\": \"The firm offers a diverse range of family law services, from high net worth divorce to LGBTQ family law. They provide knowledgeable guidance for traditional and non-traditional family law matters.\"\n  }",
+    "address": "One Grand Central Place  \n60 East 42nd Street, Suite 810  \nNew York, NY 10165",
+    "phoneNumber": "(646) 770-3868",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "PRACTICE AREAS",
+        "ATTORNEY PROFILES",
+        "WHAT CLIENTS SAY",
+        "ABOUT US",
+        "CONTACT"
+    ],
+    "companyName": "Mandel Law Firm",
+    "subHeading": "Helping people just like you navigate Family Law issues every day",
+    "valueProp": "If your family is in crisis or in need of legal help, call us. **The Mandel Law Firm in New York City provides strong yet compassionate representation in all areas of family law.** As experienced trial lawyers, we are ready to fight for you in court if necessary. We promise to aggressively advocate for your interests in a contested divorce, marital property division dispute or any other contentious family law matter.",
+    "CTA": "(646) 770-3868",
+    "topics": [
+        "Adult Sexual Abuse Claims",
+        "Divorce",
+        "Child Support",
+        "Child Custody and Visitation",
+        "Family Law",
+        "Domestic Violence",
+        "Gay & Lesbian Family Law",
+        "Pet Custody"
+    ],
+    "members": "```json\n[\n    {\n        \"name\": \"Steven J. Mandel\",\n        \"position\": \"Founder\"\n    },\n    {\n        \"name\": \"Hon. Jane Pearl (Ret.)\",\n        \"position\": \"Attorney\"\n    },\n    {\n        \"name\": \"Marilyn T Sugarman\",\n        \"position\": \"Attorney\"\n    },\n    {\n        \"name\": \"James Nemia\",\n        \"position\": \"Attorney\"\n    }\n]\n```",
+    "openHours": null,
+    "testimonalData": "```json\n[\n    {\n        \"text\": \"Steve and Ellen Mandel have created not only an outstanding law firm, but a supportive community that feels like a family during what may sometimes feel like the most gut-wrenching, heart-breaking part of your life.\",\n        \"author\": \"Cynthia\",\n        \"location\": null\n    },\n    {\n        \"text\": \"I can't thank you enough for your work thus far on my case. After reading over the affidavit that you prepared, you are dead on with all issues. I find myself very uncomfortable in this whole process. But I know with certainty that I'm in good hands with you and your knowledge.\",\n        \"author\": \"Angel Reed\",\n        \"location\": null\n    },\n    {\n        \"text\": \"I have known Steve for approximately 15 years, and in the time that I've known him he's proven to be an excellent lawyer as well as an admirable person. While I was going through a divorce, I went to Steven for help. He provided swift, efficient assistance, and it was as stress-free and hassle-free as possible.\",\n        \"author\": \"Ric Molina\",\n        \"location\": null\n    }\n]\n```"
+}

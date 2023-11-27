@@ -1,0 +1,32 @@
+{
+    "paragraph": "Call (212) 335-0758",
+    "detailsData": "{\n    \"title\": \"Extensive Experience\",\n    \"content\": \"At Mizrahi Kroub, the attorneys boast over 50 years of collective experience, ensuring knowledgeable and seasoned legal representation. Their track record includes successfully litigating against large corporations and handling high volumes of federal cases.\"\n  },\n  {\n    \"title\": \"Client-Centric Approach\",\n    \"content\": \"The firm prides itself on dedicating time, attention, and resources to each client, regardless of case size. They offer personalized legal services, ensuring that clients feel heard and represented throughout the legal process.\"\n  },\n  {\n    \"title\": \"Impressive Recoveries\",\n    \"content\": \"Mizrahi Kroub has recovered over $1 billion for their clients, demonstrating their commitment to achieving favorable outcomes. Their success spans across 5,000+ cases settled, reflecting their ability to secure justice and compensation for their clients.\"\n  }",
+    "address": "225 Broadway, 39th Floor, New York, NY 10007",
+    "phoneNumber": "(212) 335-0758",
+    "email": "info@mizrahikroub.com",
+    "linkNames": [
+        "ABOUT",
+        "ATTORNEYS",
+        "PRACTICE AREAS",
+        "INSIGHTS",
+        "CONTACT"
+    ],
+    "companyName": "Mizrahi Kroub LLP",
+    "subHeading": "PROTECTING YOUR RIGHTS",
+    "valueProp": "We\u2019re a full-service, plaintiff-side law firm based in New York City\u2019s Financial District. At Mizrahi Kroub, we pride ourselves on protecting the rights of the average consumer and disabled individuals. As your attorneys, we're dedicated to you. This means that our time, attention, and resources are at your disposal, regardless of the size of your case.  \n  \nAs a firm, we\u2019ve successfully litigated large class-action lawsuits against some of the wealthiest corporations in the United States, all while representing the interests of everyday people in smaller individual actions.",
+    "CTA": "Contact Us",
+    "topics": [
+        "Employment Law",
+        "Special Education Law",
+        "Fair Credit Reporting Act",
+        "Americans with Disabilities Act",
+        "Mass Torts",
+        "Class Actions",
+        "Employment Discrimination",
+        "Sexual Harassment",
+        "Workplace Retaliation"
+    ],
+    "members": "```json\n[\n    {\n        \"name\": \"Joseph H. Mizrahi\",\n        \"position\": \"Partner\"\n    },\n    {\n        \"name\": \"Edward Y. Kroub\",\n        \"position\": \"Partner\"\n    },\n    {\n        \"name\": \"Sagar K. Shah\",\n        \"position\": \"Partner\"\n    },\n    {\n        \"name\": \"Ian N. Piasecki\",\n        \"position\": \"Attorney\"\n    }\n]\n```",
+    "openHours": null,
+    "testimonalData": "```json\n[\n    {\n        \"text\": \"I always had such a great experience when working with this group. Joey is super knowledgeable and helpful. He made sure to be very thorough and professional. Definitely recommend!!!\",\n        \"author\": \"Renee M.\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Rare to find a firm so dedicated to their client. I felt heard and represented. Appreciated their patience and advice. Would highly recommend.\",\n        \"author\": \"Lily S.\",\n        \"location\": null\n    },\n    {\n        \"text\": \"I was very pleased with this firm's services. Joseph and Ed were professional and knowledgeable and not only helped me resolve my legal issues, but were patient with me and made sure i understood what was transpiring every step of the way. I highly recommend them and their team.\",\n        \"author\": \"Michael G.\",\n        \"location\": null\n    }\n]\n```"
+}

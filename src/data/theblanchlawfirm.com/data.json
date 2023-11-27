@@ -1,0 +1,33 @@
+{
+    "paragraph": "CALL US NOW",
+    "detailsData": "{\n    \"title\": \"Extensive Legal Experience\",\n    \"content\": \"The Blanch Law Firm's attorneys are well-versed in a variety of criminal charges and offenses, offering a wealth of experience in the legal field. Their team includes knowledgeable partners and professionals with expertise in criminal law.\"\n  },\n  {\n    \"title\": \"Client-Centered Approach\",\n    \"content\": \"The firm prioritizes a compassionate and dedicated approach to each case, ensuring clients feel supported throughout the legal process. Testimonials highlight the firm's commitment to working tirelessly for the best possible outcomes.\"\n  },\n  {\n    \"title\": \"Highly Recognized Firm\",\n    \"content\": \"The Blanch Law Firm has received numerous accolades and awards, showcasing their ethical, professional, and successful legal representation. They are recognized by peers and clients for their exceptional service and results.\"\n  }",
+    "address": "420 Lexington Avenue Suite 1402 POB 1057 New York, NY 10170",
+    "phoneNumber": "212-736-3900",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "ABOUT US",
+        "OUR TEAM",
+        "PRACTICE AREAS",
+        "CONTACT US",
+        "BLOG"
+    ],
+    "companyName": "The Blanch Law Firm",
+    "subHeading": "Solving The Toughest Legal Challenges",
+    "valueProp": "Solving The Toughest Legal Challenges\n\n\u201cThank you. Thank You. Thank You. You saved my son\u2019s life.\u201d - B.D. \u201cThe most ethical, compassionate and professional attorneys.\u201d - Paul \u201cBottom line, they get the job done.\u201d - K. Field",
+    "CTA": "(212) 736-3900 Free Case Evaluation",
+    "topics": [
+        "Criminal Defense",
+        "Securities Defense",
+        "FINRA Defense",
+        "Health Care Controversies",
+        "Government Investigations",
+        "Tax Controversies & Defense",
+        "1983 Actions",
+        "Labor & Employment Disputes",
+        "Antitrust"
+    ],
+    "members": "```json\n[\n    {\n        \"name\": \"Ryan Blanch\",\n        \"position\": \"Lead Attorney\"\n    },\n    {\n        \"name\": \"Robert Pagan\",\n        \"position\": \"Attorney\"\n    },\n    {\n        \"name\": \"Sumeet Sondhi\",\n        \"position\": \"Attorney\"\n    },\n    {\n        \"name\": \"Marianna Drut\",\n        \"position\": \"Attorney\"\n    }\n]\n```",
+    "openHours": null,
+    "testimonalData": "```json\n[\n    {\"text\": \"I would like to thank you for your great job in getting my case finalized. Your professionalism is greatly appreciated. Please be assured that you and your firm will be recommended to my friends, family and associates.\", \"author\": \"D.L.\", \"location\": null},\n    {\"text\": \"The attorneys at the Blanch Law Firm are outstanding. They were totally dedicated to my case, and were willing to work all hours of the day and night, including over holidays in one instance, to ensure the best possible outcome. They’re experienced, skillful and extremely well connected to the legal system. \", \"author\": \"R.M.\", \"location\": null},\n    {\"text\": \"Thank you. Thank you. Thank you. You saved my son’s life.\", \"author\": \"B.D.\", \"location\": null}\n]\n```"
+}

@@ -1,0 +1,32 @@
+{
+    "paragraph": "Call Today: 212-382-1600",
+    "detailsData": "{\n    \"title\": \"Skilled Representation\",\n    \"content\": \"Rapaport Law Firm is a civil litigation boutique with twenty-two years of experience, providing tenacious legal representation in employment law, telecommunications litigation, and matrimonial matters. They are known for handling disputes relating to rooftop cell sites and wireless facilities.\"\n  },\n  {\n    \"title\": \"Diverse Clientele\",\n    \"content\": \"Founder Marc Rapaport takes pride in the diversity of his clientele, representing both individuals and corporate entities in a wide array of civil litigation matters. The firm serves as New York employment lawyers for immigrant employees, demonstrating a commitment to a varied client base.\"\n  },\n  {\n    \"title\": \"Extensive Legal Experience\",\n    \"content\": \"The firm's attorneys, including Marc Rapaport and Meredith Miller, have a track record of successful outcomes in litigation and appeals across employment, commercial, real estate, and telecommunications matters. Their experience includes representing the largest communication providers in New York City.\"\n  }",
+    "address": "80 Eighth Avenue, Suite 206, New York, New York 10011",
+    "phoneNumber": "212-382-1600",
+    "email": "info@rapaportlaw.com",
+    "linkNames": [
+        "ATTORNEYS",
+        "PRACTICE AREAS",
+        "PRESS & NEWS",
+        "RESOURCES",
+        "CONTACT"
+    ],
+    "companyName": "Rapaport Law Firm, PLLC",
+    "subHeading": "New York Employment Lawyers + Commercial Litigators",
+    "valueProp": "Rapaport Law Firm is a civil litigation boutique located in Manhattan. For twenty-two years, we have provided tenacious legal representation in matters involving employment law, telecommunications litigation, and matrimonial matters.",
+    "CTA": "Call Today: 212-382-1600",
+    "topics": [
+        "Overtime and Wage Law",
+        "Sexual Harassment",
+        "FMLA Issues",
+        "Disability Discrimination",
+        "Race Discrimination",
+        "Age Discrimination",
+        "Gender Discrimination",
+        "Pregnancy Discrimination",
+        "Breach of Contract"
+    ],
+    "members": "```json\n[\n    {\n        \"name\": \"Marc Rapaport\",\n        \"position\": \"Partner\"\n    },\n    {\n        \"name\": \"Meredith Miller\",\n        \"position\": \"Of Counsel\"\n    },\n    {\n        \"name\": \"Karina Gulfo\",\n        \"position\": \"Paralegal\"\n    }]\n```",
+    "openHours": null,
+    "testimonalData": null
+}

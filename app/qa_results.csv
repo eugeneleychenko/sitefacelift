@@ -1,12 +1,12 @@
 Question,Answer,QuestionArr
-return the CTA which usually phrases like 'to call or text the contact number for a consultation'.,Call Us Now for a Free Consultation: (212) 675-1125,paragraph
+return the CTA which usually phrases like 'to call or text the contact number for a consultation'.,Contact Your Florida Attorneys Today! 305-224-6617,paragraph
 "
         "" Find 3 advantages that sets this firm apart. organize the objects in this way {
             ""title"": 3-4 word title of the advantage,
             ""content"": 2 sentences talking about the advantage.
             }
             
-           here is an example of an output: ""detailsData"": ""{
+           here is an example of an output: {
     ""title"": ""Nationwide Resources"",
     ""content"": ""The Cochran Firm has offices nationwide with a team of experienced and aggressive personal injury attorneys and criminal defense lawyers. They offer tireless and effective legal representation across the country.""
   },
@@ -17,31 +17,31 @@ return the CTA which usually phrases like 'to call or text the contact number fo
   {
     ""title"": ""Legacy of Excellence"",
     ""content"": ""Founded by legendary attorney Johnnie L. Cochran, Jr., The Cochran Firm continues his mission of providing justice to the wronged and giving a voice to the silenced. They are committed to restoring justice and advocating for individual rights.""
-  }"",
+  }
         
-        ","""detailsData"": [
+        ","[
   {
-    ""title"": ""Experienced Legal Advice"",
-    ""content"": ""The Price Law Firm covers a full range of client needs in New York real estate practice, integrating a solid understanding of local markets with negotiation and litigation strategies. They handle a variety of real estate matters, ensuring thorough preparation and energetic advocacy.""
+    ""title"": ""Well-Respected Firm"",
+    ""content"": ""Attorneys Robert A. Solove and Tracye K. Solove have each earned an AV Preeminent® Rating by Martindale Hubbell® for high ethical standards and professional ability. Their recognition speaks to their commitment to excellence in the legal field.""
   },
   {
-    ""title"": ""Individualized Client Service"",
-    ""content"": ""The firm is committed to providing individualized service, maintaining ready access to the attorney handling the case. They pride themselves on their ability to respond promptly to client questions and concerns.""
+    ""title"": ""Aggressive Litigators"",
+    ""content"": ""The firm takes an aggressive approach to litigation, ensuring they pursue all legal options for their clients. Being proactive and on the offensive allows them to control the resolution of disputes effectively.""
   },
   {
-    ""title"": ""Rent Regulation Expertise"",
-    ""content"": ""Specializing in complex civil litigation, particularly in the controversial area of rent stabilization and rent control, The Price Law Firm has made substantial contributions to the development of this area of law. They offer aggressive representation for both landlords and tenants.""
+    ""title"": ""Hands-On Approach"",
+    ""content"": ""Solove Law Firm is dedicated to being fully involved in all aspects of each case, working to settle issues promptly and effectively. Their hands-on approach ensures personalized and attentive service for every client.""
   }
 ]",detailsData
-What is the address of this firm?,"1115 Broadway, Suite 1053, New York, NY 10010",address
-What is the phone number of this firm?,(212) 675-1125,phoneNumber
-What is the contact email of this firm?,jprice@thepricelawfirmllc.com,email
-"In an array, return in UPPERCASE the navigation items of this site. If the markdown contains several levels, only return the highest level.","[""HOME"", ""ABOUT"", ""RESIDENTIAL"", ""COMMERCIAL"", ""CONTACT"", ""PAY INVOICE"", ""NEWS""]",linkNames
-What is the name of this company?,The Price Law Firm LLC,companyName
-What is the subheading of this company?,Quality Representation in NYC Real Estate Transactions + Litigation,subHeading
-"Near the top of the site, there will a paragraph description about this firm, return it.","The Price Law Firm covers the full range of client needs in our New York real estate practice. We handle condo and co-op sales, rent control tenant succession disputes, commercial leasing, mortgage workouts and any other project, transaction or dispute that relates to real property.",valueProp
-What is the CTA close to the top of the site?,Free Consultation (212) 675-1125,CTA
-"Return 9 practice areas of this law firm, in an array.","[""Landlord-Tenant Law"", ""Commercial Real Estate Law"", ""Residential Real Estate Law"", ""Rent Stabilization & Rent Control"", ""Co-Op & Condo Disputes"", ""Real Estate Closings"", ""Real Estate Administrative Hearings"", ""Commercial Leasing"", ""Commercial Landlord/Tenant Disputes""]",topics
+What is the address of this firm?,"P.O. Box 560608, Miami, Florida 33256",address
+What is the phone number of this firm?,305-224-6617,phoneNumber
+What is the contact email of this firm?,null,email
+"In an array, return in UPPERCASE the navigation items of this site. If the markdown contains several levels, only return the highest level.","[""HOME"", ""ABOUT US"", ""PRACTICE AREAS"", ""REVIEWS AND RATINGS"", ""FAQS"", ""BLOG"", ""CONTACT US"", ""MAP & DIRECTIONS""]",linkNames
+What is the name of this company?,"Solove Law Firm, P.A.",companyName
+What is the subheading of this company?,Accomplished. Dedicated. Experienced.,subHeading
+"Near the top of the site, there will a paragraph description about this firm, return it.","Companies with legal issues need solid representation tailored to the size, industry and goals of their business. Since 1985, Solove Law Firm, P.A. has assisted Miami companies of all sizes resolve complex business litigation matters, including commercial real estate conflicts. With a combined 50 years of experience helping clients in a wide variety of matters, we know how to skillfully assess your situation and develop an approach to obtain the best possible outcome. Whether you are involved in a partnership dispute, looking to enforce a registered trademark, or looking for an attorney to defend you against a defective product claim, we will work closely with you and use our extensive knowledge to fully protect your business interests.",valueProp
+What is the CTA close to the top of the site?,305-224-6617,CTA
+"Return 9 practice areas of this law firm, in an array.","[""Intellectual Property"", ""Business Litigation"", ""Commercial Real Estate Litigation"", ""Products Liability Defense"", ""Business Law"", ""Commercial Collections"", ""Creditor Rights"", ""Commercial Litigation"", ""Commercial Landlord Representation""]",topics
 "
         ( Return, in an array of objects, 4 names of lawyers and their titles. For example [
             {
@@ -53,22 +53,16 @@ What is the CTA close to the top of the site?,Free Consultation (212) 675-1125,C
                 position: ""Associate Attorney"",
             }]
         
-        ","```json
-[
+        ","[
     {
-        ""name"": ""Joshua C. Price"",
-        ""position"": ""Founder""
+        name: ""Robert A. Solove"",
+        position: ""Founding Partner"",
     },
     {
-        ""name"": ""Heather Ticotin"",
-        ""position"": ""Partner""
-    },
-    {
-        ""name"": ""John M. Churneftsky"",
-        ""position"": ""Partner""
+        name: ""Tracye K. Solove"",
+        position: ""Partner Since 1986"",
     }
-]
-```",members
+]",members
  When is the firm open?,null,openHours
 "
           Return 3 testimonials from this site. They should be in an array of objects, including text, author, location. For example """"[

@@ -1,0 +1,32 @@
+{
+    "paragraph": "Get Help Now",
+    "detailsData": "{\n    \"title\": \"Decades of Experience\",\n    \"content\": \"The Frankel Law Firm has over 40 years of experience in handling complex legal cases. They have a legacy of success with precedent-setting and landmark cases.\"\n  },\n  {\n    \"title\": \"Lead Poisoning Expertise\",\n    \"content\": \"They have a specialized focus on lead poisoning cases, having successfully litigated cases that established regulatory liability for landlords. Their expertise has recovered millions for lead poisoning victims.\"\n  },\n  {\n    \"title\": \"Client-Centric Approach\",\n    \"content\": \"The firm offers personalized attention to each case, with client testimonials highlighting their accessibility and dedication. They provide a free consultation and maintain a warm, friendly service throughout the legal process.\"\n  }",
+    "address": "100 Church St 8th Floor, New York City, New York, 10007",
+    "phoneNumber": "(212) 888-5100",
+    "email": null,
+    "linkNames": [
+        "LEAD POISONING",
+        "AREAS OF PRACTICE",
+        "OUR FIRM",
+        "LEGAL NEWS MAGAZINE",
+        "CONTACT US"
+    ],
+    "companyName": "Frankel Law Firm",
+    "subHeading": "A Legacy of Success Built One Case at a Time",
+    "valueProp": "At The Frankel Law Firm, we have the deep experience necessary to win the most complex legal cases. We'll fight to help you secure the compensation you deserve.",
+    "CTA": "Get Help Now",
+    "topics": [
+        "Auto Accidents",
+        "Bicycle Accidents",
+        "Burn Injuries",
+        "Bus Accidents",
+        "Child Injuries",
+        "Construction Accidents",
+        "Crane Accidents",
+        "Defective Products",
+        "Elevator Accidents"
+    ],
+    "members": "```json\n[\n    {\n        \"name\": \"Michael Stewart Frankel\",\n        \"position\": \"Founder / Attorney\"\n    },\n    {\n        \"name\": \"Richard H. Bliss\",\n        \"position\": \"Of Counsel\"\n    },\n    {\n        \"name\": \"Reuven S. Frankel\",\n        \"position\": \"Attorney\"\n    }\n]\n```",
+    "openHours": null,
+    "testimonalData": "```json\n[\n    {\n        \"text\": \"Mr. Frankel headed my team of lawyers in a very complex wrongful firing dispute. The case lasted several years through hearings, appeals, remand, and involved many issues of contract interpretation, defamation and corporate law.\",\n        \"author\": \"William\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Mr. Frankel is knowledgeable, professional, down to earth, and easy to speak to. His team is very accessible and was wonderful to work with. He was recommended to us as brilliant lawyer who gets results and would hold our hand throughout our ordeal, which is exactly what he did.\",\n        \"author\": \"Anonymous\",\n        \"location\": null\n    },\n    {\n        \"text\": \"I went to Michael Frankel, after consultation with other high profile lawyers. All of them refused to take my case, claiming that I could not win. Mr Frankel on the other hand took my case and we won big. I am so grateful to Michael for representing me and recommended him very highly. Anyone who hires him will not regret.\",\n        \"author\": \"Shoshana\",\n        \"location\": null\n    }\n]\n```"
+}

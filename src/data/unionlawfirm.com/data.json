@@ -1,0 +1,36 @@
+{
+    "paragraph": "Call (212) 779-0057 for a consultation.",
+    "detailsData": "{\n    \"title\": \"Extensive Experience\",\n    \"content\": \"Hach & Rose, LLP, boasts a team of attorneys with a combined experience of over 100 years in personal injury law. They have a proven track record of representing New Yorkers and securing significant financial recoveries.\"\n  },\n  {\n    \"title\": \"Personal Commitment\",\n    \"content\": \"The firm promises a personal commitment to each case, ensuring clients never pay fees unless they recover for them. They prioritize prompt communication and provide an honest assessment of each personal injury case.\"\n  },\n  {\n    \"title\": \"Impressive Results\",\n    \"content\": \"Hach & Rose, LLP, has recovered over $500 million for their clients, demonstrating their ability to achieve substantial settlements and verdicts. Their results reflect a dedication to fighting for their clients' rights and interests.\"\n  }",
+    "address": "112 Madison Ave, 10th Floor, New York, NY 10016",
+    "phoneNumber": "(212) 779-0057",
+    "email": null,
+    "linkNames": [
+        "THE FIRM",
+        "PRACTICE AREAS",
+        "VIDEO FAQS",
+        "MUST KNOW INFO",
+        "TESTIMONIALS",
+        "RESULTS",
+        "BLOG",
+        "CONTACT US"
+    ],
+    "companyName": "Hach & Rose, LLP",
+    "subHeading": null,
+    "valueProp": "The New York City personal injury attorneys of Hach & Rose, LLP, are dedicated to vigorously protecting the rights and interests of those who have been hurt due to the negligence or recklessness of another party. For more than a decade, Michael Rose and Gregory Hach have dedicated their careers to representing New Yorkers and have partnered to create a law firm that has recovered well in excess of five hundred million dollars on behalf of their clients. If you have a personal injury claim, contact Michael Rose and Gregory Hach today.",
+    "CTA": "(212) 779-0057",
+    "topics": [
+        "Personal Injury",
+        "Mass Tort Cases",
+        "Construction Injuries",
+        "Social Security Disability",
+        "Sexual Abuse",
+        "Car Accidents",
+        "Truck Accidents",
+        "Motorcycle Accidents",
+        "Premises Liability"
+    ],
+    "members": "```json\n[\n    {\n        \"name\": \"Michael A. Rose\",\n        \"position\": \"Attorney\"\n    },\n    {\n        \"name\": \"Gregory Hach\",\n        \"position\": \"Attorney\"\n    },\n    {\n        \"name\": \"Frank R. Schirripa\",\n        \"position\": \"Attorney\"\n    },\n    {\n        \"name\": \"David R. Cheverie\",\n        \"position\": \"Attorney\"\n    }\n]\n```",
+    "openHours": null,
+    "testimonalData": "```json\n[\n    {\n        \"text\": \"Excellent lawyers! Top notch!!!\",\n        \"author\": \"Becca\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Great lawfirm, with some truly amazing people working. Treat you like family even if that means tough love sometimes. Honest, professional, and thorough. I'll be back if ever needed.\",\n        \"author\": \"Thomas Badzio\",\n        \"location\": null\n    },\n    {\n        \"text\": \"I have worked with Ms. Constance Cooper on a number of cases and I have quite literally never met an attorney who gets as invested in a case as Ms. Cooper. \",\n        \"author\": \"Katryna Spearman\",\n        \"location\": null\n    }\n]\n```"
+    
+}
