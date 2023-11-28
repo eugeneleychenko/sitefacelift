@@ -8,13 +8,13 @@ import { Link } from "react-router-dom";
 import { AppContext } from '../../context/AppContext';
 
 
-const Header = () => {
+function Header({ barHeight }) {
   const {linkNames} = useContext(AppContext);
   const [isActive, setIsActive] = useState(false);
 
 
   return (
-    <div className={styles.header}>
+    <div className={styles.header} style={{ top: `${barHeight}px` }}>
       <Nav />
       <hr />
       <div className={styles.headerStart}>

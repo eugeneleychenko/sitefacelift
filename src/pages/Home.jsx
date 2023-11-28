@@ -20,7 +20,7 @@ function Home({ match }) {
   const { domain } = useParams();
   const [showCTABar, setShowCTABar] = useState(true);
   const [lastScrollY, setLastScrollY] = useState(0);
-  const barHeight = '40px';
+  const barHeight = '40';
 
   useEffect(() => {
     const fetchData = async () => {
@@ -130,10 +130,10 @@ const topics = data.topics;
         {/* <div style={{ paddingTop: barHeight }}> */}
         <div>
           <section>
-            <CTABar ctaText={<span>Love the site? <a href="https://buy.stripe.com/7sI047bvq7lL6n6eV1" target="_blank" rel="noopener noreferrer" style={{color: 'white', textDecoration: 'underline'}}>Buy it here</a></span>} show={showCTABar} barHeight={barHeight} />
+            <CTABar ctaText={<span>Love the site? <a href="https://buy.stripe.com/7sI047bvq7lL6n6eV1" target="_blank" rel="noopener noreferrer" style={{color: 'white', textDecoration: 'underline'}}>Buy it here</a></span>} show={showCTABar} barHeight={`${barHeight}px`} />
            </section>
            <section> 
-            <HeroSection />
+            <HeroSection barHeight={barHeight} />
           </section>
           <section className="container">
             <Knowledge />

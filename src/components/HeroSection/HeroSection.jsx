@@ -18,11 +18,11 @@ import { AppContext } from '../../context/AppContext';
 
 
 
-function HeroSection() {
+function HeroSection({ barHeight }) {
   const {companyName, subHeading } = useContext(AppContext);
   return (
     <div className={styles.heroSection}>
-      <Header />
+      <Header barHeight={barHeight} />
       <Swiper
         spaceBetween={30}
         effect={"fade"}

@@ -32,5 +32,5 @@
     ],
     "members": "```json\n[\n    {\n        \"name\": \"Martin W. Edelman\",\n        \"position\": \"Attorney\"\n    },\n    {\n        \"name\": \"Paul F. Callan\",\n        \"position\": \"Attorney & CNN Legal Analyst\"\n    },\n    {\n        \"name\": \"Danny Cevallos\",\n        \"position\": \"Attorney & Legal Analyst for NBC and MSNBC\"\n    },\n    {\n        \"name\": \"Paul H. Maloney IV\",\n        \"position\": \"Attorney\"\n    }\n]\n```",
     "openHours": null,
-    "testimonalData": "```json\n[\n    {\n        \"text\": \"Personal Injury View Story\",\n        \"author\": null,\n        \"location\": null\n    },\n    {\n        \"text\": \"Construction Injury View Story\",\n        \"author\": null,\n        \"location\": null\n    },\n    {\n        \"text\": \"Motor Vehicle Accident View Story\",\n        \"author\": null,\n        \"location\": null\n    }\n]\n```"
+    "testimonalData": null
 }
