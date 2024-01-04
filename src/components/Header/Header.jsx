@@ -5,13 +5,11 @@ import { CiMenuFries } from "react-icons/ci";
 import { BiSearch } from "react-icons/bi";
 import { RxCross2 } from "react-icons/rx";
 import { Link } from "react-router-dom";
-import { AppContext } from '../../context/AppContext';
-
+import { AppContext } from "../../context/AppContext";
 
 function Header({ barHeight }) {
-  const {linkNames} = useContext(AppContext);
+  const { linkNames } = useContext(AppContext);
   const [isActive, setIsActive] = useState(false);
-
 
   return (
     <div className={styles.header} style={{ top: `${barHeight}px` }}>
@@ -26,7 +24,10 @@ function Header({ barHeight }) {
             <RxCross2 />
           </div>
         </div>
-        <ul className={styles.menuItems} style={{ gap: `${5700 / linkNames.join('').length}px` }}>
+        <ul
+          className={styles.menuItems}
+          style={{ gap: `${5700 / linkNames.join("").length}px` }}
+        >
           {linkNames.map((item, index) => (
             <li key={index}>
               <Link>{item}</Link>
@@ -58,4 +59,3 @@ function Header({ barHeight }) {
 }
 
 export default Header;
-

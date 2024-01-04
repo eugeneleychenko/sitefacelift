@@ -1,8 +1,7 @@
 import React, { useContext } from "react";
 import styles from "./Appointment.module.css";
 import startImg from "../../assets/new-testimonials-stars.png";
-import { AppContext } from '../../context/AppContext';
-
+import { AppContext } from "../../context/AppContext";
 
 function Appointment() {
   const { paragraph } = useContext(AppContext);
@@ -18,7 +17,9 @@ function Appointment() {
         decoding="async"
       />
       <h1>The Right Approach To Your Legal Problem</h1>
-      {paragraph !== "N/A" && <p>{paragraph}</p>}
+      {paragraph && paragraph !== "N/A" && paragraph !== "null" && (
+        <p>{paragraph}</p>
+      )}
       <button className="btn">REQUEST APPOINTMENT</button>
     </div>
   );

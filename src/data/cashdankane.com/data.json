@@ -1,0 +1,35 @@
+{
+  "paragraph": "Call Now For A Consultation 908-264-9331 202-862-4330",
+  "detailsData": "{\n    \"title\": \"Strong Recommendations\",\n    \"content\": \"Cashdan & Kane, PLLC is frequently recommended by former clients and professional colleagues. Firm partners David Cashdan and Michael Kane have each earned an AV Preeminent\u00ae Peer Review Rating by Martindale-Hubbell\u00ae.\"\n},\n{\n    \"title\": \"Assertive Representation\",\n    \"content\": \"The firm aggressively pursues successful results to resolve cases promptly and favorably. They understand the toll employment issues can take and work to address them efficiently.\"\n},\n{\n    \"title\": \"Caring Advocacy\",\n    \"content\": \"Cashdan & Kane, PLLC provides comprehensive labor and employment representation in a caring, professional manner. They build lasting relationships by helping clients anticipate long-term consequences.\"\n}",
+  "address": "226 St. Paul Street, Westfield, New Jersey 07090",
+  "phoneNumber": "908-264-9331",
+  "email": "null",
+  "linkNames": [
+    "HOME",
+    "ABOUT US",
+    "LABOR & EMPLOYMENT",
+    "N.J. EMPLOYMENT LAW",
+    "D.C. EMPLOYMENT LAW",
+    "BLOG",
+    "LOCATIONS",
+    "CONTACT US"
+  ],
+  "companyName": "Cashdan & Kane, PLLC",
+  "subHeading": "Experienced. Knowledgeable. Proficient.",
+  "valueProp": "Labor & employment attorneys serving New Jersey and Washington, D.C. with over 45 years of experience",
+  "CTA": "908-264-9331 202-862-4330",
+  "topics": [
+    "Discrimination & Sexual Harassment",
+    "Wrongful Termination",
+    "Sarbanes-Oxley Act",
+    "Severance Agreements & Employment Contracts",
+    "Wage & Hour Law in N.J.",
+    "Overtime Law in N.J.",
+    "Workplace Harassment FAQs",
+    "LAD Anti-Discrimination Provisions",
+    "Conscientious Employee Protection Act (CEPA)"
+  ],
+  "members": "```json\n[\n    {\n        \"name\": \"David R. Cashdan\",\n        \"position\": \"Attorney\"\n    },\n    {\n        \"name\": \"Michael G. Kane\",\n        \"position\": \"Attorney\"\n    }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Michael gave me some very valuable guidance in my legal matter.\",\n        \"author\": \"Alexander A\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Mr. Kane is a patient listener, very knowledgeable about employment law, and I can trust him to clearly explain terminology and expectations throughout the process. \",\n        \"author\": \"Douglas Larsen\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Went to this location and spoke with Michael Kane.  He was also very flexible with payment which I know is very important to most ppl when they have to hire an attorney. All in all I would say that Mr. Kane is my go-to guy in the unfortunate event that I would need an attorney in the future.\",\n        \"author\": \"Kobe\",\n        \"location\": null\n    }\n]\n```"
+}

@@ -1,0 +1,35 @@
+{
+  "paragraph": "Make an Appointment",
+  "detailsData": "{\"title\":\"Client-Centered Approach\",\"content\":\"Mansell Law listens to clients and tailors their approach to individual needs, working as a team with clients to educate and inform them about the law. They are dedicated to achieving positive results in employment law or unpaid wage cases.\"},{\"title\":\"Comprehensive Legal Services\",\"content\":\"The firm offers a full-service employment law practice covering discrimination, harassment, retaliation, and more. They also handle unpaid wage law, ensuring workers are paid fairly and advocating for their rights in class actions and individual cases.\"},{\"title\":\"Passion for Employment Law\",\"content\":\"Mansell Law is driven by a passion for employment law and the rights of individuals, striving to make a difference in the workplace. Their goal is to ensure fair treatment and full compensation for workers who have faced discrimination or wage violations.\"}",
+  "address": "37-18, 73rd Street, Suite 502, Jackson Heights, NY 11372",
+  "phoneNumber": "+8801711788357",
+  "email": "info@ehsanlaw.com",
+  "linkNames": [
+    "HOME",
+    "LOCATION",
+    "PRACTICES",
+    "SHOP",
+    "ABOUT",
+    "ATTORNEY",
+    "CONTACT",
+    "BLOG"
+  ],
+  "companyName": "Law Office of Ehsan",
+  "subHeading": "Law Office of Ehsan",
+  "valueProp": "Welcome to Law Office of Ehsan\n\nWe are your trusted legal partner offering consulation and processing for a wide of services ranging from US immigration law, family based US Immigration, US employment visa, US investment, US tourist visa, student visa and more.\n\nOur relentless pursuit of justice and unwavering commitment to our clients set us apart as a premier law firm.\n\n  * Exceptional Results\n  * Client-Centric Approach\n  * Comprehensive Expertise\n  * Empathy and Support\n  * International Reach",
+  "CTA": "+8801711-788357",
+  "topics": [
+    "US Family Based Immigration",
+    "US Employment Based Immigration",
+    "Court Cases In The USA",
+    "US Investment Based Immigration",
+    "USA Student Visa",
+    "Asylum In USA",
+    "Aviation Law",
+    "Immigration Law",
+    "Personal Injury Law"
+  ],
+  "members": "```json\n[\n    {\n        \"name\": \"Ehsanur Rahman\",\n        \"position\": \"Licensed to practice law by the Supreme Court of Texas and a member of the State Bar of Texas.\"\n    },\n    {\n        \"name\": \"Samsuzzaman Riton\",\n        \"position\": \"He oversees Marketing and Operations for Law Office of Ehsan.\"\n    }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"The Law Office of Ehsan demonstrated exceptional expertise in Education Law practice. Their prompt and insightful guidance helped resolve my legal issues efficiently. Highly recommended for anyone seeking reliable education law representation.\",\n        \"author\": \"Asadul A.\",\n        \"location\": \"Student\"\n    },\n    {\n        \"text\": \"The Law Office of Ehsan's Criminal Law practice is outstanding. Their skilled attorneys handled my case with utmost proficiency and dedication, achieving the best possible result. Highly recommended for anyone in need of effective criminal defense representation.\",\n        \"author\": \"Anil P.\",\n        \"location\": \"Service Holder\"\n    },\n    {\n        \"text\": \"The Law Office of Ehsan excelled in Aviation Law practice. Their in-depth knowledge and attention to detail were evident throughout my case, resulting in a successful outcome. I highly recommend their services to anyone in need of expert aviation legal representation.\",\n        \"author\": \"Maddy L.\",\n        \"location\": \"Business Owner\"\n    }\n]\n```"
+}

@@ -1,0 +1,27 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n    \"title\": \"Experienced Representation\",\n    \"content\": \"S. Mitnick Law PC specializes in state court insolvency matters, bankruptcy trustee representation, and multi-party preference and collection actions. With over 40 years of experience, they offer dedicated expertise and personal service in both bankruptcy and non-bankruptcy contexts.\"\n},\n{\n    \"title\": \"Cost-Effective Solutions\",\n    \"content\": \"The firm is committed to providing exceptional and cost-effective representation to its clients. They focus on maximizing success and return while ensuring wise and economical legal solutions.\"\n},\n{\n    \"title\": \"Personalized Service\",\n    \"content\": \"Steven J. Mitnick, Esq. and Marc D. Miceli, Esq. lead the firm with a hands-on approach, ensuring that each case receives personal attention. This tailored service is aimed at achieving optimal outcomes for their clients.\"\n}",
+  "address": "Post Office Box 530  \nOldwick, NJ 08858",
+  "phoneNumber": "(908) 572-7275",
+  "email": "smitnick@sm-lawpc.com",
+  "linkNames": [
+    "ABOUT",
+    "PROFESSIONALS",
+    "PRACTICE AREAS",
+    "THOUGHT LEADERSHIP",
+    "CONTACT US"
+  ],
+  "companyName": "S. Mitnick Law PC",
+  "subHeading": "Personal representation, wise solutions",
+  "valueProp": "S. Mitnick Law PC is an insolvency firm, specializing in state court\ninsolvency matters, bankruptcy trustee representation and multi-party\npreference and collection actions. We provide exceptional and cost-effective\nrepresentation to our clients in both bankruptcy and non-bankruptcy contexts.\nIn our 40th year, we continue to bring dedicated experience and personal\nservice to every case.",
+  "CTA": "Contact Us",
+  "topics": [
+    "State Court Insolvency Proceedings",
+    "Trustee Representation",
+
+    "Multi-Party Preference and Collection Actions"
+  ],
+  "members": "```json\n[\n    {\n        \"name\": \"Steven J. Mitnick, Esq.\",\n        \"position\": \"Founder\"\n    },\n    {\n        \"name\": \"Marc D. Miceli, Esq.\",\n        \"position\": \"Of Counsel\"\n    }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "null"
+}

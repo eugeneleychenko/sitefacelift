@@ -1,31 +1,80 @@
-import React from 'react';
-import { Parallax } from 'react-parallax';
-import { Typography, Box } from '@mui/material';
-
-const backgroundImage = 'https://images.unsplash.com/photo-1541421033552-fc06dba2ecd1?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&h=1500&w=2000&fit=clip&fm=jpg';
+import React, { useState, useEffect } from "react";
+import styles from "./Landing.module.css";
 
 const Landing = () => {
+  const [text, setText] = useState("");
+  const [isDeleting, setIsDeleting] = useState(false);
+  const [fontIndex, setFontIndex] = useState(0);
+  const fullText = "Site Refresh";
+  const fonts = [
+    "Pacifico",
+    "Lobster",
+    "Satisfy",
+    "Permanent Marker",
+    "Bangers",
+    "Press Start 2P",
+    "Indie Flower",
+    "Shadows Into Light",
+    "Amatic SC",
+    "Dancing Script",
+  ];
+  const [colorIndex, setColorIndex] = useState(0);
+  const colors = [
+    "red",
+    "blue",
+    "green",
+    "yellow",
+    "purple",
+    "orange",
+    // ... more colors
+  ];
+
+  useEffect(() => {
+    const handleTyping = () => {
+      let currentText = isDeleting
+        ? fullText.slice(0, text.length - 1)
+        : fullText.slice(0, text.length + 1);
+      setText(currentText);
+
+      if (!isDeleting && currentText === fullText) {
+        setTimeout(() => setIsDeleting(true), 2000);
+      } else if (isDeleting && currentText === "") {
+        setIsDeleting(false);
+        setFontIndex((prevFontIndex) => (prevFontIndex + 1) % fonts.length);
+      }
+
+      if (isDeleting && currentText === "") {
+        setColorIndex((prevColorIndex) => (prevColorIndex + 1) % colors.length);
+      }
+    };
+
+    // const typingSpeed = Math.max(100, isDeleting ? 50 : 20);
+    // Increase the typing speeds
+    const typingSpeed = Math.max(50, isDeleting ? 25 : 10);
+    const typingEffect = setTimeout(handleTyping, typingSpeed);
+
+    return () => clearTimeout(typingEffect);
+  }, [text, isDeleting, fonts.length]);
+
   return (
-    <Parallax bgImage={backgroundImage} strength={500}>
-      <Box style={{ height: 500 }}>
-        <Typography variant="h2" align="left">
-          Site Refresh
-        </Typography>
-        <Typography variant="h3">
-          Is your website lacking that "wow" factor? Look no further!
-        </Typography>
-        <Typography variant="h1">
-          Elevate Your Website with Stunning Design
-        </Typography>
-        <Typography variant="h2">
-          Our Approach: Creative Excellence
-        </Typography>
-        <Typography variant="h4">
-          At Site Refresh, we believe that design should be jaw-droppingly beautiful. Our team of expert designers and developers will work closely with you to create a unique and visually stunning website that captures your brand's essence.
-        </Typography>
-        {/* ... Other content ... */}
-      </Box>
-    </Parallax>
+    <div
+      className={styles.animatedText}
+      style={{
+        color: colors[colorIndex],
+        background: "black",
+        fontSize: "2rem",
+        padding: "1rem",
+        textAlign: "center",
+        fontFamily: fonts[fontIndex], // Apply the current font
+        height: "100vh",
+        display: "flex",
+        alignItems: "center",
+        justifyContent: "center",
+        fontSize: "128px",
+      }}
+    >
+      {text}
+    </div>
   );
 };
 

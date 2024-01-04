@@ -71,6 +71,7 @@ def ask_questions_to_website(urls):
             }
             
            here is an example of an output: {\n    \"title\": \"Nationwide Resources\",\n    \"content\": \"The Cochran Firm has offices nationwide with a team of experienced and aggressive personal injury attorneys and criminal defense lawyers. They offer tireless and effective legal representation across the country.\"\n  },\n  {\n    \"title\": \"Diverse Specializations\",\n    \"content\": \"Attorneys at The Cochran Firm specialize in a variety of practice areas including personal injury, civil rights, medical malpractice, and employment discrimination. This allows them to handle a wide range of cases with expert knowledge.\"\n  },\n  {\n    \"title\": \"Legacy of Excellence\",\n    \"content\": \"Founded by legendary attorney Johnnie L. Cochran, Jr., The Cochran Firm continues his mission of providing justice to the wronged and giving a voice to the silenced. They are committed to restoring justice and advocating for individual rights.\"\n  }
+           output data in this specific format, it's a JSON array of objects, each with title and content keys, and then request that the array be converted to a string with proper JSON escaping.
         
         """,
         "What is the address of this firm?",
@@ -97,17 +98,9 @@ def ask_questions_to_website(urls):
         " When is the firm open?",
         
         """
-          Return 3 testimonials from this site. They should be in an array of objects, including text, author, location. For example ""[
-            {
-                text: "Carmen was absolutely wonderful to work with. He was truly honest and I never felt taken advantage of. I can't recommend this law office and Carmen enough.",
-                author: "Jaime Oliver",
-                location: "New York",
-            },
-            {
-                text: "Even after the case we still keep in contact for any question that we still might have, for people who do not speak English I recommend him, he makes sure that the person in the case understands everything that happens in their case.",
-                author: "Atriz R",
-                location: "Manhattan, New York",
-            }]"
+          Return 3 testimonials from this site. They should be in an array of objects, including text, author, location. For example 
+          
+          "```json\n[\n    {\n        \"text\": \"Matt is my go to lawyer. He has been there for me and so many of my teammates over the years.\",\n        \"author\": \"Dwight Gooden\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Matt is a strategic thinker and really knows how to analyze and formulate a litigation game plan.\",\n        \"author\": \"Phil Regan\",\n        \"location\": null\n    },\n    {\n        \"text\": \"I heard other players saying amazing things about Matt and now I know for myself that it's all true as he never quits until the catch is made!\",\n        \"author\": \"Endy Chavez, NY Mets Player\",\n        \"location\": null\n    }\n]\n```"
         """
     ]
     # questions =  "return the CTA which usually phrases like 'to call or text the contact number for a consultation'.",
@@ -156,5 +149,5 @@ def ask_questions_to_website(urls):
         json.dump(json_results, jsonfile, indent=4)
 
 # # Use the function
-urls = [ 'https://www.solovelawfirm.com/practice-areas/', 'https://www.solovelawfirm.com/']
+urls = [ 'https://www.cashdankane.com/', "https://www.cashdankane.com/attorneys/", "https://www.cashdankane.com/practice-areas/labor-and-employment/"]
 ask_questions_to_website(urls)

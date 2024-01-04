@@ -1,0 +1,34 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n    \"title\": \"Multi-Disciplined Services\",\n    \"content\": \"Davidoff Hutcher & Citron LLP offers a full range of legal services, including sophisticated commercial litigation, transactional matters, and government relations. Their diverse practice areas enable them to address complex legal challenges.\"\n  },\n  {\n    \"title\": \"Government Relations Expertise\",\n    \"content\": \"The firm boasts substantial expertise in government relations, with the ability to lobby effectively at local, city, state, and federal levels. This positions them to provide unique perspectives and solutions for clients' specific concerns.\"\n  },\n  {\n    \"title\": \"Experienced Legal Team\",\n    \"content\": \"With a team of over 60 attorneys and professionals across five offices, Davidoff Hutcher & Citron LLP brings a wealth of knowledge and experience. Their seasoned team ensures comprehensive legal services tailored to client needs.\"\n  }",
+  "address": "605 Third Avenue  \nNew York, NY 10158",
+  "phoneNumber": "212.557.7200",
+  "email": "null",
+  "linkNames": [
+    "ABOUT US",
+    "ATTORNEYS & PROFESSIONALS",
+    "PRACTICE AREAS",
+    "NEWS",
+    "INSIGHTS",
+    "LOCATIONS",
+    "CONTACT"
+  ],
+  "companyName": "Davidoff Hutcher & Citron",
+  "subHeading": "Established in 1975, Davidoff Hutcher & Citron LLP is a highly respected law firm.",
+  "valueProp": "Established in 1975, **Davidoff Hutcher & Citron LLP** is a highly respected, multi-disciplined, full-service law firm that helps clients resolve legal and government relations challenges, from the routine to the complex. DHC has five offices located in New York City, Albany, Washington, D.C., White Plains, and Palm Beach, FL. The firm's stellar reputation as a sophisticated commercial litigation firm that is also seasoned in traditional legal transactional matters, solutions-driven government relations, and creative public affairs is unparalleled among middle-market law firms in New York.  DHCs legal team approach, combined with an ability to successfully lobby at the local, city, state, and federal levels enables it to address each client's specific concerns and provide a unique perspective.",
+  "CTA": "212.557.7200",
+  "topics": [
+    "Administrative Law",
+    "Bankruptcy Law",
+    "Cannabis Law",
+    "Commercial Banking & Finance Law",
+    "Commercial Litigation",
+    "Construction Law",
+    "Corporate & Securities Law",
+    "Divorce & Family Law",
+    "Economic Development & Tax Incentives"
+  ],
+  "members": "```json\n[\n    {\n        \"name\": \"Sid Davidoff\",\n        \"position\": \"Founder\"\n    },\n    {\n        \"name\": \"Larry Hutcher\",\n        \"position\": \"Founder and Managing Partner\"\n    },\n    {\n        \"name\": \"Jeffrey Citron\",\n        \"position\": \"Managing Partner\"\n    },\n    {\n        \"name\": \"Howard S. Weiss\",\n        \"position\": \"Senior Partner\"\n    }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "null"
+}

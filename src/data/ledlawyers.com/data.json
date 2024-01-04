@@ -1,0 +1,34 @@
+{
+  "paragraph": "",
+  "detailsData": "{\n    \"title\": \"Client-Centered Approach\",\n    \"content\": \"Ledwidge & Associates listens to clients' unique needs and strategizes based on their goals, ensuring personalized legal solutions. They prioritize clients' requirements and provide affordable solutions with easy payment options.\"\n  },\n  {\n    \"title\": \"Experienced Legal Team\",\n    \"content\": \"With around fifteen years of experience, Joseph Ledwidge and his team handle complex estate and probate cases, offering expert guidance through legal processes. The firm's seasoned attorneys represent clients in various aspects of estate administration and probate.\"\n  },\n  {\n    \"title\": \"Cost-Effective Solutions\",\n    \"content\": \"Understanding the financial burden of legal issues, the firm offers cost-effective probate solutions with convenient payment plans and, when appropriate, contingency fee billing. They strive to keep costs manageable for their clients.\"\n  }",
+  "address": "170 26 Cedarcroft Road Jamaica, New York 11432",
+  "phoneNumber": "+1 718-276-6656",
+  "email": "info@ledwidge1.com",
+  "linkNames": [
+    "HOME",
+    "WHERE DO I BEGIN?",
+    "FIRM OVERVIEW",
+    "PROBATE LAW",
+    "SERVICES OFFERED",
+    "SERVICE AREAS",
+    "CONTACT"
+  ],
+  "companyName": "Ledwidge & Associates",
+  "subHeading": "null",
+  "valueProp": "Ledwidge & Associates, P.C. in New York City has years of experience helping clients create estate plans that fit their needs. We provide knowledgeable guidance and strong advocacy to clients who need an estate plan or are facing probate and estate administration issues throughout Queens, Brooklyn, Manhattan, and elsewhere in NYC. We have the experience and resources to handle your critical legal matters with the utmost care and attention to detail.",
+  "CTA": "Sign Up for Our Free E-Newsletter!",
+  "topics": [
+    "Estate Planning",
+    "Real Estate Disputes",
+    "Guardianship",
+    "Probate-Estate Litigation",
+    "Real Estate-Deed Fraud",
+    "Guardianship Adults & Children",
+    "Estate Planning Trusts",
+    "Matrimonial",
+    "Contesting the Will"
+  ],
+  "members": "```json\n[\n    {\n        \"name\": \"Joseph A. Ledwidge Esq.\",\n        \"position\": \"Managing Partner\"\n    },\n    {\n        \"name\": \"Yakeina Dixon Esq.\",\n        \"position\": \"Associate Counsel\"\n    }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Joseph Ledwidge and his legal team provide the finest legal representation, coupled with a compassionate, supportive, personal touch. Joseph's extensive knowledge of the law, combined with his ability to consistently win judgement in favor of his clients, makes his firm the right choice, every time.\",\n        \"author\": \"Joseph DiStefano\",\n        \"location\": null\n    },\n    {\n        \"text\": \"It was an absolute pleasure working with the Ledwidge law office, Camille, Denise and attorney Joseph are always available and willing to work with your schedule including weekends. Attorney Joseph came highly recommended by a long time friend of mine and the law office exceeded the recommendation.\",\n        \"author\": \"Edgar Richards\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Joseph and his entire staff went above and beyond for us. Joseph gave us expert advice, and his advocacy for us made impossible things happen during our real estate closing. \",\n        \"author\": \"Rachael Calhoun\",\n        \"location\": null\n    }\n]\n```"
+}

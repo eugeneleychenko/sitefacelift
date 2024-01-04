@@ -1,0 +1,24 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n    \"title\": \"Flexible Fee Structures\",\n    \"content\": \"Emergent offers custom-tailored fee structures to suit each client's unique situation, including flat, hourly, contingency, and hybrid arrangements. This approach ensures the best possible value and accommodates various financial circumstances.\"\n},\n{\n    \"title\": \"Bicoastal Legal Service\",\n    \"content\": \"With offices in San Francisco, New York, and Orange County, Emergent provides sophisticated legal counsel across two coasts. They are equipped to represent clients in challenging, high-stakes litigation in multiple jurisdictions.\"\n},\n{\n    \"title\": \"Diverse Industry Expertise\",\n    \"content\": \"The firm boasts experience across a wide range of industries, including insurance, blockchain, financial services, and more. This industry-specific knowledge allows them to provide informed and effective representation for their clients.\"\n}",
+  "address": "535 Mission Street, 14th Floor, San Francisco, CA 94104",
+  "phoneNumber": "(415) 894-9284",
+  "email": "contact@emergent.law",
+  "linkNames": ["HOME", "ABOUT", "TEAM", "FEES", "CONTACT", "WELCOME", "NEWS"],
+  "companyName": "Emergent",
+  "subHeading": "ELEVATED LEGAL REPRESENTATION",
+  "valueProp": "AS BOTH PLAINTIFF AND DEFENSE COUNSEL, WE REPRESENT A DIVERSE GROUP OF\nDOMESTIC AND INTERNATIONAL CLIENTS FROM A WIDE RANGE OF INDUSTRIES IN\nCHALLENGING, HIGH-STAKES LITIGATION IN SAN FRANCISCO, NEW YORK, AND SOUTHERN\nCALIFORNIA.  WE ALSO PROVIDE CORPORATE, FINANCING, AND TRANSACTION ADVICE.",
+  "CTA": "(415) 894-9284",
+  "topics": [
+    "Civil Litigation",
+    "Insurance Coverage & Bad Faith",
+    "Personal Injury",
+    "Real Estate",
+    "Breach of Contract & Business Interference",
+    "Partnership & Corporate Governance Disputes",
+    "Class Action & Mass Torts"
+  ],
+  "members": "```json\n[\n    {\n        \"name\": \"PETER ROLDAN\",\n        \"position\": null\n    },\n    {\n        \"name\": \"SETH ROSENBERG\",\n        \"position\": null\n    },\n    {\n        \"name\": \"JOHNNY YEH\",\n        \"position\": null\n    },\n    {\n        \"name\": \"KEN SZETO\",\n        \"position\": null\n    }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "null"
+}

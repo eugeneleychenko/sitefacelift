@@ -1,5 +1,5 @@
 Question,Answer,QuestionArr
-return the CTA which usually phrases like 'to call or text the contact number for a consultation'.,Contact Your Florida Attorneys Today! 305-224-6617,paragraph
+return the CTA which usually phrases like 'to call or text the contact number for a consultation'.,Call Now For A Consultation 908-264-9331 202-862-4330,paragraph
 "
         "" Find 3 advantages that sets this firm apart. organize the objects in this way {
             ""title"": 3-4 word title of the advantage,
@@ -21,27 +21,27 @@ return the CTA which usually phrases like 'to call or text the contact number fo
         
         ","[
   {
-    ""title"": ""Well-Respected Firm"",
-    ""content"": ""Attorneys Robert A. Solove and Tracye K. Solove have each earned an AV Preeminent® Rating by Martindale Hubbell® for high ethical standards and professional ability. Their recognition speaks to their commitment to excellence in the legal field.""
+    ""title"": ""Strong Recommendations"",
+    ""content"": ""Cashdan & Kane, PLLC is frequently recommended by former clients and professional colleagues. Firm partners David Cashdan and Michael Kane have each earned an AV Preeminent® Peer Review Rating by Martindale-Hubbell®.""
   },
   {
-    ""title"": ""Aggressive Litigators"",
-    ""content"": ""The firm takes an aggressive approach to litigation, ensuring they pursue all legal options for their clients. Being proactive and on the offensive allows them to control the resolution of disputes effectively.""
+    ""title"": ""Assertive Representation"",
+    ""content"": ""The firm aggressively pursues successful results to resolve cases promptly and favorably. They understand the toll employment issues can take and work to address them efficiently.""
   },
   {
-    ""title"": ""Hands-On Approach"",
-    ""content"": ""Solove Law Firm is dedicated to being fully involved in all aspects of each case, working to settle issues promptly and effectively. Their hands-on approach ensures personalized and attentive service for every client.""
+    ""title"": ""Caring Advocacy"",
+    ""content"": ""Cashdan & Kane, PLLC provides comprehensive labor and employment representation in a caring, professional manner. They build lasting relationships by helping clients anticipate long-term consequences.""
   }
 ]",detailsData
-What is the address of this firm?,"P.O. Box 560608, Miami, Florida 33256",address
-What is the phone number of this firm?,305-224-6617,phoneNumber
+What is the address of this firm?,"226 St. Paul Street, Westfield, New Jersey 07090",address
+What is the phone number of this firm?,908-264-9331,phoneNumber
 What is the contact email of this firm?,null,email
-"In an array, return in UPPERCASE the navigation items of this site. If the markdown contains several levels, only return the highest level.","[""HOME"", ""ABOUT US"", ""PRACTICE AREAS"", ""REVIEWS AND RATINGS"", ""FAQS"", ""BLOG"", ""CONTACT US"", ""MAP & DIRECTIONS""]",linkNames
-What is the name of this company?,"Solove Law Firm, P.A.",companyName
-What is the subheading of this company?,Accomplished. Dedicated. Experienced.,subHeading
-"Near the top of the site, there will a paragraph description about this firm, return it.","Companies with legal issues need solid representation tailored to the size, industry and goals of their business. Since 1985, Solove Law Firm, P.A. has assisted Miami companies of all sizes resolve complex business litigation matters, including commercial real estate conflicts. With a combined 50 years of experience helping clients in a wide variety of matters, we know how to skillfully assess your situation and develop an approach to obtain the best possible outcome. Whether you are involved in a partnership dispute, looking to enforce a registered trademark, or looking for an attorney to defend you against a defective product claim, we will work closely with you and use our extensive knowledge to fully protect your business interests.",valueProp
-What is the CTA close to the top of the site?,305-224-6617,CTA
-"Return 9 practice areas of this law firm, in an array.","[""Intellectual Property"", ""Business Litigation"", ""Commercial Real Estate Litigation"", ""Products Liability Defense"", ""Business Law"", ""Commercial Collections"", ""Creditor Rights"", ""Commercial Litigation"", ""Commercial Landlord Representation""]",topics
+"In an array, return in UPPERCASE the navigation items of this site. If the markdown contains several levels, only return the highest level.","[""HOME"", ""ABOUT US"", ""LABOR & EMPLOYMENT"", ""N.J. EMPLOYMENT LAW"", ""D.C. EMPLOYMENT LAW"", ""BLOG"", ""LOCATIONS"", ""CONTACT US""]",linkNames
+What is the name of this company?,"Cashdan & Kane, PLLC",companyName
+What is the subheading of this company?,Experienced. Knowledgeable. Proficient.,subHeading
+"Near the top of the site, there will a paragraph description about this firm, return it.","Labor & employment attorneys serving New Jersey and Washington, D.C. with over 45 years of experience",valueProp
+What is the CTA close to the top of the site?,908-264-9331 202-862-4330,CTA
+"Return 9 practice areas of this law firm, in an array.","[""Discrimination & Sexual Harassment"", ""Wrongful Termination"", ""Sarbanes-Oxley Act"", ""Severance Agreements & Employment Contracts"", ""Wage & Hour Law in N.J."", ""Overtime Law in N.J."", ""Workplace Harassment FAQs"", ""LAD Anti-Discrimination Provisions"", ""Conscientious Employee Protection Act (CEPA)""]",topics
 "
         ( Return, in an array of objects, 4 names of lawyers and their titles. For example [
             {
@@ -53,16 +53,18 @@ What is the CTA close to the top of the site?,305-224-6617,CTA
                 position: ""Associate Attorney"",
             }]
         
-        ","[
+        ","```json
+[
     {
-        name: ""Robert A. Solove"",
-        position: ""Founding Partner"",
+        ""name"": ""David R. Cashdan"",
+        ""position"": ""Attorney""
     },
     {
-        name: ""Tracye K. Solove"",
-        position: ""Partner Since 1986"",
+        ""name"": ""Michael G. Kane"",
+        ""position"": ""Attorney""
     }
-]",members
+]
+```",members
  When is the firm open?,null,openHours
 "
           Return 3 testimonials from this site. They should be in an array of objects, including text, author, location. For example """"[
@@ -76,4 +78,20 @@ What is the CTA close to the top of the site?,305-224-6617,CTA
                 author: ""Atriz R"",
                 location: ""Manhattan, New York"",
             }]""
-        ",null,testimonalData
+        ","[
+    {
+        text: ""Michael gave me some very valuable guidance in my legal matter."",
+        author: ""Alexander A"",
+        location: null
+    },
+    {
+        text: ""Mr. Kane is a patient listener, very knowledgeable about employment law, and I can trust him to clearly explain terminology and expectations throughout the process. He is compassionate, professional and very responsive to inquiries, and the office billing processes were seamless."",
+        author: ""Douglas Larsen"",
+        location: null
+    },
+    {
+        text: ""Went to this location and spoke with Michael Kane. He was a very nice guy and didn’t make me feel like I was doing something wrong by contacting an attorney. He was open to hearing everything that has been happening to me over the years and He was very honest and upfront throughout the various meetings that we’ve had. Mr. Kane stayed on top of deadlines,paperwork and meetings. He was also very flexible with payment which I know is very important to most ppl when they have to hire an attorney. All in all I would say that Mr. Kane is my go-to guy in the unfortunate event that I would need an attorney in the future."",
+        author: ""Kobe"",
+        location: null
+    }
+]",testimonalData
