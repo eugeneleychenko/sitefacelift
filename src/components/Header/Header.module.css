@@ -95,13 +95,17 @@
   .mobileMenu {
     display: block;
     position: absolute;
-    left: -500px;
+    left: 0px;
     top: 80px;
     background: white;
     width: 100%;
-    padding: 50px;
+    padding: 0 50px;
     opacity: 0;
-    visibility: hidden;
+    visibility: visible;
+    opacity: 1;
+    height: 0;
+    overflow: hidden;
+
     transition: 0.3s ease-out;
     -webkit-transition: 0.3s ease-out;
     -moz-transition: 0.3s ease-out;
@@ -137,7 +141,13 @@
 
   .mobileMenu.active {
     left: 0px;
+    height: 327px;
+    padding: 50px;
     opacity: 1;
     visibility: visible;
+  }
+  .headerStart {
+    padding-inline: 5%;
+    justify-content: end;
   }
 }

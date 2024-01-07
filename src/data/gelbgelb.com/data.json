@@ -1,0 +1,32 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n    \"title\": \"Experienced Trial Lawyers\",\n    \"content\": \"Gelb & Gelb LLP has tried over 150 cases combined, developing the knowledge and skills necessary to formulate a cost-effective strategy for clients.\"\n  },\n  {\n    \"title\": \"Strong Reputation in Legal Community\",\n    \"content\": \"Gelb & Gelb LLP has a strong reputation for vigorous and cost-effective representation of clients in civil litigation, criminal defense, regulatory proceedings, and student misconduct cases.\"\n  },\n  {\n    \"title\": \"High-Quality Legal Services\",\n    \"content\": \"Gelb & Gelb LLP provides quality legal services at affordable rates, working hard to protect clients' best interests and impact on their livelihoods.\"\n  }",
+  "address": "900 Cummings Center, Suite 207-V, Beverly, MA 01915",
+  "phoneNumber": "877-867-0034",
+  "email": "null",
+  "linkNames": [
+    "Home",
+    "Our Firm",
+    "Our Team",
+    "Practice Areas",
+    "Publications & Seminars",
+    "Contact",
+    "Office Locations"
+  ],
+  "companyName": "Gelb & Gelb LLP",
+  "subHeading": "Representing Clients in Massachusetts & New York",
+  "valueProp": "Gelb & Gelb LLP has built a strong reputation for its vigorous and cost-effective representation of its clients in civil litigation, criminal defense, regulatory proceedings, and student misconduct cases. Gelb & Gelb LLP is experienced in handling cases involving complex factual and legal issues, many of which require managing voluminous documents and electronically stored information.",
+  "CTA": "Contact Us",
+  "topics": [
+    "Business Litigation",
+    "Securities Litigation",
+    "Criminal Defense",
+    "Regulatory Proceedings",
+    "Academic & Student Misconduct Defense",
+    "Domestic Relations / Family Law",
+    "Probate Litigation / Estate Disputes"
+  ],
+  "members": "```json\n[\n    {\n        \"name\": \"Gail Kleven Gelb, Esquire\",\n        \"position\": \"Attorney\"\n    },\n    {\n        \"name\": \"Richard M. Gelb, Esquire\",\n        \"position\": \"Attorney\"\n    },\n    {\n        \"name\": \"Daniel K. Gelb, Esquire\",\n        \"position\": \"Attorney\"\n    },\n    {\n        \"name\": \"Natassja S. Reese\",\n        \"position\": \"Accountant, Office Manager\"\n    }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Gelb & Gelb LLP has been serving clients since 1987. We value our relationships with our clients and strive to meet the highest standards of service, communication, and transparency.\",\n        \"author\": null,\n        \"location\": null\n    },\n    {\n        \"text\": \"Our team will get to know you, your concerns and your individual situation. We examine all aspects of your case and will answer any questions you have about your rights and legal options.\",\n        \"author\": null,\n        \"location\": null\n    },\n    {\n        \"text\": \"Our tactical and comprehensive approach to complicated matters provide our clients with a feeling of confidence in our services.\",\n        \"author\": null,\n        \"location\": null\n    }\n]\n```"
+}

@@ -57,6 +57,7 @@
   animation: fadeUpImg 1.5s ease-in-out;
   -webkit-animation: fadeUpImg 1.5s ease-in-out;
 }
+
 @keyframes fadeUpImg {
   0% {
     opacity: 0;
@@ -119,5 +120,13 @@
   .sliderContent img {
     width: 300px;
     margin-top: -50px;
+  }
+}
+@media (max-width: 690px) {
+  .sliderContent h1 {
+    line-height: 60px;
+    letter-spacing: -3px;
+    font-weight: 400;
+    font-size: 60px;
   }
 }

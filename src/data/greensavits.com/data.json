@@ -1,0 +1,51 @@
+{
+  "paragraph": "To call or text the contact number for a consultation.",
+  "detailsData": "{\n  \"title\": \"Diverse Legal Expertise\",\n  \"content\": \"Our firm has a proven track record of successfully representing clients in a wide range of legal matters, including complex litigation, arbitration, and mediation. We are dedicated to providing high-quality legal services and achieving favorable outcomes for our clients.\"\n},\n{\n  \"title\": \"Recognized Legal Professionals\",\n  \"content\": \"Our attorneys have been consistently recognized as top legal professionals by reputable publications and organizations. We have earned a strong reputation for our expertise and commitment to excellence in the legal field.\"\n},\n{\n  \"title\": \"Client-Centered Approach\",\n  \"content\": \"We prioritize personalized attention and care for each of our clients, ensuring that their unique legal needs are met with compassion and dedication. Our client-centered approach is aimed at providing the highest level of support and guidance throughout the legal process.\"\n}",
+  "address": "25B Vreeland Road, Suite 207, Florham Park, NJ 07932",
+  "phoneNumber": "973-695-7777",
+  "email": "null",
+  "linkNames": [
+    "HOME",
+    "OUR FIRM",
+    "OUR TEAM",
+    "PRACTICE AREAS",
+    "PUBLICATIONS & SEMINARS",
+    "CONTACT",
+    "OFFICE"
+  ],
+  "companyName": "Green Savits, LLC",
+  "subHeading": "The Employee Rights Advocates",
+  "valueProp": "We at Green Savits, LLC have the experience and expertise in handling legal\nmatters in all areas of Labor & Employment Law. As employee rights advocates,\nour New Jersey-based law firm is committed to providing clients with reliable\nservice every step of the way. We serve employees rights who are being treated\nunjustly in the workplace, whether through discrimination, harassment,\nretaliation, wage and overtime disputes, salary misclassification, wrongful\ntermination, unlawful conduct, and many more. Based in Florham Park, we are\nfamiliar with the courts throughout all of New Jersey. If you are suffering\nfrom unjust treatment by your employer, you can rest assured that our\nemployment law attorneys at Green Savits, LLC will provide sound legal advise\nand representation, so you can successfully receive the compensation and\njustice that you deserve whether through counseling, direct negotiations, or\nlitigation. We are geared towards helping you get your life back on track.",
+  "CTA": "Request a Consultation",
+  "topics": [
+    "Workplace Discrimination",
+    "Workplace Harassment And Hostile Work Environment",
+    "Whistleblower Retaliation",
+    "Family Medical Leave",
+    "Wage & Hour Violations",
+    "Wrongful Discharge",
+    "Employment Contract Law",
+    "Restrictive Covenants and Non-Compete Agreements",
+    "Severance Pay Agreements"
+  ],
+  "members": [
+    {
+      "name": "Glen Savits",
+      "position": "Partner"
+    },
+    {
+      "name": "Jon Green",
+      "position": "Partner"
+    },
+    {
+      "name": "Laura LoGiudice",
+      "position": "Attorney"
+    },
+    {
+      "name": "Sara Kaplan",
+      "position": "Attorney"
+    }
+  ],
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Jon Green is a superb attorney with high integrity and empathy. Jon kindly responded to me and took my case when I was at a most difficult time. \",\n        \"author\": \"Nancy Z.\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Using superb litigation skills during our meditation and its aftermath, Attorneys Glen Savits and Laura LoGiudice effectively resolved my five year case vs my former Fortune 100 employer.  \",\n        \"author\": \"Client\",\n        \"location\": null\n    },\n    {\n        \"text\": \"I heard other players saying amazing things about Matt and now I know for myself that it's all true as he never quits until the catch is made!\",\n        \"author\": \"Endy Chavez, NY Mets Player\",\n        \"location\": null\n    }\n]\n```"
+}

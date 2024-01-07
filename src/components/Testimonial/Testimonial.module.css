@@ -1,7 +1,7 @@
 .testimonial {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-template-rows: 500px;
+  grid-template-rows: 700px;
 }
 .testimonialLeft {
   height: 100%;
@@ -56,4 +56,35 @@
   letter-spacing: 1px;
   font-weight: 600;
   color: #99794c;
+}
+@media (max-width: 1500px) {
+  .testimonial {
+    grid-template-rows: 600px;
+  }
+}
+@media (max-width: 1200px) {
+  .testimonial {
+    display: flex;
+    /* height: 1270px; */
+    flex-direction: column;
+  }
+  .testimonialRight {
+    height: 550px;
+  }
+}
+@media (max-width: 880px) {
+  .content h1 {
+    font-size: 27px;
+    line-height: 1.36667em;
+  }
+}
+@media (max-width: 660px) {
+  .testimonialRight {
+    height: 650px;
+  }
+}
+@media (max-width: 450px) {
+  .testimonialRight {
+    height: 750px;
+  }
 }

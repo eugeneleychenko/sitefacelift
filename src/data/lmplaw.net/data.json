@@ -1,0 +1,50 @@
+{
+  "paragraph": "Call or text the contact number for a consultation.",
+  "detailsData": "{\n    \"title\": \"Global Representation\",\n    \"content\": \"LM&P represents clients globally, as well as domestically, primarily in Connecticut, Florida, Massachusetts, New Jersey, New York, and Rhode Island. This global reach allows them to handle a wide range of legal matters for clients around the world.\"\n},\n{\n    \"title\": \"Extensive Experience in Maritime Law\",\n    \"content\": \"LM&P has worked for and has been approved by most of the world's P&I clubs and various domestic underwriters. They represent vessel owners and charterers from every corner of the globe, showcasing their deep expertise in maritime law.\"\n},\n{\n    \"title\": \"Local Counsel Services\",\n    \"content\": \"LM&P attorneys are routinely engaged as local counsel for out-of-state attorneys for litigation and other legal matters. This local expertise and support make them a valuable resource for attorneys and clients outside of their primary areas of operation.\"\n}",
+  "address": "1599 Post Road East, Westport, Connecticut 06880",
+  "phoneNumber": "203-256-8600 / 203-255-5700",
+  "email": "info@lmplaw.net",
+  "linkNames": [
+    "HOME",
+    "ABOUT US",
+    "ATTORNEYS",
+    "ADMINISTRATIVE STAFF",
+    "PRACTICE AREAS",
+    "CONTACT US"
+  ],
+  "companyName": "Lennon Murphy & Phillips, LLC",
+  "subHeading": "THE  CONSCIENTIOUS  ADVOCATES  OF LM&P",
+  "valueProp": "Dedicated to helping clients overcome obstacles and seize opportunities through the practical application of the law, consistently provide high level service through litigation, arbitration, mediation, negotiation, or by developing pragmatic solutions to complex problems. We are seasoned in our respective fields, possess a unique set of experiences and strengths, are goal-oriented and strive to achieve the best possible outcome in an efficient and cost-effective manner. And, we are large enough to handle complex litigation and casualty response, yet small enough to be personally accessible.  \n  \nLM&P maintains offices in New York City and Southport, Connecticut and represents clients globally, as well as domestically, primarily in Connecticut, Florida, Massachusetts, New Jersey, New York and Rhode Island.",
+  "CTA": "Contact Us",
+  "topics": [
+    "Admiralty & Maritime",
+    "Alternative Dispute Resolution",
+    "Civil, Commercial & Probate Litigation",
+    "Commodities & Energy Trade",
+    "Corporate Law & Business Transactions",
+    "Elder Law",
+    "Trust and Estate Planning",
+    "Family Law & Domestic Relations",
+    "Insurance law"
+  ],
+  "members": [
+    {
+      "name": "Patrick F. Lennon",
+      "position": "Partner"
+    },
+    {
+      "name": "Kevin J. Lennon",
+      "position": "Of Counsel"
+    },
+    {
+      "name": "Tracy Wheeler Lennon",
+      "position": "Partner"
+    },
+    {
+      "name": "Charles E. Murphy",
+      "position": "Partner"
+    }
+  ],
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Thanks for helping me vent on many occasions. You really did help me through some very difficult times. You were straight with me all the time and didn\u2019t sugar coat anything. You are a true professional with a heart. I will recommend you to anyone I hear with probate troubles.\",\n        \"author\": \"client of Neil Phillips\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Thank you for all of your kindness and smart \u2018lawyering\u2019 over these past few years.\",\n        \"author\": \"Sheila S.\",\n        \"location\": null\n    },\n    {\n        \"text\": \"There is an old Chinese saying that I\u2019ve always loved: \u201cWhen you drink the water, don\u2019t forget who helped you dig the well.\u201d A special thanks to you for helping me dig my well! I just want you to know that I sincerely appreciate all you did for us and I am grateful for it. Thanks from the bottom of my heart.\",\n        \"author\": \"From one of Chuck Murphy\u2019s clients\",\n        \"location\": null\n    }\n]\n```"
+}

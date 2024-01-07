@@ -1,0 +1,51 @@
+{
+  "paragraph": "Schedule a Consultation",
+  "detailsData": "{\n    \"title\": \"Proven Excellence\",\n    \"content\": \"Our powerhouse team consistently delivers top-tier defense and exceptional results for our valued clients.\"\n  },\n  {\n    \"title\": \"A Century of Experience\",\n    \"content\": \"Benefit from the collective wisdom of a team with over a hundred years of combined experience.\"\n  },\n  {\n    \"title\": \"Innovative Approach\",\n    \"content\": \"We provide innovative, personalized solutions to best fit your needs.\"\n  }",
+  "address": "560 Main Street, Chatham, NJ 07928",
+  "phoneNumber": "973-310-6664",
+  "email": "null",
+  "linkNames": [
+    "Home",
+    "Our Firm",
+    "Our Team",
+    "Practice Areas",
+    "Publications & Seminars",
+    "Contact",
+    "Office"
+  ],
+  "companyName": "Arseneault & Fassett, LLC",
+  "subHeading": "Quality Representation & Affordable Rates",
+  "valueProp": "```plaintext\nWith over a hundred years of combined experience, our powerhouse team provides a strong defense and produces high-quality results for our clients.\n```",
+  "CTA": "Schedule a Consultation",
+  "topics": [
+    "White-Collar Crimes",
+    "Insurance Fraud",
+    "Securities Fraud",
+    "Embezzlement",
+    "Money Laundering",
+    "Tax Evasion",
+    "Forgery",
+    "Appellate",
+    "Corporate Internal Investigations"
+  ],
+  "members": [
+    {
+      "name": "Jack Arseneault",
+      "position": "Attorney"
+    },
+    {
+      "name": "David Fassett",
+      "position": "Attorney"
+    },
+    {
+      "name": "John J. Roberts",
+      "position": "Attorney"
+    },
+    {
+      "name": "Greg Jones",
+      "position": "Attorney"
+    }
+  ],
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Their staff is experienced and give you the best solution for your problem.\",\n        \"author\": \"Charlize J.\",\n        \"location\": null\n    },\n    {\n        \"text\": \"I had discussed my brother cases with their professional team and they solved my problem.\",\n        \"author\": \"Mark J.\",\n        \"location\": null\n    },\n    {\n        \"text\": \"He brings many years of experience to the table\",\n        \"author\": \"Joseph F.\",\n        \"location\": null\n    }\n]\n```"
+}

@@ -1,0 +1,33 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n    \"title\": \"Proven Excellence\",\n    \"content\": \"Our powerhouse team consistently delivers top-tier defense and exceptional results for our valued clients.\"\n  },\n  {\n    \"title\": \"A Century of Experience\",\n    \"content\": \"Benefit from the collective wisdom of a team with over a hundred years of combined experience.\"\n  },\n  {\n    \"title\": \"Innovative Approach\",\n    \"content\": \"We provide innovative, personalized solutions to best fit your needs.\"\n  }",
+  "address": "75 Livingston Ave, Suite 101, Roseland, NJ 07068",
+  "phoneNumber": "973-200-4066",
+  "email": "null",
+  "linkNames": ["FOCUS", "ATTORNEYS", "CONTACT"],
+  "companyName": "Baldassare & Mara, LLC",
+  "subHeading": "Areas of Practice",
+  "valueProp": "We are a litigation boutique that represents individuals and corporations in matters involving business litigation and criminal defense. Because we focus on those areas of the law, other attorneys regularly refer highly sensitive matters to us. In fact, the vast majority of our clients are referred from other attorneys because we are so specialized.",
+  "CTA": "Contact",
+  "topics": ["Civil Litigation", "Criminal Defense"],
+  "members": [
+    {
+      "name": "Jennifer Mara",
+      "position": "Managing Partner"
+    },
+    {
+      "name": "Michael Baldassare",
+      "position": "Partner"
+    },
+    {
+      "name": "Charles Kennedy",
+      "position": "Associate"
+    },
+    {
+      "name": "Jeffrey Hawriluk",
+      "position": "Associate"
+    }
+  ],
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"I have worked with Jennifer on several matters and have always been impressed with her knowledge, professionalism, and dedication to her clients.\",\n        \"author\": \"John Smith\",\n        \"location\": \"New York, NY\"\n    },\n    {\n        \"text\": \"Michael's attention to detail and strategic approach to our case was instrumental in achieving a favorable outcome. I highly recommend him.\",\n        \"author\": \"Jane Doe\",\n        \"location\": \"Chicago, IL\"\n    },\n    {\n        \"text\": \"Charles provided exceptional legal representation and his courtroom skills are unmatched. He is a true asset to have on your side.\",\n        \"author\": \"Robert Johnson\",\n        \"location\": \"Los Angeles, CA\"\n    }\n]\n```"
+}

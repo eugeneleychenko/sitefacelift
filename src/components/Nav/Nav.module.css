@@ -20,13 +20,13 @@
   gap: 10px;
 }
 
-.navRight a{
+.navRight a {
   font-size: 16px;
   font-weight: 300;
 }
 
 @media (max-width: 1250px) {
-  .nav{
+  .nav {
     display: none;
   }
 }

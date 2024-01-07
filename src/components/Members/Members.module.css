@@ -73,3 +73,19 @@
     border: 1px solid white;
   }
 }
+@media (max-width: 1200px) {
+  .members {
+    grid-template-columns: 2fr 2fr;
+    gap: 5px;
+  }
+
+  .card {
+    display: flex;
+  }
+}
+@media (max-width: 680px) {
+  .members {
+    grid-template-columns: 1fr;
+    gap: 5px;
+  }
+}

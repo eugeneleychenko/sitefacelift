@@ -1,0 +1,51 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n  \"title\": \"Diverse Legal Expertise\",\n  \"content\": \"Our firm has a proven track record of successfully representing clients in a wide range of legal matters, including complex litigation, arbitration, and mediation. We are dedicated to providing high-quality legal services and achieving favorable outcomes for our clients.\"\n},\n{\n  \"title\": \"Recognized Legal Professionals\",\n  \"content\": \"Our attorneys have been consistently recognized as top legal professionals by reputable publications and organizations. We have earned a strong reputation for our expertise and commitment to excellence in the legal field.\"\n},\n{\n  \"title\": \"Client-Centered Approach\",\n  \"content\": \"We prioritize personalized attention and care for each of our clients, ensuring that their unique legal needs are met with compassion and dedication. Our client-centered approach is aimed at providing the highest level of support and guidance throughout the legal process.\"\n}",
+  "address": "One Liberty Plaza, 165 Broadway, 23rd Floor, New York, NY 10006-1404",
+  "phoneNumber": "(212) 321-7075",
+  "email": "null",
+  "linkNames": [
+    "HOME",
+    "OUR FIRM",
+    "OUR TEAM",
+    "PRACTICE AREAS",
+    "PUBLICATIONS & SEMINARS",
+    "CONTACT",
+    "OFFICE"
+  ],
+  "companyName": "Ritz Clark & Ben-Asher LLP",
+  "subHeading": "Strategic Employment Lawyers",
+  "valueProp": "Ritz Clark & Ben-Asher LLP is a law firm of highly experienced lawyers dedicated to representing people experiencing employment-related legal problems. Each of our lawyers has over twenty-five years of experience representing clients in employment law matters, and our firm is nationally known for its work.",
+  "CTA": "Consulting with Ritz Clark & Ben-Asher LLP",
+  "topics": [
+    "Wrongful Termination",
+    "Discrimination",
+    "Sexual Harassment",
+    "Retaliation",
+    "Whistleblower",
+    "Employment Contracts",
+    "Severance Agreements",
+    "Mediation",
+    "Training"
+  ],
+  "members": [
+    {
+      "name": "Jonathan Ben-Asher",
+      "position": "Partner"
+    },
+    {
+      "name": "Miriam F. Clark",
+      "position": "Partner"
+    },
+    {
+      "name": "Susan Ritz",
+      "position": "Senior Counsel"
+    },
+    {
+      "name": "Tatiana Criucova",
+      "position": "Paralegal"
+    }
+  ],
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"I have worked with Ritz Clark & Ben-Asher LLP for many years and have always been impressed with their dedication and expertise.\",\n        \"author\": \"John Smith\",\n        \"location\": \"New York, NY\"\n    },\n    {\n        \"text\": \"Ritz Clark & Ben-Asher LLP provided me with exceptional legal representation during a challenging employment dispute. I highly recommend their services.\",\n        \"author\": \"Jane Doe\",\n        \"location\": \"Chicago, IL\"\n    },\n    {\n        \"text\": \"I am grateful for the support and guidance I received from Ritz Clark & Ben-Asher LLP. They are truly strategic employment lawyers.\",\n        \"author\": \"David Johnson\",\n        \"location\": \"Los Angeles, CA\"\n    }\n]\n```"
+}

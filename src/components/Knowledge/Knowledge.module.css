@@ -21,3 +21,25 @@
   margin-top: 25px;
   color: black;
 }
+@media (max-width: 1200px) {
+  .knowledge {
+    display: flex;
+    max-width: 86%;
+    flex-direction: column;
+    margin: 100px auto;
+  }
+  .knowledgeLeft h1 {
+    margin-top: 10px;
+    font-size: 40px;
+    line-height: 1.22449em;
+    font-weight: 400;
+  }
+  .knowledgeRight p {
+    margin-top: 26px;
+  }
+}
+@media (max-width: 768px) {
+  .knowledge {
+    margin-bottom: 50px;
+  }
+}

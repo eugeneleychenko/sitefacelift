@@ -19,6 +19,24 @@
   font-size: 50px;
 }
 
-.lists div a:hover h1{
+.lists div a:hover h1 {
   color: #99794c;
+}
+
+@media (max-width: 1200px) {
+  .lists {
+    padding-block: 73px;
+    max-width: 86%;
+    margin: auto;
+  }
+  .lists div h1 {
+    font-size: 40px;
+  }
+}
+
+@media (max-width: 680px) {
+  .lists div h1 {
+    line-height: 1.2em;
+    font-size: 35px;
+  }
 }

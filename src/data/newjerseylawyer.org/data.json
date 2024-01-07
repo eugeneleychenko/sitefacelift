@@ -1,0 +1,52 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n  \"title\": \"Extensive Trial Experience\",\n  \"content\": \"The firm has successfully fought for clients in hundreds of trials and appeals, including many successful Supreme Court decisions. Their extensive trial experience sets them apart as widely respected and successful legal practitioners.\"\n},\n{\n  \"title\": \"Ranked as Super Lawyers\",\n  \"content\": \"The attorneys at Wronko & Loewen have been ranked as Super Lawyers by New Jersey Monthly Magazine, showcasing their strong reputations and expertise in the legal field.\"\n},\n{\n  \"title\": \"Personalized Attention\",\n  \"content\": \"The firm specializes in providing personal attention to all of their clients, regardless of their legal needs. This personalized approach ensures that clients receive the individualized care and support they deserve.\"\n}",
+  "address": "69 Grove St, Somerville, NJ 08876",
+  "phoneNumber": "(908) 704-9200",
+  "email": "wlb@newjerseylawyer.org",
+  "linkNames": [
+    "PRACTICE AREAS",
+    "ATTORNEYS",
+    "ABOUT US",
+    "NEWS",
+    "BLOG",
+    "VIDEO",
+    "CONTACT",
+    "MORE"
+  ],
+  "companyName": "Wronko & Loewen",
+  "subHeading": "Large Firm Trial Experience With Small Firm Client Service.",
+  "valueProp": "Our firm specializes in providing personal attention to all of our clients, regardless of their legal needs. But that doesn't mean that we sacrifice quality. We are a firm made up of experienced attorneys. Our strong reputations around New Jersey include being ranked as Super Lawyers by New Jersey Monthly Magazine. Since the firm was established in 1994, we have successfully fought for clients in hundreds of trials and appeals, including many successful Supreme Court decisions. Wronko & Loewen are widely respected and successful legal practitioners.",
+  "CTA": "(908) 704-9200",
+  "topics": [
+    "Criminal Defense",
+    "Sexual Harrassment",
+    "DWI & Traffic",
+    "Real Estate",
+    "Civil Litigation",
+    "Bankruptcy",
+    "Personal Injury",
+    "Domestic Violence",
+    "Appellate"
+  ],
+  "members": [
+    {
+      "name": "James Wronko",
+      "position": "Partner"
+    },
+    {
+      "name": "James Loewen",
+      "position": "Partner"
+    },
+    {
+      "name": "Jay McCann",
+      "position": "Partner"
+    },
+    {
+      "name": "Gilbert Miller",
+      "position": "Partner"
+    }
+  ],
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"I have been a client of Wronko & Loewen for years and they have always provided me with excellent legal representation.\",\n        \"author\": \"John Smith\",\n        \"location\": \"Somerville, NJ\"\n    },\n    {\n        \"text\": \"Wronko & Loewen are the best in the business. They fought for me and got me the results I needed.\",\n        \"author\": \"Jane Doe\",\n        \"location\": \"New Jersey\"\n    },\n    {\n        \"text\": \"I highly recommend Wronko & Loewen. They are dedicated, knowledgeable, and truly care about their clients.\",\n        \"author\": \"Robert Johnson\",\n        \"location\": null\n    }\n]\n```"
+}

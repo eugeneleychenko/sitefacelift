@@ -1,0 +1,52 @@
+{
+  "paragraph": "Call Today (866) 575-5000",
+  "detailsData": "{\n  \"title\": \"Diverse Legal Expertise\",\n  \"content\": \"Our firm has a proven track record of successfully representing clients in a wide range of legal matters, including complex litigation, arbitration, and mediation. We are dedicated to providing high-quality legal services and achieving favorable outcomes for our clients.\"\n},\n{\n  \"title\": \"Recognized Legal Professionals\",\n  \"content\": \"Our attorneys have been consistently recognized as top legal professionals by reputable publications and organizations. We have earned a strong reputation for our expertise and commitment to excellence in the legal field.\"\n},\n{\n  \"title\": \"Client-Centered Approach\",\n  \"content\": \"We prioritize personalized attention and care for each of our clients, ensuring that their unique legal needs are met with compassion and dedication. Our client-centered approach is aimed at providing the highest level of support and guidance throughout the legal process.\"\n}",
+  "address": "125 Half Mile Road, Suite 100, Red Bank, NJ 07701",
+  "phoneNumber": "(866) 575-5000",
+  "email": "null",
+  "linkNames": [
+    "HOME",
+    "ABOUT",
+    "PRACTICE AREAS",
+    "SETTLEMENTS",
+    "NEWS",
+    "BLOG",
+    "CONTACT",
+    "DOCUMENTS"
+  ],
+  "companyName": "Keefe Law Firm",
+  "subHeading": "A Full Service Law Firm Serving Individuals and Organizations",
+  "valueProp": "Keefe Law Firm offers comprehensive legal services to both individuals and organizations. With a commitment to justice and a passion for advocating on behalf of our clients, we provide expert legal counsel across a variety of practice areas. Our experienced attorneys are dedicated to achieving the best possible outcomes, ensuring that each client receives personalized attention and a tailored strategy for their legal needs.",
+  "CTA": "Contact Us Now",
+  "topics": [
+    "Arbitration and Mediation",
+    "Business Formation",
+    "Catastrophic Injury",
+    "Consumer Fraud & Class Action",
+    "Defective Products",
+    "Employment Law",
+    "Food Poisoning",
+    "Mesothelioma & Asbestos",
+    "Motor Vehicle Accidents"
+  ],
+  "members": [
+    {
+      "name": "John E. Keefe, Jr.",
+      "position": "Managing Partner"
+    },
+    {
+      "name": "Stephen T. Sullivan, Jr.",
+      "position": "Partner"
+    },
+    {
+      "name": "John Keefe Sr.",
+      "position": "Of Counsel"
+    },
+    {
+      "name": "Paul DiGiorgio",
+      "position": "Counsel"
+    }
+  ],
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"John Keefe and his team are subject matter experts in their fields and will always guide you in the right direction for the specific nature of your case.\",\n        \"author\": \"Holli D.\",\n        \"location\": null\n    },\n    {\n        \"text\": \"They are not only logical and analytical, but Keefe Law Firm displays a great deal of creativity in solving your legal problems.\",\n        \"author\": \"Sheila R.\",\n        \"location\": null\n    },\n    {\n        \"text\": \"If you want your case in the absolute best hands, look no further than Paul DiGiorgio.\",\n        \"author\": \"Melissa C.\",\n        \"location\": null\n    }\n]\n```"
+}

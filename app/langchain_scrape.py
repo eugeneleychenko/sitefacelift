@@ -50,8 +50,8 @@ def ask_questions_to_website(urls):
     print(all_page_content)
 
     # Initialize the QAGenerationChain
-    model = ChatOpenAI(temperature=0, model="gpt-4-1106-preview")
-    # model = ChatOpenAI(temperature=0, model="gpt-3.5-turbo-1106")
+    # model = ChatOpenAI(temperature=0, model="gpt-4-1106-preview")
+    model = ChatOpenAI(temperature=0, model="gpt-3.5-turbo-1106")
     # model=AzureChatOpenAI(temperature=0, deployment_name=os.getenv("OPENAI_DEPLOYMENT_NAME"), openai_api_version="2023-05-15" )
    
     # Define the questions
@@ -70,14 +70,24 @@ def ask_questions_to_website(urls):
             "content": 2 sentences talking about the advantage.
             }
             
-           here is an example of an output: {\n    \"title\": \"Nationwide Resources\",\n    \"content\": \"The Cochran Firm has offices nationwide with a team of experienced and aggressive personal injury attorneys and criminal defense lawyers. They offer tireless and effective legal representation across the country.\"\n  },\n  {\n    \"title\": \"Diverse Specializations\",\n    \"content\": \"Attorneys at The Cochran Firm specialize in a variety of practice areas including personal injury, civil rights, medical malpractice, and employment discrimination. This allows them to handle a wide range of cases with expert knowledge.\"\n  },\n  {\n    \"title\": \"Legacy of Excellence\",\n    \"content\": \"Founded by legendary attorney Johnnie L. Cochran, Jr., The Cochran Firm continues his mission of providing justice to the wronged and giving a voice to the silenced. They are committed to restoring justice and advocating for individual rights.\"\n  }
-           output data in this specific format, it's a JSON array of objects, each with title and content keys, and then request that the array be converted to a string with proper JSON escaping.
+           Here is an example of an output. Focus on the format, not the content: {\n    \"title\": \"Elite Legal Background\",\n    \"content\": \"The lead attorneys at Clayton Trial Lawyers come from 'Big Law' representing corporations, insurance companies, and high net worth individuals. This elite legal background sets them apart from other personal injury law firms or litigation boutiques.\"\n  },\n  {\n    \"title\": \"High Value & Expertise\",\n    \"content\": \"Clayton Trial Lawyers deliver high value and expertise, personalized to each client's needs. Their experience and determination have earned their clients over $150 million in jury verdicts.\"\n  },\n  {\n    \"title\": \"Listed as 'Best Lawyers, Best Law Firms'\",\n    \"content\": \"Clayton Trial Lawyers was listed as 'Best Lawyers, Best Law Firms' and No. 1 in the region, according to U.S. News & World Report. This recognition showcases their commitment to excellence and success in the legal field.\"\n  }"
+           
         
         """,
         "What is the address of this firm?",
         "What is the phone number of this firm?",
         "What is the contact email of this firm?",
-        "In an array, return in UPPERCASE the navigation items of this site. If the markdown contains several levels, only return the highest level.",
+        """
+        In an array, return in UPPERCASE the navigation items of this site. If the markdown contains several levels, only return the highest level. Format it like this. only focus on format, not content [
+    "Home",
+    "Our Firm",
+    "Our Team",
+    "Practice Areas",
+    "Publications & Seminars",
+    "Contact",
+    "Office"
+  ],
+  """ ,
         "What is the name of this company?",
         "What is the subheading of this company?",
         "Near the top of the site, there will a paragraph description about this firm, return it.",
@@ -134,7 +144,13 @@ def ask_questions_to_website(urls):
     if 'www.' not in url:
         url = url.replace('https://', 'https://www.')
         url = url.replace('http://', 'http://www.')
-    company_name = url.split('www.')[-1].split('.com')[0] + '.com'
+    domain = url.split('www.')[-1]
+    if '.com' in domain:
+        company_name = domain.split('.com')[0] + '.com'
+    elif '.net' in domain:
+        company_name = domain.split('.net')[0] + '.net'
+    elif '.org' in domain:
+        company_name = domain.split('.org')[0] + '.org'
     directory = f'/Users/eugeneleychenko/Downloads/sfl/sitefacelift/src/data/{company_name}'
     os.makedirs(directory, exist_ok=True)
     with open(f'{directory}/data.json', 'w', encoding='utf-8') as jsonfile:
@@ -149,5 +165,5 @@ def ask_questions_to_website(urls):
         json.dump(json_results, jsonfile, indent=4)
 
 # # Use the function
-urls = [ 'https://www.cashdankane.com/', "https://www.cashdankane.com/attorneys/", "https://www.cashdankane.com/practice-areas/labor-and-employment/"]
+urls = [ 'https://www.newjerseyemploymentattorneys.com/', "https://www.newjerseyemploymentattorneys.com/client-reviews.html", "https://www.newjerseyemploymentattorneys.com/employment-law.html"]
 ask_questions_to_website(urls)

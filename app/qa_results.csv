@@ -1,47 +1,68 @@
 Question,Answer,QuestionArr
-return the CTA which usually phrases like 'to call or text the contact number for a consultation'.,Call Now For A Consultation 908-264-9331 202-862-4330,paragraph
+return the CTA which usually phrases like 'to call or text the contact number for a consultation'.,null,paragraph
 "
         "" Find 3 advantages that sets this firm apart. organize the objects in this way {
             ""title"": 3-4 word title of the advantage,
             ""content"": 2 sentences talking about the advantage.
             }
             
-           here is an example of an output: {
-    ""title"": ""Nationwide Resources"",
-    ""content"": ""The Cochran Firm has offices nationwide with a team of experienced and aggressive personal injury attorneys and criminal defense lawyers. They offer tireless and effective legal representation across the country.""
+           Here is an example of an output. Focus on the format, not the content: {
+    ""title"": ""Elite Legal Background"",
+    ""content"": ""The lead attorneys at Clayton Trial Lawyers come from 'Big Law' representing corporations, insurance companies, and high net worth individuals. This elite legal background sets them apart from other personal injury law firms or litigation boutiques.""
   },
   {
-    ""title"": ""Diverse Specializations"",
-    ""content"": ""Attorneys at The Cochran Firm specialize in a variety of practice areas including personal injury, civil rights, medical malpractice, and employment discrimination. This allows them to handle a wide range of cases with expert knowledge.""
+    ""title"": ""High Value & Expertise"",
+    ""content"": ""Clayton Trial Lawyers deliver high value and expertise, personalized to each client's needs. Their experience and determination have earned their clients over $150 million in jury verdicts.""
   },
   {
-    ""title"": ""Legacy of Excellence"",
-    ""content"": ""Founded by legendary attorney Johnnie L. Cochran, Jr., The Cochran Firm continues his mission of providing justice to the wronged and giving a voice to the silenced. They are committed to restoring justice and advocating for individual rights.""
-  }
+    ""title"": ""Listed as 'Best Lawyers, Best Law Firms'"",
+    ""content"": ""Clayton Trial Lawyers was listed as 'Best Lawyers, Best Law Firms' and No. 1 in the region, according to U.S. News & World Report. This recognition showcases their commitment to excellence and success in the legal field.""
+  }""
+           
         
-        ","[
-  {
-    ""title"": ""Strong Recommendations"",
-    ""content"": ""Cashdan & Kane, PLLC is frequently recommended by former clients and professional colleagues. Firm partners David Cashdan and Michael Kane have each earned an AV Preeminent® Peer Review Rating by Martindale-Hubbell®.""
-  },
-  {
-    ""title"": ""Assertive Representation"",
-    ""content"": ""The firm aggressively pursues successful results to resolve cases promptly and favorably. They understand the toll employment issues can take and work to address them efficiently.""
-  },
-  {
-    ""title"": ""Caring Advocacy"",
-    ""content"": ""Cashdan & Kane, PLLC provides comprehensive labor and employment representation in a caring, professional manner. They build lasting relationships by helping clients anticipate long-term consequences.""
-  }
-]",detailsData
-What is the address of this firm?,"226 St. Paul Street, Westfield, New Jersey 07090",address
-What is the phone number of this firm?,908-264-9331,phoneNumber
-What is the contact email of this firm?,null,email
-"In an array, return in UPPERCASE the navigation items of this site. If the markdown contains several levels, only return the highest level.","[""HOME"", ""ABOUT US"", ""LABOR & EMPLOYMENT"", ""N.J. EMPLOYMENT LAW"", ""D.C. EMPLOYMENT LAW"", ""BLOG"", ""LOCATIONS"", ""CONTACT US""]",linkNames
-What is the name of this company?,"Cashdan & Kane, PLLC",companyName
-What is the subheading of this company?,Experienced. Knowledgeable. Proficient.,subHeading
-"Near the top of the site, there will a paragraph description about this firm, return it.","Labor & employment attorneys serving New Jersey and Washington, D.C. with over 45 years of experience",valueProp
-What is the CTA close to the top of the site?,908-264-9331 202-862-4330,CTA
-"Return 9 practice areas of this law firm, in an array.","[""Discrimination & Sexual Harassment"", ""Wrongful Termination"", ""Sarbanes-Oxley Act"", ""Severance Agreements & Employment Contracts"", ""Wage & Hour Law in N.J."", ""Overtime Law in N.J."", ""Workplace Harassment FAQs"", ""LAD Anti-Discrimination Provisions"", ""Conscientious Employee Protection Act (CEPA)""]",topics
+        ","```json
+null
+```",detailsData
+What is the address of this firm?,"360 Mt Kemble Ave, #1004, Morristown, NJ 07960",address
+What is the phone number of this firm?,(973) 845-9922,phoneNumber
+What is the contact email of this firm?,info@lenzoreis.com,email
+"
+        In an array, return in UPPERCASE the navigation items of this site. If the markdown contains several levels, only return the highest level. Format it like this. only focus on format, not content [
+    ""Home"",
+    ""Our Firm"",
+    ""Our Team"",
+    ""Practice Areas"",
+    ""Publications & Seminars"",
+    ""Contact"",
+    ""Office""
+  ],
+  ","[
+    ""HOME"",
+    ""ABOUT US"",
+    ""ATTORNEY PROFILES"",
+    ""PRACTICE AREAS"",
+    ""RESULTS"",
+    ""CLIENT REVIEWS"",
+    ""ARTICLES"",
+    ""COVID-19"",
+    ""CONTACT US""
+  ]",linkNames
+What is the name of this company?,"Lenzo & Reis, LLC",companyName
+What is the subheading of this company?,Client Reviews,subHeading
+"Near the top of the site, there will a paragraph description about this firm, return it.","```plaintext
+Lenzo & Reis, LLC Home
+```",valueProp
+What is the CTA close to the top of the site?,Free Case Evaluation: (973) 845-9922,CTA
+"Return 9 practice areas of this law firm, in an array.","[
+  ""Accommodations and Leaves of Absence"",
+  ""Discrimination Claims"",
+  ""Employment Contracts"",
+  ""Hostile Work Environment or Harassment"",
+  ""Leaves General"",
+  ""Retaliation"",
+  ""Wage and Hour Claims"",
+  ""Wrongful Discharge Claims""
+]",topics
 "
         ( Return, in an array of objects, 4 names of lawyers and their titles. For example [
             {
@@ -55,43 +76,48 @@ What is the CTA close to the top of the site?,908-264-9331 202-862-4330,CTA
         
         ","```json
 [
-    {
-        ""name"": ""David R. Cashdan"",
-        ""position"": ""Attorney""
-    },
-    {
-        ""name"": ""Michael G. Kane"",
-        ""position"": ""Attorney""
-    }
+  {
+    ""name"": ""Christopher P. Lenzo"",
+    ""position"": ""Partner""
+  },
+  {
+    ""name"": ""Claudia A. Reis"",
+    ""position"": ""Partner""
+  },
+  {
+    ""name"": ""Carmen 'Jack' Giordano, Esq."",
+    ""position"": ""Principal Attorney""
+  },
+  {
+    ""name"": ""Stefanie Behler Soriano, Esq."",
+    ""position"": ""Associate Attorney""
+  }
 ]
 ```",members
  When is the firm open?,null,openHours
 "
-          Return 3 testimonials from this site. They should be in an array of objects, including text, author, location. For example """"[
-            {
-                text: ""Carmen was absolutely wonderful to work with. He was truly honest and I never felt taken advantage of. I can't recommend this law office and Carmen enough."",
-                author: ""Jaime Oliver"",
-                location: ""New York"",
-            },
-            {
-                text: ""Even after the case we still keep in contact for any question that we still might have, for people who do not speak English I recommend him, he makes sure that the person in the case understands everything that happens in their case."",
-                author: ""Atriz R"",
-                location: ""Manhattan, New York"",
-            }]""
-        ","[
+          Return 3 testimonials from this site. They should be in an array of objects, including text, author, location. For example 
+          
+          ""```json
+[
     {
-        text: ""Michael gave me some very valuable guidance in my legal matter."",
-        author: ""Alexander A"",
-        location: null
+        ""text"": ""Matt is my go to lawyer. He has been there for me and so many of my teammates over the years."",
+        ""author"": ""Dwight Gooden"",
+        ""location"": null
     },
     {
-        text: ""Mr. Kane is a patient listener, very knowledgeable about employment law, and I can trust him to clearly explain terminology and expectations throughout the process. He is compassionate, professional and very responsive to inquiries, and the office billing processes were seamless."",
-        author: ""Douglas Larsen"",
-        location: null
+        ""text"": ""Matt is a strategic thinker and really knows how to analyze and formulate a litigation game plan."",
+        ""author"": ""Phil Regan"",
+        ""location"": null
     },
     {
-        text: ""Went to this location and spoke with Michael Kane. He was a very nice guy and didn’t make me feel like I was doing something wrong by contacting an attorney. He was open to hearing everything that has been happening to me over the years and He was very honest and upfront throughout the various meetings that we’ve had. Mr. Kane stayed on top of deadlines,paperwork and meetings. He was also very flexible with payment which I know is very important to most ppl when they have to hire an attorney. All in all I would say that Mr. Kane is my go-to guy in the unfortunate event that I would need an attorney in the future."",
-        author: ""Kobe"",
-        location: null
+        ""text"": ""I heard other players saying amazing things about Matt and now I know for myself that it's all true as he never quits until the catch is made!"",
+        ""author"": ""Endy Chavez, NY Mets Player"",
+        ""location"": null
     }
-]",testimonalData
+]
+```""
+        ","```json
+[
+    {
+        ""text"": ""Professional and Knowledgeable Attorney. At what was supposed to be the highest point in my career suddenly became the most harassing and lowest point of my career and I was passed over for a promotion. Not because the other person was more qualified than I was, but because I followed the law and did the right thing and the people I worked for did not like that. After researching several attorneys, my wife and I found Claudia, and the decision to retain her was the best decision we ever made. After explaining our case to Claudia, we found that she was not only extremely professional but a very caring human being. Throughout the entire process of our case, Claudia was there with us every step of the way. She explained every single proceeding that we had to go through and guided us, not only as a professional attorney in and out of court, but personally as a caring and understanding person. Because of her extensive working knowledge of employment and labor laws, Claudia was able to successfully resolve our case. My wife and",testimonalData

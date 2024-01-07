@@ -1,0 +1,34 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n    \"title\": \"Elite Legal Background\",\n    \"content\": \"The lead attorneys at Clayton Trial Lawyers come from 'Big Law' representing corporations, insurance companies, and high net worth individuals. This elite legal background sets them apart from other personal injury law firms or litigation boutiques.\"\n  },\n  {\n    \"title\": \"High Value & Expertise\",\n    \"content\": \"Clayton Trial Lawyers deliver high value and expertise, personalized to each client's needs. Their experience and determination have earned their clients over $150 million in jury verdicts.\"\n  },\n  {\n    \"title\": \"Listed as 'Best Lawyers, Best Law Firms'\",\n    \"content\": \"Clayton Trial Lawyers was listed as 'Best Lawyers, Best Law Firms' and No. 1 in the region, according to U.S. News & World Report. This recognition showcases their commitment to excellence and success in the legal field.\"\n  }",
+  "address": "401 E Las Olas Blvd, Suite 1400, Fort Lauderdale, Florida 33301",
+  "phoneNumber": "833.938.2300",
+  "email": "info@ctllawyers.com",
+  "linkNames": [
+    "HOME",
+    "ABOUT US",
+    "ATTORNEYS",
+    "PRACTICE AREAS",
+    "NEWS",
+    "CONTACT",
+    "OFFICE LOCATIONS"
+  ],
+  "companyName": "Clayton Trial Lawyers",
+  "subHeading": "Elite Attorneys",
+  "valueProp": "Near the top of the site, there is no paragraph description about this firm.",
+  "CTA": "Free Case Review",
+  "topics": [
+    "Camp Lejeune Case Review",
+    "Personal Injury",
+    "Bad Faith",
+    "Business Litigation",
+    "Car Accident Lawsuits",
+    "Construction Litigation",
+    "Employment Litigation",
+    "Intellectual Property Litigation",
+    "Insurance Defense"
+  ],
+  "members": "```json\n[\n    {\n        \"name\": \"William Clayton\",\n        \"position\": \"Lead Attorney\"\n    },\n    {\n        \"name\": \"Miguel Aristizabal\",\n        \"position\": \"Lead Attorney\"\n    },\n    {\n        \"name\": \"Georgiana Boss\",\n        \"position\": \"Lead Attorney\"\n    },\n    {\n        \"name\": \"Kevin W. Stone, Jr.\",\n        \"position\": \"Lead Attorney\"\n    }\n]\n```",
+  "openHours": "Open 24/7",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"If you did not win it for us, we would be finished. It would be over.\",\n        \"author\": \"Tommy H.\",\n        \"location\": null\n    },\n    {\n        \"text\": \"If you were on the other side, I think you would have beaten us.\",\n        \"author\": \"Andrew H.\",\n        \"location\": null\n    },\n    {\n        \"text\": \"You set the tone from the first couple of questions in the deposition. You were highly aggressive. You got us an amazing settlement. If I had a future need, I would absolutely call you.\",\n        \"author\": \"Kirk R., CEO\",\n        \"location\": null\n    }\n]\n```"
+}

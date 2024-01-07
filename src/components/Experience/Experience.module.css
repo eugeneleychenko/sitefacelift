@@ -35,9 +35,8 @@
   -webkit-filter: invert(100%);
 }
 
-
 @media (max-width: 1480px) {
-  .experienceRight{
+  .experienceRight {
     grid-template-columns: 1fr 1fr 1fr;
   }
 }

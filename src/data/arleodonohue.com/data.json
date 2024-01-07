@@ -1,0 +1,34 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n    \"title\": \"Experienced Trial Lawyers\",\n    \"content\": \"Arleo & Donohue is a firm of trial lawyers. Over the course of our careers, we have developed an elite litigation practice.\"\n  },\n  {\n    \"title\": \"Strong Reputation in Legal Community\",\n    \"content\": \"Arleo & Donohue has a strong reputation for vigorous and cost-effective representation of clients in civil litigation, criminal defense, regulatory proceedings, and student misconduct cases.\"\n  },\n  {\n    \"title\": \"High-Quality Legal Services\",\n    \"content\": \"Arleo & Donohue provides quality legal services at affordable rates, working hard to protect clients' best interests and impact on their livelihoods.\"\n  }",
+  "address": "622 Eagle Rock Ave. West Orange, NJ 07052",
+  "phoneNumber": "(973) 736-8660",
+  "email": "null",
+  "linkNames": [
+    "Home",
+    "Our Firm",
+    "Our Team",
+    "Practice Areas",
+    "Publications & Seminars",
+    "Contact",
+    "Office"
+  ],
+  "companyName": "Arleo & Donohue",
+  "subHeading": "A Litigation Boutique Focusing on Criminal & Civil Matters",
+  "valueProp": "Arleo & Donohue is a firm of trial lawyers. Over the course of our careers, we have developed an elite litigation practice. We have established this practice in a boutique environment, which allows us to control our costs and to develop genuine relationships with our clients. This is true in every facet of our firm\u2019s representation, whether we are dealing with a large scale federal investigation, a complex civil matter, or a municipal court case. Because of our size, we will not take on clients or matters outside our areas of expertise. Therefore, we remain focused on those areas in which we can provide the greatest level of expertise and sophistication. This formula allows us to become fully conversant with each of our clients and to be more responsive to their needs. At Arleo & Donohue, we know our clients and we care about their cases.",
+  "CTA": "Contact Us Today",
+  "topics": [
+    "Administrative Actions",
+    "Business & Commercial Litigation",
+    "Employment Law",
+    "Insurance Coverage Litigation",
+    "Internal Investigations & Regulatory Compliance",
+    "Personal Injury",
+    "Professional Disciplinary & Ethics Matters",
+    "State & Local Criminal Defense",
+    "White Collar Criminal Defense"
+  ],
+  "members": "```json\n[\n    {\n        \"name\": \"Frank P. Arleo\",\n        \"position\": \"Partner\"\n    },\n    {\n        \"name\": \"Timothy M. Donohue\",\n        \"position\": \"Partner\"\n    },\n    {\n        \"name\": \"Jo Ann K. Dobransky\",\n        \"position\": \"Of Counsel\"\n    }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Arleo & Donohue is a firm of trial lawyers. Over the course of our careers, we have developed an elite litigation practice.\",\n        \"author\": null,\n        \"location\": null\n    },\n    {\n        \"text\": \"Because of our size, we will not take on clients or matters outside our areas of expertise.\",\n        \"author\": null,\n        \"location\": null\n    },\n    {\n        \"text\": \"At Arleo & Donohue, we know our clients and we care about their cases.\",\n        \"author\": null,\n        \"location\": null\n    }\n]\n```"
+}
