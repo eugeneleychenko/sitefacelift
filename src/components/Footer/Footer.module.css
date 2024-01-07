@@ -83,7 +83,7 @@
   .footer {
     padding-top: 110px;
     padding-bottom: 110px;
-    width: 86%;
+    /* width: 86%; */
     margin: auto;
     grid-template-columns: 1fr;
     text-align: left !important;
