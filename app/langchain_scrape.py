@@ -21,7 +21,7 @@ def ask_questions_to_website(urls):
     for url in urls:
         # headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
         headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36'}
-        response = requests.get(url, headers=headers)
+        response = requests.get(url, headers=headers, verify=False)
         html = response.text
 
         h = html2text.HTML2Text()
@@ -165,5 +165,5 @@ def ask_questions_to_website(urls):
         json.dump(json_results, jsonfile, indent=4)
 
 # # Use the function
-urls = [ 'https://www.newjerseyemploymentattorneys.com/', "https://www.newjerseyemploymentattorneys.com/client-reviews.html", "https://www.newjerseyemploymentattorneys.com/employment-law.html"]
+urls = [ 'https://www.hillbetts.com/', "https://www.hillbetts.com/attorneys", "https://www.hillbetts.com/practice-areas"]
 ask_questions_to_website(urls)

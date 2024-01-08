@@ -1,0 +1,35 @@
+{
+  "paragraph": "Call now (212) 839-7000",
+  "detailsData": "{\n    \"title\": \"Elite Maritime Law Firm in New York City\",\n    \"content\": \"Hill, Betts & Nash LLP is a leading maritime law firm in New York City with a strong track record of successful cases and a distinguished reputation in the industry. Our firm is widely recognized and is affiliated with prestigious maritime organizations.\"\n},\n{\n    \"title\": \"Experienced Maritime Attorneys\",\n    \"content\": \"The attorneys at Hill, Betts & Nash LLP are seasoned professionals with extensive experience in maritime law. They are known for their proactive approach, unwavering advocacy, and thorough case preparation, treating every case with the utmost importance.\"\n},\n{\n    \"title\": \"No Up-front Costs\",\n    \"content\": \"Hill, Betts & Nash LLP operates on a contingency basis, ensuring that clients do not have to pay any upfront fees. Our firm only receives a percentage of the recovery, providing peace of mind to clients knowing that they will not owe anything if they do not receive compensation.\"}",
+  "address": "14 Wall Street, Suite 5H, New York, NY 10005",
+  "phoneNumber": "(212) 839-7000",
+  "email": "info@hillbetts.com",
+  "linkNames": [
+    "HOME",
+    "OUR FIRM",
+    "OUR TEAM",
+    "PRACTICE AREAS",
+    "PUBLICATIONS & SEMINARS",
+    "CONTACT",
+    "OFFICE"
+  ],
+  "companyName": "Hill, Betts & Nash LLP",
+  "subHeading": "Maritime Personal Injury and Employment Disputes",
+  "valueProp": "Hill, Betts & Nash LLP is one of the last original New York City boutique law firms specializing in admiralty and general maritime law.",
+  "CTA": "Request A Consultation",
+  "topics": [
+    "Maritime Personal Injury and Employment Disputes",
+    "Marine Insurance",
+    "Maritime Risk Management",
+    "Aviation Law",
+    "Maritime Regulatory Compliance",
+    "Marine Casualty Investigations, Claims, & Recovery",
+    "Maritime Salvage",
+    "Marine Bunker Disputes & Claims",
+    "Maritime Security"
+  ],
+
+  "members": "```json\n[\n    {\n        \"name\": \"Jordan Hecht\",\n        \"position\": \"Partner\"\n    },\n    {\n        \"name\": \"Judd Kleeger\",\n        \"position\": \"Partner\"\n    },\n    {\n        \"name\": \"Jonathan Damashek\",\n        \"position\": \"Partner\"\n    },\n    {\n        \"name\": \"Noah S. Reiss\",\n        \"position\": \"Associate\"\n    }\n]\n```",
+  "openHours": "24 Hours 7 Days A Week",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"I have been working with Hill, Betts & Nash for years and they have always provided top-notch legal services.\",\n        \"author\": \"John Smith\",\n        \"location\": \"New York, NY\"\n    },\n    {\n        \"text\": \"Hill, Betts & Nash LLP has a team of highly experienced and knowledgeable attorneys. I highly recommend their services.\",\n        \"author\": \"Jane Doe\",\n        \"location\": \"Los Angeles, CA\"\n    },\n    {\n        \"text\": \"The attorneys at Hill, Betts & Nash LLP are experts in maritime law and have been instrumental in helping us navigate complex legal issues.\",\n        \"author\": \"Michael Johnson\",\n        \"location\": \"Houston, TX\"\n    }\n]\n```"
+}

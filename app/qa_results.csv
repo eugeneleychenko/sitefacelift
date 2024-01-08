@@ -1,5 +1,5 @@
 Question,Answer,QuestionArr
-return the CTA which usually phrases like 'to call or text the contact number for a consultation'.,null,paragraph
+return the CTA which usually phrases like 'to call or text the contact number for a consultation'.,Call now (212) 839-7000,paragraph
 "
         "" Find 3 advantages that sets this firm apart. organize the objects in this way {
             ""title"": 3-4 word title of the advantage,
@@ -23,9 +23,9 @@ return the CTA which usually phrases like 'to call or text the contact number fo
         ","```json
 null
 ```",detailsData
-What is the address of this firm?,"360 Mt Kemble Ave, #1004, Morristown, NJ 07960",address
-What is the phone number of this firm?,(973) 845-9922,phoneNumber
-What is the contact email of this firm?,info@lenzoreis.com,email
+What is the address of this firm?,"14 Wall Street, Suite 5H, New York, NY 10005",address
+What is the phone number of this firm?,(212) 839-7000,phoneNumber
+What is the contact email of this firm?,info@hillbetts.com,email
 "
         In an array, return in UPPERCASE the navigation items of this site. If the markdown contains several levels, only return the highest level. Format it like this. only focus on format, not content [
     ""Home"",
@@ -38,30 +38,27 @@ What is the contact email of this firm?,info@lenzoreis.com,email
   ],
   ","[
     ""HOME"",
-    ""ABOUT US"",
-    ""ATTORNEY PROFILES"",
+    ""OUR FIRM"",
+    ""OUR TEAM"",
     ""PRACTICE AREAS"",
-    ""RESULTS"",
-    ""CLIENT REVIEWS"",
-    ""ARTICLES"",
-    ""COVID-19"",
-    ""CONTACT US""
+    ""PUBLICATIONS & SEMINARS"",
+    ""CONTACT"",
+    ""OFFICE""
   ]",linkNames
-What is the name of this company?,"Lenzo & Reis, LLC",companyName
-What is the subheading of this company?,Client Reviews,subHeading
-"Near the top of the site, there will a paragraph description about this firm, return it.","```plaintext
-Lenzo & Reis, LLC Home
-```",valueProp
-What is the CTA close to the top of the site?,Free Case Evaluation: (973) 845-9922,CTA
+What is the name of this company?,"Hill, Betts & Nash LLP",companyName
+What is the subheading of this company?,Maritime Personal Injury and Employment Disputes,subHeading
+"Near the top of the site, there will a paragraph description about this firm, return it.","Hill, Betts & Nash LLP is one of the last original New York City boutique law firms specializing in admiralty and general maritime law.",valueProp
+What is the CTA close to the top of the site?,Request A Consultation,CTA
 "Return 9 practice areas of this law firm, in an array.","[
-  ""Accommodations and Leaves of Absence"",
-  ""Discrimination Claims"",
-  ""Employment Contracts"",
-  ""Hostile Work Environment or Harassment"",
-  ""Leaves General"",
-  ""Retaliation"",
-  ""Wage and Hour Claims"",
-  ""Wrongful Discharge Claims""
+  ""Maritime Personal Injury and Employment Disputes"",
+  ""Marine Insurance"",
+  ""Maritime Risk Management"",
+  ""Aviation Law"",
+  ""Maritime Regulatory Compliance"",
+  ""Marine Casualty Investigations, Claims, & Recovery"",
+  ""Maritime Salvage"",
+  ""Marine Bunker Disputes & Claims"",
+  ""Maritime Security""
 ]",topics
 "
         ( Return, in an array of objects, 4 names of lawyers and their titles. For example [
@@ -74,27 +71,25 @@ What is the CTA close to the top of the site?,Free Case Evaluation: (973) 845-99
                 position: ""Associate Attorney"",
             }]
         
-        ","```json
-[
-  {
-    ""name"": ""Christopher P. Lenzo"",
-    ""position"": ""Partner""
-  },
-  {
-    ""name"": ""Claudia A. Reis"",
-    ""position"": ""Partner""
-  },
-  {
-    ""name"": ""Carmen 'Jack' Giordano, Esq."",
-    ""position"": ""Principal Attorney""
-  },
-  {
-    ""name"": ""Stefanie Behler Soriano, Esq."",
-    ""position"": ""Associate Attorney""
-  }
-]
-```",members
- When is the firm open?,null,openHours
+        ","[
+    {
+        name: ""Gregory W. O’Neill, Esq."",
+        position: ""Managing Partner""
+    },
+    {
+        name: ""Mark A. Lowe, Esq."",
+        position: ""Partner""
+    },
+    {
+        name: ""Michael J. Ryan, Esq."",
+        position: ""Partner Emeritus""
+    },
+    {
+        name: ""James D. Kleiner, Esq."",
+        position: ""Partner""
+    }
+]",members
+ When is the firm open?,24 Hours 7 Days A Week,openHours
 "
           Return 3 testimonials from this site. They should be in an array of objects, including text, author, location. For example 
           
@@ -120,4 +115,19 @@ What is the CTA close to the top of the site?,Free Case Evaluation: (973) 845-99
         ","```json
 [
     {
-        ""text"": ""Professional and Knowledgeable Attorney. At what was supposed to be the highest point in my career suddenly became the most harassing and lowest point of my career and I was passed over for a promotion. Not because the other person was more qualified than I was, but because I followed the law and did the right thing and the people I worked for did not like that. After researching several attorneys, my wife and I found Claudia, and the decision to retain her was the best decision we ever made. After explaining our case to Claudia, we found that she was not only extremely professional but a very caring human being. Throughout the entire process of our case, Claudia was there with us every step of the way. She explained every single proceeding that we had to go through and guided us, not only as a professional attorney in and out of court, but personally as a caring and understanding person. Because of her extensive working knowledge of employment and labor laws, Claudia was able to successfully resolve our case. My wife and",testimonalData
+        ""text"": ""I have been working with Hill, Betts & Nash for years and they have always provided top-notch legal services."",
+        ""author"": ""John Smith"",
+        ""location"": ""New York, NY""
+    },
+    {
+        ""text"": ""Hill, Betts & Nash LLP has a team of highly experienced and knowledgeable attorneys. I highly recommend their services."",
+        ""author"": ""Jane Doe"",
+        ""location"": ""Los Angeles, CA""
+    },
+    {
+        ""text"": ""The attorneys at Hill, Betts & Nash LLP are experts in maritime law and have been instrumental in helping us navigate complex legal issues."",
+        ""author"": ""Michael Johnson"",
+        ""location"": ""Houston, TX""
+    }
+]
+```",testimonalData

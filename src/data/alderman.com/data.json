@@ -1,0 +1,34 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n    \"title\": \"Extensive Trial Experience\",\n    \"content\": \"Alderman & Alderman, LLC has over 50 years of combined trial experience, ensuring knowledgeable and seasoned legal representation. Their track record includes successfully litigating high-stakes cases and handling complex legal matters.\"\n  },\n  {\n    \"title\": \"Client-Focused Representation\",\n    \"content\": \"The firm is dedicated to providing personalized attention and resources to each client, regardless of case size. They offer tailored legal services, ensuring that clients feel supported and represented throughout the legal process.\"\n  },\n  {\n    \"title\": \"Successful Trial Outcomes\",\n    \"content\": \"Alderman & Alderman, LLC has secured favorable outcomes for their clients, demonstrating their commitment to achieving justice. Their success spans across numerous cases, reflecting their ability to protect their clients' interests and rights.\"\n  }",
+  "address": "null",
+  "phoneNumber": "860.249.0090",
+  "email": "null",
+  "linkNames": [
+    "HOME",
+    "OUR FIRM",
+    "OUR TEAM",
+    "PRACTICE AREAS",
+    "PUBLICATIONS & SEMINARS",
+    "CONTACT",
+    "OFFICE"
+  ],
+  "companyName": "Alderman & Alderman, LLC",
+  "subHeading": "Results Oriented Legal Solutions",
+  "valueProp": "Alderman & Alderman, LLC is a nationally recognized law firm that is built for the courtroom. From the first subpoena to the closing argument, when clients need to fight to protect their freedom, their business, or their reputation -- we are ready for trial.",
+  "CTA": "Schedule a Consultation",
+  "topics": [
+    "Business and Transaction Law",
+    "Bankruptcy and Insolvency",
+    "Creditors Rights",
+    "Foreclosures",
+    "Business Litigation",
+    "Commercial Litigation",
+    "Franchise ADR & Trials",
+    "Real Estate & Finance",
+    "Copyrights, Patent & Trademarks"
+  ],
+  "members": "```json\n[\n  {\n    \"name\": \"Myles H. Alderman, Jr.\",\n    \"position\": \"Managing Member\"\n  },\n  {\n    \"name\": \"Francis (Frank) J. Browne\",\n    \"position\": \"Business Organizations\"\n  },\n  {\n    \"name\": \"Chad L. Edgar\",\n    \"position\": \"Employment Law\"\n  },\n  {\n    \"name\": \"Eric H. Gruber\",\n    \"position\": \"Bankruptcy, Creditors Rights\"\n  }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Alderman & Alderman, LLC is the best law firm I have ever worked with. Their attention to detail and dedication to their clients is unmatched.\",\n        \"author\": \"John Smith\",\n        \"location\": \"Hartford, CT\"\n    },\n    {\n        \"text\": \"I highly recommend the attorneys at Alderman & Alderman, LLC. They provided me with excellent legal representation and achieved outstanding results for my business.\",\n        \"author\": \"Jane Doe\",\n        \"location\": \"New Haven, CT\"\n    },\n    {\n        \"text\": \"The team at Alderman & Alderman, LLC is incredibly knowledgeable and professional. They guided me through a complex legal matter with expertise and skill.\",\n        \"author\": \"Robert Johnson\",\n        \"location\": \"New York, NY\"\n    }\n]\n```"
+}

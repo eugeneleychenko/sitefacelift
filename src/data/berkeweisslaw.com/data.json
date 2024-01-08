@@ -1,0 +1,49 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n    \"title\": \"Extensive Trial Experience\",\n    \"content\": \"Berke-Weiss Law has a distinguished history of providing superior legal representation in the courtroom. With a deep understanding of employment and labor law, our attorneys possess the expertise necessary to handle complex and high-stakes cases.\"\n  }, {\n    \"title\": \"Client-Focused Representation\",\n    \"content\": \"Our firm is committed to delivering personalized attention to each client, recognizing the importance of their case, and providing tailored legal services to meet their individual needs.\"\n  }, {\n    \"title\": \"Successful Trial Outcomes\",\n    \"content\": \"Known for our dedication to justice and our ability to achieve favorable results, Berke-Weiss Law has a proven track record of protecting our clients' rights and interests in a variety of legal disputes.\"\n  }",
+  "address": "150 E 52nd St",
+  "phoneNumber": "212-888-2680",
+  "email": "info@berkeweisslaw.com",
+  "linkNames": [
+    "HOME",
+    "EMPLOYER SERVICES",
+    "PREGNANCY PROJECT",
+    "FAQ",
+    "CONTACT"
+  ],
+  "companyName": "Berke-Weiss Law",
+  "subHeading": "Responsive, compassionate, and knowledgeable employment lawyers",
+  "valueProp": "Berke-Weiss Law provides advice and counsel for labor and employment issues, negotiation and mediation, and litigation in state and federal court, and before governmental agencies. Our clients include businesses, professional practices, and nonprofits, as well as executives and professionals from a range of industries and backgrounds.",
+  "CTA": "Subscribe to our newsletter",
+  "topics": [
+    "Investigations",
+    "Addressing Claims Made by Employees",
+    "Workplace Contracts & Agreements",
+    "Agreement & Contract Reviews",
+    "Disability Discrimination & Reasonable Accommodations",
+    "Workplace Investigations",
+    "Paid Family Leave, FMLA & other forms of Family Leave",
+    "Workplace Discrimination",
+    "Sexual Harassment"
+  ],
+  "members": [
+    {
+      "name": "Laurie Berke-Weiss",
+      "position": "Principal"
+    },
+    {
+      "name": "Alexandra T. Berke",
+      "position": "Senior Associate"
+    },
+    {
+      "name": "Rosa Aliberti",
+      "position": "Senior Associate"
+    },
+    {
+      "name": "Aga Szczepanik",
+      "position": "Office Manager/Legal Assistant"
+    }
+  ],
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"The team at Berke-Weiss Law was great to work with. Smart, creative, and dedicated. Very happy with their services.\",\n        \"author\": null,\n        \"location\": null\n    },\n    {\n        \"text\": \"When running a small business, you need the support and guidance of dedicated folks smartly positioned to guide you appropriately. Laurie was just that partner. She had my best interest in mind and I was completely confident in her leadership and support.\",\n        \"author\": null,\n        \"location\": null\n    },\n    {\n        \"text\": \"As I have dealt with several attorneys over my business years with subjects less important than this one, I would highly recommend Berke-Weiss Law. Alex, Laurie, and staff are an unbelievable team. Honest, realistic, and passionate in their craft. Ours was a multifaceted, difficult case resulting in a most unexpected, positive outcome. \",\n        \"author\": null,\n        \"location\": null\n    }\n]\n```"
+}

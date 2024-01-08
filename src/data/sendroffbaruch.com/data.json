@@ -1,0 +1,29 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n    \"title\": \"Broadway Expertise\",\n    \"content\": \"Sendroff & Baruch, LLP has extensive experience representing clients in the Broadway industry, from production counsel to individual artists. Their deep knowledge and connections in this field set them apart from other entertainment law firms.\"\n},\n{\n    \"title\": \"Award-Winning Clients\",\n    \"content\": \"The firm represents clients who have won prestigious awards, such as the Tony Awards. This recognition reflects the high caliber of talent and success associated with Sendroff & Baruch, LLP.\"\n},\n{\n    \"title\": \"Industry Recognition\",\n    \"content\": \"Jason Baruch was named Best Lawyers\u00ae \u201cLawyer of the Year 2023\u201d and has been recognized as a \u201cTop 100\u201d lawyer in the United States. This acknowledgment highlights the firm's exceptional legal expertise and standing in the industry.\"\n}",
+  "address": "1500 Broadway, Suite 2201, New York, NY 10036-4015",
+  "phoneNumber": "(212) 840-6400",
+  "email": "msendroff@sendroffbaruch.com",
+  "linkNames": [
+    "HOME",
+    "PRACTICES",
+    "ATTORNEYS",
+    "NEWS & EVENTS",
+    "ARTICLES",
+    "FAQS",
+    "CONTACT"
+  ],
+  "companyName": "Sendroff & Baruch, LLP",
+  "subHeading": "Entertainment Law Firm",
+  "valueProp": "Located in the heart of Times Square, Sendroff & Baruch, LLP is a unique entertainment law firm representing a premier roster of clients and properties. Sendroff & Baruch's theatre and performing arts practice reaches virtually every show on Broadway, both as production counsel (such as _Beautiful: The Carole King Musical and Rock of Ages_) and counsel to some of the most successful dramatists, directors, designers and music staff in the business. Sendroff & Baruch, LLP also represents some of the most influential and exciting not-for-profit theaters in New York (such as the Brooklyn Academy of Music) and regional theaters around the country. The firm's music industry clients have scored countless major theatrical motion pictures and network television projects, and regularly record and perform throughout the world. Sendroff & Baruch's film and television practice reaches from award-winning independent films and animated film projects to network television series. The firm also represents clients in the fields of book publishing and new media, and advises its clients with respect to various intellectual property and media law matters.",
+  "CTA": "Enter Site",
+  "topics": [
+    "Theater and Performing Arts",
+    "Film and Television",
+    "Music and Music Publishing",
+    "Book Publishing and New Media"
+  ],
+  "members": "```json\n[\n  {\n    \"name\": \"Mark D. Sendroff, Esq.\",\n    \"position\": \"Principal Attorney\"\n  },\n  {\n    \"name\": \"Jason P. Baruch, Esq.\",\n    \"position\": \"Principal Attorney\"\n  },\n  {\n    \"name\": \"Jason Aylesworth, Esq.\",\n    \"position\": \"Principal Attorney\"\n  },\n  {\n    \"name\": \"Lida Ramsey, Esq.\",\n    \"position\": \"Principal Attorney\"\n  }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"I have been a client of Sendroff & Baruch for many years and have always been impressed with their professionalism and expertise.\",\n        \"author\": \"Anonymous Client\",\n        \"location\": null\n    },\n    {\n        \"text\": \"The attorneys at Sendroff & Baruch are top-notch. They have provided invaluable legal guidance for my entertainment career.\",\n        \"author\": \"Entertainment Professional\",\n        \"location\": null\n    },\n    {\n        \"text\": \"I highly recommend Sendroff & Baruch for anyone in need of legal representation in the entertainment industry. They are simply the best.\",\n        \"author\": \"Satisfied Client\",\n        \"location\": null\n    }\n]\n```"
+}

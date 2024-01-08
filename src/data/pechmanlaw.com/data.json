@@ -1,0 +1,35 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n    \"title\": \"Extensive Trial Experience\",\n    \"content\": \"Pechman Law Group has a distinguished history of providing superior legal representation in the courtroom. With a deep understanding of employment and labor law, our attorneys possess the expertise necessary to handle complex and high-stakes cases.\"\n  }, {\n    \"title\": \"Client-Focused Representation\",\n    \"content\": \"Our firm is committed to delivering personalized attention to each client, recognizing the importance of their case, and providing tailored legal services to meet their individual needs.\"\n  }, {\n    \"title\": \"Successful Trial Outcomes\",\n    \"content\": \"Known for our dedication to justice and our ability to achieve favorable results, Pechman Law Group has a proven track record of protecting our clients' rights and interests in a variety of legal disputes.\"\n  }",
+  "address": "488 Madison Avenue, Suite 1704, New York, NY 10022",
+  "phoneNumber": "212-583-9500",
+  "email": "[email protected]",
+  "linkNames": [
+    "HOME",
+    "OUR FIRM",
+    "OUR TEAM",
+    "PRACTICE AREAS",
+    "PUBLICATIONS & SEMINARS",
+    "CONTACT",
+    "OFFICE"
+  ],
+  "companyName": "Pechman Law Group",
+  "subHeading": "Recognized in The Best Lawyers in America\u00ae as a Tier 1 Law Firm in Employment and Labor Law",
+  "valueProp": "Pechman Law Group represents workers and businesses in workplace disputes. Because our firm represents both employees and management, we have a unique perspective on workplace dynamics. We have advocated for busboys and construction workers, as well as corporate executives and Fortune 500 companies. Our experience with and ability to see all the angles of a dispute has earned us a reputation for resolving difficult cases. Some of our record settlements have made headlines, but we are equally proud of those cases that have been resolved without any public drama.",
+  "CTA": "Get a Consultation",
+  "topics": [
+    "Bi-Weekly Late Pay Violations",
+    "Counseling Employers",
+    "Department of Labor Investigations",
+    "Employment Contracts",
+    "Employment Discrimination",
+    "Independent Contractor / Exempt Issues",
+    "Prevailing Wage Cases",
+    "Restaurant Pay Lawsuits",
+    "Severance Agreements"
+  ],
+
+  "members": "```json\n[\n    {\n        \"name\": \"Louis Pechman, Esq.\",\n        \"position\": \"Founder and Principal Attorney\"\n    },\n    {\n        \"name\": \"Vivianna Morales, Esq.\",\n        \"position\": \"Senior Associate Attorney\"\n    },\n    {\n        \"name\": \"Gianfranco Cuadra, Esq.\",\n        \"position\": \"Senior Associate Attorney\"\n    },\n    {\n        \"name\": \"Galen Hair, Esq.\",\n        \"position\": \"Associate Attorney\"\n    }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Lou Pechman is excellent in negotiating employment and separation agreements. He has been a trusted advisor in my successful transition through the C suites of several companies in the biotech industry. Lou is experienced, well respected by other attorneys, and easy to work with. He is a first-rate attorney in all respects. There is no other person that I would rather have in my corner.\",\n        \"author\": \"Richard Beckman\",\n        \"location\": null\n    },\n    {\n        \"text\": \"I am so thankful for the services of Pechman Law Group. They were at all times professional, thorough, timely, and understanding with regard to the needs of my case. It was clear that they would tirelessly advocate for me. They helped to deliver a favorable judgement that was beyond my expectations. I would very much recommend this law firm for anyone that needs representation in the New York City area.\",\n        \"author\": \"Shari Ajayi\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Our experience with Pechman Law Group was truly exceptional. They are professional, courteous and super savvy. We highly recommend them and look forward to working with them in the future as well. Thank you!\",\n        \"author\": \"Benjamin Blumenthal\",\n        \"location\": null\n    }\n]\n```"
+}

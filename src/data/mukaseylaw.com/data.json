@@ -1,0 +1,29 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n    \"title\": \"Extensive Trial Experience\",\n    \"content\": \"Mukasey Young has over 50 years of combined trial experience, ensuring knowledgeable and seasoned legal representation. Their track record includes successfully litigating high-stakes cases and handling complex legal matters.\"\n  },\n  {\n    \"title\": \"Client-Focused Representation\",\n    \"content\": \"The firm is dedicated to providing personalized attention and resources to each client, regardless of case size. They offer tailored legal services, ensuring that clients feel supported and represented throughout the legal process.\"\n  },\n  {\n    \"title\": \"Successful Trial Outcomes\",\n    \"content\": \"Mukasey Young has secured favorable outcomes for their clients, demonstrating their commitment to achieving justice. Their success spans across numerous cases, reflecting their ability to protect their clients' interests and rights.\"\n  }",
+  "address": "570 Lexington Avenue, Suite 3500, New York, NY 10022",
+  "phoneNumber": "212-466-6400",
+  "email": "null",
+  "linkNames": [
+    "HOME",
+    "PROFESSIONALS",
+    "PRACTICE AREAS",
+    "PRESS",
+    "JOIN THE TEAM"
+  ],
+  "companyName": "Mukasey Young",
+  "subHeading": "Mukasey Young is a nationally recognized law firm built for the courtroom.",
+  "valueProp": "Mukasey Young is a nationally recognized law firm that is built for the courtroom.   From the first subpoena to the closing argument, when clients need to fight to protect their freedom, their business, or their reputation -- we are ready for trial.",
+  "CTA": "Join The Team",
+  "topics": [
+    "Criminal Trials",
+    "Civil Trials",
+    "Investigations",
+    "Financial Services",
+    "Health Care",
+    "Trial Partner"
+  ],
+  "members": "```json\n[\n    {\n        \"name\": \"Marc L. Mukasey\",\n        \"position\": \"Renowned Trial Lawyer\"\n    },\n    {\n        \"name\": \"Torrey K. Young\",\n        \"position\": \"Defends Clients Facing Civil  Actions\"\n    },\n    {\n        \"name\": \"Thomas E. Thornhill\",\n        \"position\": \"Senior Associate\"\n    },\n    {\n        \"name\": \"Michael F. Westfal\",\n        \"position\": \"Senior Associate\"\n    }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"From my perspective he's the best trial lawyer out there.\",\n        \"author\": \"Chambers USA\",\n        \"location\": null\n    },\n    {\n        \"text\": \"The Mukasey team was extremely detailed and well-prepared and brought together attorneys with a broad range of knowledge and experience necessary to fight the claims.\",\n        \"author\": \"Chambers USA\",\n        \"location\": null\n    },\n    {\n        \"text\": \"It is an excellent firm of very smart and creative attorneys who are focused on doing the best possible job for the client.\",\n        \"author\": \"Chambers USA\",\n        \"location\": null\n    }\n]\n```"
+}

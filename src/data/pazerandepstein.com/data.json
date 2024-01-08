@@ -1,0 +1,51 @@
+{
+  "paragraph": "Call or text the contact number for a consultation.",
+  "detailsData": "{\n    \"title\": \"Extensive Trial Experience\",\n    \"content\": \"Pazer, Epstein, Jaffe & Fein, P.C. has over 50 years of experience providing top-tier legal representation in the courtroom. Our attorneys are equipped with the knowledge and expertise to manage high-profile and complex cases effectively.\"\n  }, {\n    \"title\": \"Client-Focused Representation\",\n    \"content\": \"We are dedicated to offering personalized attention to every client, understanding the significance of each case, and delivering customized legal services to meet your unique needs.\"\n  }, {\n    \"title\": \"Successful Trial Outcomes\",\n    \"content\": \"Our firm is renowned for our commitment to justice and a consistent track record of securing favorable outcomes for our clients, ensuring their interests and rights are well protected.\"\n  }",
+  "address": "20 Vesey Street, Suite 700, New York, NY 10007",
+  "phoneNumber": "(212) 227-1212",
+  "email": "info@pazerandepstein.com",
+  "linkNames": [
+    "HOME",
+    "OUR FIRM",
+    "OUR TEAM",
+    "PRACTICE AREAS",
+    "PUBLICATIONS & SEMINARS",
+    "CONTACT",
+    "OFFICE"
+  ],
+  "companyName": "Pazer, Epstein, Jaffe & Fein",
+  "subHeading": "WE FIGHT YOUR FIGHT",
+  "valueProp": "Pazer, Epstein, Jaffe & Fein, P.C. is a respected law firm in New York City with a track record of success in securing just financial compensation for their clients. They are known for their ethics, dedication, and experience in handling personal injury cases.",
+  "CTA": "REQUEST YOUR FREE CONSULTATION",
+  "topics": [
+    "Catastrophic Injury",
+    "Construction Accidents",
+    "Medical Malpractice",
+    "Motor Vehicle Accidents",
+    "Premise Liability Attorney",
+    "Serious Injuries",
+    "Wrongful Death",
+    "Other Liabilities",
+    "Union Strong"
+  ],
+  "members": [
+    {
+      "name": "Michael Jaffe",
+      "position": "Partner"
+    },
+    {
+      "name": "Matthew J. Fein",
+      "position": "Partner"
+    },
+    {
+      "name": "Eugene Gozenput",
+      "position": "Partner"
+    },
+    {
+      "name": "Mark Jay Epstein",
+      "position": "Partner"
+    }
+  ],
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"I have great respect for Michael Jaffe (no relation). Insightful, articulate, professional, Mr. Jaffe never fails to respond, and his response is never off-point nor overbearing. On several occasions, I have used Mr. Jaffe as a resource for finding answers to questions on novel legal issues. It is no wonder why he is so well regarded by the bench and bar.\",\n        \"author\": \"Richard Jaffe\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Great attorneys. One of the most experienced law firms I have had to pleasure of working with.\",\n        \"author\": \"Mauricio Vides\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Eugene Gozenput is absolutely one of the best attorneys out there. He dedicated his time and showed an amazing work ethic. He was able to get me the maximum amount on my settlement by preparing my case for trial. The entire team from Mike Jaffe to all the other lawyers were top notch and were extremely professional. I could not ask for better attorneys.\",\n        \"author\": \"Freddy Herrera\",\n        \"location\": null\n    }\n]\n```"
+}

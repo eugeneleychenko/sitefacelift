@@ -1,0 +1,34 @@
+{
+  "paragraph": "Call us at 516-614-6516 or fill out the form below today.",
+  "detailsData": "{\n  \"title\": \"Top Malpractice Lawyers in New York\",\n  \"content\": \"The firm has been recognized as some of the top attorneys in the New York Metro area by Super Lawyers Metro edition.\"\n},\n{\n  \"title\": \"Millions of Dollars Recovered\",\n  \"content\": \"The firm's top 29 successful dental malpractice cases have resulted in compensations of hundreds of thousands to multi-million dollars.\"\n},\n{\n  \"title\": \"50+ Years of Experience\",\n  \"content\": \"The firm has a particular emphasis in representing patients in dental malpractice matters for over 50 years.\"\n}",
+  "address": "122 East 42nd Street, Suite 3900, New York, NY 10168",
+  "phoneNumber": "516-614-6516",
+  "email": "null",
+  "linkNames": [
+    "HOME",
+    "OUR FIRM",
+    "OUR TEAM",
+    "PRACTICE AREAS",
+    "PUBLICATIONS & SEMINARS",
+    "CONTACT",
+    "OFFICE"
+  ],
+  "companyName": "Chianese & Reilly Law, P.C.",
+  "subHeading": "Over 50 Years of Trusted Experience",
+  "valueProp": "Chianese & Reilly Law is a New York law firm with more than 50 years of experience representing patients in dental malpractice cases. Our dental malpractice lawyers in New York, headed by Albert Chianese and Thomas Reilly, have helped numerous clients get the justice and compensation they deserve.",
+  "CTA": "Schedule a Free Consultation",
+  "topics": [
+    "Dental Malpractice",
+    "Estate Planning & Probate",
+    "Medical Malpractice",
+    "Personal Injury",
+    "Real Estate Law",
+    "Family and estate law",
+    "Automobile negligence",
+    "Premises liability",
+    "Construction accidents"
+  ],
+  "members": "```json\n[\n  {\n    \"name\": \"Albert W. Chianese\",\n    \"position\": \"Partner\"\n  },\n  {\n    \"name\": \"Thomas P. Reilly\",\n    \"position\": \"Partner\"\n  }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Hard working team!\",\n        \"author\": \"Kolleen\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Wonderful and honest work.\",\n        \"author\": \"Janice\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Three successful cases!\",\n        \"author\": \"Ivy\",\n        \"location\": null\n    }\n]\n```"
+}

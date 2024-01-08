@@ -1,0 +1,28 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n  \"title\": \"Preeminent Boutique for White-Collar Litigation\",\n  \"content\": \"The firm is recognized as a preeminent boutique for big-ticket white-collar litigation and investigations, setting them apart as leaders in this specialized area of law.\"\n},\n{\n  \"title\": \"Next Generation Trial Lawyers\",\n  \"content\": \"The firm's attorneys are known for their involvement in every aspect of a case and their close relationships with clients, making them part of the next generation of leading American trial lawyers.\"\n},\n{\n  \"title\": \"Regulatory Expertise and Courtroom Skills\",\n  \"content\": \"The firm's strong regulatory expertise married to formidable courtroom skills sets them apart in handling complex commercial litigation and white-collar criminal defense matters.\"\n}",
+  "address": "450 Park Avenue, Suite 1402, New York, NY 10022",
+  "phoneNumber": "+1 212.668.1900",
+  "email": "sbrune@brunelaw.com",
+  "linkNames": [
+    "PRACTICES",
+    "CLIENTS",
+    "ATTORNEYS",
+    "NEWS",
+    "PUBLICATIONS",
+    "CONTACT"
+  ],
+  "companyName": "Brune Law P.C.",
+  "subHeading": "White Collar and Commercial Expertise",
+  "valueProp": "\"Preeminent boutique for big-ticket white-collar litigation and investigations.\"",
+  "CTA": "Practices",
+  "topics": [
+    "SEC Investigations and Enforcement Actions",
+    "White Collar Criminal Defense",
+    "International Matters",
+    "Complex Commercial Litigation"
+  ],
+  "members": "```json\n[\n  {\n    \"name\": \"Susan E. Brune\",\n    \"position\": \"Principal\"\n  },\n  {\n    \"name\": \"Erin C. Dougherty\",\n    \"position\": \"Counsel\"\n  },\n  {\n    \"name\": \"Anneliese Vogel\",\n    \"position\": \"Associate\"\n  }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Preeminent boutique for big-ticket white-collar litigation and investigations.\",\n        \"author\": null,\n        \"location\": \"Chambers USA\"\n    },\n    {\n        \"text\": \"Susan is a part of the next generation of leading American trial lawyers. She\u2019s known for her involvement in just about every aspect of every case and for her close relationships with her clients.\",\n        \"author\": \"Super Lawyers\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Heavyweight experience in defending clients against investigations and proceedings involving allegations of tax evasion, antitrust law violations and securities issues.\",\n        \"author\": null,\n        \"location\": \"Chambers USA\"\n    }\n]\n```"
+}

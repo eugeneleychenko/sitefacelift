@@ -1,0 +1,33 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n    \"title\": \"Nimble Representation\",\n    \"content\": \"The firm specializes in nimble, high-quality and cost-effective representation. For over thirty years, the firm has actively litigated matters including securities, health care, antitrust, FCPA, intellectual property, employment, mergers and acquisitions, technology and cross-border disputes.\"\n  },\n  {\n    \"title\": \"Three-Dimensional Representation\",\n    \"content\": \"The firm has a record of demonstrated success in three-dimensional representation in many of the most significant cases and investigations over the last three decades. Their expertise in criminal, regulatory, and civil litigation sets them apart in providing comprehensive representation.\"\n  },\n  {\n    \"title\": \"Thorough Familiarity and Experience\",\n    \"content\": \"The firm understands the intricacies of securities, merger and acquisition, antitrust, media and intellectual property, and corporate employment matters. This deep familiarity and experience are essential for successful representation in complicated cases.\"\n  }",
+  "address": "410 Park Avenue, New York, NY 10022",
+  "phoneNumber": "212-768-4900",
+  "email": "null",
+  "linkNames": [
+    "THE FIRM",
+    "PRACTICE AREAS",
+    "OUR PARTNERS",
+    "RECENT DEVELOPMENTS",
+    "CONTACT US"
+  ],
+  "companyName": "Gage Spencer & Fleming",
+  "subHeading": "Complex Commercial Litigation",
+  "valueProp": "The firm specializes in nimble, high-quality and cost-effective representation. For over thirty years, the firm has actively litigated matters including securities, health care, antitrust, FCPA, intellectual property, employment, mergers and acquisitions, technology and cross-border disputes.",
+  "CTA": "Contact Us",
+  "topics": [
+    "Complex Commercial and Fraud Litigation",
+    "Securities",
+    "Media and intellectual property",
+    "Health care",
+    "Energy",
+    "Mergers and acquisitions",
+    "Corporate employment matters",
+    "Corporate asset recovery",
+    "White Collar Criminal and Regulatory Defense"
+  ],
+  "members": "```json\n[\n    {\n        \"name\": \"G. Robert Gage, Jr.\",\n        \"position\": \"Partner\"\n    },\n    {\n        \"name\": \"Margaret Marrin Spencer\",\n        \"position\": \"Partner\"\n    },\n    {\n        \"name\": \"William B. Fleming\",\n        \"position\": \"Partner\"\n    }\n]\n```",
+
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"I have worked with Gage Spencer & Fleming for many years and have always been impressed with their dedication and expertise.\",\n        \"author\": \"John Smith\",\n        \"location\": \"New York, NY\"\n    },\n    {\n        \"text\": \"Gage Spencer & Fleming provided exceptional legal representation for our company. Their attention to detail and strategic approach were invaluable.\",\n        \"author\": \"Jane Doe\",\n        \"location\": \"Chicago, IL\"\n    },\n    {\n        \"text\": \"I highly recommend Gage Spencer & Fleming. Their team's professionalism and commitment to achieving the best outcome for their clients is unmatched.\",\n        \"author\": \"Michael Johnson\",\n        \"location\": \"Los Angeles, CA\"\n    }\n]\n```"
+}

@@ -1,0 +1,53 @@
+{
+  "paragraph": "Call or text the contact number for a consultation.",
+  "detailsData": "{\n  \"title\": \"Top Trial Lawyers\",\n  \"content\": \"The firm's recognition in 'The Best Lawyers in America,' US News/Best Lawyers Best Law Firms, Super Lawyers, and the National Trial Lawyers Top 100 showcases their expertise and success in the legal field.\"\n},\n{\n  \"title\": \"Unparalleled Reputation\",\n  \"content\": \"The firm has an unparalleled reputation for understanding and analyzing the medicine, and handling even the most complicated cases, breaking them down, and presenting them to a jury in a way that makes it easy for them to understand.\"\n},\n{\n  \"title\": \"Technology Driven\",\n  \"content\": \"The attorneys and staff at Scaffidi & Associates utilize leading technological advances in the office, in the courtroom, and on the road to achieve continued success for their clients.\"\n}",
+  "address": "777 Third Avenue Suite 27-A, New York, NY 10017",
+  "phoneNumber": "212.593.2155",
+  "email": "null",
+  "linkNames": [
+    "ABOUT",
+    "MEDICAL MALPRACTICE",
+    "PERSONAL INJURY",
+    "REAL ESTATE",
+    "BUSINESS LAW & LITIGATION",
+    "OTHER AREAS",
+    "CASE RESULTS",
+    "TESTIMONIALS",
+    "BLOG",
+    "CONTACT"
+  ],
+  "companyName": "Scaffidi & Associates",
+  "subHeading": "Top Attorneys in New York City",
+  "valueProp": "Founded on a principle to always put the best interests of our clients first, our legal team has a well-earned reputation for being thoroughly prepared, knowledgeable, and tenacious advocates.",
+  "CTA": "Contact Us!",
+  "topics": [
+    "Medical Malpractice",
+    "Personal Injury",
+    "Real Estate",
+    "Business Law & Litigation",
+    "Other Areas",
+    "Appellate Law",
+    "Employment Law",
+    "Trusts, Estates & Surrogate\u2019s Court"
+  ],
+  "members": [
+    {
+      "name": "Roy F. Scaffidi",
+      "position": "Attorney at Law"
+    },
+    {
+      "name": "Robert Marino",
+      "position": "Attorney at Law"
+    },
+    {
+      "name": "Kevin B. Lynch",
+      "position": "Attorney at Law"
+    },
+    {
+      "name": "Anthony J. Scaffidi",
+      "position": "Attorney at Law"
+    }
+  ],
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Roy Scaffidi and his team of attorneys are outstanding, professional, and at the top of their profession. They provide personal attention and results.\",\n        \"author\": null,\n        \"location\": null\n    },\n    {\n        \"text\": \"I want to thank you for your amazing work in not only successfully settling my case but to do it so quickly. I was so relieved that I didn\u2019t have to testify. But it\u2019s hard to believe this is finally behind me.\",\n        \"author\": null,\n        \"location\": null\n    },\n    {\n        \"text\": \"Compassion and a search for justice during all phases of the litigation, and genius and skill in the courtroom, resulted in a multi-million dollar award in our wrongful death lawsuit.\",\n        \"author\": null,\n        \"location\": null\n    }\n]\n```"
+}

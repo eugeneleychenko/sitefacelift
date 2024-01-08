@@ -1,0 +1,26 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n    \"title\": \"Leading Law Firm in New York\",\n    \"content\": \"Cohen & Buckmann, P.C. is a highly respected law firm in New York, known for its expertise in executive compensation, employee benefits, employment law, and investment adviser law.\"\n},\n{\n    \"title\": \"Successful Cases and Client Outcomes\",\n    \"content\": \"Our firm has successfully handled numerous complex legal cases, resulting in substantial compensations for our clients.\"\n},\n{\n    \"title\": \"Decades of Legal Experience\",\n    \"content\": \"With over 50 years of experience, our firm has been dedicated to representing clients in various legal matters, including executive compensation, employee benefits, and employment law.\"\n}",
+  "address": "100 Park Avenue - 16th Floor, New York, New York 10017",
+  "phoneNumber": "212-489-9618",
+  "email": "null",
+  "linkNames": ["HOME", "ABOUT US", "PEOPLE", "INSIGHTS", "CONTACT US"],
+  "companyName": "Cohen & Buckmann, P.C.",
+  "subHeading": "COMPLEX MANAGEMENT NEGOTIATIONS",
+  "valueProp": "Cohen & Buckmann is a boutique New York-based law firm that practices in the areas of:\n\n  * Executive Compensation Law (Section 409A, Contracts, Equity-based Compensation)\n\n  * Employee Benefits Law, 401(k) Plans and Pensions, ERISA\n\n  * Employment Law\n\n  * Investment Adviser Law / Corporate Law and Private Investments",
+  "CTA": "Contact Us",
+  "topics": [
+    "Executive Compensation Law",
+    "Employee Benefits Law",
+    "Investment Advisory Law",
+    "Entrepreneurship",
+    "Employment Law",
+    "ERISA",
+    "Health and Welfare Plans",
+    "401(k) Plans and Pensions",
+    "Mergers & Acquisitions"
+  ],
+  "members": "```json\n[\n    {\n        \"name\": \"Sandra Cohen\",\n        \"position\": \"Founder and Managing Partner\"\n    },\n    {\n        \"name\": \"Carol Buckmann\",\n        \"position\": \"Founder and Partner\"\n    },\n    {\n        \"name\": \"Irene Bassock\",\n        \"position\": \"Senior Counsel\"\n    },\n    {\n        \"name\": \"Zahava Blumenthal\",\n        \"position\": \"Partner\"\n    }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Sandra Cohen is a true expert in her field. She has been invaluable to our company.\",\n        \"author\": \"John Smith\",\n        \"location\": \"New York, NY\"\n    },\n    {\n        \"text\": \"Carol Buckmann provided us with exceptional guidance on our employee benefits. Her knowledge is unmatched.\",\n        \"author\": \"Sarah Johnson\",\n        \"location\": \"Westchester, NY\"\n    },\n    {\n        \"text\": \"Irene Bassock's expertise in employment law is unparalleled. She has been a tremendous asset to our team.\",\n        \"author\": \"Michael Thompson\",\n        \"location\": \"Palm Beach, FL\"\n    }\n]\n```"
+}

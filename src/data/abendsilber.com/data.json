@@ -1,0 +1,31 @@
+{
+  "paragraph": "\"Free Case Consultation\"",
+  "detailsData": "{\n        \"title\": \"Extensive Trial Experience\",\n        \"content\": \"This firm has over 50 years of combined trial experience, ensuring knowledgeable and seasoned legal representation. Their track record includes successfully litigating high-stakes cases and handling complex legal matters.\"\n      },\n      {\n        \"title\": \"Client-Focused Representation\",\n        \"content\": \"The firm is dedicated to providing personalized attention and resources to each client, regardless of case size. They offer tailored legal services, ensuring that clients feel supported and represented throughout the legal process.\"\n      },\n      {\n        \"title\": \"Successful Trial Outcomes\",\n        \"content\": \"This firm has secured favorable outcomes for their clients, demonstrating their commitment to achieving justice. Their success spans across numerous cases, reflecting their ability to protect their clients' interests and rights.\"\n      }",
+  "address": "444 Madison Avenue, New York, New York 10022",
+  "phoneNumber": "212-532-7575",
+  "email": "info@abendsilber.com",
+  "linkNames": [
+    "HOME",
+    "PRACTICE AREAS",
+    "ATTORNEYS",
+    "RECENT NEWS",
+    "CONTACT INFO",
+    "SEARCH"
+  ],
+  "companyName": "Abend & Silber",
+  "subHeading": "NY Personal Injury Law Firm",
+  "valueProp": "Abend & Silber is a full service law firm with a core litigation practice. At the heart of our litigation practice, we represent individuals injured by medical malpractice, car accidents, and premises accidents including construction accidents, slip and fall accidents or workplace accidents.",
+  "CTA": "Free Case Consultation",
+  "topics": [
+    "Medical Malpractice",
+    "Personal Injury",
+    "NY Child Victims Act",
+    "Motor Vehicle Accidents",
+    "Construction Accidents",
+    "Premises Liability",
+    "New York Child Victims Act"
+  ],
+  "members": "```json\n[\n  {\n    \"name\": \"Richard H. Abend\",\n    \"position\": \"Premier Trial Lawyer\"\n  },\n  {\n    \"name\": \"Jessica Levitas\",\n    \"position\": \"Attorney\"\n  },\n  {\n    \"name\": \"Josh Silber\",\n    \"position\": \"Experienced Civil Litigation Attorney\"\n  }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"I referred a personal injury case to Abend & Silber and they did an amazing job. They got our client a great settlement and did so in a relatively quick manner. Thanks Richard and Josh for doing such a great job.\",\n        \"author\": \"Matthew W.\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Abend & Silber get the results you need! This New York personal injury law firm makes clients feel comfortable. Their entire office is amazing and always keeps you updated.\",\n        \"author\": \"DG S.\",\n        \"location\": null\n    },\n    {\n        \"text\": \"I referred a personal injury case to Abend & Silber and they did an amazing job. They got our client a great settlement and did so in a relatively quick manner. Thanks Richard and Josh for doing such a great job.\",\n        \"author\": \"Matthew W.\",\n        \"location\": null\n    }\n]\n```"
+}

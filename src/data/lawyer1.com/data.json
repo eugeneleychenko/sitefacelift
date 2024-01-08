@@ -1,0 +1,34 @@
+{
+  "paragraph": "Call us today at 212-490-5700 for a free, no-obligation consultation.",
+  "detailsData": "{\n  \"title\": \"Elite New York City Personal Injury Attorneys\",\n  \"content\": \"The personal injury lawyers at Hecht, Kleeger & Damashek, P.C. have a proven record of multi-million dollar verdicts and settlements, setting them apart from other law firms. They have earned recognition across the city and are members of prestigious legal organizations.\"\n},\n{\n  \"title\": \"Veteran Trial Lawyers\",\n  \"content\": \"The injury attorneys at Hecht, Kleeger & Damashek, P.C. are veteran trial lawyers with a reputation and track record in and out of court. They get involved early, advocate for what\u2019s right, and prepare every case as if a trial is inevitable.\"\n},\n{\n  \"title\": \"No Up-front Costs\",\n  \"content\": \"Hecht, Kleeger & Damashek, P.C. works on a contingency basis, meaning there are no up-front fees or costs for clients. They only receive a percentage of the recovery, ensuring that clients do not owe anything if they do not recover compensation.\"\n}",
+  "address": "19 West 44th Street, Suite 1500 New York, New York 10036-0120",
+  "phoneNumber": "212-490-5700",
+  "email": "info@lawyer1.com",
+  "linkNames": [
+    "ABOUT US",
+    "PRACTICE AREAS",
+    "LEGAL BLOG",
+    "PERSONAL INJURY LAWS",
+    "AREAS SERVED",
+    "CONTACT",
+    "SITEMAP"
+  ],
+  "companyName": "Hecht, Kleeger & Damashek, P.C.",
+  "subHeading": "NYC Personal Injury Lawyers",
+  "valueProp": "Hecht, Kleeger & Damashek, P.C. is a team of award-winning personal injury lawyers in New York City. We handle injury claims from all types of accidents.",
+  "CTA": "Free Case Review",
+  "topics": [
+    "Construction Accidents",
+    "Car Accidents",
+    "MTA Injury Claims",
+    "Municipal Liability",
+    "Falling Object Accidents",
+    "Truck Accidents",
+    "Pedestrian Accident",
+    "Bicycle Accident",
+    "Brain Injuries"
+  ],
+  "members": "```json\n[\n    {\n        \"name\": \"Jordan Hecht\",\n        \"position\": \"Partner\"\n    },\n    {\n        \"name\": \"Judd Kleeger\",\n        \"position\": \"Partner\"\n    },\n    {\n        \"name\": \"Jonathan Damashek\",\n        \"position\": \"Partner\"\n    },\n    {\n        \"name\": \"Noah S. Reiss\",\n        \"position\": \"Associate\"\n    }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"I have had two cases with Hecht, Kleeger & Damashek and have had great results! I have netted over seven figures and would recommend the firm anyone who has been injured in a slip and fall or auto accident.\",\n        \"author\": \"Francisco Bryan\",\n        \"location\": null\n    },\n    {\n        \"text\": \"When I spoke to Mr.Noah Reiss he gave me valuable legal advice. Connected the dots who and why. He is a great asset to this firm. Will call him again as a friend. Thank you so much.\",\n        \"author\": \"Harendra Gautam\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Ross Raggio, did an amazing job on my case. The office staff was responsive and very helpful to my questions and concerns. I had a very good experience. I highly recommend this firm.\",\n        \"author\": \"patricia Carnevale\",\n        \"location\": null\n    }\n]\n```"
+}

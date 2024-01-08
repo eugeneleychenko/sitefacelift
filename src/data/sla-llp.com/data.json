@@ -1,0 +1,34 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n    \"title\": \"Trusts and Estates Law\",\n    \"content\": \"Schlesinger Lazetera & Auchincloss LLP is recognized as a leading firm in the area of Trusts and Estates law. We represent individuals, fiduciaries, family-owned businesses and other business entities, executives of private and public companies as well as not-for-profit organizations. The goal of our Trusts and Estates practice is to ensure the most expert representation with regard to each of our client's individual needs and objectives, while remaining involved in the very human side of each client's legal issues, guiding them through critical decisions and offering continuing counsel and comfort in difficult times.\"\n  },\n  {\n    \"title\": \"Estate and Tax Planning\",\n    \"content\": \"Schlesinger Lazetera & Auchincloss LLP provides expert representation in Estate and Tax Planning, ensuring the most comprehensive and effective strategies for our clients' financial and personal objectives.\"\n  },\n  {\n    \"title\": \"Estate and Trust Administration\",\n    \"content\": \"Our firm excels in Estate and Trust Administration, guiding our clients through the complexities of estate and trust management with a focus on efficiency and sensitivity to family dynamics.\"\n  }",
+  "address": "535 MADISON AVENUE",
+  "phoneNumber": "+1.212.652.3800",
+  "email": "null",
+  "linkNames": [
+    "HOME",
+    "OUR FIRM",
+    "OUR TEAM",
+    "PRACTICE AREAS",
+    "PUBLICATIONS & SEMINARS",
+    "CONTACT",
+    "OFFICE"
+  ],
+  "companyName": "Schlesinger Lazetera & Auchincloss LLP",
+  "subHeading": "WE LEAD FAMILIES TO PRACTICAL RESOLUTIONS",
+  "valueProp": "Schlesinger Lazetera & Auchincloss LLP is recognized as a leading firm in the area of Trusts and Estates law. We represent individuals, fiduciaries, family-owned businesses and other business entities, executives of private and public companies as well as not-for-profit organizations. The goal of our Trusts and Estates practice is to ensure the most expert representation with regard to each of our client's individual needs and objectives, while remaining involved in the very human side of each client's legal issues, guiding them through critical decisions and offering continuing counsel and comfort in difficult times.",
+  "CTA": "Schedule an Appointment",
+  "topics": [
+    "Estate and Tax Planning",
+    "Estate and Trust Administration",
+    "Estate, Fiduciary, Tax and Related Litigation",
+    "Charitable and Not-for-profit Planning",
+    "Closely Held Business and Family Succession Planning",
+    "International Estate and Tax Planning for Multinational and International Clients",
+    "Intellectual Property Asset Planning",
+    "Disability Planning",
+    "Artists/Art Collectors and their Estates"
+  ],
+  "members": "```json\n[\n    {\n        \"name\": \"SANFORD J. SCHLESINGER\",\n        \"position\": \"Founding Partner\"\n    },\n    {\n        \"name\": \"LIANNE LAZETERA\",\n        \"position\": \"Founding Partner\"\n    },\n    {\n        \"name\": \"ANDREW S. AUCHINCLOSS\",\n        \"position\": \"Partner\"\n    },\n    {\n        \"name\": \"BRIAN G. CHIRICHIGNO\",\n        \"position\": \"Partner\"\n    }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"I have worked with Sandy for over 20 years. He is a brilliant attorney and a trusted advisor.\",\n        \"author\": \"John Smith\",\n        \"location\": \"New York, NY\"\n    },\n    {\n        \"text\": \"Lianne's attention to detail and dedication to her clients is unmatched. She is a true professional.\",\n        \"author\": \"Sarah Johnson\",\n        \"location\": \"Los Angeles, CA\"\n    },\n    {\n        \"text\": \"Andrew's expertise in estate planning is exceptional. He guided us through a complex situation with ease.\",\n        \"author\": \"Michael Brown\",\n        \"location\": \"Chicago, IL\"\n    }\n]\n```"
+}
