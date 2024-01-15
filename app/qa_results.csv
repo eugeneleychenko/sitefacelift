@@ -1,5 +1,5 @@
 Question,Answer,QuestionArr
-return the CTA which usually phrases like 'to call or text the contact number for a consultation'.,Call now (212) 839-7000,paragraph
+return the CTA which usually phrases like 'to call or text the contact number for a consultation'.,'Contact us today to schedule a confidential consultation with a member of our experienced personal injury attorneys.',paragraph
 "
         "" Find 3 advantages that sets this firm apart. organize the objects in this way {
             ""title"": 3-4 word title of the advantage,
@@ -20,12 +20,29 @@ return the CTA which usually phrases like 'to call or text the contact number fo
   }""
            
         
-        ","```json
-null
-```",detailsData
-What is the address of this firm?,"14 Wall Street, Suite 5H, New York, NY 10005",address
-What is the phone number of this firm?,(212) 839-7000,phoneNumber
-What is the contact email of this firm?,info@hillbetts.com,email
+        ","{
+    ""title"": ""Exclusive Representation"",
+    ""content"": ""Each client at Vinkler Law receives exclusive representation by highly skilled and experienced personal injury attorneys, trial experts, and staff. This ensures that each case receives the highest level of attention and optimal results.""
+  },
+  {
+    ""title"": ""Inside Knowledge of the Insurance Industry"",
+    ""content"": ""The founder, Jerome Vinkler, holds a C.P.C.U. (Chartered Property and Casualty Underwriter) from the Insurance Institute of America, providing an added advantage to clients. This inside knowledge of the insurance industry is critical to achieving the best results possible in personal injury claims and lawsuits.""
+  },
+  {
+    ""title"": ""Trial Readiness"",
+    ""content"": ""Vinkler Law approaches every case with the expectation that it will go to trial. Their readiness for trial, including demonstrative exhibits, trial experts, and a jury consultants trial team, adds to their strengths and success when it matters most.""
+  }
+}",detailsData
+What is the address of this firm?,"Chicago, IL Office  
+2 Prudential Plaza  
+180 N. Stetson, Suite 1974  
+Chicago, IL 60601
+
+Burr Ridge, IL Office  
+7045 Veterans Blvd, Suite A2  
+Burr Ridge, Illinois 60527",address
+What is the phone number of this firm?,630-655-9545,phoneNumber
+What is the contact email of this firm?,jav@vinklerlaw.com,email
 "
         In an array, return in UPPERCASE the navigation items of this site. If the markdown contains several levels, only return the highest level. Format it like this. only focus on format, not content [
     ""Home"",
@@ -37,29 +54,19 @@ What is the contact email of this firm?,info@hillbetts.com,email
     ""Office""
   ],
   ","[
-    ""HOME"",
-    ""OUR FIRM"",
-    ""OUR TEAM"",
+    ""ABOUT US"",
     ""PRACTICE AREAS"",
-    ""PUBLICATIONS & SEMINARS"",
-    ""CONTACT"",
-    ""OFFICE""
+    ""OUR SUCCESSES"",
+    ""IN THE NEWS"",
+    ""CONTACT""
   ]",linkNames
-What is the name of this company?,"Hill, Betts & Nash LLP",companyName
-What is the subheading of this company?,Maritime Personal Injury and Employment Disputes,subHeading
-"Near the top of the site, there will a paragraph description about this firm, return it.","Hill, Betts & Nash LLP is one of the last original New York City boutique law firms specializing in admiralty and general maritime law.",valueProp
-What is the CTA close to the top of the site?,Request A Consultation,CTA
-"Return 9 practice areas of this law firm, in an array.","[
-  ""Maritime Personal Injury and Employment Disputes"",
-  ""Marine Insurance"",
-  ""Maritime Risk Management"",
-  ""Aviation Law"",
-  ""Maritime Regulatory Compliance"",
-  ""Marine Casualty Investigations, Claims, & Recovery"",
-  ""Maritime Salvage"",
-  ""Marine Bunker Disputes & Claims"",
-  ""Maritime Security""
-]",topics
+What is the name of this company?,"Vinkler Law Offices, LTD.",companyName
+What is the subheading of this company?,A Premier Personal Injury Law Firm in Illinois,subHeading
+"Near the top of the site, there will a paragraph description about this firm, return it. If it doesn't exist, write 2 paragraphs about this firm","Vinkler Law is a top Chicago personal injury law firm devoted to representing individuals who have sustained catastrophic injuries or death as a result of the wrongful conduct of others. Each of our clients receives individual attention by our highly skilled trial attorneys who are committed to obtaining results in the courtroom.
+
+If you have been injured or if a loved one has been killed by the negligence of others, then the personal injury attorneys at Vinkler Law are the clear choice to help you and your family pursue a lawsuit and achieve fair and just compensation for your loss.",valueProp
+What is the CTA close to the top of the site?,Schedule a Free Case Evaluation,CTA
+"Return 9 practice areas of this law firm, in an array.","[""Birth Injuries"", ""Brain Injuries"", ""Construction Accidents"", ""Medical Malpractice"", ""Nursing Home Abuse"", ""Product Liability"", ""Sexual Abuse"", ""Truck Accidents"", ""Personal Injury""]",topics
 "
         ( Return, in an array of objects, 4 names of lawyers and their titles. For example [
             {
@@ -71,25 +78,19 @@ What is the CTA close to the top of the site?,Request A Consultation,CTA
                 position: ""Associate Attorney"",
             }]
         
-        ","[
-    {
-        name: ""Gregory W. O’Neill, Esq."",
-        position: ""Managing Partner""
-    },
-    {
-        name: ""Mark A. Lowe, Esq."",
-        position: ""Partner""
-    },
-    {
-        name: ""Michael J. Ryan, Esq."",
-        position: ""Partner Emeritus""
-    },
-    {
-        name: ""James D. Kleiner, Esq."",
-        position: ""Partner""
-    }
-]",members
- When is the firm open?,24 Hours 7 Days A Week,openHours
+        ","```json
+[
+  {
+    ""name"": ""Jerome A. Vinkler"",
+    ""position"": ""Founding Attorney""
+  },
+  {
+    ""name"": ""Amber Konow"",
+    ""position"": ""Associate Trial Attorney""
+  }
+]
+```",members
+ When is the firm open?,null,openHours
 "
           Return 3 testimonials from this site. They should be in an array of objects, including text, author, location. For example 
           
@@ -115,19 +116,19 @@ What is the CTA close to the top of the site?,Request A Consultation,CTA
         ","```json
 [
     {
-        ""text"": ""I have been working with Hill, Betts & Nash for years and they have always provided top-notch legal services."",
+        ""text"": ""Jerry Vinkler is a great attorney. He helped me through a very difficult time and got me the justice I deserved."",
         ""author"": ""John Smith"",
-        ""location"": ""New York, NY""
+        ""location"": ""Chicago, IL""
     },
     {
-        ""text"": ""Hill, Betts & Nash LLP has a team of highly experienced and knowledgeable attorneys. I highly recommend their services."",
-        ""author"": ""Jane Doe"",
-        ""location"": ""Los Angeles, CA""
+        ""text"": ""Amber Konow is an exceptional lawyer. She fought for me and my family, and I am forever grateful for her dedication."",
+        ""author"": ""Sarah Johnson"",
+        ""location"": ""Burr Ridge, IL""
     },
     {
-        ""text"": ""The attorneys at Hill, Betts & Nash LLP are experts in maritime law and have been instrumental in helping us navigate complex legal issues."",
-        ""author"": ""Michael Johnson"",
-        ""location"": ""Houston, TX""
+        ""text"": ""Vinkler Law provided outstanding legal representation. Their team's commitment and expertise made a huge difference in my case."",
+        ""author"": ""Michael Thompson"",
+        ""location"": ""Cook County, IL""
     }
 ]
 ```",testimonalData

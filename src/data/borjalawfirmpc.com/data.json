@@ -1,0 +1,34 @@
+{
+  "paragraph": "Call us at (718) 526-4472 for a consultation.",
+  "detailsData": "{\n  \"title\": \"Latino Team of Lawyers\",\n  \"content\": \"The firm is comprised of a team of lawyers with immigrant parents, providing a deep understanding of the immigrant experience and a strong connection to the Latino community.\"\n},\n{\n  \"title\": \"Fluent in Spanish\",\n  \"content\": \"The ability to communicate fluently in Spanish enhances client comfort and facilitates discussions on personal matters in their mother language.\"\n},\n{\n  \"title\": \"Digital Accessibility\",\n  \"content\": \"The firm has adapted to the digital world, offering a live video program to assist immigrants with free services and Q&A, showcasing their readiness to serve the community's urgent needs.\"\n}",
+  "address": "82-02 Roosevelt Ave 2nd Floor, Queens, NY 11372",
+  "phoneNumber": "(718) 526-4472",
+  "email": "mborja@borjalawfirmpc.com",
+  "linkNames": [
+    "HOME",
+    "OUR FIRM",
+    "OUR TEAM",
+    "PRACTICE AREAS",
+    "PUBLICATIONS & SEMINARS",
+    "CONTACT",
+    "OFFICE"
+  ],
+  "companyName": "Borja Law Firm P.C.",
+  "subHeading": "We Are Experienced In Immigration",
+  "valueProp": "We are the law firm focused on meeting the needs of our clients, making them our priority, providing the highest quality legal service and defending their legal rights\u2026",
+  "CTA": "(718) LA MIGRA",
+  "topics": [
+    "Immigration",
+    "Permanent Residence/Citizenship",
+    "USCIS",
+    "Detainees",
+    "Family Court",
+    "Criminal Matters",
+    "Accidents",
+    "Divorces",
+    "Other Services"
+  ],
+  "members": "```json\n[\n    {\n        \"name\": \"Michael Borja\",\n        \"position\": \"Lawyer\"\n    },\n    {\n        \"name\": \"Denisse Yvette Gomez\",\n        \"position\": \"Lawyer\"\n    },\n    {\n        \"name\": \"William Alan Macrae\",\n        \"position\": \"Lawyer\"\n    },\n    {\n        \"name\": \"Daniela Santana\",\n        \"position\": \"Paralegal\"\n    }\n]\n```",
+  "openHours": "MONDAY - THURSDAY: 9:00AM \u2013 7:00PM  \nFRIDAY: 9:00AM\u2013 6:00PM  \nSATURDAYS & SUNDAYS: 11:00AM\u2013 2:00PM",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Visa Juvenil. Felicidades a mi cliente Wilson M. del Ecuador recie\u0301n cumplido 18 an\u0303os que acaba de recibir su Tarjeta de Residencia, Green Card, a trave\u0301s de la Visa Juvenil. #BorjaLawFirm manejo\u0301 su caso por 2 an\u0303os hasta finalmente lograr ser victoriosos. Wilson anhela ser un electricista profesional y ahora no tendra\u0301 li\u0301mites para lograrlo.\",\n        \"author\": \"Wilson\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Political Asylum. Congratulations to Pedro! On our Facebook Live: 'Inmigraci\u00f3n y M\u00e1s' we explained how to win your Political Asylum case. Now, Pedro may apply for his family and he can become resident of the the United States of America.\",\n        \"author\": \"Pedro\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Es un gusto recordar y poder felicitar a Antonella por obtener su #GreenCard a trav\u00e9s de la Visa Juvenil. \u00c9xitos en su carrera de medicina. Par\u00e1 m\u00e1s informaci\u00f3n ll\u00e1manos al (718) 526-4472 S\u00edguenos en @BorjaLawFirm\",\n        \"author\": \"Antonella\",\n        \"location\": null\n    }\n]\n```"
+}

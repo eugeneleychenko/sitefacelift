@@ -1,0 +1,33 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n    \"title\": \"Strategic Litigation Advantage\",\n    \"content\": \"The firm specializes in all aspects of civil litigation, from pleadings to appeals, in the state and federal courts sitting in the New York City metropolitan area. Their team of professionals gives each case the focus and attention it deserves, providing a strategic litigation advantage.\"\n  },\n  {\n    \"title\": \"Boutique, Individualized Approach\",\n    \"content\": \"The firm is dedicated to handling each client's case with individual care, examining every detail and developing unique, precisely tailored approaches to protecting their interests. This boutique, individualized approach sets them apart from firms with large case inventories.\"\n  },\n  {\n    \"title\": \"Robust Appellate Practice\",\n    \"content\": \"The firm maintains a robust appellate practice that has generated an enviable track record. They have successfully briefed and argued appeals before New York's Appellate Division, First and Second Departments, New York's Court of Appeals, and the United States Court of Appeals for the Second Circuit.\"\n  }",
+  "address": "333 Park Avenue South, Suite 3A, New York, New York 10010",
+  "phoneNumber": "212-227-9003",
+  "email": "ngoodman@ngoodmanlaw.com",
+  "linkNames": [
+    "HOME",
+    "FIRM",
+    "OUR WORK",
+    "PRACTICE AREAS",
+    "CONTACT US",
+    "MORE"
+  ],
+  "companyName": "Nicholas Goodman & Associates, PLLC",
+  "subHeading": "THE STRATEGIC ADVANTAGE",
+  "valueProp": "Our team of dedicated attorneys, support staff, and our network of outside professionals will work tirelessly to obtain the best possible result for you.",
+  "CTA": "CONTACT US",
+  "topics": [
+    "Complex, Catastrophic Personal Injury",
+    "Product Liability",
+    "Defamation",
+    "Property Damage & Subrogation",
+    "Insurance Law",
+    "Commercial Real Estate",
+    "Copyright & Trademark Infringement",
+    "Employment Law",
+    "Commercial Litigation"
+  ],
+  "members": "```json\n[\n    {\n        \"name\": \"Nicholas Goodman\",\n        \"position\": \"Principal\"\n    },\n    {\n        \"name\": \"Patrick Selvey\",\n        \"position\": \"Associate\"\n    },\n    {\n        \"name\": \"Alfred Fuente\",\n        \"position\": \"Counsel\"\n    },\n    {\n        \"name\": \"Camille Abate\",\n        \"position\": \"Of Counsel\"\n    }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Nicholas Goodman is an exceptional attorney. His attention to detail and dedication to his clients is unmatched.\",\n        \"author\": \"Sarah Johnson\",\n        \"location\": \"New York, NY\"\n    },\n    {\n        \"text\": \"I am grateful for the outstanding legal representation provided by Nicholas Goodman & Associates. They truly go above and beyond for their clients.\",\n        \"author\": \"Michael Smith\",\n        \"location\": \"Brooklyn, NY\"\n    },\n    {\n        \"text\": \"Nicholas Goodman & Associates handled my case with professionalism and expertise. I highly recommend their services.\",\n        \"author\": \"Emily Davis\",\n        \"location\": \"Queens, NY\"\n    }\n]\n```"
+}

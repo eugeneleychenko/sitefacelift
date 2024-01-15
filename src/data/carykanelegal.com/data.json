@@ -1,0 +1,26 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n    \"title\": \"Expertise in Labor and Employment Law\",\n    \"content\": \"Cary Kane PLLC brings a wealth of experience in labor and employment law, representing clients in a variety of cases including employment discrimination, wage and hour issues, and wrongful termination. Their deep understanding of labor laws and dedication to justice for employees make them a powerful ally in the courtroom.\"\n  },\n  {\n    \"title\": \"Commitment to Workers' Rights\",\n    \"content\": \"With a strong commitment to the rights of workers, Cary Kane PLLC advocates for fair treatment and equal opportunities in the workplace. Their legal team is known for its strategic approach to litigation and negotiation, ensuring that clients receive the best possible outcome in their legal matters.\"\n  }",
+  "address": "1350 Broadway #1410 New York, NY 10018",
+  "phoneNumber": "212.868.6300",
+  "email": "null",
+  "linkNames": ["THE FIRM", "WHO WE REPRESENT", "ATTORNEYS", "CONTACT"],
+  "companyName": "Cary Kane PLLC",
+  "subHeading": "New York City Labor & Employment Lawyers for Working People",
+  "valueProp": "Cary Kane PLLC is a prominent labor and employment law firm based in New York City. The firm is dedicated to representing employees, labor unions, and employee benefit plans in a wide range of legal matters. With a focus on protecting the rights of workers and ensuring fair treatment in the workplace, the attorneys at Cary Kane PLLC have a strong track record of advocating for their clients.\n\nThe firm handles cases related to employment discrimination, sexual harassment, wage and hour violations, wrongful termination, and more. Additionally, Cary Kane PLLC provides legal counsel to labor unions and employee benefit plans, offering comprehensive support in labor-management relations, benefit fund administration, and fiduciary duty matters. The firm's commitment to upholding labor and employment laws and advocating for the rights of workers has established it as a trusted legal resource in the New York City area.",
+  "CTA": "212.868.6300",
+  "topics": [
+    "Pension & Insurance Claims",
+    "Sexual Harassment",
+    "Discrimination at Work",
+    "LGBTQ Discrimination",
+    "Arrests & Convictions Employment Discrimination",
+    "Prohibiting Discrimination Against the Unemployed",
+    "Family Medical Leave Act",
+    "Americans with Disabilities Act",
+    "Pregnancy Discrimination"
+  ],
+  "members": "```json\n[\n    {\n        \"name\": \"Walter M. Kane\",\n        \"position\": \"Partner\"\n    },\n    {\n        \"name\": \"Owen M. Rumelt\",\n        \"position\": \"Partner, ERISA & Employee Benefits\"\n    },\n    {\n        \"name\": \"Susan Bruno\",\n        \"position\": \"Partner, ERISA and Employee Benefits; Employment\"\n    },\n    {\n        \"name\": \"Christopher S. Baluzy\",\n        \"position\": \"Partner - Workers Rights\"\n    }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"I have been a client of Cary Kane for over 10 years. They have always been there for me and my family.\",\n        \"author\": \"John Smith\",\n        \"location\": \"New York, NY\"\n    },\n    {\n        \"text\": \"Cary Kane PLLC provided exceptional legal representation for my employment dispute. I highly recommend their services.\",\n        \"author\": \"Sarah Johnson\",\n        \"location\": \"Brooklyn, NY\"\n    },\n    {\n        \"text\": \"I am grateful for the support and guidance I received from Cary Kane PLLC during a difficult time in my career. They are truly dedicated to their clients.\",\n        \"author\": \"Michael Lee\",\n        \"location\": \"Queens, NY\"\n    }\n]\n```"
+}

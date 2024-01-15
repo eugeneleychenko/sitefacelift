@@ -18,7 +18,7 @@
     "Partnership & Corporate Governance Disputes",
     "Class Action & Mass Torts"
   ],
-  "members": "```json\n[\n    {\n        \"name\": \"PETER ROLDAN\",\n        \"position\": null\n    },\n    {\n        \"name\": \"SETH ROSENBERG\",\n        \"position\": null\n    },\n    {\n        \"name\": \"JOHNNY YEH\",\n        \"position\": null\n    },\n    {\n        \"name\": \"KEN SZETO\",\n        \"position\": null\n    }\n]\n```",
+  "members": "```json\n[\n    {\n        \"name\": \"PETER ROLDAN\",\n        \"position\": \"\"\n    },\n    {\n        \"name\": \"SETH ROSENBERG\",\n        \"position\": \"\"\n    },\n    {\n        \"name\": \"JOHNNY YEH\",\n        \"position\": \"\"\n    },\n    {\n        \"name\": \"KEN SZETO\",\n        \"position\": \"\"\n    }\n]\n```",
   "openHours": "null",
   "testimonalData": "null"
 }

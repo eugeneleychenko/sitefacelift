@@ -1,0 +1,34 @@
+{
+  "paragraph": "\"Book a Free 15-minute consultation\"",
+  "detailsData": "```json\n{\n    \"title\": \"Personalized Service\",\n    \"content\": \"You are not just a number to us. We fit our service to your situation. You deserve legal advice as unique as you are.\"\n},\n{\n    \"title\": \"Personalized Fees\",\n    \"content\": \"We have different levels of fees to fit your family or business situation. No one-size-fits-all approach here.\"\n},\n{\n    \"title\": \"Caring Lawyers\",\n    \"content\": \"The first thing we do with any client is listen. We want to learn all we can about you to help you as best we can.\"\n}\n```",
+  "address": "8825 Stanford Blvd #140, Columbia MD 21045",
+  "phoneNumber": "410-405-7996",
+  "email": "info@lundylawgroup.com",
+  "linkNames": [
+    "HOME",
+    "ABOUT US",
+    "PRACTICE AREAS",
+    "BLOG/MEDIA",
+    "EVENTS",
+    "FAQS",
+    "CONTACT US"
+  ],
+  "companyName": "Lundy Law Group",
+  "subHeading": "Your Trusted Local Estate Planning, Family & Business Law Attorneys",
+  "valueProp": "At Lundy Law Group, we are dedicated to providing personalized and attentive legal counsel to each client. Our team is committed to understanding the unique needs of every individual and offering tailored legal solutions. With a focus on delivering exceptional service and advocating effectively for our clients, we strive to exceed expectations and achieve favorable outcomes.",
+  "CTA": "Request a Free Consultation",
+  "topics": [
+    "Estate Planning, Wills and Trusts",
+    "Trust Administration",
+    "Planning for Your Children/Guardianship",
+    "Special Needs Planning",
+    "Elder Law and Medicaid Planning",
+    "Adult Guardianship",
+    "Asset Protection Planning",
+    "Estate Tax Planning",
+    "Probate Process"
+  ],
+  "members": "```json\n[\n    {\n        \"name\": \"Paulette Lundy\",\n        \"position\": \"Principal & Founder\"\n    },\n    {\n        \"name\": \"Kishia Robinson\",\n        \"position\": \"Client Services Director\"\n    },\n    {\n        \"name\": \"Fabian Fernander\",\n        \"position\": \"Marketing Consultant\"\n    }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Paulette's presentation at our home was impressive, showcasing her passion and knowledge. Her guidance has kept us on the right path, and we're thankful for her expertise.\",\n        \"author\": \"The Pritchetts\",\n        \"location\": \"Perfecting Worship Center, MD\"\n    },\n    {\n        \"text\": \"My 3-year experience with Paulette at Lundy's Law Group has been nothing but stellar. Her passionate advocacy for her clients is commendable, making it easy to recommend their legal services.\",\n        \"author\": \"Jan Walker-Emeogo\",\n        \"location\": \"Business Consultant\"\n    },\n    {\n        \"text\": \"Attorney Paulette Lundy of Lundy Law Group has provided invaluable counsel in Employee Relations, Board Governance, and Corporation Establishment. Her wisdom, ethical approach, and attention to detail are truly appreciated.\",\n        \"author\": \"Everett & Dorsharica Jeffersons\",\n        \"location\": \"Wisdom Matters with the Jeffersons & Victory Temple Church\"\n    }\n]\n```"
+}

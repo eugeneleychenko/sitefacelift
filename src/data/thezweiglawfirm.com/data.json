@@ -1,0 +1,26 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n  \"title\": \"Litigation Acumen\",\n  \"content\": \"Tadler Law attorneys are savvy litigators that listen, learn and leverage their legal and business acumen as cases evolve to maximize results.\"\n},\n{\n  \"title\": \"Savvy Negotiators\",\n  \"content\": \"Blending legal, business and common sense knowledge, Tadler Law attorneys are savvy negotiators that maximize optimal outcomes.\"\n},\n{\n  \"title\": \"Thought Leaders\",\n  \"content\": \"Tadler Law attorneys are engaging thought leaders that produce and present powerful educational content in multiple formats to mentor and inspire clients, colleagues and peers.\"\n}",
+  "address": "483 Chestnut Street, Cedarhurst, NY 11516",
+  "phoneNumber": "718-971-9716",
+  "email": "null",
+  "linkNames": ["HOME", "ABOUT", "AREAS OF PRACTICE", "CONTACT"],
+  "companyName": "The Zweig Law Firm",
+  "subHeading": "Top Ranked Personal Injury, Civil Litigation, Transactional, & Appellate",
+  "valueProp": "The Zweig Law Firm combines innovative approaches to challenging legal issues with a firm commitment to our clients. Representing businesses and individuals throughout New York and New Jersey, we have both the experience and industry-specific knowledge necessary to give our clients every opportunity to achieve their goals.",
+  "CTA": "Contact",
+  "topics": [
+    "Civil Litigation",
+    "Personal Injury - General",
+    "General Liability Litigation",
+    "Real Estate Litigation",
+    "Construction Litigation",
+    "Business Litigation",
+    "Labor and Employment Claims",
+    "Discrimination Claims",
+    "Real Estate Transactions"
+  ],
+  "members": "```json\n[\n    {\"name\": \"Jonah Zweig\", \"position\": \"Attorney At Law\"},\n    {\"name\": \"Naftali Zweig\", \"position\": \"Attorney At Law\"},\n    {\"name\": \"Daniel Feldman\", \"position\": \"Attorney At Law\"},\n    {\"name\": \"Michael Goitein\", \"position\": \"Attorney At Law\"}\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"The Zweig Law Firm provided excellent legal representation for my personal injury case. I highly recommend their services.\",\n        \"author\": \"John Smith\",\n        \"location\": \"New York, NY\"\n    },\n    {\n        \"text\": \"I was impressed by the thorough preparation and attention to detail in handling my business litigation. The team at The Zweig Law Firm is top-notch.\",\n        \"author\": \"Sarah Johnson\",\n        \"location\": \"New Jersey\"\n    },\n    {\n        \"text\": \"The attorneys at The Zweig Law Firm were instrumental in negotiating a successful real estate transaction for me. I couldn't be happier with the outcome.\",\n        \"author\": \"David Lee\",\n        \"location\": \"New York, NY\"\n    }\n]\n```"
+}

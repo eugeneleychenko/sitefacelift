@@ -1,0 +1,24 @@
+{
+  "paragraph": "Tel: 215-447-7400",
+  "detailsData": "{\n    \"title\": \"Full-Service Practice\",\n    \"content\": \"Charlson Braber McCabe & Denmark offers a full-service practice, handling a wide range of legal matters for their clients. This allows them to provide comprehensive and integrated solutions to complex legal issues.\"\n  },\n  {\n    \"title\": \"Extensive Experience\",\n    \"content\": \"The attorneys at Charlson Braber McCabe & Denmark have nearly 100 years of combined experience representing companies, individuals, and non-profits. Their extensive experience enables them to navigate diverse legal challenges effectively.\"\n  },\n  {\n    \"title\": \"Personalized Representation\",\n    \"content\": \"CBMD provides personalized representation, ensuring that clients have direct access to the attorneys handling their cases. This personalized approach fosters strong client-attorney relationships and tailored legal strategies.\"\n  }",
+  "address": "8 Penn Center\u200b, 1628 JFK Boulevard, Suite 1803, Philadelphia, PA 19103",
+  "phoneNumber": "215-447-7400",
+  "email": "info@charlsonlaw.com",
+  "linkNames": ["HOME", "OUR FIRM", "OUR TEAM", "PRACTICE AREAS", "CONTACT"],
+  "companyName": "Charlson Braber McCabe & Denmark",
+  "subHeading": "SERVING PENNSYLVANIA, NEW YORK AND NEW JERSEY",
+  "valueProp": "Charlson Braber McCabe & Denmark is the firm you've been looking for.   We have spent our careers providing sophisticated and efficient solutions to the legal problems that businesses and individuals confront every day.  Our clients want us to handle most of their legal work, so we created a full service firm that can do just that.  We specialize in construction contracts and litigation, employment, labor, and ERISA issues, government contracting, and corporate and real estate transactions.   We also craft estate plans and draft commercial contracts of all types.",
+  "CTA": "CONTACT US",
+  "topics": [
+    "CONSTRUCTION LAW",
+    "EMPLOYMENT LABOR & ERISA",
+    "PUBLIC CONTRACTS",
+    "BUSINESS & REAL ESTATE",
+    "CONTRACTS & COMMERCIAL",
+    "LITIGATION & APPEALS",
+    "WILLS & ESTATES"
+  ],
+  "members": "```json\n[\n    {\n        \"name\": \"NOAH H. CHARLSON\",\n        \"position\": \"Founding Partner\"\n    },\n    {\n        \"name\": \"LIAM Y. BRABER\",\n        \"position\": \"Partner\"\n    },\n    {\n        \"name\": \"CHRISTOPHER I. McCABE\",\n        \"position\": \"Partner\"\n    },\n    {\n        \"name\": \"WILLIAM A. DENMARK\",\n        \"position\": \"Partner\"\n    }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Noah and his team are top-notch. They handled our construction contract dispute with skill and professionalism.\",\n        \"author\": \"John Smith\",\n        \"location\": \"Philadelphia, PA\"\n    },\n    {\n        \"text\": \"CBMD provided excellent counsel for our real estate transaction. Liam and the team were thorough and efficient.\",\n        \"author\": \"Sarah Johnson\",\n        \"location\": \"New York, NY\"\n    },\n    {\n        \"text\": \"I highly recommend Charlson Braber McCabe & Denmark for employment law matters. They are knowledgeable and responsive.\",\n        \"author\": \"Michael Lee\",\n        \"location\": \"New Jersey\"\n    }\n]\n```"
+}

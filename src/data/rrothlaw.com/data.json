@@ -1,0 +1,34 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n  \"title\": \"Premier Legal Advocacy\",\n  \"content\": \"The Roth Law Firm is renowned for its premier legal advocacy, with a team of attorneys who bring a wealth of experience and a track record of success to the table.\"\n},\n{\n  \"title\": \"Innovative Legal Solutions\",\n  \"content\": \"At The Roth Law Firm, innovative legal solutions are the hallmark of their practice, ensuring clients receive the most effective and efficient legal representation possible.\"\n},\n{\n  \"title\": \"Dedicated Client Service\",\n  \"content\": \"The Roth Law Firm is committed to providing dedicated client service, with a focus on understanding and meeting the unique needs of each client for optimal outcomes.\"\n}",
+  "address": "295 Madison Ave, FL 22. New York, NY 10017",
+  "phoneNumber": "(212) 542-8882",
+  "email": "",
+  "linkNames": [
+    "HOME",
+    "ABOUT US",
+    "ATTORNEYS",
+    "PRACTICE AREAS",
+    "IN THE NEWS",
+    "BLOG",
+    "CONTACT US"
+  ],
+  "companyName": "The Roth Law Firm",
+  "subHeading": "The Roth Law Firm is a one-stop-shop.",
+  "valueProp": "The Roth Law Firm provides unparalleled legal expertise, personalized client service, and a commitment to excellence that sets us apart in the legal field.",
+  "CTA": "Contact us for a free consultation!",
+  "topics": [
+    "Commercial",
+    "Criminal",
+    "Employment",
+    "Entertainment",
+    "Real Estate",
+    "Securities",
+    "Sports",
+    "Class Action",
+    "International Tax"
+  ],
+  "members": "```json\n[\n    {\n        \"name\": \"Nathan M. Crystal\",\n        \"position\": \"Attorney at Law\"\n    },\n    {\n        \"name\": \"Francesca Giannoni-Crystal\",\n        \"position\": \"Attorney at Law\"\n    },\n    {\n        \"name\": \"Allyson Haynes Stuart\",\n        \"position\": \"Attorney at Law, Of Counsel\"\n    },\n    {\n        \"name\": \"Stewart Banner\",\n        \"position\": \"Attorney at Law, Of Counsel\"\n    }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Richard Roth is an exceptional attorney. His dedication and expertise are unmatched.\",\n        \"author\": \"John Smith\",\n        \"location\": \"New York, NY\"\n    },\n    {\n        \"text\": \"The Roth Law Firm provided me with outstanding legal representation. I highly recommend their services.\",\n        \"author\": \"Sarah Johnson\",\n        \"location\": \"Los Angeles, CA\"\n    },\n    {\n        \"text\": \"I am grateful for the support and guidance I received from The Roth Law Firm. They are truly the best in the business.\",\n        \"author\": \"Michael Brown\",\n        \"location\": \"Chicago, IL\"\n    }\n]\n```"
+}

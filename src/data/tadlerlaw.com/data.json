@@ -1,0 +1,33 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n  \"title\": \"Litigation Acumen\",\n  \"content\": \"Tadler Law attorneys are savvy litigators that listen, learn and leverage their legal and business acumen as cases evolve to maximize results.\"\n},\n{\n  \"title\": \"Savvy Negotiators\",\n  \"content\": \"Blending legal, business and common sense knowledge, Tadler Law attorneys are savvy negotiators that maximize optimal outcomes.\"\n},\n{\n  \"title\": \"Thought Leaders\",\n  \"content\": \"Tadler Law attorneys are engaging thought leaders that produce and present powerful educational content in multiple formats to mentor and inspire clients, colleagues and peers.\"\n}",
+  "address": "22 Bayview Ave, Suite 200, Manhasset, NY 11030",
+  "phoneNumber": "212.946.9300",
+  "email": "contact@tadlerlaw.com",
+  "linkNames": [
+    "HOME",
+    "US",
+    "YOU",
+    "PRACTICE AREAS",
+    "TEAM",
+    "LEARN",
+    "NEWS",
+    "KEYNOTES",
+    "ENGAGE"
+  ],
+  "companyName": "Tadler Law",
+  "subHeading": "Unparalleled acumen and power",
+  "valueProp": "Tadler Law is an agile, women-owned and managed law firm with a national practice specializing in class action, complex litigation, risk management, antitrust, and strategic legal business consulting services. Fueled via a potent blend of litigation acumen, relentless grit, and genuine empathy, Tadler Law attorneys exude unparalleled insight and presence in the conference room, boardroom and courtroom, instilling clients with the confidence and calm they need from initial discovery to final resolution.",
+  "CTA": "Engage Form",
+  "topics": [
+    "Litigation",
+    "Business Disputes",
+    "Class Actions",
+    "Employment Matters",
+    "eDiscovery",
+    "Keynotes / Speaking Engagements"
+  ],
+  "members": "```json\n[\n  {\n    \"name\": \"A.J. de Bartolomeo\",\n    \"position\": \"Shareholder, Partner\"\n  },\n  {\n    \"name\": \"Ariana J. Tadler\",\n    \"position\": \"Founder & Managing Partner\"\n  },\n  {\n    \"name\": \"Tony K. Kim\",\n    \"position\": \"Associate\"\n  },\n  {\n    \"name\": \"Lisa A. Frey\",\n    \"position\": \"Of Counsel\"\n  }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Taking the lead in our case, Tadler Law certainly made it clear they were advocating for us and our case. Tadler Law took the time to understand our issues and were able to navigate complex issues with intelligence and aplomb.\",\n        \"author\": \"Jo Sherman\",\n        \"location\": null\n    },\n    {\n        \"text\": \"From the start of the eDiscovery revolution, Ariana J. Tadler has been recognized as one of the leading plaintiff attorneys in the United States. She is respected by lawyers across the United States and Canada for her intellect, her work ethic, and her creativity.\",\n        \"author\": \"Larry Center\",\n        \"location\": null\n    },\n    {\n        \"text\": \"As a longtime board member, former board chair and event committee co-chair, Ariana has provided Mobilization for Justice with invaluable advice and counsel in development, communications, community-building, and project execution. \",\n        \"author\": \"Tiffany Liston\",\n        \"location\": null\n    }\n]\n```"
+}

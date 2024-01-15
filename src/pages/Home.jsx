@@ -63,6 +63,7 @@ function Home({ match }) {
 
   // Parse the string into an array of objects
   let detailsData;
+
   try {
     detailsData = JSON.parse(detailsDataString);
   } catch (error) {

@@ -1,0 +1,29 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n        \"title\": \"National Team of Lawyers\",\n        \"content\": \"The firm's attorneys come from some of the biggest firms in the country, bringing a broad range of backgrounds and legal expertise. This national team approach provides fresh ideas and different perspectives, setting them apart from others.\"\n    },\n    {\n        \"title\": \"Cutting-Edge Legal Approach\",\n        \"content\": \"The firm incorporates wisdom earned through experience with a cutting-edge approach to legal matters. This unique counsel allows them to achieve the best possible results for their clients, whether in high-stakes litigation, multi-billion dollar transactions, or navigating regulatory hurdles.\"\n    },\n    {\n        \"title\": \"Uncommon Counsel\",\n        \"content\": \"The firm's uncommon counsel, tempered by experience and fresh ideas, has become the cornerstone of what sets them apart. This approach has helped them achieve undeniable results for their clients across a variety of practices and industries.\"\n    }",
+  "address": "23 Green Street, Suite 209, Huntington, NY 11743\n1177 Ave. of the Americas, New York, NY 10036",
+  "phoneNumber": "631-415-2219",
+  "email": "blites@bdllaw.com",
+  "linkNames": [
+    "HOME",
+    "OUR FIRM",
+    "OUR TEAM",
+    "PRACTICE AREAS",
+    "PUBLICATIONS & SEMINARS",
+    "CONTACT",
+    "OFFICE"
+  ],
+  "companyName": "Law Offices of Barry D. Lites LLP",
+  "subHeading": "DECADES OF EXPERIENCE LEADS TO CLIENT SUCCESS",
+  "valueProp": "At the Law Offices of Barry D. Lites LLP, we pride ourselves on our ability to blend decades of legal expertise with innovative strategies to deliver exceptional legal services. Our team is composed of seasoned attorneys who have honed their skills at some of the nation's most prestigious firms, ensuring that every client benefits from a depth of knowledge and a wealth of experience. We specialize in a variety of practice areas, tailoring our approach to meet the unique needs of each case and client, striving for outcomes that exceed expectations.\n|  Our firm is dedicated to providing cutting-edge legal counsel combined with a personal touch. We understand that the legal landscape is constantly evolving, and we are committed to staying at the forefront of change to advocate effectively for our clients. Whether navigating complex litigation, engaging in high-value transactions, or advising on regulatory compliance, our goal is to offer uncommon counsel that sets us apart and empowers our clients to achieve their legal and business objectives with confidence.",
+  "CTA": "Contact Us",
+  "topics": [
+    "Real Estate",
+    "Business",
+    "Medical Alliances",
+    "Healthcare Alliances"
+  ],
+  "members": "```json\n[\n    {\n        \"name\": \"Barry D. Lites, Esq.\",\n        \"position\": \"Founder & Lead Attorney\"\n    }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Barry is my go to lawyer. He has been there for me and so many of my teammates over the years.\",\n        \"author\": \"Dwight Gooden\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Barry is a strategic thinker and really knows how to analyze and formulate a litigation game plan.\",\n        \"author\": \"Phil Regan\",\n        \"location\": null\n    },\n    {\n        \"text\": \"I heard other players saying amazing things about Barry and now I know for myself that it's all true as he never quits until the catch is made!\",\n        \"author\": \"Endy Chavez, NY Mets Player\",\n        \"location\": null\n    }\n]\n```"
+}

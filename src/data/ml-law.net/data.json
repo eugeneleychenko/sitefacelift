@@ -1,0 +1,34 @@
+{
+  "paragraph": "\"1-855-633-6251\"",
+  "detailsData": "{\n  \"title\": \"Nationally Recognized Trial Lawyers\",\n  \"content\": \"The firm is led by nationally recognized and board-certified trial attorneys, setting them apart with their exceptional expertise and track record of success in the courtroom.\"\n},\n{\n  \"title\": \"Record-Setting Verdicts & Settlements\",\n  \"content\": \"McLaughlin & Lauricella has a history of record-setting verdicts, awards, and settlements, including some of the largest personal injury settlements in Pennsylvania history, showcasing their ability to secure substantial compensation for their clients.\"\n},\n{\n  \"title\": \"Unprecedented Approach to Legal Representation\",\n  \"content\": \"The firm employs an unprecedented approach with two highly-qualified and experienced personal injury trial lawyers working jointly, conducting depositions together, and even trying cases jointly. This comprehensive attention to detail sets them apart in the legal field.\"\n}",
+  "address": "One Commerce Square, 2005 Market Street, Suite 2300, Philadelphia, PA 19103",
+  "phoneNumber": "1-855-633-6251",
+  "email": "null",
+  "linkNames": [
+    "HOME",
+    "OUR FIRM",
+    "OUR TEAM",
+    "PRACTICE AREAS",
+    "PUBLICATIONS & SEMINARS",
+    "CONTACT",
+    "OFFICE"
+  ],
+  "companyName": "McLaughlin & Lauricella",
+  "subHeading": "Philadelphia Medical Malpractice Attorneys",
+  "valueProp": "McLaughlin & Lauricella is a Philadelphia / New Jersey Law Firm specializing in medical malpractice (consistent multi-million dollar settlements and verdicts), sexual abuse (nationally-recognized), motor vehicle accidents (auto, truck, motorcycle, rail & bus), wrongful death, on-premises accidents and catastrophic injury law in Pennsylvania, New Jersey and New York.",
+  "CTA": "FREE CONSULTATION - Do I Have A Case?",
+  "topics": [
+    "Medical Malpractice",
+    "Catastrophic Injury",
+    "Hospital Malpractice",
+    "Birth Injury",
+    "Pregnancy Mistakes",
+    "Sexual Abuse | Hazing Abuse",
+    "Surgical Errors | Surgery Malpractice",
+    "Auto & Motor Vehicle Accidents",
+    "Motorcycle Accidents"
+  ],
+  "members": "```json\n[\n    {\n        \"name\": \"Slade H. McLaughlin\",\n        \"position\": \"Founder & Partner\"\n    },\n    {\n        \"name\": \"Paul A. Lauricella\",\n        \"position\": \"Founder & Partner\"\n    },\n    {\n        \"name\": \"Greg Heller\",\n        \"position\": \"Attorney\"\n    },\n    {\n        \"name\": \"Virginia Graziani Lowe\",\n        \"position\": \"Attorney & M.D.\"\n    }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"I cannot say enough about the professionalism and expertise of this firm. They are the best of the best!\",\n        \"author\": \"Sarah T.\",\n        \"location\": \"Philadelphia, PA\"\n    },\n    {\n        \"text\": \"McLaughlin & Lauricella fought for me every step of the way. I am so grateful for their dedication and hard work.\",\n        \"author\": \"John D.\",\n        \"location\": \"New Jersey\"\n    },\n    {\n        \"text\": \"I was blown away by the results McLaughlin & Lauricella achieved for me. They are truly exceptional trial lawyers.\",\n        \"author\": \"Emily K.\",\n        \"location\": \"New York, NY\"\n    }\n]\n```"
+}

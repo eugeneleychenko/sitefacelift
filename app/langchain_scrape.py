@@ -26,6 +26,7 @@ def ask_questions_to_website(urls):
 
         h = html2text.HTML2Text()
         h.ignore_links = True  # Set to True to ignore links
+        h.ignore_images = True
         markdown = h.handle(html)
 
         def save_markdown_to_file(markdown, filename):
@@ -90,7 +91,7 @@ def ask_questions_to_website(urls):
   """ ,
         "What is the name of this company?",
         "What is the subheading of this company?",
-        "Near the top of the site, there will a paragraph description about this firm, return it.",
+        "Near the top of the site, there will a paragraph description about this firm, return it. If it doesn't exist, write 2 paragraphs about this firm",
         "What is the CTA close to the top of the site?",
         "Return 9 practice areas of this law firm, in an array.",
         """
@@ -165,5 +166,5 @@ def ask_questions_to_website(urls):
         json.dump(json_results, jsonfile, indent=4)
 
 # # Use the function
-urls = [ 'https://www.hillbetts.com/', "https://www.hillbetts.com/attorneys", "https://www.hillbetts.com/practice-areas"]
+urls = [ 'https://www.vinklerlaw.com/', "https://www.vinklerlaw.com/about-the-firm/", "https://www.vinklerlaw.com/contact/", "https://www.vinklerlaw.com/about-the-firm/amber-konow/"]
 ask_questions_to_website(urls)

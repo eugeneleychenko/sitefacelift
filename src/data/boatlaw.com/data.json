@@ -1,0 +1,26 @@
+{
+  "paragraph": "\"1-800-BOATLAW\" is the CTA which usually phrases like 'to call or text the contact number for a consultation'.",
+  "detailsData": "{\n    \"title\": \"Decades of Experience\",\n    \"content\": \"With nearly a century of combined experience in civil litigation, the attorneys at BoatLaw, LLP have the knowledge and expertise to handle routine and complex maritime accident cases. Their experience extends to accidents involving slip and falls, explosions, factory processing accidents, equipment defects, and more.\"\n  },\n  {\n    \"title\": \"Exclusive Focus on Maritime Law\",\n    \"content\": \"BoatLaw, LLP focuses exclusively on maritime cases, regularly representing merchant mariners, commercial fishermen, dockworkers, processors, and other maritime workers. Their exclusive focus on maritime law ensures that they are well-versed in the complexities of this area of law.\"\n  },\n  {\n    \"title\": \"Proud Representation of Mariners\",\n    \"content\": \"BoatLaw, LLP proudly represents mariners across Washington, Oregon, Alaska, and California. The attorneys at BoatLaw, LLP share a love of the sea and have a stake in protecting the rights of members of the maritime community. Their clients come from all walks of life, backgrounds, and cultures.\"\n  }",
+  "address": "23 Bellwether Way, Suite 101, Bellingham, WA 98225",
+  "phoneNumber": "1 (800) 262-8529",
+  "email": "null",
+  "linkNames": ["MARITIME LAW", "NOTABLE CASES", "OUR FIRM", "NEWS", "CONTACT"],
+  "companyName": "BoatLaw, LLP",
+  "subHeading": "Dedicated Maritime Attorneys",
+  "valueProp": "Dedicated Maritime Attorneys\nMaritime lawyers Douglas Williams and Nick Neidzwski at BoatLaw, LLP have worked hard for decades on behalf of clients injured aboard ships of all sizes and classes. Formed in 1977, this firm is proud of its consistent track record of success for its clients for over 45 years. At BoatLaw, LLP, you will find a legal team, including each of the attorneys, that share a lifelong love of the sea.",
+  "CTA": "1-800-BOATLAW",
+  "topics": [
+    "Personal Injury Claims",
+    "Admiralty & Maritime Law",
+    "Types of Accidents",
+    "Who We Serve",
+    "In Rem Claims Against Vessels",
+    "Maritime Salvage",
+    "Seaman\u2019s Manslaughter Statute",
+    "Seaman\u2019s Protection Act",
+    "Third Party Negligence Claims"
+  ],
+  "members": "```json\n[\n  {\n    \"name\": \"Douglas R. Williams\",\n    \"position\": \"Maritime Lawyer\"\n  },\n  {\n    \"name\": \"Nicholas J. Neidzwski\",\n    \"position\": \"Maritime Lawyer\"\n  }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Nick and his team are amazing!!!! Not only did they fight to give my family a future, they came beside us and walked through the pain, frustration, anger, and depression that comes with a major injury and the legal woes that follow.\",\n        \"author\": \"Cory Davis\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Doug Williams and everyone as this firm went above and beyond to help me. I was worried when looking for a lawyer to find someone who actually cared about my case and what was best for me.\",\n        \"author\": \"Jacob Schott\",\n        \"location\": null\n    },\n    {\n        \"text\": \"The staff at 'BoatLaw, LLP' provided a great service in maritime law representing myself. Nick Neidzwski and his staff kept me in the loop throughout my case every step of the way.\",\n        \"author\": \"Craig M.\",\n        \"location\": null\n    }\n]\n```"
+}

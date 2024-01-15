@@ -1,0 +1,32 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n  \"title\": \"Nationally Recognized Trial Lawyers\",\n  \"content\": \"The firm is led by nationally recognized and board-certified trial attorneys, setting them apart with their exceptional expertise and track record of success in the courtroom.\"\n},\n{\n  \"title\": \"Record-Setting Verdicts & Settlements\",\n  \"content\": \"Crystal & Giannoni-Crystal, LLC has a history of record-setting verdicts, awards, and settlements, showcasing their ability to secure substantial compensation for their clients.\"\n},\n{\n  \"title\": \"Unprecedented Approach to Legal Representation\",\n  \"content\": \"The firm employs an unprecedented approach with highly-qualified and experienced attorneys working jointly on complex legal matters. This comprehensive attention to detail sets them apart in the legal field.\"\n}",
+  "address": "6 Marbel Lane, Charleston, SC 29403",
+  "phoneNumber": "1-843-202-0090",
+  "email": "null",
+  "linkNames": [
+    "ABOUT",
+    "PEOPLE",
+    "PRACTICE AREAS",
+    "PUBLICATIONS",
+    "CONTACT",
+    "OFFICE"
+  ],
+  "companyName": "Crystal & Giannoni-Crystal, LLC",
+  "subHeading": "Lawyers for Lawyers and International Matters",
+  "valueProp": "Crystal & Giannoni-Crystal, LLC (CGC) is a boutique law firm that is committed to offer personalized legal services to clients, both individuals and companies, and law firms.",
+  "CTA": "Subscribe to our newsletter",
+  "topics": [
+    "Contract Law",
+    "Professional Responsibility and Ethics",
+    "International Law",
+    "Technology and Internet Law",
+    "Data protection & Privacy",
+    "Corporate and M&A",
+    "Bankruptcy",
+    "Space Law"
+  ],
+  "members": "```json\n[\n    {\n        \"name\": \"Nathan M. Crystal\",\n        \"position\": \"Attorney at Law\"\n    },\n    {\n        \"name\": \"Francesca Giannoni-Crystal\",\n        \"position\": \"Attorney at Law\"\n    },\n    {\n        \"name\": \"Allyson Haynes Stuart\",\n        \"position\": \"Attorney at Law, Of Counsel\"\n    },\n    {\n        \"name\": \"Stewart Banner\",\n        \"position\": \"Attorney at Law, Of Counsel\"\n    }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Nathan Crystal continues to write his bimonthly column on Ethics Watch for the South Carolina Lawyer. He has published the...\",\n        \"author\": \"fgiannoni\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Francesca Giannoni-Crystal has recently written three papers in the space law field\",\n        \"author\": \"fgiannoni\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Nathan Crystal and Craig Dobson spoke at a Practicing Law Briefing attended by close to 1000 lawyers. Their topic was...\",\n        \"author\": \"fgiannoni\",\n        \"location\": null\n    }\n]\n```"
+}

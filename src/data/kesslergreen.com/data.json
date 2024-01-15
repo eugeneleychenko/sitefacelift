@@ -1,0 +1,29 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n  \"title\": \"Senior Lawyer Involvement\",\n  \"content\": \"Clients receive hands-on senior involvement in all aspects of the transaction by the lawyers themselves. The firm's philosophy is to bring to every transaction or matter their experience, seasoned judgment, efficiency, creativity, and nimbleness.\"\n},\n{\n  \"title\": \"Trial Experience\",\n  \"content\": \"The lead attorney has proven experience and talent in trying difficult cases to judges and juries, ensuring effective representation from the beginning of a case through its conclusion. The firm's litigation clients also benefit from additional support from other capable lawyers.\"\n},\n{\n  \"title\": \"Corporate Law Expertise\",\n  \"content\": \"The firm's exceptional corporate lawyer has extensive experience in virtually every phase of corporate and commercial law, adding great value to the matters entrusted to him. Clients benefit from the synergistic effects of the lawyers' collaborations.\"\n}",
+  "address": "126 East 56th Street, Suite 200, New York, NY 10022",
+  "phoneNumber": "212-651-3900",
+  "email": "null",
+  "linkNames": [
+    "ABOUT",
+    "TESTIMONIALS",
+    "PRACTICE AREAS",
+    "TEAM",
+    "VIDEOS",
+    "CONTACT"
+  ],
+  "companyName": "Kessler & Green",
+  "subHeading": "A Preeminent Team",
+  "valueProp": "Kessler & Green is an agile, responsive law firm that works tirelessly to achieve our clients\u2019 goals, while adding significant value to their businesses. Each of us has years of experience in successful practice at major law firms. We are small by intention; we practice together because we want to. By working together closely and never in competition with one another, we deliver the carefully considered, experience-driven advice and first-rate work product that our clients need and deserve. We go to uncommon lengths to listen attentively to our clients\u2019 objectives. We create a hands-on, user-friendly collaboration with each of our clients, project after project\u2014 an experience that forges enduring trust and confidence between our clients and each of us. Our size and effective overhead management enable us to offer our clients favorable rates and creative fee arrangements in appropriate circumstances. After five years in practice together (as Hoffman & Kessler), we are proud of the successful results we have achieved for our clients. We look forward to achieving many more. We concentrate our practice on a wide range of commercial and intellectual property litigation, as well as an equally wide range of corporate and securities matters, including, complex contract work, mergers and acquisitions, debt and equity financings, governance matters and general business needs. Our clients include entrepreneurs, start-up businesses and mid-size and large private and public companies. We represent clients in New York, Michigan and throughout the United States. We are committed to providing each of our clients with unmatched personal attention and the work quality and expertise associated with the finest law firms. We welcome the opportunity to serve every day.",
+  "CTA": "Contact Us",
+  "topics": [
+    "Commercial Litigation",
+    "Intellectual Property Litigation",
+    "Arbitration And Mediation",
+    "Appeals",
+    "Business Transactions and Mergers and Acquisitions"
+  ],
+  "members": "```json\n[\n  {\n    \"name\": \"Philip J. Kessler\",\n    \"position\": \"Partner\"\n  },\n  {\n    \"name\": \"Richard S. Green\",\n    \"position\": \"Partner\"\n  },\n  {\n    \"name\": \"Thomas D. Noonan\",\n    \"position\": \"Counsel\"\n  }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"[Philip] 'provides outstanding advice' and is 'very thorough and adept when it comes to exploring all legal matters.' He is recoginzed for his courtroom expertise and is well versed in a wide variety of disputes, including IP, antitrust and securities fraud.\",\n        \"author\": null,\n        \"location\": null\n    },\n    {\n        \"text\": \"[Philip's] 'performance has been outstanding,' say sources, who go on to note that he is 'very proactive, thorough and timely in his responsiveness.' He has over four decades of experience in handling a range of copyright and trademark matters, as well as private and public company contract disputes.\",\n        \"author\": null,\n        \"location\": null\n    },\n    {\n        \"text\": \"Philip Kessler has over four decades' experience representing individuals and businesses, both public and private, in a range of IP litigation. He also acts on trade secret cases.... Clients say: 'He's very thorough, very efficient, knows our business intimately, and provides GC-level guidance.'\",\n        \"author\": null,\n        \"location\": null\n    }\n]\n```"
+}
