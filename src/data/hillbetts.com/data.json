@@ -29,7 +29,7 @@
     "Maritime Security"
   ],
 
-  "members": "```json\n[\n    {\n        \"name\": \"Jordan Hecht\",\n        \"position\": \"Partner\"\n    },\n    {\n        \"name\": \"Judd Kleeger\",\n        \"position\": \"Partner\"\n    },\n    {\n        \"name\": \"Jonathan Damashek\",\n        \"position\": \"Partner\"\n    },\n    {\n        \"name\": \"Noah S. Reiss\",\n        \"position\": \"Associate\"\n    }\n]\n```",
+  "members": "```json\n[\n    {\n        \"name\": \"Gregory W. O’Neill\",\n        \"position\": \"Managing Partner\"\n    },\n    {\n        \"name\": \"Mark A. Lowe\",\n        \"position\": \"Partner\"\n    },\n    {\n        \"name\": \"Michael J. Ryan\",\n        \"position\": \"Partner Emeritus\"\n    },\n    {\n        \"name\": \"James D. Kleiner\",\n        \"position\": \"Partner\"\n    }\n]\n```",
   "openHours": "24 Hours 7 Days A Week",
   "testimonalData": "```json\n[\n    {\n        \"text\": \"I have been working with Hill, Betts & Nash for years and they have always provided top-notch legal services.\",\n        \"author\": \"John Smith\",\n        \"location\": \"New York, NY\"\n    },\n    {\n        \"text\": \"Hill, Betts & Nash LLP has a team of highly experienced and knowledgeable attorneys. I highly recommend their services.\",\n        \"author\": \"Jane Doe\",\n        \"location\": \"Los Angeles, CA\"\n    },\n    {\n        \"text\": \"The attorneys at Hill, Betts & Nash LLP are experts in maritime law and have been instrumental in helping us navigate complex legal issues.\",\n        \"author\": \"Michael Johnson\",\n        \"location\": \"Houston, TX\"\n    }\n]\n```"
 }
