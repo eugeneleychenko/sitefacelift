@@ -1,0 +1,25 @@
+{
+  "paragraph": "Call or text the contact number for a consultation.",
+  "detailsData": "{\n    \"title\": \"Client Oriented Approach\",\n    \"content\": \"Let us handle the complex legal aspects of your case so that you have more time to focus on what is more important to you.\"\n  },\n  {\n    \"title\": \"Community Oriented\",\n    \"content\": \"At MPS, we advocate for residents across Kane, McHenry and other areas across Chicagoland.\"\n  },\n  {\n    \"title\": \"Experience Matters\",\n    \"content\": \"We have over five decades of courtroom experience, having represented clients on both sides of the courtroom.\"\n  }",
+  "address": "454 W Virginia St #100, Crystal Lake, IL 60014",
+  "phoneNumber": "(815) 356-8000",
+  "email": "null",
+  "linkNames": ["HOME", "ABOUT US", "LEGAL SERVICES", "FAQ", "CONTACT US"],
+  "companyName": "Melei Petsche Spencer",
+  "subHeading": "Top McHenry & Kane County Attorneys",
+  "valueProp": "If you’re in a situation where you need legal advice and service, we are here to help you. We work with clients throughout Illinois and Wisconsin, providing you with seasoned lawyers in multiple areas of practice. We are located in the following cities: Crystal Lake IL, McHenry IL, Woodstock IL, Cary IL, Huntley IL, St. Charles IL, and Sheboygan WI.  We have over 50 years of combined experience helping individuals, families, and businesses with a wide range of different legal issues. For more information about how Melei Petsche Spencer can help you regarding your legal matters, contact us today. We look forward to working with you and representing your interests. ",
+  "CTA": "Contact Us",
+  "topics": [
+    "Divorce",
+    "Real Estate Law",
+    "Estate & Probate Law",
+    "Litigation",
+    "Business Law",
+    "Employment Law",
+    "Family Law Attorney",
+    "Foreclosure Attorney"
+  ],
+  "members": "```json\n  [{\"name\": \"Samuel S. Melei\", \"position\": \"Principal Attorney\"}, {\"name\": \"William P. Petsche\", \"position\": \"Principal Attorney\"}, {\"name\": \"Thomas B. Spencer IV\", \"position\": \"Principal Attorney\"}, {\"name\": \"Shaina S. Kalanges\", \"position\": \"Associate Attorney\"}]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Robbie, Sam, Will, and Andrew all helped us out along the way as we were closing on our home! Andrew walked us through every document we signed at closing and provided us with a thorough explanation of what we were signing. This was especially helpful as a first time homebuyer.\",\n        \"author\": \"Stephanie Pilat\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Will was a great help with setting up my business properly. Make sure we are protected. I highly recommend!\",\n        \"author\": \"Justin Synowiec\",\n        \"location\": null\n    },\n    {\n        \"text\": \"We initially had a consultation to discuss matters in relation to our business. After further rapport & the advice I was given, I knew going forward this was who I needed to hire to resolve some matters I had. If your looking a quality attorney. Look no further these are your people\ud83d\udc4d\",\n        \"author\": \"Justin Hamilton\",\n        \"location\": null\n    }\n]\n```"
+}

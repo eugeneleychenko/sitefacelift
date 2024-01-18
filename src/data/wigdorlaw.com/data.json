@@ -1,27 +1,24 @@
 {
-    "paragraph": "You can email or call us anytime.",
-    "detailsData": "{\n    \"title\": \"Unmatched Experience\",\n    \"content\": \"Wigdor LLP is widely considered a top employment litigation and sexual harassment and sexual assault law firm nationwide. Their attorneys have decades of experience and a powerful reputation for aggressive advocacy.\"\n},\n{\n    \"title\": \"Impressive Results\",\n    \"content\": \"The firm has recovered over $1.5 billion for clients, setting precedents and making new law. Their high-profile cases often lead to national discussions and impact on their respective industries.\"\n},\n{\n    \"title\": \"Innovative Strategies\",\n    \"content\": \"Wigdor LLP approaches each case with discretion and humanity, fighting aggressively for the best outcomes. They employ innovative ways to overcome obstacles and achieve favorable results for their clients.\"\n}",
-    "address": "85 5th Ave, Floor 5, New York, NY 10003",
-    "phoneNumber": "212 257 6800",
-    "email": "contact@wigdorlaw.com",
-    "linkNames": [
-        "ABOUT US",
-        "PRACTICES",
-        "NEWS & INSIGHTS",
-        "RESULTS",
-        "INFORMATION CENTER",
-        "CAREERS",
-        "CONTACT US"
-    ],
-    "companyName": "Wigdor LLP",
-    "subHeading": "Tenacity. Empowerment. Accountability.",
-    "valueProp": "Our lawyers are aggressive, tenacious and dedicated advocates for our clients.",
-    "CTA": "212 257 6800",
-    "topics": [
-        "Employment Litigation",
-        "Sexual Harassment & Assault"
-    ],
-    "members": "```json\n[\n    {\n        \"name\": \"Douglas H. Wigdor\",\n        \"position\": \"Founding Partner\"\n    },\n    {\n        \"name\": \"Jeanne M. Christensen\",\n        \"position\": \"Partner\"\n    },\n    {\n        \"name\": \"Meredith A. Firetog\",\n        \"position\": \"Partner\"\n    },\n    {\n        \"name\": \"David E. Gottlieb\",\n        \"position\": \"Partner\"\n    }\n]\n```",
-    "openHours": "N/A",
-    "testimonalData": "```json\n[\n    {\n        \"text\": \"Authoritative in the right ways, gentle when they need to be, perfectly balanced.\",\n        \"author\": \"Employee in Sexual Orientation Discrimination Case\",\n        \"location\": \"\"\n    },\n    {\n        \"text\": \"Everyone I worked with at Wigdor was well informed and really gave me the full picture of the scenario and made it clear they had my best interest at heart. They wanted me to make informed decisions – they earned my trust and they still have it.\",\n        \"author\": \"Employee in Sexual Orientation Discrimination Litigation\",\n        \"location\": \"\"\n    },\n    {\n        \"text\": \"They laid out the facts as clearly as they could and let me decide the course. I also felt Wigdor prepared me very well which, having never dealt with the legal system personally before, was very reassuring.\",\n        \"author\": \"Female Executive in Gender/Pregnancy Discrimination Case\",\n        \"location\": \"\"\n    }\n]\n```"
+  "paragraph": "You can email or call us anytime.",
+  "detailsData": "[{\"title\": \"Unmatched Experience\",\"content\": \"Wigdor LLP is widely considered a top employment litigation and sexual harassment and sexual assault law firm nationwide. Their attorneys have decades of experience and a powerful reputation for aggressive advocacy.\"},{\"title\": \"Impressive Results\",\"content\": \"The firm has recovered over $1.5 billion for clients, setting precedents and making new law. Their high-profile cases often lead to national discussions and impact on their respective industries.\"},{\"title\": \"Innovative Strategies\",\"content\": \"Wigdor LLP approaches each case with discretion and humanity, fighting aggressively for the best outcomes. They employ innovative ways to overcome obstacles and achieve favorable results for their clients.\"}]",
+  "address": "85 5th Ave, Floor 5, New York, NY 10003",
+  "phoneNumber": "212 257 6800",
+  "email": "contact@wigdorlaw.com",
+  "linkNames": [
+    "ABOUT US",
+    "PRACTICES",
+    "NEWS & INSIGHTS",
+    "RESULTS",
+    "INFORMATION CENTER",
+    "CAREERS",
+    "CONTACT US"
+  ],
+  "companyName": "Wigdor LLP",
+  "subHeading": "Tenacity. Empowerment. Accountability.",
+  "valueProp": "Our lawyers are aggressive, tenacious and dedicated advocates for our clients.",
+  "CTA": "212 257 6800",
+  "topics": ["Employment Litigation", "Sexual Harassment & Assault"],
+  "members": "```json\n[\n    {\n        \"name\": \"Douglas H. Wigdor\",\n        \"position\": \"Founding Partner\"\n    },\n    {\n        \"name\": \"Jeanne M. Christensen\",\n        \"position\": \"Partner\"\n    },\n    {\n        \"name\": \"Meredith A. Firetog\",\n        \"position\": \"Partner\"\n    },\n    {\n        \"name\": \"David E. Gottlieb\",\n        \"position\": \"Partner\"\n    }\n]\n```",
+  "openHours": "N/A",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Authoritative in the right ways, gentle when they need to be, perfectly balanced.\",\n        \"author\": \"Employee in Sexual Orientation Discrimination Case\",\n        \"location\": \"\"\n    },\n    {\n        \"text\": \"Everyone I worked with at Wigdor was well informed and really gave me the full picture of the scenario and made it clear they had my best interest at heart. They wanted me to make informed decisions – they earned my trust and they still have it.\",\n        \"author\": \"Employee in Sexual Orientation Discrimination Litigation\",\n        \"location\": \"\"\n    },\n    {\n        \"text\": \"They laid out the facts as clearly as they could and let me decide the course. I also felt Wigdor prepared me very well which, having never dealt with the legal system personally before, was very reassuring.\",\n        \"author\": \"Female Executive in Gender/Pregnancy Discrimination Case\",\n        \"location\": \"\"\n    }\n]\n```"
 }

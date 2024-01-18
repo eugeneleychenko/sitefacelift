@@ -166,5 +166,5 @@ def ask_questions_to_website(urls):
         json.dump(json_results, jsonfile, indent=4)
 
 # # Use the function
-urls = [ 'https://www.vinklerlaw.com/', "https://www.vinklerlaw.com/about-the-firm/", "https://www.vinklerlaw.com/contact/", "https://www.vinklerlaw.com/about-the-firm/amber-konow/"]
+urls = [ 'https://mpsthelaw.com/', "https://mpsthelaw.com/about-us/", "https://mpsthelaw.com/legal-services/"]
 ask_questions_to_website(urls)

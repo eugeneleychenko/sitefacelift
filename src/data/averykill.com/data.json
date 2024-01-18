@@ -1,0 +1,24 @@
+{
+  "paragraph": "Call for Consultation",
+  "detailsData": "{\n  \"title\": \"Nationally-recognized\",\n  \"content\": \"Avery | Kill, LLC has successfully litigated cases at all levels, including the U.S. Supreme Court. They are known and respected for their integrity, compassion, commitment, and results.\"\n},\n{\n  \"title\": \"Exceptional Legal Representation\",\n  \"content\": \"Avery | Kill, LLC provides exceptional legal representation. They have established a reputation for aggressive advocacy on behalf of their clients, while helping their clients achieve their individual goals.\"\n},\n{\n  \"title\": \"Recognized and Respected Attorneys\",\n  \"content\": \"The attorneys at Avery | Kill, LLC have been selected as the Best Lawyers in America\u00ae, Leading Lawyers\u00ae, and Super Lawyers\u00ae. They have also achieved the exclusive rating of AV Preeminent from Martindale-Hubbell\u00ae.\"\n}",
+  "address": "40 East Huron St., Suite 6E, Chicago, Illinois 60611",
+  "phoneNumber": "(312) 648-9707",
+  "email": "null",
+  "linkNames": [
+    "HOME",
+    "OUR FIRM",
+    "OUR TEAM",
+    "PRACTICE AREAS",
+    "REVIEWS & RATINGS",
+    "CONTACT US",
+    "MAP & DIRECTIONS"
+  ],
+  "companyName": "Avery | Kill, LLC",
+  "subHeading": "Chicago Family Law & Employment Law Attorneys",
+  "valueProp": "Avery | Kill, LLC is a law firm based in Chicago's West Loop, providing exceptional legal representation in family law and employment law. The firm is known for its aggressive advocacy, integrity, compassion, and commitment to achieving results for its clients. The attorneys at Avery | Kill, LLC have been recognized for their legal expertise and have achieved the exclusive AV Preeminent rating from Martindale-Hubbell.\n\nThe firm has successfully litigated cases at all levels, including the U.S. Supreme Court, and its attorneys have been recognized as Best Lawyers in America, Leading Lawyers, and Super Lawyers. With a focus on family law and employment law, Avery | Kill, LLC is dedicated to guiding clients through difficult times with intelligence, compassion, and dedication.",
+  "CTA": "Call for Consultation",
+  "topics": ["Family Law", "Employment Law"],
+  "members": "```json\n[\n  {\n    \"name\": \"Mary Katherine Avery\",\n    \"position\": \"Partner and Founding Member\"\n  },\n  {\n    \"name\": \"Annemarie E. Kill\",\n    \"position\": \"Partner and Founding Member\"\n  },\n  {\n    \"name\": \"Samantha R. Donne\",\n    \"position\": \"Associate Attorney\"\n  },\n  {\n    \"name\": \"Sydney Goggins\",\n    \"position\": \"Attorney\"\n  }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"I have the highest regard for Ms. Kill as a seasoned experienced litigator. I refer clients to her and never once has a client expressed the slightest hint of concerns about her representation. She has achieved excellent results for her clients.\",\n        \"author\": \"Peer\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Annmarie is a formidable opponent but always very collegial and fair minded. I have great respect for her.\",\n        \"author\": \"Peer\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Ms. Avery is a true professional. I interviewed three attorneys to represent me during my divorce and chose Ms. Avery because of her honesty and sincerity (even though she cost a little more). She explained the entire process very clearly. I would highly recommend her to any man who is going through a divorce. \",\n        \"author\": \"Client\",\n        \"location\": null\n    }\n]\n```"
+}

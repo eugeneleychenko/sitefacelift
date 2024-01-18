@@ -1,0 +1,34 @@
+{
+  "paragraph": "Call or text the contact number for a consultation",
+  "detailsData": "{\n    \"title\": \"Extensive Trial Experience\",\n    \"content\": \"The lawyers have extensive experience representing clients throughout Illinois in trials, preparing cases, and negotiating settlements. This experience sets them apart and ensures practical and cost-effective outcomes for their clients.\"\n  },\n  {\n    \"title\": \"Exceptional Value to Clients\",\n    \"content\": \"Their knowledge of the law, including its nuances and uncertainties, leads to practical and cost-effective outcomes and solutions for their clients. Their commitment to legal excellence allows them to provide exceptional value to clients.\"\n  },\n  {\n    \"title\": \"Record-Setting Verdicts and Settlements\",\n    \"content\": \"The attorneys have scored record-setting verdicts and settlements by taking on tough cases, establishing them as clear leaders in the field. This demonstrates their unique blend of skill, energy, and passion in each and every case.\"\n  }",
+  "address": "120 North LaSalle Street Suite 1050, Chicago, IL 60602",
+  "phoneNumber": "312-263-2698",
+  "email": "attorneys@arwlegal.com",
+  "linkNames": [
+    "HOME",
+    "ABOUT",
+    "PRACTICE AREAS",
+    "OUR TEAM",
+    "CONTACT",
+    "FAQ",
+    "MORE"
+  ],
+  "companyName": "Abrahamson Rdzanek & Wilkins, LLC",
+  "subHeading": "Where listening, expertise, and compassion drive guidance",
+  "valueProp": "Let’s face it, jobs can be stressful. Managing your career through the plethora of personalities of your bosses and co-workers, the rules of the company, and your company’s ‘culture,' is not an easy task. A job change--even if initiated by you--can be confusing, surprising, and sometimes devastating. Mental health experts often equate a job loss or major career change to a divorce, where feelings of anger, grief, loss, competency and low self-worth are often evoked.",
+  "CTA": "Contact Us",
+  "topics": [
+    "DISCRIMINATION",
+    "DISABILITY AND REASONABLE ACCOMMODATION",
+    "VICTIM'S ECONOMIC SECURITY AND SAFEY ACT \"VESSA\"",
+    "LEAVES OF ABSENCE",
+    "RETALIATION",
+    "WHISTLE BLOWER ACTIVITY",
+    "SEXUAL HARASSMENT",
+    "WAGE AND HOUR CLAIMS",
+    "HOSTILE WORK ENVIRONMENT OR HARASSMENT"
+  ],
+  "members": "```json\n[\n  {\n    \"name\": \"Vicki Lafer Abrahamson\",\n    \"position\": \"Partner\"\n  },\n  {\n    \"name\": \"Courtney B. Sundstrom\",\n    \"position\": \"Attorney\"\n  },\n  {\n    \"name\": \"Lauren M. Siedlecki\",\n    \"position\": \"Attorney\"\n  },\n  {\n    \"name\": \"Terrill A. Wilkins\",\n    \"position\": \"Partner\"\n  }\n]\n```",
+  "openHours": "Monday - Friday, 9AM - 5PM",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"At a very stressful point in our lives, your words and actions were very validating and encouraging\u2026we understand now why your reputation is what it is.\",\n        \"author\": null,\n        \"location\": null\n    },\n    {\n        \"text\": \"Matt is a strategic thinker and really knows how to analyze and formulate a litigation game plan.\",\n        \"author\": null,\n        \"location\": null\n    },\n    {\n        \"text\": \"I heard other players saying amazing things about Matt and now I know for myself that it's all true as he never quits until the catch is made!\",\n        \"author\": null,\n        \"location\": null\n    }\n]\n```"
+}

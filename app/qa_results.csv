@@ -1,5 +1,5 @@
 Question,Answer,QuestionArr
-return the CTA which usually phrases like 'to call or text the contact number for a consultation'.,'Contact us today to schedule a confidential consultation with a member of our experienced personal injury attorneys.',paragraph
+return the CTA which usually phrases like 'to call or text the contact number for a consultation'.,Call or text the contact number for a consultation.,paragraph
 "
         "" Find 3 advantages that sets this firm apart. organize the objects in this way {
             ""title"": 3-4 word title of the advantage,
@@ -20,29 +20,23 @@ return the CTA which usually phrases like 'to call or text the contact number fo
   }""
            
         
-        ","{
-    ""title"": ""Exclusive Representation"",
-    ""content"": ""Each client at Vinkler Law receives exclusive representation by highly skilled and experienced personal injury attorneys, trial experts, and staff. This ensures that each case receives the highest level of attention and optimal results.""
-  },
-  {
-    ""title"": ""Inside Knowledge of the Insurance Industry"",
-    ""content"": ""The founder, Jerome Vinkler, holds a C.P.C.U. (Chartered Property and Casualty Underwriter) from the Insurance Institute of America, providing an added advantage to clients. This inside knowledge of the insurance industry is critical to achieving the best results possible in personal injury claims and lawsuits.""
-  },
-  {
-    ""title"": ""Trial Readiness"",
-    ""content"": ""Vinkler Law approaches every case with the expectation that it will go to trial. Their readiness for trial, including demonstrative exhibits, trial experts, and a jury consultants trial team, adds to their strengths and success when it matters most.""
-  }
-}",detailsData
-What is the address of this firm?,"Chicago, IL Office  
-2 Prudential Plaza  
-180 N. Stetson, Suite 1974  
-Chicago, IL 60601
-
-Burr Ridge, IL Office  
-7045 Veterans Blvd, Suite A2  
-Burr Ridge, Illinois 60527",address
-What is the phone number of this firm?,630-655-9545,phoneNumber
-What is the contact email of this firm?,jav@vinklerlaw.com,email
+        ","```json
+{
+  ""title"": ""Client Oriented Approach"",
+  ""content"": ""Let us handle the complex legal aspects of your case so that you have more time to focus on what is more important to you.""
+},
+{
+  ""title"": ""Community Oriented"",
+  ""content"": ""At MPS, we advocate for residents across Kane, McHenry and other areas across Chicagoland.""
+},
+{
+  ""title"": ""Experience Matters"",
+  ""content"": ""We have over five decades of courtroom experience, having represented clients on both sides of the courtroom.""
+}
+```",detailsData
+What is the address of this firm?,"454 W Virginia St #100, Crystal Lake, IL 60014",address
+What is the phone number of this firm?,(815) 356-8000,phoneNumber
+What is the contact email of this firm?,null,email
 "
         In an array, return in UPPERCASE the navigation items of this site. If the markdown contains several levels, only return the highest level. Format it like this. only focus on format, not content [
     ""Home"",
@@ -54,19 +48,19 @@ What is the contact email of this firm?,jav@vinklerlaw.com,email
     ""Office""
   ],
   ","[
+    ""HOME"",
     ""ABOUT US"",
-    ""PRACTICE AREAS"",
-    ""OUR SUCCESSES"",
-    ""IN THE NEWS"",
-    ""CONTACT""
+    ""LEGAL SERVICES"",
+    ""FAQ"",
+    ""CONTACT US""
   ]",linkNames
-What is the name of this company?,"Vinkler Law Offices, LTD.",companyName
-What is the subheading of this company?,A Premier Personal Injury Law Firm in Illinois,subHeading
-"Near the top of the site, there will a paragraph description about this firm, return it. If it doesn't exist, write 2 paragraphs about this firm","Vinkler Law is a top Chicago personal injury law firm devoted to representing individuals who have sustained catastrophic injuries or death as a result of the wrongful conduct of others. Each of our clients receives individual attention by our highly skilled trial attorneys who are committed to obtaining results in the courtroom.
-
-If you have been injured or if a loved one has been killed by the negligence of others, then the personal injury attorneys at Vinkler Law are the clear choice to help you and your family pursue a lawsuit and achieve fair and just compensation for your loss.",valueProp
-What is the CTA close to the top of the site?,Schedule a Free Case Evaluation,CTA
-"Return 9 practice areas of this law firm, in an array.","[""Birth Injuries"", ""Brain Injuries"", ""Construction Accidents"", ""Medical Malpractice"", ""Nursing Home Abuse"", ""Product Liability"", ""Sexual Abuse"", ""Truck Accidents"", ""Personal Injury""]",topics
+What is the name of this company?,Melei Petsche Spencer,companyName
+What is the subheading of this company?,Top McHenry & Kane County Attorneys,subHeading
+"Near the top of the site, there will a paragraph description about this firm, return it. If it doesn't exist, write 2 paragraphs about this firm","```plaintext
+There are no paragraph descriptions near the top of the site.
+```",valueProp
+What is the CTA close to the top of the site?,Contact Us,CTA
+"Return 9 practice areas of this law firm, in an array.","[""Divorce"", ""Real Estate Law"", ""Estate & Probate Law"", ""Litigation"", ""Business Law"", ""Employment Law"", ""Family Law Attorney"", ""Foreclosure Attorney"", ""Woodstock, IL""]",topics
 "
         ( Return, in an array of objects, 4 names of lawyers and their titles. For example [
             {
@@ -78,18 +72,24 @@ What is the CTA close to the top of the site?,Schedule a Free Case Evaluation,CT
                 position: ""Associate Attorney"",
             }]
         
-        ","```json
-[
-  {
-    ""name"": ""Jerome A. Vinkler"",
-    ""position"": ""Founding Attorney""
-  },
-  {
-    ""name"": ""Amber Konow"",
-    ""position"": ""Associate Trial Attorney""
-  }
-]
-```",members
+        ","[
+    {
+        name: ""Samuel S. Melei"",
+        position: ""Principal Attorney""
+    },
+    {
+        name: ""William P. Petsche"",
+        position: ""Principal Attorney""
+    },
+    {
+        name: ""Thomas B. Spencer IV"",
+        position: ""Principal Attorney""
+    },
+    {
+        name: ""Shaina S. Kalanges"",
+        position: ""Associate Attorney""
+    }
+]",members
  When is the firm open?,null,openHours
 "
           Return 3 testimonials from this site. They should be in an array of objects, including text, author, location. For example 
@@ -116,19 +116,19 @@ What is the CTA close to the top of the site?,Schedule a Free Case Evaluation,CT
         ","```json
 [
     {
-        ""text"": ""Jerry Vinkler is a great attorney. He helped me through a very difficult time and got me the justice I deserved."",
-        ""author"": ""John Smith"",
-        ""location"": ""Chicago, IL""
+        ""text"": ""Robbie, Sam, Will, and Andrew all helped us out along the way as we were closing on our home! Andrew walked us through every document we signed at closing and provided us with a thorough explanation of what we were signing. This was especially helpful as a first time homebuyer."",
+        ""author"": ""Stephanie Pilat"",
+        ""location"": null
     },
     {
-        ""text"": ""Amber Konow is an exceptional lawyer. She fought for me and my family, and I am forever grateful for her dedication."",
-        ""author"": ""Sarah Johnson"",
-        ""location"": ""Burr Ridge, IL""
+        ""text"": ""Will was a great help with setting up my business properly. Make sure we are protected. I highly recommend!"",
+        ""author"": ""Justin Synowiec"",
+        ""location"": null
     },
     {
-        ""text"": ""Vinkler Law provided outstanding legal representation. Their team's commitment and expertise made a huge difference in my case."",
-        ""author"": ""Michael Thompson"",
-        ""location"": ""Cook County, IL""
+        ""text"": ""We initially had a consultation to discuss matters in relation to our business. After further rapport & the advice I was given, I knew going forward this was who I needed to hire to resolve some matters I had. If your looking a quality attorney. Look no further these are your people👍"",
+        ""author"": ""Justin Hamilton"",
+        ""location"": null
     }
 ]
 ```",testimonalData

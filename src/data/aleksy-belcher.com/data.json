@@ -1,0 +1,29 @@
+{
+  "paragraph": "__(312) 670-9000__",
+  "detailsData": "{\n    \"title\": \"Generations of Legal Experience\",\n    \"content\": \"Aleksy Belcher brings generations of legal experience, passed down through the family, providing a deep understanding of the legal system and a proven track record of success in personal injury cases.\"\n  },\n  {\n    \"title\": \"Dedication and Compassion\",\n    \"content\": \"Aleksy Belcher attorneys are dedicated to helping injured families navigate the legal process with compassion and understanding. They prioritize a quick and fair resolution to ensure the best outcome for their clients.\"\n  },\n  {\n    \"title\": \"Recognized as Best Law Firm\",\n    \"content\": \"Aleksy Belcher has been recognized as a Best Law Firm by U.S. News, showcasing their commitment to excellence and success in the legal field. This recognition highlights their dedication to providing top-tier legal representation.\"\n  }",
+  "address": "350 North LaSalle Street, Suite 750, Chicago, IL 60654",
+  "phoneNumber": "(312) 670-9000",
+  "email": "m.belcher[at]aleksybelcher.com",
+  "linkNames": [
+    "HOME",
+    "OUR FIRM",
+    "OUR TEAM",
+    "PRACTICE AREAS",
+    "PUBLICATIONS & SEMINARS",
+    "CONTACT",
+    "OFFICE"
+  ],
+  "companyName": "Aleksy Belcher",
+  "subHeading": "Helping Injured Families",
+  "valueProp": "When you are injured, you may be entitled to compensation.  The process can be daunting.  Between your employer, the insurance companies, the hospitals and the court system it is easy to get overwhelmed.  It is crucial that you quickly secure representation. Aleksy Belcher brings the experience, dedication and compassion that you need to help you through this tough time and to make sure that you are fairly compensated.  We understand that a quick and fair resolution is important to you and your family, and our attorneys are committed to making that happen. ",
+  "CTA": "Speak with an Attorney",
+  "topics": [
+    "Car Accidents",
+    "Medical Malpractice",
+    "Wrongful Death",
+    "Work Accidents"
+  ],
+  "members": "```json\n[\n  {\n    \"name\": \"Richard E. Aleksy\",\n    \"position\": \"Preeminent Trial Attorney\"\n  },\n  {\n    \"name\": \"Matthew J. Belcher\",\n    \"position\": \"Zealous Advocate\"\n  },\n  {\n    \"name\": \"Bryant M. Greening\",\n    \"position\": \"Rights Advocate\"\n  },\n  {\n    \"name\": \"Matthew B. Walker\",\n    \"position\": \"Military Veteran Attorney\"\n  }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Richard Aleksy is a preeminent trial attorney. He has briefed and argued...\",\n        \"author\": \"Client Testimonial\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Matt Belcher has been a zealous advocate for families of injured...\",\n        \"author\": \"Client Testimonial\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Bryant Greening has dedicated his career to fighting for the rights of injured persons...\",\n        \"author\": \"Client Testimonial\",\n        \"location\": null\n    }\n]\n```"
+}

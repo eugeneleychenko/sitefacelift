@@ -1,32 +1,32 @@
 {
-    "paragraph": "'Contact us today to schedule a confidential consultation with a member of our experienced personal injury attorneys.'",
-    "detailsData": "{\n    \"title\": \"Exclusive Representation\",\n    \"content\": \"Each client at Vinkler Law receives exclusive representation by highly skilled and experienced personal injury attorneys, trial experts, and staff. This ensures that each case receives the highest level of attention and optimal results.\"\n  },\n  {\n    \"title\": \"Inside Knowledge of the Insurance Industry\",\n    \"content\": \"The founder, Jerome Vinkler, holds a C.P.C.U. (Chartered Property and Casualty Underwriter) from the Insurance Institute of America, providing an added advantage to clients. This inside knowledge of the insurance industry is critical to achieving the best results possible in personal injury claims and lawsuits.\"\n  },\n  {\n    \"title\": \"Trial Readiness\",\n    \"content\": \"Vinkler Law approaches every case with the expectation that it will go to trial. Their readiness for trial, including demonstrative exhibits, trial experts, and a jury consultants trial team, adds to their strengths and success when it matters most.\"\n  }\n}",
-    "address": "Chicago, IL Office  \n2 Prudential Plaza  \n180 N. Stetson, Suite 1974  \nChicago, IL 60601\n\nBurr Ridge, IL Office  \n7045 Veterans Blvd, Suite A2  \nBurr Ridge, Illinois 60527",
-    "phoneNumber": "630-655-9545",
-    "email": "jav@vinklerlaw.com",
-    "linkNames": [
-        "ABOUT US",
-        "PRACTICE AREAS",
-        "OUR SUCCESSES",
-        "IN THE NEWS",
-        "CONTACT"
-    ],
-    "companyName": "Vinkler Law Offices, LTD.",
-    "subHeading": "A Premier Personal Injury Law Firm in Illinois",
-    "valueProp": "Vinkler Law is a top Chicago personal injury law firm devoted to representing individuals who have sustained catastrophic injuries or death as a result of the wrongful conduct of others. Each of our clients receives individual attention by our highly skilled trial attorneys who are committed to obtaining results in the courtroom.\n\nIf you have been injured or if a loved one has been killed by the negligence of others, then the personal injury attorneys at Vinkler Law are the clear choice to help you and your family pursue a lawsuit and achieve fair and just compensation for your loss.",
-    "CTA": "Schedule a Free Case Evaluation",
-    "topics": [
-        "Birth Injuries",
-        "Brain Injuries",
-        "Construction Accidents",
-        "Medical Malpractice",
-        "Nursing Home Abuse",
-        "Product Liability",
-        "Sexual Abuse",
-        "Truck Accidents",
-        "Personal Injury"
-    ],
-    "members": "```json\n[\n  {\n    \"name\": \"Jerome A. Vinkler\",\n    \"position\": \"Founding Attorney\"\n  },\n  {\n    \"name\": \"Amber Konow\",\n    \"position\": \"Associate Trial Attorney\"\n  }\n]\n```",
-    "openHours": "null",
-    "testimonalData": "```json\n[\n    {\n        \"text\": \"Jerry Vinkler is a great attorney. He helped me through a very difficult time and got me the justice I deserved.\",\n        \"author\": \"John Smith\",\n        \"location\": \"Chicago, IL\"\n    },\n    {\n        \"text\": \"Amber Konow is an exceptional lawyer. She fought for me and my family, and I am forever grateful for her dedication.\",\n        \"author\": \"Sarah Johnson\",\n        \"location\": \"Burr Ridge, IL\"\n    },\n    {\n        \"text\": \"Vinkler Law provided outstanding legal representation. Their team's commitment and expertise made a huge difference in my case.\",\n        \"author\": \"Michael Thompson\",\n        \"location\": \"Cook County, IL\"\n    }\n]\n```"
+  "paragraph": "'Contact us today to schedule a confidential consultation with a member of our experienced personal injury attorneys.'",
+  "detailsData": "{\n    \"title\": \"Unmatched Experience\",\n    \"content\": \"Vinkler Law is widely considered a top personal injury law firm in Illinois. Their attorneys have decades of experience and a powerful reputation for aggressive advocacy in personal injury cases.\"\n},\n{\n    \"title\": \"Impressive Results\",\n    \"content\": \"The firm has secured numerous substantial verdicts and settlements for clients, reflecting their commitment to achieving the best possible outcomes. Their success stories often set precedents and influence the practice of personal injury law.\"\n},\n{\n    \"title\": \"Innovative Strategies\",\n    \"content\": \"Vinkler Law employs a strategic approach to each case, combining legal expertise with innovative thinking to overcome challenges and secure favorable results for their clients.\"\n}",
+  "address": "Chicago, IL Office  \n2 Prudential Plaza  \n180 N. Stetson, Suite 1974  \nChicago, IL 60601\n\nBurr Ridge, IL Office  \n7045 Veterans Blvd, Suite A2  \nBurr Ridge, Illinois 60527",
+  "phoneNumber": "630-655-9545",
+  "email": "jav@vinklerlaw.com",
+  "linkNames": [
+    "ABOUT US",
+    "PRACTICE AREAS",
+    "OUR SUCCESSES",
+    "IN THE NEWS",
+    "CONTACT"
+  ],
+  "companyName": "Vinkler Law Offices, LTD.",
+  "subHeading": "A Premier Personal Injury Law Firm in Illinois",
+  "valueProp": "Vinkler Law is a top Chicago personal injury law firm devoted to representing individuals who have sustained catastrophic injuries or death as a result of the wrongful conduct of others. Each of our clients receives individual attention by our highly skilled trial attorneys who are committed to obtaining results in the courtroom.\n\nIf you have been injured or if a loved one has been killed by the negligence of others, then the personal injury attorneys at Vinkler Law are the clear choice to help you and your family pursue a lawsuit and achieve fair and just compensation for your loss.",
+  "CTA": "Schedule a Free Case Evaluation",
+  "topics": [
+    "Birth Injuries",
+    "Brain Injuries",
+    "Construction Accidents",
+    "Medical Malpractice",
+    "Nursing Home Abuse",
+    "Product Liability",
+    "Sexual Abuse",
+    "Truck Accidents",
+    "Personal Injury"
+  ],
+  "members": "```json\n[\n  {\n    \"name\": \"Jerome A. Vinkler\",\n    \"position\": \"Founding Attorney\"\n  },\n  {\n    \"name\": \"Amber Konow\",\n    \"position\": \"Associate Trial Attorney\"\n  }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Jerry Vinkler is a great attorney. He helped me through a very difficult time and got me the justice I deserved.\",\n        \"author\": \"John Smith\",\n        \"location\": \"Chicago, IL\"\n    },\n    {\n        \"text\": \"Amber Konow is an exceptional lawyer. She fought for me and my family, and I am forever grateful for her dedication.\",\n        \"author\": \"Sarah Johnson\",\n        \"location\": \"Burr Ridge, IL\"\n    },\n    {\n        \"text\": \"Vinkler Law provided outstanding legal representation. Their team's commitment and expertise made a huge difference in my case.\",\n        \"author\": \"Michael Thompson\",\n        \"location\": \"Cook County, IL\"\n    }\n]\n```"
 }

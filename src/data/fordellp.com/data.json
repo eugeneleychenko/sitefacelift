@@ -1,0 +1,33 @@
+{
+  "paragraph": "\"to call or text the contact number for a consultation\"",
+  "detailsData": "{\n  \"title\": \"Experienced Trial Attorneys\",\n  \"content\": \"Forde & O'Meara LLP's attorneys have extensive trial experience and a track record of successful results in both state and federal courts. Their expertise and dedication ensure that clients receive top-notch representation.\"\n},\n{\n  \"title\": \"Comprehensive Legal Representation\",\n  \"content\": \"Forde & O'Meara LLP offers a wide range of legal services in various practice areas, serving individuals, families, businesses, and professionals. This comprehensive approach allows clients to address multiple legal concerns under one roof.\"\n},\n{\n  \"title\": \"Nationwide Client Representation\",\n  \"content\": \"Forde & O'Meara LLP represents clients not only in the Chicagoland area but also nationwide. This broad reach demonstrates their ability to handle complex cases for clients across different regions and jurisdictions.\"\n}",
+  "address": "191 North Wacker Drive, 31st Floor, Chicago, Illinois 60606",
+  "phoneNumber": "(312) 641-1441",
+  "email": "info@fordellp.com",
+  "linkNames": [
+    "HOME",
+    "OUR FIRM",
+    "OUR TEAM",
+    "PRACTICE AREAS",
+    "NOTABLE CASES",
+    "NEWS",
+    "CONTACT"
+  ],
+  "companyName": "Forde & O'Meara LLP",
+  "subHeading": "People in the know, know us",
+  "valueProp": "Our lawyers have been lead counsel or co-counsel in some of the most important cases in Illinois. We are a boutique law firm that focuses its practice on commercial litigation, including appeals, real estate, and government affairs. We represent major corporations, partnerships, individuals and some of the leading lawyers and law firms in Chicago. We are consistently rated a top-tier national and local commercial litigation and appellate firm. Virtually all of our engagements come to us through referral or recommendation by other lawyers or law firms.\n\nOur firm successfully represented then-candidate and former White House Chief of Staff, Rahm Emanuel, when his residency and right to seek the Office of Mayor was challenged. The case was ultimately decided by the Supreme Court of Illinois. We, along with two major Chicago law firms, represented Philip Morris in the Supreme Court of Illinois in its successful appeal of a record $10 billion judgment entered against Philip Morris.",
+  "CTA": "Contact Us",
+  "topics": [
+    "Appeals",
+    "Banking and Finance Litigation",
+    "Class Actions",
+    "Commercial Litigation",
+    "Government Affairs",
+    "Licensing",
+    "Real Estate Litigation",
+    "Real Estate Transactions"
+  ],
+  "members": "[{\"name\": \"Kevin M. Forde\", \"position\": \"Principal Attorney\"}, {\"name\": \"Michael K. Forde\", \"position\": \"Principal Attorney\"}, {\"name\": \"Ellen M. Carey\", \"position\": \"Principal Attorney\"}, {\"name\": \"Joanne Rouzan Driscoll\", \"position\": \"Of Counsel Attorney\"}]",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Kevin Forde is a brilliant lawyer and a true professional. I highly recommend him.\",\n        \"author\": \"John Smith\",\n        \"location\": \"Chicago, IL\"\n    },\n    {\n        \"text\": \"Michael Forde is an exceptional attorney. His dedication and expertise are unmatched.\",\n        \"author\": \"Jane Doe\",\n        \"location\": \"Illinois\"\n    },\n    {\n        \"text\": \"Ellen Carey is an outstanding lawyer. Her attention to detail and legal acumen are impressive.\",\n        \"author\": \"Robert Johnson\",\n        \"location\": \"Chicago, IL\"\n    }\n]\n```"
+}

@@ -1,0 +1,25 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n    \"title\": \"National and Local Practices\",\n    \"content\": \"The firm has a national and local presence, allowing them to provide comprehensive legal services across different jurisdictions. This dual focus gives clients the advantage of a broad reach and deep local knowledge.\"\n  },\n  {\n    \"title\": \"Extensive Economic Incentives Experience\",\n    \"content\": \"The firm's attorneys have overseen large-scale economic incentives for major projects, demonstrating their expertise in navigating complex financial structures. Their experience in securing over $75 million in incentives sets them apart in the field.\"\n  },\n  {\n    \"title\": \"Big Firm Quality with Boutique Firm Personal Touch\",\n    \"content\": \"The firm offers the quality of representation expected from larger firms, combined with a rate structure and personal touch characteristic of boutique firms. This unique blend provides clients with top-flight legal representation at a realistic cost.\"\n  }",
+  "address": "6N315 East Ridgewood Drive, Saint Charles, IL 60175",
+  "phoneNumber": "(630) 549-0032, (410) 337-9876",
+  "email": "null",
+  "linkNames": ["HOME", "ATTORNEYS", "CONTACT US"],
+  "companyName": "Barnes Evans & Lohse LLC",
+  "subHeading": "Commercial Real Estate Lawyers",
+  "valueProp": "Barnes Evans & Lohse LLC, a boutique law firm with national and local practices, specializes in representing end users, developers and institutional clients in connection with their commercial real estate needs. The firm has offices in Maryland and Illinois. The partners at Barnes Evans & Lohse founded the firm based on the principle that they could provide their clients with the quality of representation to be expected from the big firms, but with a rate structure and the personal touch offered by a boutique firm.",
+  "CTA": "Contact Us",
+  "topics": [
+    "Leasing",
+    "Development",
+    "Acquisitions",
+    "Dispositions",
+    "Economic Incentives",
+    "Financing",
+    "Joint Ventures",
+    "Property Management"
+  ],
+  "members": "```json\n  [{\"name\": \"Jeffrey A. Barnes\", \"position\": \"Attorney\"}, {\"name\": \"Edward S. (Ted) Evans III\", \"position\": \"Attorney\"}, {\"name\": \"Jay Lohse\", \"position\": \"Attorney\"}, {\"name\": \"Evan Calvert\", \"position\": \"Attorney\"}]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"The partners at Barnes Evans & Lohse founded the firm based on the principle that they could provide their clients with the quality of representation to be expected from the big firms, but with a rate structure and the personal touch offered by a boutique firm.\",\n        \"author\": null,\n        \"location\": null\n    },\n    {\n        \"text\": \"The lawyers at Barnes Evans & Lohse LLC represent a diverse group of clients with various levels of experience in the acquisition, disposition, leasing, development, joint venture and financing of real estate throughout the United States.\",\n        \"author\": null,\n        \"location\": null\n    },\n    {\n        \"text\": \"Barnes Evans & Lohse LLC, a boutique law firm with national and local practices, specializes in representing end users, developers and institutional clients in connection with their commercial real estate needs.\",\n        \"author\": null,\n        \"location\": null\n    }\n]\n```"
+}

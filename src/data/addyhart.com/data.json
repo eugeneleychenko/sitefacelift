@@ -1,0 +1,33 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n        \"title\": \"Proven Record of Success\",\n        \"content\": \"AddyHart has a proven record of success in cases before the U.S district courts, at the USPTO's Patent Trial and Appeal Board, in the Court of Federal Claims, and in appeals before the U.S. Court of Appeals for the Federal Circuit and other Circuits.\"\n    },\n    {\n        \"title\": \"Wealth of Experience\",\n        \"content\": \"AddyHart's attorneys have a wealth of experience as both outside and in-house counsel in multi-million dollar patent disputes. They include former AmLaw100 management and former senior in-house IP counsel.\"\n    },\n    {\n        \"title\": \"Business-First Approach\",\n        \"content\": \"AddyHart takes a business-first approach, providing informed and helpful counsel while helping safeguard the corporate bottom-line. They strive to provide superb legal advice and compelling business value.\"\n    }",
+  "address": "10 Glenlake Parkway, Suite 130, Atlanta, GA 30328",
+  "phoneNumber": "",
+  "email": "",
+  "linkNames": [
+    "OUR FIRM",
+    "LITIGATION",
+    "IP LAW",
+    "ENTERTAINMENT LAW",
+    "CORPORATE LAW",
+    "NEWS"
+  ],
+  "companyName": "AddyHart P.C.",
+  "subHeading": "Protecting Innovation and Your Interests",
+  "valueProp": "Founded by experienced AmLaw100 corporate attorneys and intellectual property litigators, AddyHart specializes in handling complex intellectual property litigation from discovery and claim construction to settlement and trial, while our full-service corporate practice assists entrepreneurial companies throughout all phases of their growth and development. Our clients range from Fortune 1000 companies to mid-tier and smaller entrepreneurial businesses. ",
+  "CTA": "Contact Us",
+  "topics": [
+    "Litigation",
+    "Intellectual Property Law",
+    "Entertainment Law",
+    "Corporate Law",
+    "Patent Law",
+    "Trade Secrets",
+    "Trademarks",
+    "USPTO's Patent Trial and Appeal Board",
+    "Court of Federal Claims"
+  ],
+  "members": "```json\n[\n  {\n    \"name\": \"Meredith Martin Addy\",\n    \"position\": \"Founder\"\n  },\n  {\n    \"name\": \"Robert P. Hart\",\n    \"position\": \"Founder\"\n  },\n  {\n    \"name\": \"Charles A. 'Chad' Pannell III\",\n    \"position\": \"Principal Attorney\"\n  },\n  {\n    \"name\": \"Brandon Helms\",\n    \"position\": \"Principal Attorney\"\n  }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Meredith Addy is a standout attorney who is highly skilled and knowledgeable in her field.\",\n        \"author\": \"Chambers\",\n        \"location\": null\n    },\n    {\n        \"text\": \"AddyHart provides superb legal advice and compelling business value.\",\n        \"author\": \"AddyHart Client\",\n        \"location\": null\n    },\n    {\n        \"text\": \"AddyHart takes a business-first approach, providing informed and helpful counsel while safeguarding the corporate bottom-line.\",\n        \"author\": \"AddyHart Client\",\n        \"location\": null\n    }\n]\n```"
+}

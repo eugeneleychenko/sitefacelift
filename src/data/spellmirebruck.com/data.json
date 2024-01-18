@@ -1,0 +1,31 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n    \"title\": \"Decades of Experience\",\n    \"content\": \"Spellmire Bruck has over thirty years of experience in professional liability and ethics litigation, making them highly knowledgeable and skilled in handling complex legal matters.\"\n  },\n  {\n    \"title\": \"Record-Breaking Results\",\n    \"content\": \"Spellmire Bruck obtained the largest legal malpractice jury verdict in Cook County, Illinois history of $8.2 million, showcasing their ability to achieve significant and groundbreaking results for their clients.\"\n  },\n  {\n    \"title\": \"Comprehensive Representation\",\n    \"content\": \"Spellmire Bruck provides comprehensive and complete representation to their clients, offering a wide range of legal services including legal malpractice, professional ethics, insurance coverage, and more.\"\n  }",
+  "address": "1 East Wacker Drive, Suite 2350, Chicago, IL 60601",
+  "phoneNumber": "(312) 258-9400",
+  "email": "null",
+  "linkNames": [
+    "OUR FIRM",
+    "OUR ATTORNEYS",
+    "EXPERIENCE + PRACTICE",
+    "SUCCESSFUL RESULTS",
+    "CONTACT"
+  ],
+  "companyName": "Spellmire Bruck",
+  "subHeading": "Ranked in Best Lawyers in Chicago in 2021",
+  "valueProp": "Spellmire Bruck is a firm of trial lawyers based in Chicago, Illinois and handles legal matters in the following practice areas: Legal Malpractice, Professional Ethics, Accounting Malpractice, Insurance Coverage, Medical Hospital Malpractice, Insurance Law, Personal Injury, and General Litigation. We provide comprehensive and complete representation to our clients. We have successfully defended lawyers who have been accused of negligence or malpractice and have prosecuted lawyers whose negligence has caused harm to their clients. We are uniquely qualified to advise and represent our clients in ethics and professional responsibility, insurance and litigation matters.",
+  "CTA": "Firm Profile",
+  "topics": [
+    "Legal Malpractice",
+    "Professional Ethics",
+    "Accounting Malpractice",
+    "Insurance Coverage",
+    "Medical Hospital Malpractice",
+    "Insurance Law",
+    "Personal Injury",
+    "General Litigation"
+  ],
+  "members": "```json\n  [{\"name\": \"George W. Spellmire\", \"position\": \"Founder & Partner\"}, {\"name\": \"Michael C. Bruck\", \"position\": \"Founder & Partner\"}, {\"name\": \"Timothy J. McInerney\", \"position\": \"Attorney\"}]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Spellmire Bruck obtained the largest legal malpractice jury verdict in Cook County, Illinois history of $8.2 million.\",\n        \"author\": null,\n        \"location\": null\n    },\n    {\n        \"text\": \"Through settlement, the firm has also recovered many other seven and eight figure settlements on behalf of its clients.\",\n        \"author\": null,\n        \"location\": null\n    },\n    {\n        \"text\": \"Not only has the firm successfully prosecuted professional liability cases, it has obtained successful results in the defense of lawyers and law firms.\",\n        \"author\": null,\n        \"location\": null\n    }\n]\n```"
+}

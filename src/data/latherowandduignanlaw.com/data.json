@@ -1,0 +1,33 @@
+{
+  "paragraph": "Call Us For Free Consultation",
+  "detailsData": "{\n    \"title\": \"Extensive Trial Experience\",\n    \"content\": \"The lawyers have extensive experience representing clients throughout Illinois in trials, preparing cases, and negotiating settlements. This experience sets them apart and ensures practical and cost-effective outcomes for their clients.\"\n  },\n  {\n    \"title\": \"Exceptional Value to Clients\",\n    \"content\": \"Their knowledge of the law, including its nuances and uncertainties, leads to practical and cost-effective outcomes and solutions for their clients. Their commitment to legal excellence allows them to provide exceptional value to clients.\"\n  },\n  {\n    \"title\": \"Record-Setting Verdicts and Settlements\",\n    \"content\": \"The attorneys have scored record-setting verdicts and settlements by taking on tough cases, establishing them as clear leaders in the field. This demonstrates their unique blend of skill, energy, and passion in each and every case.\"\n  }\n",
+  "address": "321 N Clark St, Suite 1350, Chicago, IL 60654",
+  "phoneNumber": "(312) 372-0052",
+  "email": "null",
+  "linkNames": [
+    "HOME",
+    "ABOUT THE FIRM",
+    "PRACTICE AREAS",
+    "COMMON QUESTIONS",
+    "FIRM BLOG",
+    "CONTACT US"
+  ],
+  "companyName": "Latherow & Duignan",
+  "subHeading": "Because Results and People Matter",
+  "valueProp": "Latherow & Duignan is a law firm in Chicago, Illinois that specializes in personal injury cases. With almost four decades of combined experience, the firm's attorneys have a proven track record of securing multi-million dollar verdicts and settlements for their clients. They are committed to providing exceptional value to their clients through their knowledge of the law and practical, cost-effective solutions. The firm is dedicated to achieving justice for their clients and making a positive impact in the community.",
+  "CTA": "Free Consultation",
+  "topics": [
+    "Car Collisions",
+    "Construction / Work Accidents",
+    "Elevator Accidents",
+    "Sexual Abuse",
+    "Medical Malpractice",
+    "Nursing Home Negligence",
+    "Personal Injury",
+    "Plane Crashes",
+    "Trucking Accidents"
+  ],
+  "members": "```json\n[\n  {\n    \"name\": \"Jerry A. Latherow\",\n    \"position\": \"Partner\"\n  },\n  {\n    \"name\": \"Bridget Duignan\",\n    \"position\": \"Partner\"\n  }\n]\n```",
+  "openHours": "_9:00 AM - 5:00 PM  \nOffice Hours Mon. - Fri._",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"I am writing to tell you how grateful I am to you. You have helped make a negative into a positive in my life\u2026 I originally just wanted my parents to be repaid for their expenses, but this amount is much more than any normal 19 year old can comprehend. Thank you for working so carefully on my behalf.\",\n        \"author\": \"E.F.\",\n        \"location\": \"Skokie, Illinois\"\n    },\n    {\n        \"text\": \"Thanks for taking such good care of my mom.\",\n        \"author\": \"D.W.\",\n        \"location\": \"Chicago, Illinois\"\n    },\n    {\n        \"text\": \"I am writing to tell you how grateful I am to you. You have helped make a negative into a positive in my life\u2026 I originally just wanted my parents to be repaid for their expenses, but this amount is much more than any normal 19 year old can comprehend. Thank you for working so carefully on my behalf.\",\n        \"author\": \"E.F.\",\n        \"location\": \"Skokie, Illinois\"\n    }\n]\n```"
+}

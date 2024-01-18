@@ -1,0 +1,32 @@
+{
+  "paragraph": "Contact (312) 444-1000 for a consultation",
+  "detailsData": "{\n    \"title\": \"Decades of Experience\",\n    \"content\": \"Crotty & Schiltz, LLC has a long-standing history of providing expert legal services, with a focus on solving complex legal challenges for businesses and executives.\"\n  },\n  {\n    \"title\": \"Record-Breaking Results\",\n    \"content\": \"Crotty & Schiltz, LLC has achieved significant victories in high-stakes litigation, demonstrating their commitment to securing successful outcomes for their clients.\"\n  },\n  {\n    \"title\": \"Comprehensive Representation\",\n    \"content\": \"With a team of experienced attorneys, Crotty & Schiltz, LLC offers comprehensive legal representation across a variety of practice areas, including corporate law, employment disputes, and restructuring & insolvency.\"\n  }",
+  "address": "120 N. LaSalle Street, Suite 2000, Chicago, Illinois 60602",
+  "phoneNumber": "(312) 444-1000",
+  "email": "scrotty@crottylaw.com",
+  "linkNames": [
+    "HOME",
+    "PRACTICE AREAS",
+    "ATTORNEYS",
+    "NEWS & EVENTS",
+    "CONTACT"
+  ],
+  "companyName": "Crotty & Schiltz, LLC",
+  "subHeading": "A law firm focused on solving problems",
+  "valueProp": "Crotty & Schiltz, LLC is a law firm focused on solving problems. They counsel businesses and executives on achieving their goals. Their attorneys have experience in business counseling, transactions, executive compensation, employment disputes, insurance, litigation, and restructuring & insolvency. They prioritize counseling over obstructing and aim to put their experience to work for their clients.\n\nCrotty & Schiltz, LLC is a law firm dedicated to providing effective solutions for businesses and executives. With a focus on counseling rather than obstructing, their experienced attorneys offer guidance in various practice areas, including corporate law, employment law, insurance, litigation, and restructuring & insolvency. The firm is known for its expertise in bet-the-business cases, executive compensation, commercial transactions, and high-stakes litigation.",
+  "CTA": "See our services",
+  "topics": [
+    "Corporate",
+    "Employment Law",
+    "Insurance",
+    "Litigation",
+    "Restructuring & Insolvency",
+    "Appellate Litigation",
+    "Business Counseling",
+    "Class Action Litigation",
+    "Commercial Litigation"
+  ],
+  "members": "```json\n  [{\"name\": \"Sean B. Crotty\", \"position\": \"Experienced trial lawyer and business counselor\"}, {\"name\": \"Eugene J. Schiltz\", \"position\": \"Seasoned litigator\"}, {\"name\": \"Kenneth P. Ross\", \"position\": \"Attorney\"}, {\"name\": \"Elizabeth E. Richert\", \"position\": \"Attorney\"}]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Crotty & Schiltz wins a patent trial in the United States District Court for the Northern District of Illinois. See the opinion here.\",\n        \"author\": null,\n        \"location\": null\n    },\n    {\n        \"text\": \"Favorable Jury Verdict. Crotty & Schiltz wins a jury verdict following a week-long trial invalidating a trust amendment on the grounds of undue influence.\",\n        \"author\": null,\n        \"location\": null\n    },\n    {\n        \"text\": \"Sean B. Crotty and Eugene J. Schiltz were recently honored to be included on the Illinois Super Lawyers List for 2022 in the area of business litigation.\",\n        \"author\": null,\n        \"location\": null\n    }\n]\n```"
+}

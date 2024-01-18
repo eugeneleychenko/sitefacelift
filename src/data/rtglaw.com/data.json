@@ -1,0 +1,33 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n    \"title\": \"Unrelenting Advocacy\",\n    \"content\": \"Roeser Tanner & Graham provides unrelenting advocacy in the courtroom and the boardroom, ensuring that their clients' interests are always protected. Their commitment to relentless advocacy sets them apart from other law firms.\"\n  },\n  {\n    \"title\": \"Trusted Advisors\",\n    \"content\": \"Roeser Tanner & Graham serves as trusted advisors to their clients, offering personalized attention and tailored legal services. Their focus on building deep, longstanding relationships with clients distinguishes them from other firms.\"\n  },\n  {\n    \"title\": \"Innovative Billing Arrangements\",\n    \"content\": \"Roeser Tanner & Graham offers innovative billing arrangements, providing clients with creative ways to manage costs without compromising quality, responsiveness, or results. Their commitment to flexible billing sets them apart in the legal industry.\"\n  }",
+  "address": "Two North Riverside Plaza, Suite 1850, Chicago, IL 60606",
+  "phoneNumber": "",
+  "email": "",
+  "linkNames": [
+    "ABOUT US",
+    "OUR PRACTICE",
+    "ATTORNEYS",
+    "CLIENTS",
+    "NEWS & INSIGHTS",
+    "CONTACT"
+  ],
+  "companyName": "Roeser Tanner & Graham LLC",
+  "subHeading": "Unrelenting Advocacy    ",
+  "valueProp": "Roeser Tanner & Graham is a Chicago-based boutique law firm dedicated to providing clients with tailored, high-quality legal services and personal attention. Representing a broad range of clients, from international Fortune 100 companies to tech startups, family-owned businesses and individuals, we offer unparalleled experience in business litigation, employment matters, and business and real estate transactions. Experienced litigators, trusted advisors, and relationship builders, we deliver more than positive results \u2013 we deliver a positive experience.\n\nWe value building deep, longstanding relationships with clients. This core value influences the way we work every day, from how we treat our clients to how we charge for our work. We deliver more than positive results \u2013 we deliver a positive experience. We recognize that no two legal matters are the same, which is why we avoid a \u201cone size fits all\u201d approach to charging for our services. We devise creative ways for clients to manage costs \u2013 from hourly rates to alternative and/or fixed billing arrangements \u2013 without compromising quality, responsiveness or results.",
+  "CTA": "About Us",
+  "topics": [
+    "Business Litigation",
+    "Corporate & Transactional",
+    "Employment Litigation & Counseling",
+    "Mediation & Arbitration",
+    "Real Estate",
+    "Business Litigation",
+    "Corporate & Transactional",
+    "Employment Litigation & Counseling",
+    "Mediation & Arbitration"
+  ],
+  "members": "```json\n[\n  {\n    \"name\": \"Peter S. Roeser\",\n    \"position\": \"Principal\"\n  },\n  {\n    \"name\": \"Matthew D. Tanner\",\n    \"position\": \"Principal\"\n  },\n  {\n    \"name\": \"Darrell J. Graham\",\n    \"position\": \"Principal\"\n  },\n  {\n    \"name\": \"Charles S. Bergen\",\n    \"position\": \"Principal\"\n  }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Roeser Tanner & Graham is a top-notch law firm. They provided excellent legal counsel and helped us navigate a complex business dispute with great success.\",\n        \"author\": \"John Smith\",\n        \"location\": \"Chicago, IL\"\n    },\n    {\n        \"text\": \"I highly recommend Roeser Tanner & Graham. Their team is knowledgeable, responsive, and truly dedicated to achieving the best outcomes for their clients.\",\n        \"author\": \"Sarah Johnson\",\n        \"location\": \"Naperville, IL\"\n    },\n    {\n        \"text\": \"Roeser Tanner & Graham exceeded my expectations. Their attention to detail and strategic approach were instrumental in resolving our legal matter efficiently.\",\n        \"author\": \"Michael Thompson\",\n        \"location\": \"Chicago, IL\"\n    }\n]\n```"
+}

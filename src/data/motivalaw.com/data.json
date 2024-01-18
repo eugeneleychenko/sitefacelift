@@ -1,0 +1,35 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n    \"title\": \"Unmatched Experience\",\n    \"content\": \"Motiva Business Law is widely considered a top business law firm in Illinois and Florida. Our attorneys have decades of experience and a powerful reputation for aggressive advocacy in business law cases.\"\n},\n{\n    \"title\": \"Impressive Results\",\n    \"content\": \"The firm has secured numerous substantial deals and successful outcomes for clients, reflecting our commitment to achieving the best possible results. Our success stories often set precedents and influence the practice of business law.\"\n},\n{\n    \"title\": \"Innovative Strategies\",\n    \"content\": \"Motiva Business Law employs a strategic approach to each case, combining legal expertise with innovative thinking to overcome challenges and secure favorable results for our clients.\"\n}",
+  "address": "401 E Jackson Street, Suite 2340, Tampa, FL 33602",
+
+  "phoneNumber": "(813) 945-4517 (Florida)  \n(630) 517-5529 (Illinois)",
+  "email": "null",
+  "linkNames": [
+    "HOME",
+    "OUR FIRM",
+    "OUR TEAM",
+    "PRACTICE AREAS",
+    "PUBLICATIONS & SEMINARS",
+    "CONTACT",
+    "OFFICE"
+  ],
+  "companyName": "Motiva Business Law",
+  "subHeading": "We Help Business Owners Get Deals Done So They Can Focus Their Dreams",
+  "valueProp": "For over a decade, Attorney Danya Shakfeh and her team have provided trusted legal counsel and guidance to clients navigating business law matters in Illinois and Florida.",
+  "CTA": "SCHEDULE CONSULTATION",
+  "topics": [
+    "Business Acquisitions",
+    "Franchise Attorney",
+    "Contracts",
+    "Start-Ups and Business Law",
+    "Technology",
+    "Manufacturing",
+    "Restaurants",
+    "Hospitality",
+    "Professional Services"
+  ],
+  "members": "```json\n[\n  {\n    \"name\": \"Danya Shakfeh\",\n    \"position\": \"Founding Attorney\"\n  },\n  {\n    \"name\": \"Longmei Qiu\",\n    \"position\": \"Associate Attorney\"\n  },\n  {\n    \"name\": \"Alanna Turner\",\n    \"position\": \"Client Relations Manager\"\n  },\n  {\n    \"name\": \"Melissa Rodr\u00edguez\",\n    \"position\": \"Marketing Manager\"\n  }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Danya is goal focused, which I appreciate, she doesn\u2019t expect you to know the law, but she wants to know what your business means to you. At the end of the day, your business is worth being protected and respected in the field you are in.\",\n        \"author\": \"Judith L.\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Danya was a pleasure to work with. She was very professional, courteous, and had the expertise and knowledge to review our lease and franchise agreements. She gave great insight and recommendations on how we can protect ourselves and our business and to ensure the agreements were fair for both parties.\",\n        \"author\": \"Sadaf F.\",\n        \"location\": null\n    },\n    {\n        \"text\": \"I have used their services many times and have had an excellent experience every time! Danya has been a great resource for me and my business and is always timely and there to answer my questions. She is truly highly recommended!\",\n        \"author\": \"Dema A.\",\n        \"location\": null\n    }\n]\n```"
+}

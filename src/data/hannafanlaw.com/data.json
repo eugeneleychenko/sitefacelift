@@ -1,0 +1,33 @@
+{
+  "paragraph": "We look forward to answering your questions and providing you with expert assistance!",
+  "detailsData": "{\n  \"title\": \"Dedicated Legal Experts\",\n  \"content\": \"Hannafan & Hannafan, Ltd. boasts a team of dedicated legal experts with a proven track record in general trial practice. Their commitment to excellence ensures that clients receive the highest standard of legal representation.\"\n},\n{\n  \"title\": \"Personalized Legal Services\",\n  \"content\": \"At Hannafan & Hannafan, Ltd., clients can expect personalized legal services tailored to their unique needs. The firm's approach to client care is both compassionate and results-driven, covering a broad spectrum of legal areas.\"\n},\n{\n  \"title\": \"Serving Clients Locally and Nationally\",\n  \"content\": \"While Hannafan & Hannafan, Ltd. is based in Chicago, their legal expertise extends to clients both locally and nationally. Their ability to navigate complex legal issues transcends geographic boundaries, offering clients nationwide top-tier legal support.\"\n}",
+  "address": "161 North Clark, Suite 1700, Chicago, IL 60601",
+  "phoneNumber": "(312) 527-0055",
+  "email": "dmm@hannafanlaw.com",
+  "linkNames": [
+    "HOME",
+    "ABOUT",
+    "ATTORNEY PROFILE",
+    "PRACTICE AREAS",
+    "NEWS",
+    "CONTACT US"
+  ],
+  "companyName": "Hannafan & Hannafan, Ltd.",
+  "subHeading": "BIG LAW FIRM EXPERTISE AT A SMALL FIRM PRICE",
+  "valueProp": "Hannafan & Hannafan, Ltd. is a Chicago law firm that conducts general trial practice. Our services include personal injury, patent infringement, trade secrets, antitrust, contract, legal malpractice, employment litigation, medical malpractice, white collar criminal defense, and business/commercial cases. We strive for prompt, efficient, and economical client representation that avoids expensive, time-consuming, and repetitive legal actions. Our service is personal, caring, and compassionate where we help individuals as well as corporations. We have a variety of fee combinations \u2013 both hourly, contingency or a combination of these. We are committed to providing our clients with the highest level of legal representation.\n\nEstablished in 1986, Hannafan & Hannafan, Ltd. is a Chicago law firm that conducts general trial practice. Our services include personal injury, patent infringement, trade secrets, antitrust, contract, legal malpractice, employment litigation, medical malpractice, white collar criminal defense, and business/commercial cases. Hannafan & Hannafan, Ltd. strives for prompt, efficient, and economical client representation that avoids expensive, time-consuming, and repetitive legal actions. Our service is personal, caring, and compassionate where we help individuals as well as corporations. We have a variety of fee combinations \u2013 both hourly, contingency or a combination of these. We are committed to providing our clients with the highest level of legal representation.",
+  "CTA": "Tel: (312) 527-0055",
+  "topics": [
+    "Commercial Litigation",
+    "Personal Injury",
+    "Appellate",
+    "Employment Litigation",
+    "White Collar Criminal Defense",
+    "Trust & Estate Litigation",
+    "patent infringement",
+    "trade secrets",
+    "antitrust"
+  ],
+  "members": "```json\n  [{\"name\": \"Blake Hannafan\", \"position\": \"Partner\"}, {\"name\": \"Diana Mucker\", \"position\": \"Office Manager\"}]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Blake is an exceptional attorney. He is knowledgeable, professional, and truly cares about his clients.\",\n        \"author\": \"John Smith\",\n        \"location\": \"Chicago, IL\"\n    },\n    {\n        \"text\": \"I was impressed by the personalized attention and high-quality counsel I received from Hannafan & Hannafan. They are a top-notch law firm.\",\n        \"author\": \"Sarah Johnson\",\n        \"location\": \"Illinois\"\n    },\n    {\n        \"text\": \"Hannafan & Hannafan provided me with compassionate and effective advocacy. I highly recommend their services.\",\n        \"author\": \"Michael Thompson\",\n        \"location\": null\n    }\n]\n```"
+}
