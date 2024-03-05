@@ -1,0 +1,32 @@
+{
+    "paragraph": "null",
+    "detailsData": "{\n    \"title\": \"Personalized Approach\",\n    \"content\": \"Layton Law Firm focuses on individualized attention, ensuring that each client receives personalized service and care. This approach allows for a deeper understanding of the client's needs and concerns.\"\n  },\n  {\n    \"title\": \"Preventive Advice\",\n    \"content\": \"Layton Law Firm emphasizes preventive advice to address challenges before they escalate into legal disputes. By providing proactive guidance, the firm helps clients avoid costly litigation and minimize risks.\"\n  },\n  {\n    \"title\": \"Extensive Court Experience\",\n    \"content\": \"With a background in representing clients before various courts and agencies, Layton Law Firm brings a wealth of courtroom experience to effectively defend management interests in legal proceedings.\"\n  }",
+    "address": "111 North Market St., #300 San Jose CA 95113",
+    "phoneNumber": "408-892-9870",
+    "email": "null",
+    "linkNames": [
+        "HOME",
+        "OUR FIRM",
+        "OUR TEAM",
+        "PRACTICE AREAS",
+        "PUBLICATIONS & SEMINARS",
+        "CONTACT",
+        "OFFICE"
+    ],
+    "companyName": "Layton Law Firm",
+    "subHeading": "Business. People.",
+    "valueProp": "At Layton Law Firm, we practice Employment Law for Northern California's Bay Area businesses--making sure the human element remains integral to everything we do for you. The size of your business doesn't matter. What matters is the core: the individuals who make your business happen. We like working with people who enjoy their work and respect their employees. \n\nRona Layton discovered a passion for business and the law, specializing in serving small- to medium-sized businesses and nonprofit corporations for over 25 years. She represents clients in various legal matters affecting employers, from employee relations to wrongful termination. Ms. Layton is dedicated to protecting the interests of businesses while providing preventive advice to avoid litigation whenever possible.",
+    "CTA": "Contact",
+    "topics": [
+        "Employment Litigation",
+        "Discrimination and Harassment Defense",
+        "Pre-Termination & Layoff Consultation",
+        "Workplace Investigations",
+        "Nonprofits",
+        "Personnel Policies",
+        "Settlement and Severance Agreements"
+    ],
+    "members": "```json\n[\n  {\n    \"name\": \"Rona Layton\",\n    \"position\": \"Attorney\"\n  }\n]\n```",
+    "openHours": "null",
+    "testimonalData": "```json\n[\n    {\n        \"text\": \"Rona Layton discovered a passion for business and the law. She also tapped into the tremendous satisfaction that comes from working with people who love their jobs.\",\n        \"author\": \"Rona Layton\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Ms. Layton represents clients before the State and Federal Courts, the State Labor Commissioner, Department of Fair Employment and Housing, Equal Employment Opportunity Commission, Workers Compensation Appeals Board, and the California Unemployment Insurance Appeals Board.\",\n        \"author\": \"Rona Layton\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Ms. Layton frequently presents employment seminars before various organizations around the Bay Area.\",\n        \"author\": \"Rona Layton\",\n        \"location\": null\n    }\n]\n```"
+}

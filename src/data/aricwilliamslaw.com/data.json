@@ -1,0 +1,26 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n    \"title\": \"Client Oriented Approach\",\n    \"content\": \"Let us handle the complex legal aspects of your case so that you have more time to focus on what is more important to you.\"\n  },\n  {\n    \"title\": \"Community Oriented\",\n    \"content\": \"At Aric N. Williams, we advocate for our clients in Los Angeles and beyond, ensuring their legal needs are met with the highest level of dedication and expertise.\"\n  },\n  {\n    \"title\": \"Experience Matters\",\n    \"content\": \"With licenses in multiple states and a wealth of experience in corporate law and various other sectors, we bring a seasoned perspective to every case.\"\n  }",
+  "address": "5601 Powerline Road (NW 9th Ave), Suite 401, Fort Lauderdale, FL 33309",
+  "phoneNumber": "310-909-8979",
+  "email": "null",
+  "linkNames": ["ABOUT US", "SERVICES", "BLOG", "CONTACT"],
+  "companyName": "Aric N. Williams",
+  "subHeading": "Experienced Business Attorneys in San Diego",
+  "valueProp": "Aric N. Williams is a highly seasoned, Los Angeles-based corporate attorney. He possesses licenses in many states, including Miami, Florida, and Washington, D.C., allowing him to serve clients in numerous locales. He focuses in corporate law, private equity law, healthcare law, mergers and acquisitions law, and technology law, and has a diverse clientele that includes startups, Fortune 500 companies, and multinational enterprises. Mr. Williams has garnered a plethora of legal experience in multiple areas, including software, government contracts, medical device, biotechnology, consumer products, and healthcare to offer his clients. Mr. Williams also has experience managing important issues such as founder issuances, equity compensation, convertible debt, venture capital funding, and has effectively steered private technology businesses from formation to exit. He has also represented private equity, venture capital, and sovereign wealth funds in private finance and capital transactions, such as mergers, acquisitions, public issues, securities transactions, and angel funding.",
+  "CTA": "Contact Us",
+  "topics": [
+    "Mergers & Acquisitions",
+    "Private Equity",
+    "Copyright Counseling",
+    "Trade Secrets Counseling",
+    "Technology",
+    "Entertainment",
+    "Qualified Opportunity Zones",
+    "Green Construction",
+    "Personal Injury"
+  ],
+  "members": "```json\n  [{\"name\": \"Aric N. Williams, Esq.\", \"position\": \"Corporate Attorney\"}]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Aric Williams is a highly seasoned, Los Angeles-based corporate attorney. He possesses licenses in many states, including Miami, Florida, and Washington, D.C., allowing him to serve clients in numerous locales.\",\n        \"author\": \"Aric N. Williams\",\n        \"location\": null\n    },\n    {\n        \"text\": \"He focuses in corporate law, private equity law, healthcare law, mergers and acquisitions law, and technology law, and has a diverse clientele that includes startups, Fortune 500 companies, and multinational enterprises.\",\n        \"author\": \"Aric N. Williams\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Mr. Williams has garnered a plethora of legal experience in multiple areas, including software, government contracts, medical device, biotechnology, consumer products, and healthcare to offer his clients.\",\n        \"author\": \"Aric N. Williams\",\n        \"location\": null\n    }\n]\n```"
+}

@@ -1,0 +1,29 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n    \"title\": \"Expert Tax Counsel\",\n    \"content\": \"Attorney Linda MacKay has an LL.M. in Taxation, providing nuanced tax strategy and expert counsel on tax matters, ensuring proper tax reporting and minimizing future tax liability for clients.\"\n  },\n  {\n    \"title\": \"Personalized Estate Plans\",\n    \"content\": \"The firm emphasizes crafting personalized estate plans tailored to each client's life and goals, providing peace of mind and clarity for loved ones, with a focus on smart tax strategy.\"\n  },\n  {\n    \"title\": \"Combination of Estate Planning and Tax Knowledge\",\n    \"content\": \"The firm's strong base of tax knowledge combined with extensive estate planning experience ensures that clients' assets are protected and their families are secure for the future.\"\n  }",
+  "address": "1361 S. Winchester Blvd. #210, San Jose, CA 95128",
+  "phoneNumber": "+1-408-379-9600",
+  "email": "admin@ljmlegal.com",
+  "linkNames": [
+    "HOME",
+    "OUR FIRM",
+    "OUR TEAM",
+    "PRACTICE AREAS",
+    "PUBLICATIONS & SEMINARS",
+    "CONTACT",
+    "OFFICE"
+  ],
+  "companyName": "LAW OFFICE OF LINDA J. MACKAY",
+  "subHeading": "Estate and Tax Planning Services",
+  "valueProp": "Linda MacKay is the founder of the Law Office of Linda J. MacKay in San Jose, California. Linda is a graduate of Santa Clara University School of Law and also holds an LL.M. in Taxation from Golden Gate University, and has been practicing estate planning and tax law in Santa Clara County since 1997. Ms. MacKay provides expert counsel on tax matters, as well as impeccable tax return preparation. With years of experience in the field of tax, she is able to analyze your personal profile, tailor her advice to suit your specific needs and ensure the proper tax reporting for you, minimizing your future tax liability. With an extensive background in Estate Planning, Ms. MacKay has particular expertise in filing Trust & Estate returns.",
+  "CTA": "Schedule a free initial consultation at our San Jose office.",
+  "topics": [
+    "Estate Planning",
+    "Wills, trusts and essential tools to build your legacy",
+    "Estate Plan Taxation",
+    "Nuanced tax strategy"
+  ],
+  "members": "```json\n[\n  {\n    \"name\": \"Linda MacKay\",\n    \"position\": \"Founder\"\n  }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Linda MacKay provided expert counsel on tax matters and impeccable tax return preparation. She tailored her advice to suit my specific needs and ensured proper tax reporting, minimizing my future tax liability.\",\n        \"author\": \"Client Testimonial\",\n        \"location\": \"San Jose, CA\"\n    },\n    {\n        \"text\": \"I had the peace of mind of knowing that my family and I are ready for whatever the future may bring after working with Linda MacKay to create our estate plan. Her personalized approach and tax knowledge were invaluable.\",\n        \"author\": \"Client Testimonial\",\n        \"location\": \"Santa Clara County, CA\"\n    },\n    {\n        \"text\": \"Linda MacKay's estate planning services were exceptional. She helped us build a legacy through wills, trusts, and essential tools, ensuring our wishes are clear and our family is protected. Her nuanced tax strategy was a game-changer.\",\n        \"author\": \"Client Testimonial\",\n        \"location\": \"San Jose Bay Area\"\n    }\n]\n```"
+}

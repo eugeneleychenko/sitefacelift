@@ -1,0 +1,34 @@
+{
+  "paragraph": "Call or text the contact number for a consultation.",
+  "detailsData": "{\n    \"title\": \"Decades of Experience\",\n    \"content\": \"The attorneys at Venardi Zurada have over 35 years of experience serving Northern California. Their extensive tenure in the legal field showcases their deep knowledge and expertise in handling a wide range of cases.\"\n  },\n  {\n    \"title\": \"Big Firm Experience, Boutique Attention\",\n    \"content\": \"The attorneys at Venardi Zurada combine big firm experience with boutique office attention. This unique approach allows them to provide individualized and attentive representation to each client, ensuring personalized service and care.\"\n  },\n  {\n    \"title\": \"Respected by Opposing Counsel\",\n    \"content\": \"Venardi Zurada is respected by opposing counsel, feared by insurance companies, and followed by jurors. Their reputation in the legal community demonstrates their ability to effectively advocate for their clients and achieve successful outcomes.\"\n  }",
+  "address": "1418 Lakeside Drive, Oakland, CA 94612",
+  "phoneNumber": "(833) VZ FOR ME",
+  "email": "null",
+  "linkNames": [
+    "HOME",
+    "OUR FIRM",
+    "OUR TEAM",
+    "PRACTICE AREAS",
+    "PUBLICATIONS & SEMINARS",
+    "CONTACT",
+    "OFFICE"
+  ],
+  "companyName": "Venardi Zurada",
+  "subHeading": "Oakland Personal Injury Lawyers",
+  "valueProp": "If you have a personal injury or employment law dispute in Oakland, California, you can rely on the litigation attorneys at Venardi Zurada. We pride ourselves on providing excellent, dedicated, and personalized service to our clients. We care personally about the well-being of our clients, and we offer more than just outstanding legal representation: We offer advice, counsel, and personal service to our clients. We help injured clients get the medical care they need, and we offer advice to wronged employees to help them through times of crisis.",
+  "CTA": "Schedule a Free Consultation",
+  "topics": [
+    "Accidents",
+    "Animal & Dog Bites",
+    "ATV Accidents",
+    "Bicycle Accidents",
+    "Boat Accidents",
+    "Burn Injuries",
+    "Car Accidents",
+    "Construction Accidents",
+    "Drowning"
+  ],
+  "members": "```json\n[\n  {\n    \"name\": \"Mark Venardi\",\n    \"position\": \"Partner\"\n  },\n  {\n    \"name\": \"Martin Zurada\",\n    \"position\": \"Partner\"\n  },\n  {\n    \"name\": \"Terry Buller\",\n    \"position\": \"Of Counsel\"\n  },\n  {\n    \"name\": \"Mark Freeman\",\n    \"position\": \"Senior Trial Attorney\"\n  }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"I am so grateful for everything that my lawyer, Terry Buller, and paralegal Christina Souza did to settle my personal injury case after I was hit by a car in a crosswalk.\",\n        \"author\": \"Daryl G.\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Professional and showed great empathy in an otherwise horrible situation. Definitely recommend!\",\n        \"author\": \"Adrian R.\",\n        \"location\": null\n    },\n    {\n        \"text\": \"If you are looking for a law firm that genuinely cares about you, the client - look no further! The staff at Venardi Zurada take the time to listen, empathize, and rely on their years of experience to navigate a path forward.\",\n        \"author\": \"Lex N.\",\n        \"location\": null\n    }\n]\n```"
+}

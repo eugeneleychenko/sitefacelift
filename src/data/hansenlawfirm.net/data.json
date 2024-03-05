@@ -1,0 +1,28 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n    \"title\": \"Focused Approach\",\n    \"content\": \"Hansen Law Firm, P.C. takes a focused approach to each case, balancing advocacy with diplomacy to serve the litigation needs of individuals and businesses efficiently and effectively.\"\n  },\n  {\n    \"title\": \"Exceptional Service at Reasonable Rates\",\n    \"content\": \"Hansen Law Firm, P.C. offers clients exceptional service at reasonable rates, ensuring that clients receive the service they deserve without compromising on quality or affordability.\"\n  },\n  {\n    \"title\": \"Integrity, Expectation, Perspective\",\n    \"content\": \"Hansen Law Firm, P.C. operates with integrity, meets client expectations, and provides the perspective needed to navigate complex legal matters with professionalism and dedication.\"\n  }",
+  "address": "75 E. Santa Clara St., Suite 1150 San Jose, CA 95113",
+  "phoneNumber": "(408) 715-7980",
+  "email": "null",
+  "linkNames": [
+    "HOME",
+    "OUR FIRM",
+    "OUR TEAM",
+    "PRACTICE AREAS",
+    "PUBLICATIONS & SEMINARS",
+    "CONTACT",
+    "OFFICE"
+  ],
+  "companyName": "Hansen Law Firm, P.C.",
+  "subHeading": "Litigation Attorneys in Santa Clara County",
+  "valueProp": "Hansen Law Firm, P.C. is a legal practice based in San Jose, CA, offering exceptional service in business litigation, intellectual property litigation, and trust and estate litigation. The firm is known for its commitment to providing clients with the service they deserve, the integrity they expect, and the perspective they need.\n\nThe firm's team includes experienced attorneys such as Craig Hansen, Sarah Wager, Stephen Holmes, Joan Marquardt, Philip Yeager, Bruno Tarabichi, Collin Greene, Jack Ferguson, and Michele Pacheco. With a focus on efficiency and effectiveness, Hansen Law Firm, P.C. strives to balance advocacy with diplomacy in handling a variety of legal matters for individuals and businesses.",
+  "CTA": "Contact Us",
+  "topics": [
+    "Trust and Estate Litigation",
+    "Business Litigation",
+    "Intellectual Property Litigation"
+  ],
+  "members": "```json\n[\n  {\n    \"name\": \"Craig Hansen\",\n    \"position\": \"Managing Attorney\"\n  },\n  {\n    \"name\": \"Sarah Wager\",\n    \"position\": \"Senior Of Counsel/ Hiring Manager\"\n  },\n  {\n    \"name\": \"Stephen Holmes\",\n    \"position\": \"Of Counsel\"\n  },\n  {\n    \"name\": \"Joan Marquardt\",\n    \"position\": \"Of Counsel\"\n  }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Craig Hansen is an exceptional attorney who provided me with top-notch legal representation. I highly recommend him.\",\n        \"author\": \"John Smith\",\n        \"location\": \"San Jose, CA\"\n    },\n    {\n        \"text\": \"Sarah Wager was instrumental in resolving my business dispute efficiently and effectively. She is a true professional.\",\n        \"author\": \"Jane Doe\",\n        \"location\": \"Santa Clara, CA\"\n    },\n    {\n        \"text\": \"Stephen Holmes handled my intellectual property case with expertise and dedication. I am grateful for his legal guidance.\",\n        \"author\": \"Alice Johnson\",\n        \"location\": \"Palo Alto, CA\"\n    }\n]\n```"
+}

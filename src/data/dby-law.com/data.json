@@ -1,0 +1,34 @@
+{
+  "paragraph": "Call or text the contact number for a consultation",
+  "detailsData": "{\n    \"title\": \"Extensive Trial Experience\",\n    \"content\": \"Davis, Bengtson & Young attorneys have over 200 years of combined experience in litigation and mediation. This wealth of experience ensures that clients receive top-notch representation at all stages of their case.\"\n  },\n  {\n    \"title\": \"Public Entity Defense Expertise\",\n    \"content\": \"The firm has a strong background in defending government and public entities in various claims and lawsuits. Their knowledge of the Government Tort Claims Act and litigation skills make them well-equipped to handle public entity defense cases effectively.\"\n  },\n  {\n    \"title\": \"Specialized Mediation Services\",\n    \"content\": \"Davis, Bengtson & Young offers extensive mediation services, providing clients with alternative dispute resolution options. Their attorneys have served as mediators and arbitrators, helping parties reach amicable resolutions outside of court.\"\n  }",
+  "address": "1960 The Alameda, Suite 210, San Jose, CA 95126",
+  "phoneNumber": "(669) 245-4200",
+  "email": "dmyers@dby-law.com",
+  "linkNames": [
+    "HOME",
+    "OUR FIRM",
+    "OUR TEAM",
+    "PRACTICE AREAS",
+    "PUBLICATIONS & SEMINARS",
+    "CONTACT",
+    "OFFICE"
+  ],
+  "companyName": "Davis, Bengtson & Young",
+  "subHeading": "A respected full service civil litigation law firm based in San Jose, CA",
+  "valueProp": "Davis, Bengtson & Young is a respected full service civil litigation law firm based in San Jose, CA. Based in San Jose, California, Davis, Bengtson & Young has over 200 years of combined experience in litigation and mediation. Our attorneys are recognized by the legal community for resolving disputes successfully while maintaining high professional standards. The firm's client-centered approach ensures that your case is handled with diligence and responsiveness at all stages. Davis, Bengtson & Young handles a broad range of legal matters, from employment disputes and public entity defense to catastrophic personal injury and wrongful death. \n\nDavis, Bengtson & Young brings over 200 years of experience to a wide range of cases, from personal injury, to business and employment law. In addition to successfully handling litigation in all stages, our firm also provides extensive mediation services. To learn about our different areas of practice, please click on any of the following links.",
+  "CTA": "Learn more about our practice areas",
+  "topics": [
+    "Public Entity Defense",
+    "Employment",
+    "Construction Litigation",
+    "Legal Malpractice Defense",
+    "Personal Injury",
+    "Business Litigation",
+    "Appellate Work",
+    "Mediation",
+    "Construction Litigation"
+  ],
+  "members": "```json\n[\n  {\n    \"name\": \"Mark Davis\",\n    \"position\": \"Founding Partner\"\n  },\n  {\n    \"name\": \"Philip Young\",\n    \"position\": \"Partner\"\n  },\n  {\n    \"name\": \"Eric Bengtson\",\n    \"position\": \"Partner\"\n  },\n  {\n    \"name\": \"Adam Davis\",\n    \"position\": \"Partner\"\n  }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Among the most professional, ethical and well-prepared attorneys that I have ever observed in the courtroom.\",\n        \"author\": \"A Santa Clara County Superior Court Judge\",\n        \"location\": null\n    },\n    {\n        \"text\": \"With over 80 years of combined experience in trial management, mediation and arbitration, our attorneys and staff are well equipped to represent clients at any stage of litigation or alternative dispute resolution.\",\n        \"author\": \"Mark Davis\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Mark is my go to lawyer. He has been there for me and so many of my teammates over the years.\",\n        \"author\": \"Dwight Gooden\",\n        \"location\": null\n    }\n]\n```"
+}

@@ -1,0 +1,34 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n        \"title\": \"Trial Ready\",\n        \"content\": \"Prepared for the courtroom battle, we approach every case ready for litigation. A seasoned trial law firm ensures your case is vigorously represented before the law when their last offer is inadequate.\"\n    },\n    {\n        \"title\": \"Unwavering\",\n        \"content\": \"In the face of adversity, our commitment remains unwavering. We tirelessly champion your cause, standing firm against powerful entities and insurance companies. Your fight becomes our fight.\"\n    },\n    {\n        \"title\": \"Clear Communication\",\n        \"content\": \"It's important to hire a firm that is not only able to speak with you as the client properly, but also to a wide-range of professionals throughout your case, from doctors to insurance adjusters to judges. We know how to craft your message while upholding Attorney-Client confidentiality.\"\n    }",
+  "address": "700 S. Rosemary Ave. #204, West Palm Beach, FL 33401",
+  "phoneNumber": "(561) 486-4004",
+  "email": "[email protected]",
+  "linkNames": [
+    "HOME",
+    "OUR FIRM",
+    "OUR TEAM",
+    "PRACTICE AREAS",
+    "PUBLICATIONS & SEMINARS",
+    "CONTACT",
+    "OFFICE"
+  ],
+  "companyName": "Dermer Law Firm",
+  "subHeading": "Clients. Not Cases.",
+  "valueProp": "Dermer Law Firm is a dedicated and seasoned attorney with nearly a decade of fiercely advocating for his clients' rights. His legal journey began as a public defender, representing individuals without the means to hire legal representation. Later, as a prosecutor for Palm Beach County, he tirelessly fought to safeguard our community. Mr. Dermer is a one-of-a-kind trial attorney in his style and creativity who has over 50 jury trials to date. Mr. Dermer's diverse legal background uniquely positions him as a highly qualified personal injury attorney who doesn't shy away from pursuing justice or taking opposing counsel to trial. He further refined his skills at a Miami-based, over 60-year-old personal injury law firm, where he served as the Managing Partner for Broward County before establishing Dermer Law Firm. It was during his tenure in this role that Mr. Dermer identified gaps in the personal injury sector, prompting him to establish Dermer Law Firm. His belief is that clients deserve honest, respectful, empowering, and dedicated counsel during their most vulnerable moments. On a more personal note, Jay is a Miami Beach native and a third-generation South Florida lawyer. His upbringing, steeped in the legal profession, gives him a deep understanding of what it means to truly counsel clients. When he's not passionately advocating for his clients, you'll find him spending quality time with his family, reading a good book, or pursuing his love of fly fishing.",
+  "CTA": "Schedule a Free Consultation",
+  "topics": [
+    "Car Accidents",
+    "Negligence",
+    "Trip & Falls",
+    "Store Accidents",
+    "Wrongful Death",
+    "Slip & Falls",
+    "Boating Accidents",
+    "Motorcycle Accidents",
+    "Truck Accidents"
+  ],
+  "members": "```json\n[\n  {\n    \"name\": \"Jay J. Dermer\",\n    \"position\": \"Founder & Chief Counsel\"\n  },\n  {\n    \"name\": \"Jenifer Alberto\",\n    \"position\": \"Director & Paralegal\"\n  },\n  {\n    \"name\": \"Anna Lisa\",\n    \"position\": \"Litigation Paralegal\"\n  }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Each case presents it's own unique facts and circumstances.\",\n        \"author\": \"Results by Jay J. Dermer, Esq.\",\n        \"location\": null\n    },\n    {\n        \"text\": \"$650,000\",\n        \"author\": \"Department Store Accident\",\n        \"location\": null\n    },\n    {\n        \"text\": \"$255,000\",\n        \"author\": \"Car Accident\",\n        \"location\": null\n    }\n]\n```"
+}

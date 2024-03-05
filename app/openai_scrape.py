@@ -1,13 +1,8 @@
 from langchain.document_loaders import TextLoader
-from langchain.chat_models import ChatOpenAI
-# from langchain.schema import StrOutputParser
-from langchain.prompts import ChatPromptTemplate
-from langchain.prompts import HumanMessagePromptTemplate
-from langchain.schema.messages import SystemMessage
 from dotenv import load_dotenv
 import html2text
 import requests
-import openai
+from openai import OpenAI
 import csv
 import json
 import os
@@ -70,8 +65,9 @@ def ask_questions_to_website(urls):
 
     # Initialize the QAGenerationChain
     # model = ChatOpenAI(temperature=0, model="gpt-4-1106-preview")
-    model = ChatOpenAI(temperature=0, model="gpt-3.5-turbo-0125")
-    # model=AzureChatOpenAI(temperature=0, deployment_name=os.getenv("OPENAI_DEPLOYMENT_NAME"), openai_api_version="2023-05-15" )
+    client = OpenAI()
+    
+    
    
     # Define the questions
     questionsArr = [
@@ -133,18 +129,34 @@ def ask_questions_to_website(urls):
     # Run the chain for each question and print the results
     results = []
     for i, question in enumerate(questions):
-        chat_template = ChatPromptTemplate.from_messages(
-            [
-                SystemMessage(content=all_page_content),
-                HumanMessagePromptTemplate.from_template("""Only respond with the answer. No full sentences.
-                                                         If it doesn't exists, return null. Not the string null, but the value null. 
-                                                         
-                                                          {text}"""),
-            ]
+        # Create the messages for the chat completion
+        messages = [
+            {"role": "system", "content": all_page_content},
+            {"role": "user", "content": f"Only respond with json with the answer. No full sentences. If it doesn't exist, return null. Not the string null, but the value null. {question}"}
+        ]
+        
+        # Get the completion from the OpenAI chat model
+        completion = client.chat.completions.create(
+            model="gpt-3.5-turbo",
+            messages=messages,
+            temperature=0,
+            response_format={"type": "json_object"}
         )
-        qa = model(chat_template.format_messages(text=question))
-        results.append((question, qa.content, questionsArr[i]))
-        print(f"Question: {question}\nAnswer: {qa.content}\n")
+        
+        # Extract the content from the completion
+        # Assuming the last message is the response from the model
+        answer_content = json.loads(completion.choices[0].message.content) if completion.choices else None
+        
+        # Append the result as a JSON object
+        results.append({
+            "question": question,
+            "answer": answer_content,
+            "questionArr": questionsArr[i]
+        })
+
+    # Print the results
+    for result in results:
+        print(f"Question: {result['question']}\nAnswer: {result['answer']}\n")
         
     # Create a CSV file with the questions and answers
     with open('qa_results.csv', 'w', newline='', encoding='utf-8') as csvfile:

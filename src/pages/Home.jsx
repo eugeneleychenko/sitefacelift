@@ -59,18 +59,20 @@ function Home({ match }) {
   //Appointment.jsx
   const paragraph = data.paragraph;
   //Details.jsx
-  const detailsDataString = "[" + data.detailsData + "]";
-
-  // Parse the string into an array of objects
   let detailsData;
 
-  try {
-    detailsData = JSON.parse(detailsDataString);
-  } catch (error) {
-    console.error("Parsing error in detailsData", error);
-    detailsData = []; // or set a default value
-  }
+  if (Array.isArray(data.detailsData)) {
+    detailsData = data.detailsData;
+  } else if (typeof data.detailsData === "string") {
+    const detailsDataString = "[" + data.detailsData + "]";
 
+    try {
+      detailsData = JSON.parse(detailsDataString);
+    } catch (error) {
+      console.error("Parsing error in detailsData", error);
+      detailsData = []; // or set a default value
+    }
+  }
   //Footer.js
   const address = data.address;
   const phoneNumber = data.phoneNumber;
@@ -104,19 +106,24 @@ function Home({ match }) {
   console.log("members cleaned", members);
   //Nav.jsx
   const openHours = data.openHours;
-  const cleanedTestimonalData = data.testimonalData
-    ? data.testimonalData.replace(/```json\n|\n```/g, "")
-    : null;
 
-  // Parse the cleaned string into an array of objects if it's not null
+  //Testimonial.jsx
   let testimonalData;
-  try {
-    testimonalData = cleanedTestimonalData
-      ? JSON.parse(cleanedTestimonalData)
-      : null;
-  } catch (error) {
-    console.error("Parsing error in testimonalData", error);
-    testimonalData = []; // or set a default value
+  if (typeof data.testimonalData === "string") {
+    const cleanedTestimonalData = data.testimonalData.replace(
+      /```json\n|\n```/g,
+      ""
+    );
+    try {
+      testimonalData = JSON.parse(cleanedTestimonalData);
+    } catch (error) {
+      console.error("Parsing error in testimonalData", error);
+      testimonalData = []; // or set a default value
+    }
+  } else if (Array.isArray(data.testimonalData)) {
+    testimonalData = data.testimonalData;
+  } else {
+    testimonalData = null; // or set a default value if necessary
   }
   // const testimonalData = data.testimonalData;
   //Lists.js

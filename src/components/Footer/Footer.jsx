@@ -3,13 +3,10 @@ import styles from "./Footer.module.css";
 import logo from "../../assets/new-logo-gold.png";
 import { BiLogoFacebook, BiLogoTwitter, BiLogoLinkedin } from "react-icons/bi";
 import { Link } from "react-router-dom";
-import { AppContext } from '../../context/AppContext';
-
-
+import { AppContext } from "../../context/AppContext";
 
 function Footer() {
-
-  const {address, phoneNumber, email} = useContext(AppContext);
+  const { address, phoneNumber, email } = useContext(AppContext);
   return (
     <footer className={styles.footer}>
       <div>
@@ -58,18 +55,19 @@ function Footer() {
             href="https://www.google.com/maps/place/35+Ridge+St,+New+York,+NY+10002,+USA/@40.7165617,-73.9867446,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25980135e5fff:0x1200dbe5ac7a800!8m2!3d40.7165577!4d-73.9845559?_ga=2.94611102.304902709.1697972977-111006533.1697636651"
             target="_blank"
           >
-            {address}
+            {address && address !== "null" && address}
           </a>
         </p>
 
         <p>
-          <a href={`tel:${phoneNumber}`}>{phoneNumber}</a>
+          {phoneNumber && phoneNumber !== "null" && (
+            <a href={`tel:${phoneNumber}`}>{phoneNumber}</a>
+          )}
         </p>
         <p>
-          {email && email !== "null" && (
+          {email && ![email, "null"].includes(email.toLowerCase()) && (
             <a href={`mailto:${email}`}>{email}</a>
           )}
-          
         </p>
       </div>
       <div>
@@ -95,10 +93,7 @@ function Footer() {
           </a>
         </p>
         <p>
-          <a
-            class="qodef--underline-link"
-            href="/"
-          >
+          <a class="qodef--underline-link" href="/">
             How Do I Choose a Lawyer?
           </a>
         </p>

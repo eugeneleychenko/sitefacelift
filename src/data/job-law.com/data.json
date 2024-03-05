@@ -1,0 +1,34 @@
+{
+  "paragraph": "\"Schedule a free and discreet consultation with an attorney today.\"",
+  "detailsData": "{\n  \"title\": \"Leadership in the Legal Industry\",\n  \"content\": \"Our attorneys have served and are currently serving as Chairs for the OC Bar Association Labor & Employment Section. This leadership sets us apart as industry leaders, not just members of it.\"\n},\n{\n  \"title\": \"Exclusive Representation of Employees\",\n  \"content\": \"We are Orange County's largest law firm exclusively representing employees. Founding Partner Don Sessions started only representing employees in 1985, decades before other Orange County attorneys did.\"\n},\n{\n  \"title\": \"Trust and Collaboration\",\n  \"content\": \"Clients receive the expertise of our entire firm because we approach our cases collaboratively. Other attorneys in the industry refer their friends and family members to us because we can deliver results.\"\n}",
+  "address": "23456 Madero, Suite 170, Mission Viejo, CA 92691",
+  "phoneNumber": "(949) 380-0900",
+  "email": "info@job-law.com",
+  "linkNames": [
+    "HOME",
+    "ABOUT",
+    "ATTORNEYS",
+    "PRACTICE AREAS",
+    "SERVING",
+    "RESULTS",
+    "CONTACT"
+  ],
+  "companyName": "Sessions & Kimball LLP",
+  "subHeading": "Orange County Employment Lawyers",
+  "valueProp": "Sessions & Kimball is Orange County\u2019s oldest and largest employee rights law firm. We have been practicing employee rights since 1985 and have grown significantly along the way. We only represent employees in wrongful employment practices. That is the only type of case we handle! So whether your dispute involves discrimination, harassment, retaliation, unpaid wages, wrongful termination, or any other workplace wrong, we have the experience and resources to effectively and aggressively represent you. We are Southern California\u2019s premier law firm exclusively devoted to employee rights. Speak with one of our attorneys today to learn your rights and how we can help you. Contact us today for a free consultation.",
+  "CTA": "Schedule a free and discreet consultation with an attorney today.",
+  "topics": [
+    "Employment Law",
+    "Age Discrimination",
+    "COVID-19 Employee Rights",
+    "Discrimination",
+    "Disability Harassment",
+    "Executive Representation",
+    "Gender & Orientation Discrimination",
+    "Harassment",
+    "Independent Contractor Misclassification"
+  ],
+  "members": "```json\n[\n  {\n    \"name\": \"Don D. Sessions\",\n    \"position\": \"Founding and Managing Partner\"\n  },\n  {\n    \"name\": \"Stephen C. Kimball\",\n    \"position\": \"Founding Partner\"\n  },\n  {\n    \"name\": \"Heidi L. De Groot\",\n    \"position\": \"Partner\"\n  },\n  {\n    \"name\": \"Samuel P. Nielson\",\n    \"position\": \"Partner\"\n  }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"If it was not for Mr. Sessions, I would not have received my compensation. Everyone was very professional and courteous.\",\n        \"author\": \"Carol M.\",\n        \"location\": null\n    },\n    {\n        \"text\": \"The most valuable service was the initial relief of turning over the entire mess to a competent attorney. It allowed me to move on. You continued far past the place I would have stopped. Tenacity.\",\n        \"author\": \"Lynda G.\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Don Sessions is an extraordinary employment lawyer. He was professional. Handled my own case with a sense of urgency. Kept in contact and handled my criticism well. Timely, efficient. Everyone helped.\",\n        \"author\": \"Deb F.\",\n        \"location\": null\n    }\n]\n```"
+}

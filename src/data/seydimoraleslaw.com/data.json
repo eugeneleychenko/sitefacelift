@@ -1,0 +1,42 @@
+{
+  "paragraph": "Call or text the contact number for a consultation.",
+  "detailsData": "{\n    \"title\": \"100+ Sustained Clients\",\n    \"content\": \"The firm has retained every client they have worked with over the years, creating a loyal clientele. This showcases their ability to provide reliable solutions consistently.\"\n  },\n  {\n    \"title\": \"75+ Favorable Judgements\",\n    \"content\": \"The firm has achieved over 75 favorable judgments, demonstrating their commitment to taking on cases they specialize in and delivering successful results.\"\n  },\n  {\n    \"title\": \"Only Industry Professionals\",\n    \"content\": \"The firm comprises a small team of 3 legal professionals, ensuring efficiency and a focus on excellence. They only undertake cases they specialize in, maintaining a high level of expertise.\"\n  }",
+  "address": "21045 Erwin St, Woodland Hills, CA 91367, United States",
+  "phoneNumber": "(818)293-1970",
+  "email": "info@seydimoraleslaw.com",
+  "linkNames": [
+    "HOME",
+    "OUR FIRM",
+    "OUR TEAM",
+    "PRACTICE AREAS",
+    "PUBLICATIONS & SEMINARS",
+    "CONTACT",
+    "OFFICE"
+  ],
+  "companyName": "Law Office of Seydi A. Morales",
+  "subHeading": "Let us fight for you",
+  "valueProp": "The Law Office of Seydi A. Morales delivers top-tier legal assistance in Los Angeles, specializing in employment, workers compensation, and personal injury cases. With a commitment to transparency and client comfort, the team ensures no hidden fees and optimal outcomes for each case.\n\nSeydi A. Morales founded the boutique law firm in 2019 with a small team of experienced legal professionals. Specializing in employment, workers' compensation, and personal injury law, the firm prioritizes client relationships and cost-efficient solutions. With over 70 years of collective experience, the team at the Law Office of Seydi A. Morales is dedicated to providing high-quality legal services.",
+  "CTA": "Book Free Consultation",
+  "topics": [
+    "Workers Compensation",
+    "Employment Lawyer",
+    "Personal Injury Lawyer",
+    "Business Law Matters"
+  ],
+  "members": [
+    {
+      "name": "SEYDI A. MORALES, ESQ.",
+      "position": "Attorney"
+    },
+    {
+      "name": "SEYDI E. TOLEDO",
+      "position": "Hearing Representative"
+    },
+    {
+      "name": "HERBERT ARRIOLA",
+      "position": "Legal Assistant"
+    }
+  ],
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"She was not only professional and knowledgeable but also compassionate and understanding of my situation. I am grateful for her dedication and highly recommend her services to anyone in need of legal guidance.\",\n        \"author\": \"Kushal Biswas\",\n        \"location\": \"2024-01-09\"\n    },\n    {\n        \"text\": \"What truly sets Seydi apart is her unwavering commitment to her clients. She was responsive, accessible, and always willing to address my questions and provide updates on the progress of my case. This level of communication and transparency was invaluable, as it allowed me to stay informed and engaged in the process.\",\n        \"author\": \"Layal Arikat\",\n        \"location\": \"2023-10-16\"\n    },\n    {\n        \"text\": \"Attorney Seydi Morales was great! She help us with all of our medical and made sure we got a substantial settlement. We highly recommend her. Thanyarat & Victor Taylor\",\n        \"author\": \"Victor Taylor\",\n        \"location\": \"2023-07-31\"\n    }\n]\n```"
+}

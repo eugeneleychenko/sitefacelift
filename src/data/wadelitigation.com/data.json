@@ -1,0 +1,34 @@
+{
+    "paragraph": "null",
+    "detailsData": "{\n    \"title\": \"Specialized Expertise in Technology Law\",\n    \"content\": \"This firm has a dedicated team with specialized expertise in technology law, allowing them to navigate complex legal issues in the tech industry effectively.\"\n  },\n  {\n    \"title\": \"Strong Track Record of Successful IP Litigation\",\n    \"content\": \"With a proven track record of successful intellectual property litigation cases, this firm demonstrates their ability to protect and defend their clients' intellectual property rights.\"\n  },\n  {\n    \"title\": \"Client-Centered Approach\",\n    \"content\": \"Putting clients first, this firm adopts a client-centered approach to legal representation, ensuring that the needs and goals of the clients are always the top priority.\"\n  }",
+    "address": "null",
+    "phoneNumber": "null",
+    "email": "null",
+    "linkNames": [
+        "HOME",
+        "OUR FIRM",
+        "OUR TEAM",
+        "PRACTICE AREAS",
+        "PUBLICATIONS & SEMINARS",
+        "CONTACT",
+        "OFFICE"
+    ],
+    "companyName": "null",
+    "subHeading": "null",
+    "valueProp": "null",
+    "CTA": "null",
+    "topics": [
+        "Corporate Law",
+        "Intellectual Property Law",
+        "Employment Law",
+        "Real Estate Law",
+        "Litigation Law",
+        "Banking and Finance Law",
+        "Environmental Law",
+        "Tax Law",
+        "Immigration Law"
+    ],
+    "members": "```json\n[\n  {\n    \"name\": \"John Doe\",\n    \"position\": \"Attorney\"\n  },\n  {\n    \"name\": \"Jane Smith\",\n    \"position\": \"Associate\"\n  },\n  {\n    \"name\": \"Michael Johnson\",\n    \"position\": \"Partner\"\n  },\n  {\n    \"name\": \"Emily Davis\",\n    \"position\": \"Senior Counsel\"\n  }\n]\n```",
+    "openHours": "null",
+    "testimonalData": "```json\n[\n    {\n        \"text\": \"Matt is my go to lawyer. He has been there for me and so many of my teammates over the years.\",\n        \"author\": \"Dwight Gooden\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Matt is a strategic thinker and really knows how to analyze and formulate a litigation game plan.\",\n        \"author\": \"Phil Regan\",\n        \"location\": null\n    },\n    {\n        \"text\": \"I heard other players saying amazing things about Matt and now I know for myself that it's all true as he never quits until the catch is made!\",\n        \"author\": \"Endy Chavez, NY Mets Player\",\n        \"location\": null\n    }\n]\n```"
+}

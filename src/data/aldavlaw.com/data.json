@@ -1,0 +1,31 @@
+{
+  "paragraph": "Call Us Today (800) 601-0170",
+  "detailsData": "{\n  \"title\": \"Experienced Trust Litigators\",\n  \"content\": \"Albertson & Davidson, LLP brings a wealth of experience in trust, will, and estate litigation, with a proven track record of fighting for beneficiaries' rights and securing favorable outcomes in complex legal disputes.\"\n},\n{\n  \"title\": \"Dedicated Beneficiary Advocates\",\n  \"content\": \"The firm is committed to advocating for beneficiaries who have been wronged, providing aggressive legal representation to ensure their voices are heard and their inheritances are protected.\"\n},\n{\n  \"title\": \"Results-Driven Strategy\",\n  \"content\": \"With over $250 million recovered for clients, Albertson & Davidson, LLP employs a results-driven strategy to navigate the intricacies of probate law and deliver substantial recoveries for their clients.\"\n}",
+  "address": "null",
+  "phoneNumber": "858-209-2309",
+  "email": "info@aldavlaw.com",
+  "linkNames": [
+    "HOME",
+    "OUR FIRM",
+    "OUR TEAM",
+    "PRACTICE AREAS",
+    "PUBLICATIONS & SEMINARS",
+    "CONTACT",
+    "OFFICE"
+  ],
+  "companyName": "Albertson & Davidson, LLP",
+  "subHeading": "Fighting For Your Inheritance",
+  "valueProp": "Albertson & Davidson, LLP is a California trust and will litigation firm that focuses on helping abused beneficiaries navigate complex legal issues. They have recovered more than $250 million for their clients and are known for their aggressive trial attorneys who fight for their clients. The firm has a team of experienced legal professionals who are dedicated to achieving positive outcomes for their clients.\n\nFounded in 2008, Albertson & Davidson, LLP was created by Stewart R. Albertson and Keith A. Davidson. The firm is committed to providing compassionate and skilled legal representation to clients facing battles over trusts, wills, and probate matters in California. They have a team of seven estate attorneys with extensive courtroom experience who work tirelessly to help clients resolve their legal problems.",
+  "CTA": "Qualify for a Free Consultation",
+  "topics": [
+    "Abused Beneficiary",
+    "Financial Elder Abuse",
+    "Trust Contest Lawyer",
+    "Trustee Theft",
+    "Trust Accounting",
+    "Probate Litigation"
+  ],
+  "members": "```json\n[\n  {\n    \"name\": \"Stewart R. Albertson\",\n    \"position\": \"Partner\"\n  },\n  {\n    \"name\": \"Keith A. Davidson\",\n    \"position\": \"Managing Partner\"\n  },\n  {\n    \"name\": \"Jeffrey M. Hall\",\n    \"position\": \"Partner\"\n  },\n  {\n    \"name\": \"Christy Eisenbrey\",\n    \"position\": \"Paralegal\"\n  }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"I am very glad that I found Albertson & Davidson to help me through my legal battle regarding my father\u2019s trust. I was the trustee, and was being threatened with not getting paid for the 14 years of work that I was consumed with in managing the trust. \",\n        \"author\": \"Jennifer Fitzpatrick\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Albertson & Davidson was in my corner during one of the most difficult periods of my life. I was being challenged as a beneficiary of my beloved late brothers estate. Stewart, Keith, and their brilliant team took my case and with their expertise and aggressive defense of my interests, brought it to a successful resolution. \",\n        \"author\": \"Debra Kaisersatt\",\n        \"location\": null\n    },\n    {\n        \"text\": \"I truly appreciate all that Keith and Stewart have done for me, and for the chance that you took in representing me. If it hadn\u2019t been for you both, and all that you did for me, then I would have been lost. \",\n        \"author\": \"Melissa Merrilees\",\n        \"location\": null\n    }\n]\n```"
+}

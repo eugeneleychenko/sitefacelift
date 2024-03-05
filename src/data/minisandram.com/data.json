@@ -1,0 +1,34 @@
+{
+  "paragraph": "to call or text the contact number for a consultation",
+  "detailsData": "{\n    \"title\": \"Multi-State Licensing\",\n    \"content\": \"Attorney Minisandram is licensed to practice law in California, Massachusetts, and before the US Patent and Trademark Office, providing clients with a broad geographical reach for legal representation.\"\n  },\n  {\n    \"title\": \"In-House Counsel Experience\",\n    \"content\": \"With experience as an In-House Counsel, Mr. Minisandram brings a unique perspective to his practice, understanding the internal workings of companies and how to best protect their intellectual property rights.\"\n  },\n  {\n    \"title\": \"Industry-Specific Expertise\",\n    \"content\": \"Specializing in technology areas such as computer software/hardware, medical devices, and semiconductor processing, the firm offers tailored legal services that cater to the specific needs of clients in these industries.\"\n  }",
+  "address": "111 North Market Street, Suite 300, San Jose, CA 95113",
+  "phoneNumber": "(408)-241-6300",
+  "email": "info@minisandram.com",
+  "linkNames": [
+    "HOME",
+    "OUR FIRM",
+    "OUR TEAM",
+    "PRACTICE AREAS",
+    "PUBLICATIONS & SEMINARS",
+    "CONTACT",
+    "OFFICE"
+  ],
+  "companyName": "MINISANDRAM LAW FIRM",
+  "subHeading": "",
+  "valueProp": "Raghunath S. Minisandram is an attorney enrolled to practice law in the states of California, Massachusetts and before the United States Patent and Trademark Office (US PTO).",
+  "CTA": "Contact Us",
+  "topics": [
+    "Patent Prosecution",
+    "Licensing",
+    "Intellectual Property Due Diligence",
+    "Infringement and Validity Opinions",
+    "Trademark prosecution",
+    "Computer Software/Hardware",
+    "Medical Devices",
+    "Internet",
+    "Business Methods"
+  ],
+  "members": "```json\n[\n  {\n    \"name\": \"Raghunath Minisandramr\",\n    \"position\": \"Attorney\"\n  }]\n```",
+  "openHours": "null",
+  "testimonalData": "null"
+}

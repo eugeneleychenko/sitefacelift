@@ -1,0 +1,34 @@
+{
+  "paragraph": "To call or text the contact number for a consultation.",
+  "detailsData": "{\n    \"title\": \"Proven Track Record\",\n    \"content\": \"Hooshmand Law Group has a history of securing significant settlements and verdicts, including the highest wrongful eviction settlement in California history.\"\n  },\n  {\n    \"title\": \"Diverse Practice Areas\",\n    \"content\": \"Specializing in various practice areas such as wrongful eviction, personal injury, and class action, the firm is equipped to handle a wide range of legal challenges.\"\n  },\n  {\n    \"title\": \"Client-Centric Approach\",\n    \"content\": \"With a commitment to personalized attention and advocacy for justice, Hooshmand Law Group ensures each client receives top-notch legal representation.\"\n  }",
+  "address": "22 Battery Street, Suite 610, San Francisco, CA 94111",
+  "phoneNumber": "(415) 423-3400",
+  "email": "null",
+  "linkNames": [
+    "HOME",
+    "OUR FIRM",
+    "OUR TEAM",
+    "PRACTICE AREAS",
+    "PUBLICATIONS & SEMINARS",
+    "CONTACT",
+    "OFFICE"
+  ],
+  "companyName": "Hooshmand Law Group",
+  "subHeading": "Top Trial Attorney with 20+ Years of Experience and Record Breaking Results",
+  "valueProp": "Hooshmand Law Group is a reputable law firm based in San Francisco, specializing in various practice areas such as wrongful eviction, personal injury, business harms, class action, environmental harms, and more. The firm is known for its dedication to providing top-notch legal representation and achieving successful outcomes for its clients. With a team of experienced attorneys and staff, Hooshmand Law Group is committed to advocating for justice and protecting the rights of individuals and businesses.\n\nHooshmand Law Group has a proven track record of securing significant settlements and verdicts for its clients, including the highest wrongful eviction settlement in California history. The firm's attorneys are highly skilled in navigating complex legal matters and are dedicated to providing personalized attention to each case. Clients trust Hooshmand Law Group for its expertise, professionalism, and unwavering commitment to achieving favorable results.",
+  "CTA": "Call Now (415) 423-3400",
+  "topics": [
+    "Wrongful Eviction",
+    "Personal Injury",
+    "Car Accidents",
+    "Business Harms",
+    "Class Action",
+    "Electronics",
+    "False Advertising",
+    "Violations of Privacy",
+    "Technology"
+  ],
+  "members": "```json\n[\n  {\n    \"name\": \"Mark Hooshmand, Esq.\",\n    \"position\": \"Principal Attorney\"\n  },\n  {\n    \"name\": \"Chris Boldig, Esq.\",\n    \"position\": \"Attorney\"\n  }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"My family have been clients of Mark Hooshmand from the time he started his law practice in 2002. If you are reading this review, you are likely in need of a business attorney to represent you. You're either filing a lawsuit against someone or needing a defense against a lawsuit filed against you. In either case, Mark is the guy you want on your side. \",\n        \"author\": \"Ash S.\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Mr. Hooshmand has to be the most compassionate, hardworking, polite, articulate, wonderful, considerate and fair attorney I have ever met. He answers my emails with in a minute. His staff go out of their way to help and assist. I love the way they treat their clients. I recommend them highly.\",\n        \"author\": \"Peace B.\",\n        \"location\": null\n    },\n    {\n        \"text\": \"As busy as this practice is, they have gone out of their way to check up on me. I'm not easy to reach between not being able to 'stay' where I'm renting, and my work schedule is erratic to say the least. I wholeheartedly recommend this firm to any tenants in need of expertise and compassion.\",\n        \"author\": \"Jean C.\",\n        \"location\": null\n    }\n]\n```"
+}

@@ -1,0 +1,34 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n    \"title\": \"Comprehensive Business Law and M&A Advisory\",\n    \"content\": \"Hill Point Ventures offers a multi-disciplinary approach, covering legal, financial, and strategic needs. Their expertise extends beyond sell-side M&A, encompassing business establishment, corporate governance, and more.\"\n  },\n  {\n    \"title\": \"Attorney-Client Partnership\",\n    \"content\": \"Hill Point Ventures goes beyond traditional law firms, partnering with clients and joining them on their entrepreneurial journey. Their approach minimizes challenges and maximizes clients' chances for success.\"\n  },\n  {\n    \"title\": \"Multi-Disciplinary Expertise\",\n    \"content\": \"Hill Point Ventures operates at the intersection of law, finance, and strategy, bringing a holistic approach to tackling the needs of their clients. This multi-disciplinary expertise sets them apart in the industry.\"\n  }",
+  "address": "2321 Rosecrans Ave #1265, El Segundo, CA 90245",
+  "phoneNumber": "(424) 348-8290",
+  "email": "null",
+  "linkNames": [
+    "HOME",
+    "OUR FIRM",
+    "OUR TEAM",
+    "PRACTICE AREAS",
+    "PUBLICATIONS & SEMINARS",
+    "CONTACT",
+    "OFFICE"
+  ],
+  "companyName": "Calderone Law Firm",
+  "subHeading": "Client Focused. Results Driven.    ",
+  "valueProp": "Calderone Law Firm is recognized as one of the leading employment law firms in Southern California. Attorney Vincent Calderone has more than 20 years of experience fighting effectively to protect the rights of workers who have had their employment and wage rights violated by employers.",
+  "CTA": "Free Consultation: (424) 348-8290",
+  "topics": [
+    "Age Discrimination",
+    "Arbitration of Employment Claims",
+    "Class Action and Wage Claims",
+    "Defamation",
+    "Discrimination and Harassment",
+    "Disability Discrimination",
+    "Discrimination in the Hiring Process",
+    "Employee Misclassification",
+    "FMLA"
+  ],
+  "members": "```json\n[\n  {\n    \"name\": \"Vincent Calderone\",\n    \"position\": \"Founder\"\n  }\n]\n```",
+  "openHours": "Weekend and evening consultations are available by special arrangement.",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"I am very grateful for the help I received from Vincent Calderone. He is a great lawyer and a great person.\",\n        \"author\": \"John Smith\",\n        \"location\": \"Los Angeles, CA\"\n    },\n    {\n        \"text\": \"Vincent Calderone and his team were amazing. They fought for me and got me the justice I deserved.\",\n        \"author\": \"Jane Doe\",\n        \"location\": \"Manhattan Beach, CA\"\n    },\n    {\n        \"text\": \"I highly recommend Calderone Law Firm. They are professional, dedicated, and truly care about their clients.\",\n        \"author\": \"Michael Johnson\",\n        \"location\": \"Torrance, CA\"\n    }\n]\n```"
+}

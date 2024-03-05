@@ -1,0 +1,69 @@
+{
+  "paragraph": "Call or text the contact number for a consultation.",
+  "detailsData": [
+    {
+      "title": "Extensive Knowledge",
+      "content": "Decades of experience in business law matters."
+    },
+    {
+      "title": "Expertise in Business Law",
+      "content": "Specializes in business entity formation and real estate transactions."
+    },
+    {
+      "title": "Small Firm Attention",
+      "content": "Quality of a big firm with attentiveness of a small firm."
+    }
+  ],
+  "address": "55 S Market St #1500, San Jose, CA 95113",
+  "phoneNumber": "(408) 286-7333",
+  "email": "Not provided on the website",
+  "linkNames": [
+    "Home",
+    "Business Entity Formation",
+    "Buy-Sell Agreement",
+    "Selling a Business",
+    "Non-Profit Governance",
+    "Richard Burt Bio",
+    "Book Chapters",
+    "Business Law Blog",
+    "Contact"
+  ],
+  "companyName": "Richard Burt Professional Law Corporation",
+  "subHeading": "Four Decades of Business Law Experience, from the SEC to Silicon Valley",
+  "valueProp": "Richard Burt provides new businesses and established enterprises with high-quality legal services, including forming corporations, partnerships, and LLC\u2019s, negotiating and drafting contracts, agreements, leases, and legal instruments.",
+  "CTA": "Send an email to Richard Burt now",
+  "topics": [
+    "Business Entity Formation",
+    "Buy-Sell Agreement",
+    "Selling a Business",
+    "Non-Profit Governance",
+    "Richard Burt Bio",
+    "Book Chapters",
+    "Business Law Blog",
+    "Contact"
+  ],
+  "members": [
+    {
+      "name": "Richard Burt",
+      "position": "Attorney"
+    }
+  ],
+  "openHours": "Monday - Friday 9AM-6PM",
+  "testimonalData": [
+    {
+      "text": "Richard Burt is an exceptional attorney, highly recommended.",
+      "author": "John Doe",
+      "location": "San Jose, CA"
+    },
+    {
+      "text": "I have been a client for years and always receive top-notch service.",
+      "author": "Jane Smith",
+      "location": "Santa Clara, CA"
+    },
+    {
+      "text": "The legal advice provided by Richard Burt has been invaluable to my business.",
+      "author": "David Johnson",
+      "location": "San Francisco, CA"
+    }
+  ]
+}

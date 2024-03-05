@@ -1,0 +1,168 @@
+Richard Burt Professional Law Corporation
+
+  * Home
+  * Business Entity Formation
+  * Buy-Sell Agreement
+  * Selling a Business
+  * Non-Profit Governance
+  * Richard Burt Bio
+  * Book Chapters
+  * Business Law Blog
+  * Contact
+
+
+
+Menu
+
+Call (408) 286-7333
+
+ 
+
+Send an email to Richard Burt now
+
+  * Home
+  * Business Entity Formation
+  * Buy-Sell Agreement
+  * Selling a Business
+  * Non-Profit Governance
+  * Richard Burt Bio
+  * Book Chapters
+  * Business Law Blog
+  * Contact
+
+
+
+  * ### Richard Burt Professional Law Corporation
+
+  * 55 S Market St #1500,   
+San Jose, CA 95113   
+  
+Phone: (408) 286-7333
+  * ### Office Hours
+
+  * Monday - Friday 9AM-6PM
+
+  * Send an email to Richard Burt now  
+
+
+  *   *   * 
+
+
+##    With his extensive knowledge, skill, and experience  
+ Richard Burt provides the quality of a big firm   
+but with the attentiveness of a small firm. 
+
+### Richard Burt Professional Law Corporation
+
+**Richard G. Burt helps clients with forming business entities, such as corporations, partnerships, and limited liability companies (LLC's), negotiating contracts and agreements of various kinds, and with business and real estate transactions.**
+
+ 
+
+|   
+---|---  
+  
+# San Jose Business Lawyer
+
+### Four Decades of Business Law Experience, from the SEC to Silicon Valley
+
+Richard Burt (JD, George Washington University, ’73) began his legal career at the Securities and Exchange Commission in Washington, D.C., in 1973. Now an attorney rated “AV”* “Preeminent” by Martindale-Hubbell, he heads his own law firm that serves the communities of the city of San Jose and of other cities in Santa Clara County, California as well as the rest of the San Francisco Bay Area. In the four intervening decades, Mr. Burt has garnered extensive legal experience at firms of various sizes: international commercial giant Wilmer Hale; the mid-sized Northern California firm Berliner Cohen; and, most recently, in practice for himself, after founding his own firm in 1984.
+
+Richard Burt's business law firm now leverages this broad experience to provide boutique legal services in business matters and real estate matters to clients throughout California (as well as to out-of-state clients). This business law firm prides itself on providing to each client service of big-firm quality coupled with small-firm attentiveness. Whether the client is a large enterprise, an entrepreneur just starting a company, or a professional in private practice, our San Jose business lawyer has the ability to help.
+
+### Richard Burt’s Areas of Practice
+
+Richard Burt focuses exclusively on business and real estate law matters, providing new businesses and established enterprises alike with cost-effective legal services. He is a dedicated San Jose Business attorney who helps form businesses and protects their interests through carefully drafted contracts, leases, agreements, and legal instruments. He also provides counsel to businesses and business owners that can come only from decades of experience. His major areas of focus include:
+
+**Business Entity Formation:** As a San Jose business attorney, he organizes business entities, ranging from sole proprietorships and partnerships to corporations and limited liability companies (LLCs). He prepares custom-drafted articles of incorporation, by-laws, and minutes to organize a corporation, and he prepares custom-drafted operating agreements and LLC agreements for limited liability companies (LLCs). His clients include existing companies and startups, as well as founders of closely held companies, professionals, and investors in real estate. To learn more about this aspect of the firm’s practice, click here.
+
+**Buying or Selling a Business:** For most people, buying or selling a business is far from an everyday occurrence, which means that they don’t have much experience with it. For that reason, it is vital to have professional advisers who do. Richard Burt has decades of experience helping clients buy or sell businesses. When it comes to small business, the purchase or sale of a business is usually referred to as just that, purchase of a business or sale of a business. When the business is larger, the reference is sometimes to mergers and acquisitions (or M&A). While the terminology may change, the basic principles remain the same. The buyer wants to get the business while not being had, and the seller wants to be paid for the business without the buyer coming back with claims. There are times the seller helps finance the buyer’s purchase of the business by allowing the buyer to pay in part with a promissory note (taking back paper), and in those cases, the seller wants assurance that he or she will ultimately be paid. To learn more about selling a business, click here.
+
+**Outside General Counsel:** Richard Burt establishes relationships with existing firms as well as with startups to provide ongoing outside general counsel. This allows both parties to establish a long-term counsel-client partnership based on mutual trust, and it provides the firm with an understanding of the particular needs and requirements of the client. Services provided under an outside-general-counsel arrangement can include a review of standard agreements, drafting contracts, reviewing financing documents, advising on, negotiating, and preparing agreements for the purchase or sale of a business (M&A). As outside general counsel, the firm also provides the service of finding experts in other legal areas when the client needs a specialist. Read more about these services here.
+
+**Buy-Sell Agreements:** A buy-out between co-owners of a company (including the redemption of shares by the business entity) is often routine, but it can be the result of a tense, stressful negotiation. Mr. Burt is experienced in both these situations, and for those clients who wish to plan ahead, he helps avoid the disruption that a hostile buy-out negotiation causes by drafting a buy-sell agreement ahead of time. This San Jose business law attorney chooses the most appropriate form of buy-sell agreement, taking into account such factors as the number of partners, the nature of the event that can trigger the purchase or sale, the value of the business, the method of payment (and security for a deferred payment), and many other complexities. For a longer discussion of the issues surrounding buy-sell agreements, click here.
+
+### Why Choose Richard Burt for Help with Your Business Legal Matter
+
+Richard Burt offers Silicon Valley clients:
+
+  * **In-depth knowledge** – Richard Burt has worked for decades with closely-held businesses, corporate executives, real estate investors, professionals, and others throughout Silicon Valley, allowing him to amass a breadth of knowledge to advise clients properly.
+  * **Expertise** – Mr. Burt’s extensive experience in the formation, maintenance, and dissolution of various business entities has allowed him to develop expertise in business law matters. He has served three terms on the Partnerships and Limited Liability Companies Committee and two terms on the Corporations Committee of the Business Law Section of the State Bar of California. He has continued to be active with these committees on an ad hoc guest basis. This has allowed him to stay abreast of the latest changes in the law and also advise other area attorneys on changes in the legal environment. These positions have also allowed him to literally write some of the law in California. Mr. Burt has also testified as an expert witness in other attorneys’ cases.
+  * **Insight** – Mr. Burt is a trusted San Jose business lawyer with an in-depth knowledge and keen insight allowing him to quickly assess a legal situation and determine cost-effective legal solutions. Rather than focus solely on the legal issues, Mr. Burt also considers the practical aspects. Mr. Burt can draft contracts that are designed to protect the interests of the business, offer recommendations on how to confront a legal challenge, and explore solutions to avoid litigation.
+  * **A solid reputation** – Mr. Burt has achieved a prestigious “AV Preeminent” ranking by Martindale-Hubbell, which is the highest possible rating. This ranking is achieved when a lawyer demonstrates the highest level of professional excellence and highest ethical standards. It is also a testament of the opinions of other lawyers in the area. Other legal professionals often call upon Mr. Burt for assistance and outside counsel. He is often asked to lecture on business law topics and has authored a number of significant articles and book chapters on business law matters in California.
+
+
+
+### Richard Burt Understands the Legal Issues Silicon Valley Businesses Face
+
+Mr. Burt offers the knowledge, skill, and experience needed to help clients navigate the legal complexities inherent in business matters, large and small. He can quickly get to work on your case, identify the legal issues involved in your case, and develop a customized legal plan devised to protect the interests of your Silicon Valley business. If you are looking for a San Jose business lawyer, contact Mr. Burt at (408) 286-7333 or use the contact form here to schedule a consultation. (Please do not include any confidential information in your inquiry.) Please note that the initial consultation is solely to determine the nature of your legal matter and to discuss fees. Mr. Burt does not offer free legal advice.
+
+*A longer explanation of the Martindale-Hubbell rating system is available at the “Peer Review Rating” tab.
+
+  * Home
+  * Business Entity Formation
+  * Buy-Sell Agreement
+  * Selling a Business
+  * Non-Profit Governance
+  * Richard Burt Bio
+  * Book Chapters
+  * Business Law Blog
+  * Contact
+
+
+
+  *   *   *   * ### Richard Burt Professional Law Corporation
+
+  * 55 S Market St #1500,   
+San Jose, CA 95113
+
+  
+Phone: (408) 286-7333
+
+  * ### Office Hours
+
+  * Monday - Friday 9AM-6PM  
+  
+Send an Email to Richard Burt now
+
+  *   *   * 
+
+
+* * *
+
+This website provides general information, which may or may not be current, complete, or correct at the time of reading. Nothing contained in this website constitutes legal advice. No attorney-client relationship is created by any use of this website. This website constitutes attorney advertising but is not intended to convey availability for professional employment for any legal matter outside of the State of California.
+
+Content Copyright 2024. Richard Burt Professional Law Corporation. All rights reserved. Privacy Policy Map Sitemap Earth
+
+By clicking "I Agree" below, you agree to the following.
+
+In communicating through a website with a lawyer you are thinking of hiring, you should not provide any confidential information concerning your legal matter until an attorney-client relationship has been formed. Sending an email to Richard Burt through this website (or otherwise) and receiving a reply does not create an attorney-client relationship.
+
+No attorney-client relationship will be formed until you and Richard Burt have agreed that he should represent you, he has determined that there is no conflict with an existing client, and you have signed an engagement letter that sets forth the terms of the representation.
+
+After an attorney-client relationship has been formed, email (and voice mail) may of course be freely used for confidential attorney-client communications.
+
+If we try to call you at a telephone number that you provide to us and are unable to reach you (and your voice mail is full or is not set up), we may text you at that number to let you know that we tried to call you. By sending an email via this website or by calling and leaving a voice-mail message, you consent to receiving such texts. At any time, you may reply STOP to opt-out from further messages.
+
+I agree 
+
+
+
+
+First Name (required):  
+
+
+Last Name (required):  
+
+
+Phone Number (required):  
+
+
+Email :  
+
+
+Your Message (required):  
+
+
+Please leave this field empty.
+
+× 

@@ -1,0 +1,24 @@
+{
+  "paragraph": "Call today: 858-793-6244 to schedule a free initial consultation.",
+  "detailsData": "{\n    \"title\": \"Global Caliber Community Feel\",\n    \"content\": \"Carlsbad Law Group, LLP provides global caliber legal services with a community feel, offering personalized attention and trustworthy legal counsel to clients. This unique combination sets them apart from other law firms.\"\n  },\n  {\n    \"title\": \"Innovative, Aggressive, Respected\",\n    \"content\": \"Carlsbad Law Group, LLP is known for their innovative and aggressive approach to legal matters, earning them respect in the legal community. Their creative solutions and passion for achieving the best outcomes distinguish them from other firms.\"\n  },\n  {\n    \"title\": \"Strategic, Dedicated, Experienced\",\n    \"content\": \"Carlsbad Law Group, LLP is dedicated to delivering the best possible outcomes for their clients through strategic, experienced, and dedicated legal representation. Their commitment to excellence and professionalism sets them apart in the legal field.\"\n  }",
+  "address": "5050 Avenida Encinas, Suite 300, Carlsbad, California 92008",
+  "phoneNumber": "858-793-6244",
+  "email": "info@carlsbadlawgroup.com",
+  "linkNames": ["HOME", "ABOUT US", "ATTORNEYS", "PRACTICE AREAS", "CONTACT"],
+  "companyName": "Carlsbad Law Group, LLP",
+  "subHeading": "Global Caliber Community Feel",
+  "valueProp": "Carlsbad Law Group, LLP is a full-service law firm providing superior legal services for clients throughout California and nationwide. Our firm has extensive expertise in a wide variety of civil litigation matters and dispute resolution in both state and federal courts. Our attorneys also provide transactional services, including contract drafting and review for all facets of commercial, corporate and construction matters. Carlsbad Law Group, LLP is extremely dedicated to our clients, performing the highest quality legal services with technical excellence, aggressive advocacy, innovative and creative solutions, and passion. Our firm is experienced and deeply respected for its claims handling, litigation, mediation, arbitration, trial and post-trial activities. We have achieved success time and again in representation of our clients from single party claims to complex litigation involving multiple parties, class actions, and multi-district litigation. Carlsbad Law Group, LLP consistently performs legal services at a global caliber with our signature community feel.",
+  "CTA": "Schedule Your Free Consultation",
+  "topics": [
+    "Civil Litigation",
+    "Business Litigation",
+    "Commercial Transactions",
+    "Employment Law",
+    "Personal Injury",
+    "Real Estate Litigation",
+    "Insurance Litigation"
+  ],
+  "members": "```json\n[\n  {\n    \"name\": \"JL Sean Slattery\",\n    \"position\": \"Managing Partner \"\n  },\n  {\n    \"name\": \"David P. Hall\",\n    \"position\": \"Partner / Attorney\"\n  },\n  {\n    \"name\": \"Adam Kidd\",\n    \"position\": \"Associate Attorney\"\n  }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Carlsbad Law Group, LLP is representing our company in various matters. They really understand our legal needs and are delivering as promised. Simply stated, they get it. I would gladly recommend them to anyone looking for a top-notch law firm.\",\n        \"author\": \"Gavin Necochea\",\n        \"location\": \"President of Pro Energy Services Group, LLC\"\n    },\n    {\n        \"text\": \"Carlsbad Law Group, LLP\u2019s team of experienced Personal Injury attorneys have the expertise, creative strategy, and compassion to help you successfully resolve your personal injury claim. Our Personal Injury attorneys are tenacious and aggressive in fighting for California accident victims and are highly skilled negotiators seeking full recovery for our clients.\",\n        \"author\": null,\n        \"location\": null\n    },\n    {\n        \"text\": \"Carlsbad Law Group, LLP\u2019s team of experienced Real Estate attorneys are dedicated in providing our clients with personal attention for their real estate matters and committed to address their specific legal needs with the highest quality service performed in a cost-effective and professional manner. Real estate related disputes are more common than most individuals realize.\",\n        \"author\": null,\n        \"location\": null\n    }\n]\n```"
+}

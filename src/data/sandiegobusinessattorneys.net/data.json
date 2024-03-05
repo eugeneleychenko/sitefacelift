@@ -1,0 +1,34 @@
+{
+    "paragraph": "to call or text the contact number for a consultation",
+    "detailsData": "```json\nnull\n```",
+    "address": "null",
+    "phoneNumber": "(619) 259-5030",
+    "email": "null",
+    "linkNames": [
+        "HOME",
+        "OUR FIRM",
+        "OUR TEAM",
+        "PRACTICE AREAS",
+        "PUBLICATIONS & SEMINARS",
+        "CONTACT",
+        "OFFICE"
+    ],
+    "companyName": "San Diego Business Attorneys",
+    "subHeading": "San Diego Business Attorneys",
+    "valueProp": "This firm is a well-known and highly respected business attorney providing quality, affordable business legal services. Valerie Kramer, the lead attorney, has 30 years of experience setting up incorporations, LLCs, writing contracts, and handling business disputes and lawsuits. The firm specializes in debt collection, business formation, contract disputes, partnership disputes, and real estate law.\n\nThe experienced team at this firm is dedicated to helping individuals and small business owners in San Diego and Orange Counties with their legal needs. With a focus on business law, debt collection, incorporation, and real estate matters, they provide expert guidance and representation to ensure their clients' interests are protected and their legal issues are resolved effectively.",
+    "CTA": "Request A Free Consultation",
+    "topics": [
+        "Debt Collection Lawyer",
+        "Business Formation",
+        "Business Contracts",
+        "Contract Disputes",
+        "Real Estate Disputes",
+        "Commercial Lease Agreements",
+        "Construction Disputes and Litigation",
+        "Title Insurance",
+        "Estate Planning"
+    ],
+    "members": "```json\n[\n  {\n    \"name\": \"Valerie Kramer\",\n    \"position\": \"Business Attorney\"\n  },\n  {\n    \"name\": \"Warren & Angelo\",\n    \"position\": \"Real Estate Attorneys\"\n  }\n]\n```",
+    "openHours": "null",
+    "testimonalData": "```json\n[\n    {\n        \"text\": \"Valerie Kramer is a well-known and highly respected business attorney providing quality, affordable business legal services.\",\n        \"author\": \"San Diego Business Attorneys\",\n        \"location\": null\n    },\n    {\n        \"text\": \"After 30-years, Ms. Kramer knows that the 'squeaky wheel' (with teeth) gets paid. Others often are never paid.\",\n        \"author\": \"San Diego Business Attorneys\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Warren and Angelo are extremely competent and experienced Real Estate Attorneys.\",\n        \"author\": \"San Diego Business Attorneys\",\n        \"location\": null\n    }\n]\n```"
+}

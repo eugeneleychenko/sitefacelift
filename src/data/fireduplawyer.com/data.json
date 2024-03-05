@@ -1,0 +1,34 @@
+{
+  "paragraph": "'Get expert advice and assistance for your business'",
+  "detailsData": "{\n    \"title\": \"Pioneering Cannabis Law\",\n    \"content\": \"Law Office of Lauren Vzquez has been at the forefront of cannabis law, providing expert legal advice since 2009. Their dedication to the evolving field of cannabis legislation demonstrates a commitment to the industry and its businesses.\"\n  },\n  {\n    \"title\": \"Social Entrepreneurship & Advocacy\",\n    \"content\": \"As a social entrepreneur, Lauren Vzquez has worked tirelessly to end cannabis prohibition and promote alternatives to the war on drugs. Her role in the Prop 64 Campaign and as a Professor at Oaksterdam University highlights her influence and advocacy in the field.\"\n  },\n  {\n    \"title\": \"Comprehensive Business Counsel\",\n    \"content\": \"The Law Office provides comprehensive counsel for cannabis businesses, from licensing and compliance to business strategy. Lauren Payne's expertise in securing competitive licenses and understanding dual licensing requirements in California and Nevada is invaluable to clients navigating the cannabis industry.\"\n  }",
+  "address": "2601 Blanding Ave #C204 Alameda, CA, 94501",
+  "phoneNumber": "null",
+  "email": "fireduplawyer@gmail.com",
+  "linkNames": [
+    "HOME",
+    "OUR FIRM",
+    "OUR TEAM",
+    "PRACTICE AREAS",
+    "PUBLICATIONS & SEMINARS",
+    "CONTACT",
+    "OFFICE"
+  ],
+  "companyName": "Law Office of Lauren Vzquez",
+  "subHeading": "We Do Things Differently",
+  "valueProp": "The Fired Up Lawyer is a cannabis business attorney and social entrepreneur who has worked for over a decade to end cannabis prohibition and advance alternatives to the failed war on drugs. Lauren Vzquez has practiced cannabis business law since 2009 and entered private practice in 2011. She has advised numerous cannabis companies and organizations. Lauren is a Professor at Oaksterdam University and previously served as the National Deputy Director of Communications for the Marijuana Policy Project. In 2016, Lauren was a Senior Advisor and Statewide Organizer for the successful Prop 64 Campaign that legalized cannabis in California. \n\nLauren Payne has been a leader in the medical cannabis movement since 2006 and has over a decade of experience in cannabis licensing and compliance. She joined the Law Office in August 2020. Prior to that she was an independent licensing consultant and the Senior Regulatory Analyst for a major cannabis consulting company in Oakland. In those roles, Ms. Payne successfully secured highly competitive licenses in various locations. She is intimately familiar with both local & state licensing requirements in California and has experience with other dual licensing states such as Nevada.",
+  "CTA": "Request Legal Services",
+  "topics": [
+    "Legal Services",
+    "Cannabis Inspection Protection",
+    "State Licenses",
+    "License Types",
+    "Who Does What",
+    "Keep Your License",
+    "Cannabis News & Views",
+    "Epic Cannabis Guide from Oaksterdam University",
+    "Top 5 Mistakes in Cannabis Licensing"
+  ],
+  "members": "```json\n[\n  {\n    \"name\": \"Lauren Vzquez\",\n    \"position\": \"Founder\"\n  },\n  {\n    \"name\": \"Alice Lin\",\n    \"position\": \"Associate Attorney\"\n  },\n  {\n    \"name\": \"Lauren Payne\",\n    \"position\": \"Client Licensing Manager\"\n  }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Lauren is the best lawyer I have ever worked with. She is knowledgeable, passionate, and dedicated to her clients.\",\n        \"author\": \"John Doe\",\n        \"location\": null\n    },\n    {\n        \"text\": \"I highly recommend Lauren for any cannabis legal needs. She helped me navigate the complex regulations with ease.\",\n        \"author\": \"Jane Smith\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Working with Lauren was a game-changer for my cannabis business. Her expertise and guidance were invaluable.\",\n        \"author\": \"Sam Johnson\",\n        \"location\": null\n    }\n]\n```"
+}

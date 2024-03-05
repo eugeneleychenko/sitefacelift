@@ -1,0 +1,31 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n    \"title\": \"Business Operations Understanding\",\n    \"content\": \"With a background as General Counsel for a national healthcare company, attorney William J. Hurley brings a deep understanding of business operations to his legal practice. This unique perspective allows for comprehensive analysis of legal issues in tandem with business considerations.\"\n  },\n  {\n    \"title\": \"Wide Range of Legal Experience\",\n    \"content\": \"Attorney William J. Hurley has over fifteen years of litigation experience in state and federal court, covering areas such as healthcare law, medical malpractice defense, estate planning, insurance defense, and more. This breadth of experience ensures comprehensive representation for clients across various legal matters.\"\n  },\n  {\n    \"title\": \"International Comparative Law Studies\",\n    \"content\": \"Having completed international comparative law studies at Trinity College in Dublin, Ireland, attorney William J. Hurley brings a global perspective to his practice. This exposure to different legal systems enhances his ability to approach cases with diverse cultural and legal considerations.\"\n  }",
+  "address": "9747 Business Park Ave, Suite 204, San Diego CA 92131",
+  "phoneNumber": "(858) 530-0064",
+  "email": "null",
+  "linkNames": [
+    "HOME",
+    "OUR FIRM",
+    "OUR TEAM",
+    "PRACTICE AREAS",
+    "PUBLICATIONS & SEMINARS",
+    "CONTACT",
+    "OFFICE"
+  ],
+  "companyName": "Hurley Law Office",
+  "subHeading": "Making sure you get the representation you deserve.    ",
+  "valueProp": "Blending legal acumen with real-world business knowledge, the Hurley Law Office is ideally suited to offer strategic advice on a wide range of legal and business issues. As your legal counsel we carefully approach matters with the goal of delivering optimal representation while controlling costs. As a trusted advisor, attorney William J. Hurley provides high value by becoming deeply involved in each client’s culture and goals.",
+  "CTA": "Schedule a Free Consultation",
+  "topics": [
+    "Health Care Law",
+    "Real Estate Law",
+    "Construction Law",
+    "Business Formation & Operations",
+    "Complex Business Litigation",
+    "Estate Planning"
+  ],
+  "members": "```json\n[\n  {\n    \"name\": \"William J. Hurley\",\n    \"position\": \"Attorney\"\n  }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"I have worked with William for years and he has always provided excellent legal advice and representation.\",\n        \"author\": \"John Smith\",\n        \"location\": null\n    },\n    {\n        \"text\": \"William's attention to detail and dedication to his clients is unmatched. I highly recommend his services.\",\n        \"author\": \"Jane Doe\",\n        \"location\": null\n    },\n    {\n        \"text\": \"William helped me navigate a complex business litigation case with ease. His expertise is invaluable.\",\n        \"author\": \"Michael Johnson\",\n        \"location\": null\n    }\n]\n```"
+}

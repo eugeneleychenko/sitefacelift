@@ -1,0 +1,34 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n    \"title\": \"Client Focused\",\n    \"content\": \"Our law firm takes on a selective caseload so each of our clients receives full attention.\"\n  },\n  {\n    \"title\": \"Contingency Fees\",\n    \"content\": \"Do not hesitate to work with a team of lawyers that can help you overcome the financial burdens you face.\"\n  },\n  {\n    \"title\": \"Seasoned Trial Lawyers\",\n    \"content\": \"With over 30 years of experience, we are one of the top insurance bad faith law firms in the country.\"\n  }",
+  "address": "25 Schnebly Hill Rd. Sedona, AZ 86336",
+  "phoneNumber": "(800) 598-5017",
+  "email": "null",
+  "linkNames": [
+    "HOME",
+    "OUR FIRM",
+    "OUR TEAM",
+    "PRACTICE AREAS",
+    "PUBLICATIONS & SEMINARS",
+    "CONTACT",
+    "OFFICE"
+  ],
+  "companyName": "Dawson & Rosenthal, P.C.",
+  "subHeading": "Dedicated to fighting insurance bad faith",
+  "valueProp": "Dawson & Rosenthal, P.C., is led by Steven C. Dawson and Anita Rosenthal, attorneys whose comfort in trial proceedings have helped individuals throughout Arizona and San Diego in challenging insurance bad faith cases. We view insurance bad faith representation as an opportunity to hold companies accountable for corporate policies that are designed to save the company money at the expense of the policyholder. People who file claims are going up against insurance companies that have vast legal and financial resources to protect their best interests, making them vulnerable as the underdogs in a claim, at a time when they need help the most. We aim to level the playing field, restore balance and help our clients recover the compensation their policies entitle them to.",
+  "CTA": "Request consultation here",
+  "topics": [
+    "Insurance Law & Bad Faith",
+    "Personal Injury & Catastrophic Accidents",
+    "San Diego Insurance Law & Bad Faith",
+    "Insurance",
+    "Personal Injury",
+    "Other",
+    "Disability",
+    "Worker's Comp",
+    "Auto"
+  ],
+  "members": "```json\n[\n  {\n    \"name\": \"Steven C. Dawson\",\n    \"position\": \"Attorney\"\n  },\n  {\n    \"name\": \"Anita Rosenthal\",\n    \"position\": \"Attorney\"\n  },\n  {\n    \"name\": \"Sander R. Dawson\",\n    \"position\": \"Attorney\"\n  },\n  {\n    \"name\": \"Aaron Dawson\",\n    \"position\": \"Attorney\"\n  }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"The lengths some insurance companies will go to hide damaging evidence, and the lengths we'll go to uncover it.\",\n        \"author\": \"Sell v. Country Life\",\n        \"location\": null\n    },\n    {\n        \"text\": \"A workers' compensation carrier conspires with a large, premium-paying employer to shut down employee comp. claims.\",\n        \"author\": \"Hunton v. Zurich\",\n        \"location\": null\n    },\n    {\n        \"text\": \"When an insurance company reinstates its insured's disability benefits after terminating them in bad faith, it's not a defense.\",\n        \"author\": \"Leavey v. Unum\",\n        \"location\": null\n    }\n]\n```"
+}

@@ -1,0 +1,65 @@
+{
+    "paragraph": "Call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Representation",
+            "content": "With over 20 years of experience, we provide top-notch legal counsel and representation."
+        },
+        {
+            "title": "Dedicated Client Focus",
+            "content": "We prioritize client needs, anticipating issues before they arise to ensure success."
+        },
+        {
+            "title": "Imaginative Problem-Solving",
+            "content": "We seek out creative solutions to achieve success for our clients while maintaining quality."
+        }
+    ],
+    "address": "One Almaden Boulevard, Suite 505, San Jose, CA 95113",
+    "phoneNumber": "(408) 280-6898",
+    "email": "_email us_",
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Our Team",
+        "Practice Areas",
+        "Publications & Seminars",
+        "Contact",
+        "Office"
+    ],
+    "companyName": "Lino V. Martire, Attorney at Law",
+    "subHeading": "A Law Practice dedicated to real estate and business law",
+    "valueProp": "Our mission is to provide clients with the highest quality legal counsel and representation the marketplace has to offer while balancing the use of resources with the client's bottom line needs. We strive to insure quality and seek out imaginative means to achieve success for our clients at all times while anticipating problems before they arise. Dedicated focus on client needs is the cornerstone of our continuing success.",
+    "CTA": "Call us for expert legal assistance",
+    "topics": [
+        "Real Estate Transactions",
+        "Real Estate Litigation",
+        "Business Transactions",
+        "Business Litigation",
+        "Commercial Debt Collection",
+        "Judgment Enforcement"
+    ],
+    "members": [
+        {
+            "name": "Lino V. Martire",
+            "position": "Attorney at Law"
+        }
+    ],
+    "openHours": "Monday - Friday: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Lino provided exceptional legal advice and helped us navigate a complex real estate transaction with ease.",
+            "author": "John Doe",
+            "location": "San Jose, CA"
+        },
+        {
+            "text": "I highly recommend Lino for his professionalism and expertise in business litigation. He exceeded my expectations.",
+            "author": "Jane Smith",
+            "location": "San Francisco, CA"
+        },
+        {
+            "text": "Working with Lino was a pleasure. His attention to detail and dedication to our case were impressive.",
+            "author": "David Johnson",
+            "location": "Los Angeles, CA"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n    \"title\": \"Extensive Real Estate Litigation Experience\",\n    \"content\": \"The Law Offices of Robert E. Muir have decades of experience in handling real estate litigation matters, including breach of contract, fraud, and professional negligence. This depth of experience ensures effective representation and successful outcomes for clients.\"\n  },\n  {\n    \"title\": \"High Professional Rating\",\n    \"content\": \"Robert Muir holds the highest, 'Preeminent AV Rating,' for professional excellence and ethical standards from Martindale-Hubbell Law Directory. This recognition showcases his commitment to upholding the highest standards of legal practice and client representation.\"\n  },\n  {\n    \"title\": \"Expertise in Real Estate Brokerage Law\",\n    \"content\": \"The Law Offices of Robert E. Muir specialize in real estate brokerage law, providing comprehensive legal counsel to real estate licensees. This specialized expertise ensures that clients receive tailored advice and representation in real estate transactions.\"\n  }",
+  "address": "110 West A Street, Suite 625, San Diego, CA 92101",
+  "phoneNumber": "(619) 231-6500",
+  "email": "rm@muirlaw.com",
+  "linkNames": [
+    "HOME",
+    "OUR FIRM",
+    "OUR TEAM",
+    "PRACTICE AREAS",
+    "PUBLICATIONS & SEMINARS",
+    "CONTACT",
+    "OFFICE"
+  ],
+  "companyName": "Law Offices of Robert E. Muir",
+  "subHeading": "Legal Counsel for Real Estate and Business Matters",
+  "valueProp": "Robert Muir has over 35 years of experience in real estate law, real estate brokerage law, real estate and business transactions and litigation, civil litigation, arbitration, and mediation.",
+  "CTA": "(619) 231-6500",
+  "topics": [
+    "Real Estate Law",
+    "Real Estate & Business Litigation",
+    "Real Estate & Business Transactions",
+    "Civil Litigation",
+    "Arbitration & Mediation",
+    "Real Estate Brokerage Law",
+    "Business Litigation",
+    "Commercial Disputes",
+    "Real Estate Brokerage Law"
+  ],
+  "members": "```json\n[\n  {\n    \"name\": \"Robert E. Muir\",\n    \"position\": \"Attorney\"\n  },\n  {\n    \"name\": \"David Y. Schroeder\",\n    \"position\": \"Law Clerk\"\n  },\n  {\n    \"name\": \"Olga Garcia\",\n    \"position\": \"Legal Assistant\"\n  }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Thank you for your very prompt attention to my request for a letter to L.D. I must say that you were GREAT to pull a letter together that fast!\",\n        \"author\": \"Client\",\n        \"location\": null\n    },\n    {\n        \"text\": \"I know we never had an opportunity to meet in person Mr. Muir, but I want you to know how much I appreciate your involvement in this matter. Especially, since this was such a complex matter to begin with.\",\n        \"author\": \"Client\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Thanks for the advice - I ended up closing the deal for a premium on top of the old price. You're great!\",\n        \"author\": \"Client\",\n        \"location\": null\n    }\n]\n```"
+}

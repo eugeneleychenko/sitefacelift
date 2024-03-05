@@ -1,0 +1,34 @@
+{
+  "paragraph": "null",
+  "detailsData": "{\n    \"title\": \"Expertise in Franchise Law\",\n    \"content\": \"The Law Offices of Nicholas D. Heimlich specializes in franchise law, providing comprehensive legal support for startups and established businesses in this dynamic sector.\"\n  },\n  {\n    \"title\": \"Strategic Negotiation Skills\",\n    \"content\": \"The firm excels in strategic negotiations, focusing on key financial and contractual aspects to achieve favorable and equitable resolutions for clients.\"\n  },\n  {\n    \"title\": \"Extensive Industry Knowledge\",\n    \"content\": \"With experience in various industries, including technology, healthcare, retail, and manufacturing, the firm offers tailored legal solutions that align with specific sector requirements.\"\n  }",
+  "address": "5671 Santa Teresa Suite 203 San Jose, CA 95123",
+  "phoneNumber": "(408) 457-9364",
+  "email": "info@nickheimlichlaw.com",
+  "linkNames": [
+    "HOME",
+    "OUR FIRM",
+    "OUR TEAM",
+    "PRACTICE AREAS",
+    "PUBLICATIONS & SEMINARS",
+    "CONTACT",
+    "OFFICE"
+  ],
+  "companyName": "The Law Offices of Nicholas D. Heimlich",
+  "subHeading": "San Jose Business Lawyer",
+  "valueProp": "The Law Offices of Nicholas D. Heimlich is a premier source for business law expertise in San Jose. As a dedicated business lawyer, our firm is committed to providing top-notch legal solutions to businesses across various industries. Our approach is rooted in a deep understanding of the complexities of business law, ensuring that each client receives personalized and effective legal advice.",
+  "CTA": "Call Nick Today",
+  "topics": [
+    "Business Law",
+    "Franchise Law",
+    "Intellectual Property",
+    "Specialized Industries",
+    "Business Formation",
+    "Breach of Contracts",
+    "Business Disputes",
+    "Collections",
+    "Franchise Law & Litigation"
+  ],
+  "members": "```json\n[\n  {\n    \"name\": \"Nick Heimlich\",\n    \"position\": \"Principal Attorney\"\n  }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"I recently received legal advice from Nick and he was very professional and easy to talk to. He gave us great advice and I would definitely use him again if needed. Thank you Nick!\",\n        \"author\": \"David Duckworth\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Nick was excellent! Very knowledgeable, asks great questions, and quickly understood the situation and was able to give great advice. I so appreciated his time, insight, and expertise in assisting with our situation. Highly recommend!\",\n        \"author\": \"Rebecca Bauer\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Mr. Heimlich has been very responsive to my case and provided extraordinarily useful advice. Thank you!\",\n        \"author\": \"Charles Chen\",\n        \"location\": null\n    }\n]\n```"
+}

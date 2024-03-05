@@ -1,0 +1,35 @@
+{
+  "paragraph": "'Call for a free consultation'",
+  "detailsData": "{\n    \"title\": \"Reputation for Success\",\n    \"content\": \"Having been in business since 1979, the firm has gained respect from both the legal and insurance communities. Their 40+ years of legal experience, community development, and firm name recognition are unique advantages for clients.\"\n  },\n  {\n    \"title\": \"Full-Service Law Firm\",\n    \"content\": \"The Riverside workers\u2019 compensation attorneys can handle every aspect of a case while clients focus on healing. They can identify the defendant, counsel on legal options, and demand fair compensation on behalf of clients.\"\n  },\n  {\n    \"title\": \"Resources for Maximum Compensation\",\n    \"content\": \"The firm provides access to accident reconstructionists, economists, doctors, vocational experts, and more. This ensures clients have the resources needed to fight for maximum compensation.\"\n  }",
+  "address": "1324 N. Broadway, Santa Ana, CA 92706",
+  "phoneNumber": "(951) 977-7787",
+  "email": "null",
+  "linkNames": [
+    "HOME",
+    "OUR FIRM",
+    "OUR TEAM",
+    "PRACTICE AREAS",
+    "PUBLICATIONS & SEMINARS",
+    "CONTACT",
+    "OFFICE"
+  ],
+  "companyName": "DiMarco | Araujo | Montevideo",
+  "subHeading": "Trial Lawyers for Injured Workers",
+  "valueProp": "Our attorneys have been assisting the community for over 40 years. We have earned the respect of the legal community and court system. No up-front costs. You don\u2019t pay unless we win. This gives us every incentive to maximize recovery for you. Our peers have recognized our firm for having some of the highest levels of professional excellence and legal ability. If you call our office, you will get an answer back that same day. We want to help you as a client, but also treat you like family. Over 17,000 trusted clients. Those who have been injured deserve the full legislative protection provided by the law.",
+  "CTA": "Request Free Consultation",
+  "topics": [
+    "Workers\u2019 Compensation",
+    "Burn Injury",
+    "Car Accident",
+    "Construction Injury",
+    "Personal Injury",
+    "Wrongful Death",
+    "Eye Injury",
+    "Spinal Cord Injury",
+    "Brain Injury"
+  ],
+
+  "members": "```json\n[\n  {\n    \"name\": \"Jess J. Araujo\",\n    \"position\": \"Attorney\"\n  },\n  {\n    \"name\": \"John A. Montevideo\",\n    \"position\": \"Attorney\"\n  },\n  {\n    \"name\": \"Anthony Modarelli\",\n    \"position\": \"Attorney\"\n  },\n  {\n    \"name\": \"Lupe Morales\",\n    \"position\": \"Attorney\"\n  }\n]\n```",
+  "openHours": "null",
+  "testimonalData": "```json\n[\n    {\n        \"text\": \"Me and my wife were hit by a drunk driver. We share our accident with the law firm and was assigned Frank. He communicated with us all through the case and was able to settle our case with satisfaction. I highly recommend there services.\",\n        \"author\": \"Sergio Rocha\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Anthony Modarelli is an outstanding attorney. He always returned our calls in a timely manner. He always made sure we understood the process of our claim. He always made time during our appointments and never felt rushed. I am so glad we found him and we were pleased with our settlement. Highly recommend him and his firm.\",\n        \"author\": \"Mario Roa\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Everyone I spoke to was professional and friendly from day one. My questions were answered fairly quickly. My attorney, Frank, explained each step of the process as my case proceeded. I was happy with my settlement and happy to have the support I received during a difficult time.\",\n        \"author\": \"Jody A.\",\n        \"location\": null\n    }\n]\n```"
+}
