@@ -1,0 +1,72 @@
+{
+    "paragraph": "Call us at (858) 926-5797 for a consultation.",
+    "detailsData": [
+        {
+            "title": "Experienced Attorneys",
+            "content": "With over 30 years of combined experience, our attorneys bring a wealth of knowledge to each case."
+        },
+        {
+            "title": "Client-Centered Approach",
+            "content": "We prioritize our clients' needs, providing personalized attention and tailored legal solutions."
+        },
+        {
+            "title": "International Reach",
+            "content": "Serving clients not only in California but also internationally, offering diverse legal perspectives."
+        }
+    ],
+    "address": "3033 5th Ave., Suite 222, San Diego, CA 92103",
+    "phoneNumber": "(858) 926-5797",
+    "email": "abc@example.com",
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Our Team",
+        "Practice Areas",
+        "Publications & Seminars",
+        "Contact",
+        "Office"
+    ],
+    "companyName": "Gallagher Krich, APC",
+    "subHeading": "Top-Rated California Business & Contract Lawyers",
+    "valueProp": "Gallagher Krich, APC is a top-rated, highly respected San Diego law firm committed to legal advocacy in our local community and finding creative solutions for businesses & individuals.",
+    "CTA": "FREE CONSULTATION",
+    "topics": [
+        "Contracts",
+        "Business Law",
+        "Real Estate Law",
+        "Personal Injury",
+        "Employment Law",
+        "Insurance Bad Faith",
+        "Collections",
+        "Mediation Services",
+        "Intellectual Property"
+    ],
+    "members": [
+        {
+            "name": "Thomas F. Gallagher, Esq.",
+            "position": "Partner"
+        },
+        {
+            "name": "Troy B. Krich, Esq.",
+            "position": "Partner"
+        }
+    ],
+    "openHours": "Monday-Friday: 8AM\u20136PM, Saturday: 9AM\u20131PM, Sunday: Closed",
+    "testimonalData": [
+        {
+            "text": "Thank you so much for all your help in resolving a real estate matter so quickly and efficiently.",
+            "author": "Mike K.",
+            "location": null
+        },
+        {
+            "text": "If you need a \u201cCloser\u201d, go see Troy. Troy has been one of the best attorneys I have ever worked with.",
+            "author": "Jonas Y.",
+            "location": null
+        },
+        {
+            "text": "I left a voicemail for Tom late Sunday evening and received a phone call first thing the next morning.",
+            "author": "Daniel E.",
+            "location": null
+        }
+    ]
+}

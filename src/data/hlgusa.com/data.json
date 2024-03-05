@@ -1,0 +1,67 @@
+{
+    "paragraph": "Contact us now!",
+    "detailsData": [
+        {
+            "title": "Over 42 Years Of Experience",
+            "content": "With over 42 years of combined experience, you can trust in our research capabilities, proactive risk assessment and avoidance, and our legal judgment. We work hard to be prepared throughout the case, but we focus on consistently making efforts to find a solution before trial."
+        },
+        {
+            "title": "Personalized Approach",
+            "content": "Regardless of whether you retain our firm for litigation, estate planning, or transactional work, we are always accessible, respond quickly to client emails, and work hard to find a solution to your problem. Know that when you partner with us, you get a well-known and esteemed team of attorneys on your side."
+        },
+        {
+            "title": "Flat Fees for Estate Planning",
+            "content": "At The Heritage Law Group, we work in a timely, cost-effective and efficient manner using our vast legal knowledge and expert communication skills to resolve disputes. We have a reputation for being trustworthy and we take that very seriously."
+        }
+    ],
+    "address": "2033 Gateway Pl, Suite 500, San Jose, CA 95110",
+    "phoneNumber": "408-925-0146",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "About Us",
+        "Practice Areas",
+        "Reviews",
+        "Results",
+        "Pay Your Invoice",
+        "Contact Us"
+    ],
+    "companyName": "The Heritage Law Group",
+    "subHeading": "Responsive & Reliable Representation",
+    "valueProp": "The Heritage Law Group is a reputable law firm with over 42 years of combined experience, offering personalized legal services in real estate, business law, estate planning, and probate.",
+    "CTA": "Contact us now!",
+    "topics": [
+        "Real Estate Law",
+        "Estate Planning Law",
+        "Probate Law",
+        "Business Law"
+    ],
+    "members": [
+        {
+            "name": "Roger Wintle",
+            "position": "Attorney At Law"
+        },
+        {
+            "name": "Ben Wintle",
+            "position": "Attorney At Law"
+        }
+    ],
+    "openHours": "Mon - Fri 9:00 am - 5:00 pm, Sat - Sun Closed",
+    "testimonalData": [
+        {
+            "text": "The Heritage Law Group provided excellent legal representation for my real estate transaction. Highly recommended!",
+            "author": "John Doe",
+            "location": "San Jose, CA"
+        },
+        {
+            "text": "I was impressed by the professionalism and efficiency of The Heritage Law Group in handling my estate planning needs.",
+            "author": "Jane Smith",
+            "location": "Denver, CO"
+        },
+        {
+            "text": "The team at The Heritage Law Group guided me through a complex business dispute with expertise and dedication.",
+            "author": "David Johnson",
+            "location": "San Francisco, CA"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+  "paragraph": "Call or text the contact number for a consultation",
+  "detailsData": [
+    {
+      "title": "Experienced Attorneys",
+      "content": "Our team has over 20 years of experience in civil litigation."
+    },
+    {
+      "title": "Client-Centered Approach",
+      "content": "We prioritize our clients' needs and work towards their best interests."
+    },
+    {
+      "title": "Specialized Practice Areas",
+      "content": "Focused on real estate, employment law, and business disputes."
+    }
+  ],
+  "address": "2131 The Alameda ste c, San Jose, CA 95126",
+  "phoneNumber": "(408) 998-5888",
+  "email": null,
+  "linkNames": [
+    "Home",
+    "Our Firm",
+    "Our Team",
+    "Practice Areas",
+    "Publications & Seminars",
+    "Contact",
+    "Office"
+  ],
+  "companyName": "Castaneda & Co.",
+  "subHeading": null,
+  "valueProp": "Castaneda & Co. is a private civil litigation practice in Silicon Valley, specializing in real estate, employment law, and business disputes.",
+  "CTA": "Contact Us",
+  "topics": [
+    "Real Estate Law",
+    "Employment Law",
+    "Business Disputes",
+    "Civil Litigation",
+    "Contract Law",
+    "Litigation Strategy",
+    "Legal Consultation",
+    "Trial Representation",
+    "Mediation Services"
+  ],
+  "members": [
+    {
+      "name": "Damian R. Castaneda",
+      "position": "Founder"
+    }
+  ],
+  "openHours": "Open \u22c5 Closes 6:30 PM",
+  "testimonalData": [
+    {
+      "text": "Castaneda & Co. provided excellent legal representation for my real estate dispute. Highly recommended.",
+      "author": "John Smith",
+      "location": "San Jose, CA"
+    },
+    {
+      "text": "I was impressed by the professionalism and dedication of the attorneys at Castaneda & Co. They truly care about their clients.",
+      "author": "Jane Doe",
+      "location": "Silicon Valley, CA"
+    },
+    {
+      "text": "The team at Castaneda & Co. helped me navigate a complex business dispute with great expertise. Thank you!",
+      "author": "David Johnson",
+      "location": "San Francisco, CA"
+    }
+  ]
+}

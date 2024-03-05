@@ -1,0 +1,72 @@
+{
+    "paragraph": "Schedule a Consultation Today! 858.483.9200 | Click Here to Email Us",
+    "detailsData": [
+        {
+            "title": "Experienced Legal Team",
+            "content": "Our team has years of experience in corporate, securities, contract, healthcare, and intellectual property law."
+        },
+        {
+            "title": "Transparent Billing Practices",
+            "content": "We believe in upfront and honest billing practices, offering flat-fee pricing whenever possible."
+        },
+        {
+            "title": "Personalized Service",
+            "content": "We provide personalized service tailored to the unique needs of each client."
+        }
+    ],
+    "address": "4655 Cass Street, STE 407, San Diego, CA 92109",
+    "phoneNumber": "858.483.9200",
+    "email": "Click Here to Email Us",
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Our Team",
+        "Practice Areas",
+        "Publications & Seminars",
+        "Contact",
+        "Office"
+    ],
+    "companyName": "San Diego Corporate Law",
+    "subHeading": "Transactional Corporate Attorney for Small and Medium Business",
+    "valueProp": "San Diego Corporate Law is a corporate attorney service specializing in corporate, securities, contract, healthcare, and intellectual property law for small and medium businesses.",
+    "CTA": "Schedule a Consultation Today! 858.483.9200 | Click Here to Email Us",
+    "topics": [
+        "Corporate Law",
+        "Securities Law",
+        "Contract Law",
+        "Healthcare Law",
+        "Intellectual Property Law",
+        "Mergers and Acquisitions",
+        "Restructuring",
+        "Professional Corporation Formation",
+        "Non-profit Corporation Formation"
+    ],
+    "members": [
+        {
+            "name": "Michael J. Leonard",
+            "position": "Founding Attorney"
+        },
+        {
+            "name": "Christina Gandy-Delgadillo",
+            "position": "Associate Attorney"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Michael is an exceptional attorney. He helped us navigate complex legal issues with ease.",
+            "author": "John Doe",
+            "location": "San Diego, CA"
+        },
+        {
+            "text": "San Diego Corporate Law provided us with top-notch legal services. Highly recommended!",
+            "author": "Jane Smith",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "The team at San Diego Corporate Law is professional and knowledgeable. They exceeded our expectations.",
+            "author": "Alice Johnson",
+            "location": "San Francisco, CA"
+        }
+    ]
+}

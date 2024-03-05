@@ -1,0 +1,63 @@
+{
+    "paragraph": "Schedule a Free Video Consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Trial Attorney",
+            "content": "Highly experienced and excellent trial attorney with a tradition of excellence."
+        },
+        {
+            "title": "Global Community Contribution",
+            "content": "Founder with a background in contributing to the global community."
+        },
+        {
+            "title": "Specialization in Intellectual Property",
+            "content": "Specialization in Intellectual Property law for comprehensive legal services."
+        }
+    ],
+    "address": "2033 Gateway Place, 5th Floor, San Jose, CA 95110",
+    "phoneNumber": "408-295-6740",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Our Team",
+        "Practice Areas",
+        "Publications & Seminars",
+        "Contact",
+        "Office"
+    ],
+    "companyName": "Law Office of Samira Amato",
+    "subHeading": "Excellence in Trial Advocacy",
+    "valueProp": "Samira Amato is an experienced trial attorney dedicated to achieving favorable results for her clients. With a background in contributing to the global community, she specializes in Intellectual Property law.",
+    "CTA": "Schedule a Free Video Consultation",
+    "topics": [
+        "Family Law Litigation",
+        "Business and Employment Litigation",
+        "Business Organizations",
+        "Civil Litigation"
+    ],
+    "members": [
+        {
+            "name": "Samira Amato",
+            "position": "Founder & Trial Attorney"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Samira is a dedicated attorney who truly cares about her clients and works tirelessly for their best interests.",
+            "author": "John Doe",
+            "location": "San Jose, CA"
+        },
+        {
+            "text": "I was impressed by Samira's knowledge and control over the legal process, she exceeded my expectations.",
+            "author": "Jane Smith",
+            "location": "Santa Clara, CA"
+        },
+        {
+            "text": "Samira fought for what I wanted and I was completely satisfied with the results of my case.",
+            "author": "Alice Johnson",
+            "location": "San Mateo, CA"
+        }
+    ]
+}

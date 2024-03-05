@@ -1,0 +1,68 @@
+{
+    "paragraph": "Call or text the contact number for a consultation.",
+    "detailsData": [
+        {
+            "title": "Experienced Attorneys",
+            "content": "Our attorneys have years of knowledge and experience to ensure optimal outcomes for our clients."
+        },
+        {
+            "title": "Commitment to Clients",
+            "content": "We are dedicated to providing the best service and results for each client we represent."
+        },
+        {
+            "title": "Proactive Business Planning",
+            "content": "We offer proactive business planning to limit legal exposure and build long-term relationships."
+        }
+    ],
+    "address": "4025 Camino Del Rio South, Suite 300, San Diego California 92108",
+    "phoneNumber": "(858) 997-2264",
+    "email": "info@salomlaw.com",
+    "linkNames": [
+        "Home",
+        "Practice Areas",
+        "About",
+        "Testimonials",
+        "News",
+        "Contact"
+    ],
+    "companyName": "Salom Law",
+    "subHeading": "Integrity. Experience. Justice.",
+    "valueProp": "Attorneys Don and Sam are committed to providing the best service and results in Civil Litigation, Business Law, Alternative Dispute Resolution, and Personal Injury cases.",
+    "CTA": "Call or text the contact number for a consultation.",
+    "topics": [
+        "Alternative Dispute Resolution",
+        "Business & Corporate Law",
+        "Civil and Business/Commercial Litigation",
+        "Contract Law",
+        "Enforcement of Judgments and Collections",
+        "Personal Injury"
+    ],
+    "members": [
+        {
+            "name": "Samuel M. Salom",
+            "position": "Attorney at Law"
+        },
+        {
+            "name": "Don Eric Salom",
+            "position": "Attorney at Law"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Highly recommend! Best Experience I've had dealing with an Attorney!",
+            "author": "Tan",
+            "location": null
+        },
+        {
+            "text": "So Helpful! Mr. Salom has given me great advice on starting a small business venture.",
+            "author": "Anthony",
+            "location": null
+        },
+        {
+            "text": "First Class Attorney Who Gets Results For His Clients!",
+            "author": "David S.",
+            "location": null
+        }
+    ]
+}

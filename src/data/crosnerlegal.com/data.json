@@ -1,0 +1,76 @@
+{
+    "paragraph": "Contact us for a consultation.",
+    "detailsData": [
+        {
+            "title": "Experienced Advocates",
+            "content": "Our attorneys have a proven track record of success in complex litigation."
+        },
+        {
+            "title": "Dedicated Staff",
+            "content": "Our team is committed to fighting for justice and advancing employee, consumer, and privacy rights."
+        },
+        {
+            "title": "Personalized Approach",
+            "content": "We connect with our clients on a personal level and work tirelessly to achieve the best outcomes."
+        }
+    ],
+    "address": "9440 Santa Monica Blvd., Ste. 301 Beverly Hills, CA 90210",
+    "phoneNumber": "1-866-CROSNER",
+    "email": "intake@crosnerlegal.com",
+    "linkNames": [
+        "Home",
+        "Who We Are",
+        "Our Staff",
+        "Practice Areas",
+        "Cases",
+        "Blog",
+        "Contact Us"
+    ],
+    "companyName": "Crosner Legal",
+    "subHeading": "We are Litigators Who Get Results",
+    "valueProp": "Crosner Legal is a leading law firm dedicated to fighting for justice and protecting the rights of employees, consumers, and individuals.",
+    "CTA": "Protecting workers from wage theft and harsh working conditions",
+    "topics": [
+        "Wage & Hour",
+        "Consumer Protection",
+        "Privacy Rights",
+        "Mass Arbitration",
+        "Discrimination & Sexual Harassment"
+    ],
+    "members": [
+        {
+            "name": "Zachary Crosner",
+            "position": "Partner/President of Firm"
+        },
+        {
+            "name": "Michael Crosner",
+            "position": "Of Counsel"
+        },
+        {
+            "name": "Jamie Serb",
+            "position": "Partner & Managing Attorney of Wage/Hour Dept"
+        },
+        {
+            "name": "Brandon Brouillette",
+            "position": "Partner & Managing Attorney of Wage/Hour Dept"
+        }
+    ],
+    "openHours": "Monday - Friday: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Crosner Legal fought for my rights and delivered justice. Highly recommended!",
+            "author": "John Doe",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "I was impressed by the professionalism and dedication of the team at Crosner Legal. They truly care about their clients.",
+            "author": "Jane Smith",
+            "location": "San Francisco, CA"
+        },
+        {
+            "text": "Choosing Crosner Legal was the best decision I made. They exceeded my expectations and provided excellent legal representation.",
+            "author": "David Johnson",
+            "location": "New York, NY"
+        }
+    ]
+}

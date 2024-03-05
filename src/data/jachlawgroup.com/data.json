@@ -1,0 +1,72 @@
+{
+    "paragraph": "Call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Legal Team",
+            "content": "Decades of litigation experience and a passion for protecting personal injury victims."
+        },
+        {
+            "title": "Family-Run Firm",
+            "content": "A long-standing reputation for high-quality service and practical solutions."
+        },
+        {
+            "title": "Advocates for Safe Roads",
+            "content": "Attorneys who are avid motorcyclists and cyclists, understanding the dangers on the road."
+        }
+    ],
+    "address": "1550 The Alameda, Suite 100, San Jose, CA 95126",
+    "phoneNumber": "800-646-1222",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Our Team",
+        "Practice Areas",
+        "Publications & Seminars",
+        "Contact",
+        "Office"
+    ],
+    "companyName": "Jachimowicz Law Group",
+    "subHeading": "A Champion for Individuals and Businesses in Northern California",
+    "valueProp": "Jachimowicz Law Group is a champion for Northern California individuals and businesses who require personal injury, criminal defense or employment law representation. We serve individuals and businesses who need aggressive representation from attorneys who have a long history of success.",
+    "CTA": "Get An Obligation-Free Consultation",
+    "topics": [
+        "Personal Injury",
+        "Motor Vehicle Accident",
+        "Motorcycle Accidents",
+        "Bicycle Accidents",
+        "Criminal Defense",
+        "Employment Law",
+        "Workplace Accidents",
+        "Catastrophic injuries",
+        "Product Liability"
+    ],
+    "members": [
+        {
+            "name": "Albie B. Jachimowicz",
+            "position": "Partner"
+        },
+        {
+            "name": "Joshua R. Jachimowicz",
+            "position": "Partner"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "I reached out to Albie for a false criminal case my Ex slapped on me. Albie was very prompt in responding back with his findings on the case and also gave right advice.",
+            "author": "Ravinder V.",
+            "location": null
+        },
+        {
+            "text": "Came in as a walk-in at JP&E, Attorneys at Law and met with Attorney for my consultation, I was very satisfied with the consultation and he answered all of my questions.",
+            "author": "Jennifer D.",
+            "location": null
+        },
+        {
+            "text": "I heard other players saying amazing things about Matt and now I know for myself that it's all true as he never quits until the catch is made!",
+            "author": "Endy Chavez, NY Mets Player",
+            "location": null
+        }
+    ]
+}

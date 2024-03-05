@@ -1,0 +1,61 @@
+{
+  "paragraph": "Contact us now to schedule a consultation.",
+  "detailsData": [
+    {
+      "title": "Experienced Attorneys",
+      "content": "Our attorneys average over thirty years of experience, providing clients with top-notch legal representation."
+    },
+    {
+      "title": "Client-Centered Approach",
+      "content": "We take a flexible approach to legal issues, tailoring solutions to meet the needs of businesses and individuals."
+    },
+    {
+      "title": "Innovative Fee Arrangements",
+      "content": "We offer cost-effective legal solutions with fee arrangements that benefit our clients' bottom lines."
+    }
+  ],
+  "address": "333 W. Santa Clara St., Ste. 910, San Jose, CA 95113",
+  "phoneNumber": "(408) 299-1200",
+  "email": null,
+  "linkNames": ["Home", "The Firm", "Practice Areas", "Contact"],
+  "companyName": "Terra Law LLP",
+  "subHeading": "Accomplished San Jose Attorneys With a Proven Track Record",
+  "valueProp": "Terra Law LLP focuses on implementing solutions that achieve the strategic legal and business goals of its clients in practice areas including litigation, real estate, creditor\u2019s rights, and bankruptcy. Terra Law is a unique law firm offering the highest quality legal services to the real estate, financial and business communities.",
+  "CTA": "Schedule a consultation today!",
+  "topics": [
+    "Business & Commercial Law",
+    "Real Estate Law",
+    "Construction",
+    "Unfair Business Practices",
+    "Financial Institutions & Creditors Rights",
+    "Bankruptcy"
+  ],
+  "members": [
+    {
+      "name": "Douglas D. Hughmanick",
+      "position": "Attorney"
+    },
+    {
+      "name": "Breck E. Milde",
+      "position": "Attorney"
+    }
+  ],
+  "openHours": "Hours may vary, contact for details",
+  "testimonalData": [
+    {
+      "text": "Terra Law LLP provided exceptional legal representation for my business. Highly recommended!",
+      "author": "John Doe",
+      "location": null
+    },
+    {
+      "text": "The attorneys at Terra Law LLP are knowledgeable and dedicated to their clients' success.",
+      "author": "Jane Smith",
+      "location": null
+    },
+    {
+      "text": "I was impressed by the professionalism and expertise of Terra Law LLP. They exceeded my expectations.",
+      "author": "David Johnson",
+      "location": null
+    }
+  ]
+}

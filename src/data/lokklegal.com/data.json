@@ -1,0 +1,80 @@
+{
+    "paragraph": "to call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Attorneys",
+            "content": "Our team of experienced attorneys bring a wealth of knowledge and expertise to every case."
+        },
+        {
+            "title": "Personalized Service",
+            "content": "We provide personalized service to each client, ensuring their unique needs are met."
+        },
+        {
+            "title": "Cost-Effective Solutions",
+            "content": "We offer cost-effective legal solutions without compromising on quality."
+        }
+    ],
+    "address": "501 W Broadway #800, San Diego, California 92101",
+    "phoneNumber": "(858) 472-9700",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "LOKK Legal",
+        "Real Estate Law",
+        "Business Law",
+        "Book",
+        "LOKK News",
+        "Contact"
+    ],
+    "companyName": "LOKK Legal",
+    "subHeading": "Your San Diego Business Lawyer",
+    "valueProp": "LOKK LEGAL provides real estate and business owners with high-quality services.",
+    "CTA": "GET STARTED!",
+    "topics": [
+        "Letter Of Intent",
+        "Purchase And Sale Agreement (Of Property)",
+        "Commercial Real Estate Law",
+        "Lending Money (Promissory Notes, Deed Of Trust, Security Agreements, & Personal Guarantees)",
+        "Construction Law",
+        "Commercial Leases",
+        "Lease With An Option To Purchase",
+        "Residential Lease",
+        "Commission Split Agreement"
+    ],
+    "members": [
+        {
+            "name": "Daryosh Khashayar",
+            "position": "Managing Attorney"
+        },
+        {
+            "name": "Angela Ness",
+            "position": "Associate Attorney"
+        },
+        {
+            "name": "Taylor Marks",
+            "position": "Associate Attorney"
+        },
+        {
+            "name": "Tabitha Darden",
+            "position": "Administrative Assistant"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "LOKK Legal is the best law firm I have ever worked with. Their attention to detail and dedication to their clients is unmatched.",
+            "author": "John Doe",
+            "location": "San Diego, CA"
+        },
+        {
+            "text": "I highly recommend LOKK Legal for all your legal needs. They are professional, knowledgeable, and truly care about their clients.",
+            "author": "Jane Smith",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "Working with LOKK Legal was a great experience. They made the legal process easy to understand and provided excellent guidance throughout.",
+            "author": "David Johnson",
+            "location": "San Francisco, CA"
+        }
+    ]
+}

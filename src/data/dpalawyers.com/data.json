@@ -1,0 +1,67 @@
+{
+    "paragraph": "Call us today for a consultation.",
+    "detailsData": [
+        {
+            "title": "Experienced Partner Level Service",
+            "content": "Delivered from a responsive and cost-efficient platform."
+        },
+        {
+            "title": "Tailored Advice",
+            "content": "Based on your value proposition, style, and negotiating leverage."
+        },
+        {
+            "title": "Fully Committed",
+            "content": "Your needs will be respected, and our experience will save you time."
+        }
+    ],
+    "address": "1100 Lincoln Ave #386 San Jose, CA 95125",
+    "phoneNumber": "(408) 300-5770",
+    "email": "drew@dpalawyers.com",
+    "linkNames": [
+        "Home",
+        "About",
+        "Practice Areas",
+        "Client Experiences",
+        "Resources",
+        "Contact Us"
+    ],
+    "companyName": "DPA Law PC",
+    "subHeading": "Business Law Attorneys",
+    "valueProp": "DPA Law PC is a boutique law firm based in San Jose, California that helps clients in all matters of business law.",
+    "CTA": "Start Your Consultation",
+    "topics": [
+        "Business Contracts & Intellectual Property Agreements",
+        "San Jose Corporate Counsel Business Services Attorney",
+        "Mergers & Acquisitions / Business Purchases & Sales",
+        "Startup Company Services",
+        "Venture Capital & Angel Investment Transactions",
+        "Trade Secret Protection & Employee Mobility",
+        "Business Litigation, Arbitration & Mediation",
+        "Corporate Counsel Business Services",
+        "Corporations"
+    ],
+    "members": [
+        {
+            "name": "Andrew J. Piunti",
+            "position": "Founder / Attorney"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Drew is extremely helpful and knowledgeable and always does things for the best interest of his clients.",
+            "author": "Pawan Uberoy",
+            "location": null
+        },
+        {
+            "text": "Drew really understood the needs of technology startups on both sides of the table.",
+            "author": "Ben Smith",
+            "location": null
+        },
+        {
+            "text": "DPA did not miss a beat and proved to be invaluable to my partners.",
+            "author": "Matt McDaniel",
+            "location": null
+        }
+    ]
+}

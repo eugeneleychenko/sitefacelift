@@ -1,0 +1,67 @@
+{
+    "paragraph": "To schedule your consultation, call (408) 364-1234",
+    "detailsData": [
+        {
+            "title": "Experienced Attorney",
+            "content": "With over 30 years of experience, we provide knowledgeable legal guidance."
+        },
+        {
+            "title": "Multigenerational Practice",
+            "content": "We assist clients of all ages, from children to seniors, in estate planning."
+        },
+        {
+            "title": "Tax Planning Expertise",
+            "content": "Specializing in tax planning strategies to protect your assets and minimize taxes."
+        }
+    ],
+    "address": "14103 Winchester Blvd., #G, Los Gatos, CA 95032",
+    "phoneNumber": "(408) 364-1234",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "Firm Overview",
+        "Attorney",
+        "Estate Planning",
+        "Resources",
+        "Contact"
+    ],
+    "companyName": "Robert A. Froehlich, Attorney at Law",
+    "subHeading": "Protecting Your Legacy",
+    "valueProp": "Robert A. Froehlich, Attorney at Law, is dedicated to providing comprehensive estate planning services to protect your assets and ensure your wishes are followed.",
+    "CTA": "Schedule Your Consultation",
+    "topics": [
+        "Wills & Trusts",
+        "Special Needs Trusts",
+        "Powers of Attorney",
+        "Probate & Trust Administration",
+        "Charitable Giving",
+        "Tax Planning",
+        "Inheritance Protection",
+        "Dangers of an Outdated Trust",
+        "Family Equity Sharing"
+    ],
+    "members": [
+        {
+            "name": "Robert A. Froehlich",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Robert helped me navigate the complexities of estate planning with ease. Highly recommended!",
+            "author": "John Smith",
+            "location": null
+        },
+        {
+            "text": "I am grateful for the personalized attention and expert advice provided by Robert. A true professional!",
+            "author": "Jane Doe",
+            "location": null
+        },
+        {
+            "text": "Robert's knowledge and guidance made the estate planning process smooth and efficient. Thank you!",
+            "author": "David Johnson",
+            "location": null
+        }
+    ]
+}

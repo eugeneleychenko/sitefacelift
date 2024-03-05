@@ -1,0 +1,58 @@
+{
+  "paragraph": "To Call or Text the Contact Number for a Consultation",
+  "detailsData": [
+    {
+      "title": "Experienced Representation",
+      "content": "With years of experience in family law, estate planning, and tax matters, our firm provides knowledgeable and skilled representation."
+    },
+    {
+      "title": "Personalized Approach",
+      "content": "We tailor our legal strategies to each client's unique situation, ensuring personalized attention and solutions."
+    },
+    {
+      "title": "Comprehensive Services",
+      "content": "From family law to estate planning and tax issues, we offer a wide range of services to meet our clients' diverse needs."
+    }
+  ],
+  "address": "2021 The Alameda Suite 200, San Jose, CA 95126",
+  "phoneNumber": "(408)658-8580",
+  "email": "info@camelialaw.com",
+  "linkNames": [
+    "Home",
+    "Our Firm",
+    "Our Team",
+    "Practice Areas",
+    "Publications & Seminars",
+    "Contact",
+    "Office"
+  ],
+  "companyName": "The Law Office of Camelia Mahmoudi",
+  "subHeading": "Helping Families Navigate Legal Challenges",
+  "valueProp": "The Law Office of Camelia Mahmoudi is dedicated to providing expert legal counsel in family law, estate planning, and tax matters. With a focus on personalized service and comprehensive solutions, we strive to guide our clients through challenging legal issues with care and expertise.",
+  "CTA": "Contact us for a consultation",
+  "topics": ["Estate Planning", "Tax", "Probate", "Family Law"],
+  "members": [
+    {
+      "name": "Camelia Mahmoudi",
+      "position": "Principal Attorney"
+    }
+  ],
+  "openHours": "Contact for details",
+  "testimonalData": [
+    {
+      "text": "Camelia helped me through a tough divorce with professionalism and compassion. I highly recommend her services.",
+      "author": "Sarah T.",
+      "location": "San Jose, CA"
+    },
+    {
+      "text": "I was impressed by Camelia's knowledge and dedication to resolving my estate planning issues. She truly cares about her clients.",
+      "author": "John D.",
+      "location": "Santa Clara County, CA"
+    },
+    {
+      "text": "Camelia's expertise in tax matters saved me from a complicated situation. I am grateful for her guidance and support.",
+      "author": "Emily S.",
+      "location": "Silicon Valley, CA"
+    }
+  ]
+}

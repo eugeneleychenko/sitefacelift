@@ -87,7 +87,10 @@ def process_response(response):
 
 # Main function to execute the app logic
 def main():
-    urls = ["http://www.martirelaw.com/", "http://www.martirelaw.com/attorney/", "http://www.martirelaw.com/about-us/"]  # Replace with actual URLs
+    urls = ["https://www.mikesullivanlaw.com/",
+          
+            
+            ]  
     questions = [
         "return the CTA which usually phrases like 'to call or text the contact number for a consultation'. Name the key 'paragraph' ",
         """
@@ -125,7 +128,7 @@ def main():
         
          Name this key 'members' 
         """,
-        " When is the firm open? Name this key 'openHours' " ,
+        " When is the firm open? Respond on one line, never as with multiple keys. Name this key 'openHours' " ,
         
         """
           Return 3 testimonials from this site. They should be in an array of objects, including text, author, location. For example 
@@ -156,6 +159,8 @@ def main():
         company_name = domain.split('.net')[0] + '.net'
     elif '.org' in domain:
         company_name = domain.split('.org')[0] + '.org'
+    elif '.legal' in domain:  # Add this condition to handle .legal domains
+        company_name = domain.split('.legal')[0] + '.legal'
     directory = f'/Users/eugeneleychenko/Downloads/sfl/sitefacelift/src/data/{company_name}'
     os.makedirs(directory, exist_ok=True)
     with open(f'{directory}/data.json', 'w', encoding='utf-8') as jsonfile:

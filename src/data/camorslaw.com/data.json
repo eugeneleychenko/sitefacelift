@@ -1,0 +1,63 @@
+{
+  "paragraph": "To call or text the contact number for a consultation",
+  "detailsData": [
+    {
+      "title": "Experienced Attorney",
+      "content": "Over 30 years of experience in complex commercial and civil cases."
+    },
+    {
+      "title": "Small-Firm Service",
+      "content": "Combines big-firm legal talent with personalized service of a smaller firm."
+    },
+    {
+      "title": "Big-Firm Talent",
+      "content": "Proven legal adviser to business decision-makers in difficult cases."
+    }
+  ],
+  "address": "1501 The Alameda, Suite 210, San Jose, CA 95126",
+  "phoneNumber": "408-780-0524",
+  "email": null,
+  "linkNames": [
+    "Home",
+    "Our Firm",
+    "Our Team",
+    "Practice Areas",
+    "Publications & Seminars",
+    "Contact",
+    "Office"
+  ],
+  "companyName": "Law Offices of Bob Camors",
+  "subHeading": "Trusted, Experienced Attorney Providing Representation In Business Disputes and Litigation",
+  "valueProp": "Attorney Bob Camors has successfully represented individuals and businesses in complex litigation matters for over 30 years.",
+  "CTA": "Contact Us",
+  "topics": [
+    "Business Disputes",
+    "Employment Disputes",
+    "Trust Disputes and Will Contests",
+    "Real Estate and Real Property Disputes"
+  ],
+  "members": [
+    {
+      "name": "Bob Camors",
+      "position": "Founder"
+    }
+  ],
+  "openHours": "Contact for specific hours of operation",
+  "testimonalData": [
+    {
+      "text": "Bob exemplifies the very best our profession has to offer with exceptional legal skills and complete integrity.",
+      "author": "Kathryn Meier",
+      "location": null
+    },
+    {
+      "text": "Bob is a skilled and successful courtroom attorney, with deep experience in resolving disputes through negotiation and alternative dispute resolution.",
+      "author": "Anonymous Client",
+      "location": null
+    },
+    {
+      "text": "I was impressed by Bob's dedication to my case and his ability to navigate complex legal matters with ease.",
+      "author": "Satisfied Client",
+      "location": null
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "paragraph": "To call or text the contact number for a consultation",
+  "detailsData": [
+    {
+      "title": "Expertise in Commercial Litigation",
+      "content": "Proven track record of success in judge and jury trials."
+    },
+    {
+      "title": "Specialization in Intellectual Property",
+      "content": "Extensive experience in developing and protecting IP portfolios."
+    },
+    {
+      "title": "Comprehensive Estate Planning Services",
+      "content": "Dedicated to guiding families through successful estate planning."
+    }
+  ],
+  "address": "Almaden Financial Plaza, 1 Almaden Blvd Suite 810, San Jose, Ca. 95113",
+  "phoneNumber": "408-918-5393",
+  "email": "info@inhouseco.com",
+  "linkNames": [
+    "Home",
+    "Our Firm",
+    "Our Team",
+    "Practice Areas",
+    "Publications & Seminars",
+    "Contact",
+    "Office"
+  ],
+  "companyName": "InHouse Co",
+  "subHeading": "Maximizing Your Legal Interests",
+  "valueProp": "InHouse Co is a leading law firm dedicated to providing exceptional legal services to individuals and businesses. With a focus on commercial litigation, intellectual property, estate planning, and real estate law, we strive to protect and maximize our clients' interests.",
+  "CTA": "Schedule a Consultation Today",
+  "topics": [
+    "Commercial Litigation",
+    "Intellectual Property & Litigation",
+    "Estate Planning",
+    "Real Estate Law",
+    "Cross Border Commercial Debt Collection & Dispute",
+    "Bankruptcy Law",
+    "Corporation Matters",
+    "Business Investment Immigration",
+    "Employment Law"
+  ],
+  "members": [
+    {
+      "name": "Ali Kamarei",
+      "position": "Partner"
+    },
+    {
+      "name": "Alexander Chen",
+      "position": "Partner"
+    },
+    {
+      "name": "Benjamin Hill",
+      "position": "Of Counsel"
+    },
+    {
+      "name": "William Walz",
+      "position": "Of Counsel"
+    }
+  ],
+  "openHours": "Monday - Friday: 9:00 AM - 5:00 PM",
+  "testimonalData": [
+    {
+      "text": "InHouse Co attorneys were very patient and meticulous in handling our insurance litigation case.",
+      "author": "Hollandaise Investment, LLC",
+      "location": null
+    },
+    {
+      "text": "Attorney Alexander Chen is very knowledgeable and professional in helping us obtain our patent.",
+      "author": "Eye OJO Corp.",
+      "location": null
+    },
+    {
+      "text": "We are very pleased with the work of Inhouse Co and their attorneys. They took on our commercial litigation case and got us the result we wanted.",
+      "author": "Elite Automotive Corp.",
+      "location": null
+    }
+  ]
+}
