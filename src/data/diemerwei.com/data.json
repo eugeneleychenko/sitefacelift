@@ -1,0 +1,77 @@
+{
+    "paragraph": "Call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Legal Team",
+            "content": "Attorneys with no less than 25 years of courtroom experience each."
+        },
+        {
+            "title": "Dedicated Representation",
+            "content": "Focused on developing creative, cost-effective solutions to legal problems."
+        },
+        {
+            "title": "Comprehensive Practice Areas",
+            "content": "Handling business law, employment law, telecommunications law, fraud, and bankruptcy."
+        }
+    ],
+    "address": "55 S. Market Street, Suite 1420, San Jose, CA 95113",
+    "phoneNumber": "408-971-6270",
+    "email": "Not provided",
+    "linkNames": [
+        "Home",
+        "THE FIRM",
+        "ATTORNEY PROFILES",
+        "PRACTICE AREAS",
+        "RESOURCES",
+        "ARTICLES",
+        "BLOG",
+        "CONTACT",
+        "COVID-19 UPDATES"
+    ],
+    "companyName": "Diemer & Wei, LLP",
+    "subHeading": "Serving Clients With Integrity and Commitment Since 2003",
+    "valueProp": "Diemer & Wei, LLP is a San Jose law firm providing skilled legal counsel designed to achieve efficient, cost-effective resolutions for businesses and individuals.",
+    "CTA": "CONTACT US LEARN MORE",
+    "topics": [
+        "BUSINESS LAW",
+        "BANKRUPTCY LAW",
+        "REAL ESTATE LAW",
+        "EMPLOYMENT LAW"
+    ],
+    "members": [
+        {
+            "name": "Henry Chuang",
+            "position": "Attorney"
+        },
+        {
+            "name": "Katie S. Diemer",
+            "position": "Attorney"
+        },
+        {
+            "name": "Robert C. Diemer",
+            "position": "Attorney"
+        },
+        {
+            "name": "Julia M. Wei",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Diemer & Wei, LLP provided excellent legal representation. Highly recommended!",
+            "author": "John Doe",
+            "location": "San Jose, CA"
+        },
+        {
+            "text": "I was impressed by the professionalism and expertise of the attorneys at Diemer & Wei, LLP.",
+            "author": "Jane Smith",
+            "location": "Silicon Valley, CA"
+        },
+        {
+            "text": "Great experience working with the team at Diemer & Wei, LLP. They exceeded my expectations.",
+            "author": "David Johnson",
+            "location": "Bay Area, CA"
+        }
+    ]
+}

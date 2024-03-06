@@ -1,0 +1,80 @@
+{
+    "paragraph": "To call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Trial Lawyers",
+            "content": "With a perspective from the bench."
+        },
+        {
+            "title": "Over 50 Years of Service",
+            "content": "Proudly serving Southern California."
+        },
+        {
+            "title": "Focused on Client Success",
+            "content": "Dedicated to achieving the best outcomes."
+        }
+    ],
+    "address": "11801 Pierce Street 2nd Floor Riverside, Ca. 92505",
+    "phoneNumber": "951.667.5792",
+    "email": "admin@walkertriallawyers.com",
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Our Team",
+        "Practice Areas",
+        "Publications & Seminars",
+        "Contact",
+        "Office"
+    ],
+    "companyName": "Walker Trial Lawyers, LLP",
+    "subHeading": "Experienced Trial Lawyers With A Perspective From The Bench",
+    "valueProp": "Walker Trial Lawyers, LLP is a dedicated law firm with a focus on achieving the best outcomes for our clients. With over 50 years of service in Southern California, our experienced trial lawyers bring a unique perspective from the bench to every case.",
+    "CTA": "Proudly Serving Southern California For Over 50 Years",
+    "topics": [
+        "Civil Litigation",
+        "Business Litigation",
+        "Employment Law",
+        "Real Property Litigation",
+        "Construction",
+        "Civil Rights/Discrimination",
+        "Fraud",
+        "Defamation",
+        "Trademark Litigation"
+    ],
+    "members": [
+        {
+            "name": "Hon. Rodney L. Walker, Ret.",
+            "position": "Partner"
+        },
+        {
+            "name": "Barry M. Walker",
+            "position": "Partner"
+        },
+        {
+            "name": "Heather E. Kirk",
+            "position": "Of Counsel"
+        },
+        {
+            "name": "Amy M. Oakden",
+            "position": "Senior Trial Attorney"
+        }
+    ],
+    "openHours": "Mon-Fri: 9am-5pm",
+    "testimonalData": [
+        {
+            "text": "I have never felt more supported in a legal matter. The team at Walker Trial Lawyers truly cares about their clients.",
+            "author": "John Smith",
+            "location": "Riverside, CA"
+        },
+        {
+            "text": "Professionalism and expertise define the service I received from Walker Trial Lawyers. Highly recommended.",
+            "author": "Jane Doe",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "Walker Trial Lawyers exceeded my expectations in every way. Their dedication to my case was unparalleled.",
+            "author": "Alice Johnson",
+            "location": "San Diego, CA"
+        }
+    ]
+}

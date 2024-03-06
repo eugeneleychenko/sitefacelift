@@ -4,6 +4,7 @@ import os
 import json
 from openai import OpenAI
 from dotenv import load_dotenv
+from requests.exceptions import ConnectionError
 
 load_dotenv()
 
@@ -27,14 +28,29 @@ def save_markdown_to_file(markdown, filename):
 # Function to scrape websites and convert pages to markdown
 def scrape_and_convert(urls):
     markdown_files = []
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36'}
     for url in urls:
-        headers = {'User-Agent': 'Mozilla/5.0'}
-        response = requests.get(url, headers=headers)
-        html = response.text
-        markdown = clean_and_convert_to_markdown(html)
-        filename = url.replace("http://", "").replace("https://", "").replace("/", "_") + ".md"
-        markdown_file = save_markdown_to_file(markdown, filename)
-        markdown_files.append(markdown_file)
+        retries = 0
+        max_retries = 3
+        while retries < max_retries:
+            try:
+                response = requests.get(url, headers=headers)
+                if response.status_code == 200:
+                    html = response.text
+                    markdown = clean_and_convert_to_markdown(html)
+                    filename = url.replace("http://", "").replace("https://", "").replace("/", "_") + ".md"
+                    markdown_file = save_markdown_to_file(markdown, filename)
+                    markdown_files.append(markdown_file)
+                    break  # Exit the retry loop if successful
+                else:
+                    print(f"Failed to fetch {url} with status code {response.status_code}")
+                    break  # Exit the retry loop if response code is not 200
+            except ConnectionError as e:
+                print(f"Connection error on attempt {retries+1} for {url}: {e}")
+                retries += 1
+                if retries >= max_retries:
+                    print("Max retries reached. Giving up on " + url)
+                    break  # Exit the retry loop if max retries reached
     return markdown_files
 
 # Function to combine markdown files into one
@@ -56,6 +72,7 @@ def ask_questions_with_openai(markdown_content, questions):
     ]
     completion = client.chat.completions.create(
         model="gpt-3.5-turbo-0125",
+        # model="gpt-4-0125-preview",
         messages=messages,
         temperature=0,
         response_format={"type": "json_object"}
@@ -87,10 +104,7 @@ def process_response(response):
 
 # Main function to execute the app logic
 def main():
-    urls = ["https://www.mikesullivanlaw.com/",
-          
-            
-            ]  
+    urls = ["https://nomoredebt.com/"]
     questions = [
         "return the CTA which usually phrases like 'to call or text the contact number for a consultation'. Name the key 'paragraph' ",
         """
@@ -157,6 +171,8 @@ def main():
         company_name = domain.split('.com')[0] + '.com'
     elif '.net' in domain:
         company_name = domain.split('.net')[0] + '.net'
+    elif '.law' in domain:
+        company_name = domain.split('.law')[0] + '.law'
     elif '.org' in domain:
         company_name = domain.split('.org')[0] + '.org'
     elif '.legal' in domain:  # Add this condition to handle .legal domains

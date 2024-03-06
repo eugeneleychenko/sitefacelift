@@ -1,0 +1,78 @@
+{
+    "paragraph": "Call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Attorneys",
+            "content": "Our attorneys have between 20 and 40 years of experience in their respective practice areas."
+        },
+        {
+            "title": "Personalized Attention",
+            "content": "Clients work directly with their attorney, instead of through layers of assistants or associates."
+        },
+        {
+            "title": "Community Involvement",
+            "content": "Known for leadership roles in professional organizations and community involvement."
+        }
+    ],
+    "address": "160 West Santa Clara Street, Suite 625, San Jose, CA 95113",
+    "phoneNumber": "(408) 293-1900",
+    "email": "info@mcpharlinlaw.com",
+    "linkNames": [
+        "Home",
+        "About Us",
+        "Attorneys",
+        "Expertise",
+        "Training/Events",
+        "Contact"
+    ],
+    "companyName": "McPharlin Sprinkles & Thomas LLP",
+    "subHeading": "San Jose/Silicon Valley Employment, Business & Real Estate Law Firm",
+    "valueProp": "McPharlin Sprinkles & Thomas LLP is a San Jose employment, business and real estate law firm that combines the quality found in large firms with the personal service and economy of a smaller, specialized firm.",
+    "CTA": "You only get experience here \u2013 and experience gets you results",
+    "topics": [
+        "Employment Law",
+        "Real Estate Law",
+        "Business Law",
+        "Litigation",
+        "Neutral Investigations",
+        "Mediation",
+        "Arbitration",
+        "Expert Witness Services"
+    ],
+    "members": [
+        {
+            "name": "Linda Hendrix McPharlin",
+            "position": "Partner"
+        },
+        {
+            "name": "N. David Thomas",
+            "position": "Partner"
+        },
+        {
+            "name": "Paul S. Avilla",
+            "position": "Partner"
+        },
+        {
+            "name": "Daniel J. Mash",
+            "position": "Of Counsel"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "The attorneys at McPharlin Sprinkles & Thomas are exceptional. They provided me with expert legal advice and helped me navigate complex business issues.",
+            "author": "John Doe",
+            "location": "San Jose, CA"
+        },
+        {
+            "text": "I highly recommend McPharlin Sprinkles & Thomas for their professionalism and dedication to achieving the best outcomes for their clients.",
+            "author": "Jane Smith",
+            "location": "Silicon Valley, CA"
+        },
+        {
+            "text": "Working with McPharlin Sprinkles & Thomas was a great experience. Their knowledge and expertise in real estate law helped me secure a successful transaction.",
+            "author": "Robert Johnson",
+            "location": "San Francisco, CA"
+        }
+    ]
+}

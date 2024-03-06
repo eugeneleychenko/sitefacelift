@@ -1,0 +1,67 @@
+{
+    "paragraph": "Call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Attorneys",
+            "content": "Our team of attorneys is highly experienced in handling all types of cases, providing you with the best legal representation."
+        },
+        {
+            "title": "Community Involvement",
+            "content": "We are dedicated to contributing to our community, government, and the legal profession, showing our commitment beyond legal services."
+        },
+        {
+            "title": "Personalized Consultation",
+            "content": "We value our clients as individuals, offering personalized consultations to understand and address their unique legal needs."
+        }
+    ],
+    "address": "PO. Box 70593, Riverside, CA 92513",
+    "phoneNumber": "+1 (951) 733 1097",
+    "email": "info@ajlawfirm.net",
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Our Team",
+        "Practice Areas",
+        "Publications & Seminars",
+        "Contact",
+        "Office"
+    ],
+    "companyName": "Antoniette Jauregui",
+    "subHeading": "Attorney at Law",
+    "valueProp": "Antoniette Jauregui is devoted to providing quality legal counsel in keeping with the highest standards of the profession. Our team truly cares about our clients and their families.",
+    "CTA": "Contact Antoniette Jauregui for a Personalized Consultation",
+    "topics": [
+        "Personal Injury",
+        "Living Trust & Asset Protection",
+        "Consumer Credit Protection",
+        "Divorce & Family Law",
+        "Business & Corporate Law",
+        "Civil Litigation",
+        "Immigration",
+        "Bankruptcy Law"
+    ],
+    "members": [
+        {
+            "name": "Antoniette Jauregui",
+            "position": "Founder & Attorney"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Antoniette Jauregui helped me through a tough divorce case with compassion and expertise.",
+            "author": "John Doe",
+            "location": "Riverside, CA"
+        },
+        {
+            "text": "I was injured in a car accident and Antoniette Jauregui fought for my rights and got me the compensation I deserved.",
+            "author": "Jane Smith",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "The team at Antoniette Jauregui provided me with excellent legal advice for my business, helping me navigate complex corporate laws.",
+            "author": "David Johnson",
+            "location": "San Francisco, CA"
+        }
+    ]
+}

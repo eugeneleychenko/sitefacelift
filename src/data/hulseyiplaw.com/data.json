@@ -1,0 +1,75 @@
+{
+    "paragraph": null,
+    "detailsData": [
+        {
+            "title": "Longevity",
+            "content": "We\u2019re the longest operating patent and trademark boutique firm in Austin, Texas. Founded over 20 years ago, continuously helping clients secure valuable intellectual property rights."
+        },
+        {
+            "title": "Expertise",
+            "content": "Led by Bill Hulsey Patent Lawyer, with 30+ years of experience, our firm is dedicated to securing top-quality, valuable patents, trademarks, and other IP legal rights using American and international legal systems."
+        },
+        {
+            "title": "Diverse Experience",
+            "content": "Our practice serves a wide range of industries including energy, space technology, medical devices, electronics, software, Internet, chemical, materials, photonics, and consumer products."
+        }
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "ABOUT",
+        "PRACTICE",
+        "PROFICIENCIES",
+        "OUR PEOPLE",
+        "CONTACT"
+    ],
+    "companyName": "Hulsey PC \u2013 Patents and Trademarks",
+    "subHeading": "20 years in business",
+    "valueProp": "We\u2019re the longest operating patent and trademark boutique firm in Austin, Texas. Founded over 20 years ago in Austin, a city nationally known as \"Idea City,\" Hulsey P.C. has been continuously helping clients secure valuable intellectual property rights as they establish and grow their innovative, entrepreneurial businesses. If you have an idea, we can probably help.",
+    "CTA": "Schedule a free consult",
+    "topics": [
+        "Copyright",
+        "Patents",
+        "Legal Advice",
+        "Trademarks",
+        "IP & Patent Practice",
+        "International IP",
+        "Technology Licenses",
+        "Energy",
+        "Space Technology"
+    ],
+    "members": [
+        {
+            "name": "Bill Hulsey",
+            "position": "Patent Lawyer"
+        },
+        {
+            "name": "Donna B. Hulsey",
+            "position": "Firm Manager / Director of Accounts"
+        },
+        {
+            "name": "Adrian Resendez",
+            "position": "Trademark Attorney"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Mr. Hulsey is an outstanding professional. He is straight-forward and knowledgeable. He has tremendous experience in US and international IP issues. Bill and his staff are quickly responsive and take the time to explain the hows and whys of IP law.",
+            "author": "Mark A.",
+            "location": "Houston, TX"
+        },
+        {
+            "text": "Their expertise in their field is matched only by their enthusiasm to help us succeed in ours. Foresight, execution, responsiveness and success are hallmarks of our experience with Bill Hulsey and his team.",
+            "author": "Dr. Charlie D.",
+            "location": "Rochester, NY"
+        },
+        {
+            "text": "For many years, Bill Hulsey and his associates have provided the very best assistance in drafting patent applications and taking them from the beginning stages to issued patents around the world.",
+            "author": "Ali G.",
+            "location": "Austin, TX"
+        }
+    ]
+}

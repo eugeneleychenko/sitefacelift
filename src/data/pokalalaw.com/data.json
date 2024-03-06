@@ -1,0 +1,70 @@
+{
+    "paragraph": "Schedule an appointment today",
+    "detailsData": [
+        {
+            "title": "Experienced & Affordable",
+            "content": "Offering competent, fair-priced legal advice with a personal touch."
+        },
+        {
+            "title": "Committed to Small Businesses",
+            "content": "Passionate about helping small business owners succeed."
+        },
+        {
+            "title": "Specializing in Small Business",
+            "content": "Focused on providing legal services tailored for small businesses."
+        }
+    ],
+    "address": "2535 Kettner Blvd. Suite 2C-2. San Diego, CA 92101",
+    "phoneNumber": "1-844-695-1487",
+    "email": "info@pokalalaw.com",
+    "linkNames": [
+        "Home",
+        "About",
+        "Team",
+        "Practice Areas",
+        "News",
+        "Contact"
+    ],
+    "companyName": "Pokala Law APC",
+    "subHeading": "Helping Southern California\u2019s Small Business Owners Succeed",
+    "valueProp": "Pokala Law APC is committed to helping small business owners in the San Diego area to succeed. We have a real passion for helping small business clients, especially those in the arts sector, navigate the legalities connected to running a business.",
+    "CTA": "Helping Southern California\u2019s Small Business Owners Succeed",
+    "topics": [
+        "Employment Law - Employer Defense",
+        "Employment Law - Employee Plaintiff",
+        "Business Formation",
+        "Contracts & Agreements",
+        "ADA Defense",
+        "Intellectual Property",
+        "Litigation",
+        "Tax Law"
+    ],
+    "members": [
+        {
+            "name": "Kalyan D. Pokala",
+            "position": "Founder & Attorney"
+        },
+        {
+            "name": "Clarence Reyes",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": "Monday-Friday: 9 AM to 5:30 PM",
+    "testimonalData": [
+        {
+            "text": "Kalyan is a fantastic lawyer who truly cares about his clients. He helped me navigate a complex legal issue with ease.",
+            "author": "Sarah Johnson",
+            "location": "San Diego, CA"
+        },
+        {
+            "text": "The team at Pokala Law APC is top-notch. They provided me with excellent legal advice and support for my business.",
+            "author": "Michael Smith",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "I highly recommend Pokala Law APC for any small business legal needs. They are professional, knowledgeable, and dedicated.",
+            "author": "Emily Brown",
+            "location": "San Francisco, CA"
+        }
+    ]
+}

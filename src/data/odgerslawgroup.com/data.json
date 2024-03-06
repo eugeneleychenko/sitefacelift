@@ -1,0 +1,68 @@
+{
+    "paragraph": "Schedule a Free Consult",
+    "detailsData": [
+        {
+            "title": "Specialized Dental Focus",
+            "content": "Exclusive focus on dental law ensures in-depth expertise and tailored solutions."
+        },
+        {
+            "title": "Flat Fee Billing",
+            "content": "Transparent pricing with flat fees for better client-lawyer alignment."
+        },
+        {
+            "title": "Pro Bono Work",
+            "content": "Dedication to community service through pro bono legal work."
+        }
+    ],
+    "address": "1901 Camino Vida Roble, STE 112, Carlsbad, CA 92008",
+    "phoneNumber": "858-869-1114",
+    "email": "Info@OdgersLegal.com",
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Our Team",
+        "Practice Areas",
+        "Publications & Seminars",
+        "Contact",
+        "Office"
+    ],
+    "companyName": "Odgers Law Group",
+    "subHeading": "Top California Law Firm for Dentists",
+    "valueProp": "Odgers Law Group is a premier dental law firm specializing exclusively in transactional dental services, providing expert legal guidance for dentists at all career stages.",
+    "CTA": "Call for a Free Consult!",
+    "topics": [
+        "Dental Practice Letter of Intent (LOI)",
+        "Buying a Dental Practice",
+        "Dental Office Leases",
+        "Dental Corporations",
+        "Dental Partnerships",
+        "Dental Associate Agreements",
+        "Dental Start Up's",
+        "Dental Support Organizations (DSO)",
+        "Estate Planning for Dentists"
+    ],
+    "members": [
+        {
+            "name": "Matthew Odgers",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Matt and his team helped me while transitioning dental practices and did an excellent job!",
+            "author": "Dr. Alexander Hall",
+            "location": null
+        },
+        {
+            "text": "Odgers Law Group did our contract for our dental practice buy-in. He represented both the buyer and seller in our case as we didn't want an attorney to attorney tug-a-war.",
+            "author": "Dr. McDonald",
+            "location": null
+        },
+        {
+            "text": "Odgers Law Group did a fantastic job with our dental office transition. We could not have done it without him.",
+            "author": "Dr. Ron Barry",
+            "location": null
+        }
+    ]
+}

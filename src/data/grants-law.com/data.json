@@ -1,0 +1,66 @@
+{
+    "paragraph": "To call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Specialized Legal Focus",
+            "content": "Premium legal services without a premium price."
+        },
+        {
+            "title": "Advanced Office Techniques",
+            "content": "Utilizing technology to reduce costs and provide top-notch advice."
+        },
+        {
+            "title": "Quality Client Relationships",
+            "content": "Building long-term relationships for client success."
+        }
+    ],
+    "address": "7545 Irvine Center Drive #200, Irvine, CA 92618",
+    "phoneNumber": "(888)937-7555",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "The Firm",
+        "Practice Areas",
+        "Overview of Services",
+        "Contact Us"
+    ],
+    "companyName": "Grant's Law",
+    "subHeading": "Protecting and enhancing business ideas and innovations",
+    "valueProp": "Grant\u2019s Law Firm is uniquely positioned to advise individuals, start-ups and small business clients, to offer them premium, individualized legal services without a premium price. We use advanced office techniques and technologies to reduce staffing needs and employ other cost-saving measures to reduce our overhead.",
+    "CTA": "Protecting Your Ideas",
+    "topics": [
+        "Business Formation",
+        "Contract Law",
+        "Civil Litigation",
+        "Employment Law",
+        "Franchise Law",
+        "Patent Law",
+        "Trademark Law",
+        "Trade Dress Law",
+        "Licensing Law"
+    ],
+    "members": [
+        {
+            "name": "Allan H. Grant",
+            "position": "Founder"
+        }
+    ],
+    "openHours": "Mon-Fri: 9am-5pm",
+    "testimonalData": [
+        {
+            "text": "Grant's Law Firm provided exceptional legal advice that helped us navigate complex business challenges.",
+            "author": "John Doe",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "I highly recommend Grant's Law Firm for their expertise in intellectual property law. They truly care about their clients' success.",
+            "author": "Jane Smith",
+            "location": "Orange County, CA"
+        },
+        {
+            "text": "Grant's Law Firm exceeded our expectations in handling our patent registration process. Their attention to detail is unmatched.",
+            "author": "David Johnson",
+            "location": "Riverside, CA"
+        }
+    ]
+}

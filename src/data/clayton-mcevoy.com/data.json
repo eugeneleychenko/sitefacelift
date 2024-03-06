@@ -1,0 +1,59 @@
+{
+    "paragraph": "Call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Personalized Representation",
+            "content": "Results With Integrity. Inquire Today."
+        },
+        {
+            "title": "Facilitating Future Successes",
+            "content": "Dedicated to clients' business law and real estate objectives. Personal and individual representation."
+        },
+        {
+            "title": "Experienced Attorney",
+            "content": "Well-prepared business litigation attorney. Helping clients navigate legal challenges."
+        }
+    ],
+    "address": "333 West Santa Clara Street, Suite 618, San Jose, CA 95113",
+    "phoneNumber": "408-293-9100",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "About",
+        "Contact"
+    ],
+    "companyName": "Clayton & McEvoy P.C.",
+    "subHeading": "Law offices in downtown San Jose, California",
+    "valueProp": "Clayton & McEvoy P.C. aims to provide legal expertise and professional integrity of the highest quality at a reasonable cost. We represent and support many dedicated individuals and businesses in the fields of technology, communications, science and medicine, real estate, land use and development in Silicon Valley.",
+    "CTA": "Inquire Today",
+    "topics": [
+        "Business And Commercial Law",
+        "Civil Litigation",
+        "Commercial And Residential Real Estate",
+        "Estate Planning"
+    ],
+    "members": [
+        {
+            "name": "William B. Clayton Jr.",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Clayton & McEvoy P.C. provided exceptional legal support for my business. Highly recommended!",
+            "author": "John Doe",
+            "location": null
+        },
+        {
+            "text": "I was impressed by the professionalism and dedication of the team at Clayton & McEvoy P.C. They truly care about their clients.",
+            "author": "Jane Smith",
+            "location": null
+        },
+        {
+            "text": "The legal advice I received from Clayton & McEvoy P.C. was invaluable in navigating complex business matters. Thank you!",
+            "author": "David Johnson",
+            "location": null
+        }
+    ]
+}

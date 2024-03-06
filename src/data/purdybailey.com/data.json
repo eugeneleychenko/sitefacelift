@@ -1,0 +1,72 @@
+{
+    "paragraph": "Call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Comprehensive Legal Services",
+            "content": "We handle a wide variety of legal matters related to business law, providing sound legal counsel from an experienced team of San Diego business attorneys."
+        },
+        {
+            "title": "Aggressive Representation",
+            "content": "We provide aggressive representation in court, ensuring that our clients' interests are prioritized and protected."
+        },
+        {
+            "title": "Cost-Effective Results",
+            "content": "Our firm is focused on efficient and cost-effective results, delivering personalized attention and invaluable legal advice to business owners."
+        }
+    ],
+    "address": "12520 High Bluff Drive, Suite 220, San Diego, CA 92130",
+    "phoneNumber": "858-360-7080",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "About Us",
+        "Business Formation & Dissolution",
+        "Business Law & Litigation",
+        "Real Estate",
+        "Reviews",
+        "Blog",
+        "Make A Payment",
+        "Video Center",
+        "Contact Us",
+        "Site Map"
+    ],
+    "companyName": "Purdy & Bailey, LLP",
+    "subHeading": "Dedicated San Diego Business Attorneys",
+    "valueProp": "Our dedicated legal team at Purdy & Bailey, LLP understands the value of a well-stocked toolbox. By focusing on multiple aspects of business law, our San Diego business lawyers bring a breadth of experience to each client's case.",
+    "CTA": "See How We Can Help You",
+    "topics": [
+        "Business Contracts",
+        "Business Litigation",
+        "Corporate Entity Formation & Dissolution",
+        "Cannabis Business Law",
+        "Real Estate Litigation & Contracts"
+    ],
+    "members": [
+        {
+            "name": "Charles E. Purdy IV",
+            "position": "Attorney"
+        },
+        {
+            "name": "Micah Bailey",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "I plan to use them in the future whenever I need legal assistance.",
+            "author": "M.B.",
+            "location": null
+        },
+        {
+            "text": "He was upfront, honest, candid and immediately put us at ease in what was an extremely unsettling situation and the first time we had to deal with anything like this.",
+            "author": "K.B.",
+            "location": null
+        },
+        {
+            "text": "I found them both to be caring and easy to talk to when navigating the legal in's and out's of my case.",
+            "author": "S.G.",
+            "location": null
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "paragraph": "Call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Attorneys",
+            "content": "Each Attorney has over 30+ years of legal experience. UCLA Graduates."
+        },
+        {
+            "title": "Provide Excellence",
+            "content": "We provide personal and sound legal advice to our Clients."
+        },
+        {
+            "title": "Attorneys on Retainer",
+            "content": "Our Attorneys offer Clients legal advice and provide them with information and resources to make legal and business decisions."
+        }
+    ],
+    "address": "950 College Avenue Santa Rosa, CA. 95404",
+    "phoneNumber": "(707) 578-8212",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Practice Areas",
+        "Legal Tips",
+        "Client Services",
+        "Contact Us"
+    ],
+    "companyName": "Fritz Law Offices",
+    "subHeading": "Employment, Business & Bankruptcy Attorneys",
+    "valueProp": "The Fritz Law Offices advises businesses from start-up to retirement and everything in-between, as part of the Client's business plan for success. We provide Employment Law & HR support to Employers and Non-Profit Organizations.",
+    "CTA": "Why Choose Our Firm",
+    "topics": [
+        "Covid-19",
+        "Business Law",
+        "Employment Law",
+        "Unfair Competition",
+        "On-Boarding Employees",
+        "Business Litigation",
+        "Real Estate Transactions",
+        "Construction Law",
+        "Bankruptcy Law"
+    ],
+    "members": [
+        {
+            "name": "Theresa Rodriguez Fritz, Attorney",
+            "position": "Attorney"
+        },
+        {
+            "name": "William F. Fritz, Attorney",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": "Call for an Appointment",
+    "testimonalData": [
+        {
+            "text": "Theresa Fritz has been La Tortilla Factory's Family Business HR attorney for over 25 years. Theresa has always been accessible, quick to respond, and knowledgeable in the ever-changing HR arena.",
+            "author": "Carlos Tamayo",
+            "location": null
+        },
+        {
+            "text": "Fritz Law Offices has been of invaluable help to our small business. Since 2018 the Fritz team has been available to support us, keep us informed on all our HR and general legal practices to correctly follow CA Law.",
+            "author": "Angela Pryor, General Manager & Managing Member",
+            "location": null
+        },
+        {
+            "text": "For a wide range of HR issues, we can always count on Theresa Fritz and Fritz Law Offices to provide clear, complete, accurate, and timely advice.",
+            "author": "Jeff Nathanson, Executive Director",
+            "location": null
+        }
+    ]
+}

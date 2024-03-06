@@ -1,0 +1,83 @@
+{
+    "paragraph": "Call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Advocacy",
+            "content": "Over 30 years of experience providing strong advocacy to clients in San Diego and throughout California."
+        },
+        {
+            "title": "Proven Track Record",
+            "content": "Over 140 settlements and verdicts exceeding $1 million each, the most in San Diego."
+        },
+        {
+            "title": "Elite Legal Services",
+            "content": "Recognized for excellence and reputation for successful outcomes in personal injury and business litigation."
+        }
+    ],
+    "address": "1144 State Street, San Diego, CA 92101",
+    "phoneNumber": "(619) 215-1488",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Our Team",
+        "Personal Injury",
+        "Business Litigation",
+        "In the News",
+        "Case Results",
+        "Blog",
+        "Contact Us",
+        "En Espa\u00f1ol"
+    ],
+    "companyName": "The McClellan Law Firm",
+    "subHeading": "San Diego Personal Injury & Business Litigation Attorneys",
+    "valueProp": "The McClellan Law Firm provides strong advocacy to personal injury and business litigation clients in San Diego. With over 30 years of experience, we have a reputation for excellence and successful outcomes.",
+    "CTA": "Experience Matters",
+    "topics": [
+        "Airplane Accidents",
+        "Automotive Defects",
+        "Bicycle Accidents",
+        "Car Accidents",
+        "Child Injuries",
+        "Defective Medical Devices",
+        "Dog Bites",
+        "Food Poisoning",
+        "Government Liability"
+    ],
+    "members": [
+        {
+            "name": "Craig R. McClellan",
+            "position": "Founding Partner"
+        },
+        {
+            "name": "Conor J. Hulburt",
+            "position": "Attorney"
+        },
+        {
+            "name": "Barbara Rope",
+            "position": "Case Manager"
+        },
+        {
+            "name": "Carlie Ramos",
+            "position": "Paralegal"
+        }
+    ],
+    "openHours": "Monday - Friday: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "The McClellan Law Firm provided exceptional legal services and achieved a successful outcome for my case.",
+            "author": "John Doe",
+            "location": "San Diego, CA"
+        },
+        {
+            "text": "I highly recommend The McClellan Law Firm for their professionalism and dedication to their clients.",
+            "author": "Jane Smith",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "Craig McClellan and his team are true experts in personal injury law, and I am grateful for their representation.",
+            "author": "Alice Johnson",
+            "location": "San Francisco, CA"
+        }
+    ]
+}

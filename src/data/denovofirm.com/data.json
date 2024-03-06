@@ -1,0 +1,32 @@
+{
+    "paragraph": null,
+    "detailsData": null,
+    "address": null,
+    "phoneNumber": null,
+    "email": null,
+    "linkNames": null,
+    "companyName": null,
+    "subHeading": null,
+    "valueProp": null,
+    "CTA": null,
+    "topics": null,
+    "members": null,
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "The firm's dedication to understanding and meeting our needs has been exceptional. Their expertise and professionalism are unmatched.",
+            "author": "John Doe",
+            "location": null
+        },
+        {
+            "text": "I was thoroughly impressed by the team's ability to handle complex legal issues with ease and efficiency. Their attention to detail is commendable.",
+            "author": "Jane Smith",
+            "location": null
+        },
+        {
+            "text": "Their commitment to providing personalized service and achieving the best possible outcomes for their clients is what sets them apart.",
+            "author": "Michael Brown",
+            "location": null
+        }
+    ]
+}

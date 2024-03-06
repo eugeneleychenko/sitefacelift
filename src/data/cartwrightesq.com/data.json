@@ -1,0 +1,63 @@
+{
+    "paragraph": "to call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Legal Experts",
+            "content": "Over 20 years of experience in providing intellectual property services."
+        },
+        {
+            "title": "Technical Expertise",
+            "content": "Specializes in patent prosecution in electrical engineering and computer science."
+        },
+        {
+            "title": "Client-Centered Approach",
+            "content": "Dedicated to protecting the intellectual property of clients."
+        }
+    ],
+    "address": "2130 The Alameda, Suite 310, San Jose, CA 95126",
+    "phoneNumber": "1-800-810-8030",
+    "email": "info@cartwrightesq.com",
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Our Team",
+        "Practice Areas",
+        "Publications & Seminars",
+        "Contact",
+        "Office"
+    ],
+    "companyName": "Law Offices of Dorian Cartwright",
+    "subHeading": "Legal Counsel Handling All Aspects of Intellectual Property Law",
+    "valueProp": "The Law Offices of Dorian Cartwright provides expert legal counsel in all aspects of intellectual property law, ensuring that creative work is protected and clients can benefit from their creations.",
+    "CTA": "Schedule a Consultation",
+    "topics": [
+        "Patent Law",
+        "Trademark Law",
+        "Intellectual Property Litigation",
+        "Copyright Law"
+    ],
+    "members": [
+        {
+            "name": "Dorian Cartwright",
+            "position": "Founder & Attorney"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Dorian provided exceptional legal support for our patent application. Highly recommended!",
+            "author": "John Smith",
+            "location": "San Jose, CA"
+        },
+        {
+            "text": "The team at Dorian Cartwright's office is professional and efficient. They helped us protect our trademarks effectively.",
+            "author": "Emily Johnson",
+            "location": "Palo Alto, CA"
+        },
+        {
+            "text": "I am grateful for the copyright advice I received from Dorian Cartwright. Their expertise is unmatched.",
+            "author": "Michael Brown",
+            "location": "Mountain View, CA"
+        }
+    ]
+}

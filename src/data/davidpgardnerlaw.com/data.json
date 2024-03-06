@@ -1,0 +1,61 @@
+{
+    "paragraph": "Call for a consultation today.",
+    "detailsData": [
+        {
+            "title": "Highly Recommended",
+            "content": "Local businesses highly recommend this firm for their legal services."
+        },
+        {
+            "title": "After hours availability",
+            "content": "The firm offers after-hours and weekend appointments for client convenience."
+        },
+        {
+            "title": "Compassionate Service",
+            "content": "Experienced and compassionate attorneys provide understanding and support to clients."
+        }
+    ],
+    "address": "1390 N. McDowell Blvd., Ste. G-294, Petaluma, California 94954, United States",
+    "phoneNumber": "(707) 658-2739",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "CHAPTER 7 BANKRUPTCY",
+        "CHAPTER 13 BANKRUPTCY",
+        "DEBT SETTLEMENT",
+        "CONTACT"
+    ],
+    "companyName": "Law Office of David P. Gardner",
+    "subHeading": "Experienced and Compassionate Legal Services",
+    "valueProp": "The Law Office of David P. Gardner provides professional and compassionate legal services to help clients navigate through challenging legal situations.",
+    "CTA": "Call for a consultation today.",
+    "topics": [
+        "Bankruptcy",
+        "Debt Settlement",
+        "Chapter 7 Bankruptcy",
+        "Chapter 13 Bankruptcy"
+    ],
+    "members": [
+        {
+            "name": "David P. Gardner",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": "Open today 09:00 am \u2013 05:00 pm",
+    "testimonalData": [
+        {
+            "text": "Mr. Gardner, we both thank you for your professional and great services that you furnished in our case.",
+            "author": "J.F.",
+            "location": null
+        },
+        {
+            "text": "Dear David, We thank you from the bottom of our hearts for guiding us through this legal process.",
+            "author": "E.B.",
+            "location": null
+        },
+        {
+            "text": "Dave, I want to thank you so much for your time and hard work. It was a huge step for getting my life back on track.",
+            "author": "V.H.",
+            "location": null
+        }
+    ]
+}

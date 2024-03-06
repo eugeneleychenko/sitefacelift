@@ -1,0 +1,67 @@
+{
+    "paragraph": "to call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Legal Representation",
+            "content": "With years of experience, our firm provides top-notch legal representation in various practice areas."
+        },
+        {
+            "title": "Client-Centered Approach",
+            "content": "We prioritize our clients' needs and work closely with them to achieve the best possible outcomes."
+        },
+        {
+            "title": "Proven Track Record",
+            "content": "Our firm has a history of successful cases and satisfied clients, setting us apart in the legal field."
+        }
+    ],
+    "address": "501 West Broadway, Suite 1370, San Diego, CA 92101",
+    "phoneNumber": "619.564.3650",
+    "email": "greg@olsonesq.com",
+    "linkNames": [
+        "Home",
+        "Practice Areas",
+        "Business Law",
+        "Trade Secrets Law",
+        "Employment Law & Litigation",
+        "Trademarks",
+        "Contact"
+    ],
+    "companyName": "Law Office of Gregory P. Olson",
+    "subHeading": "Experienced Legal Representation in San Diego",
+    "valueProp": "The Law Office of Gregory P. Olson provides expert legal services in a client-centered approach, ensuring the best outcomes for our clients in various legal matters.",
+    "CTA": "Contact Us",
+    "topics": [
+        "Litigation",
+        "Real Estate Law & Litigation",
+        "Business Law",
+        "Trade Secrets Law",
+        "Employment Law & Litigation",
+        "Trademarks",
+        "Contract Disputes",
+        "Defamation"
+    ],
+    "members": [
+        {
+            "name": "Gregory P. Olson",
+            "position": "Principal Attorney"
+        }
+    ],
+    "openHours": "Monday - Friday: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Greg Olson is a superior attorney. He defended my company in a business litigation matter efficiently and effectively.",
+            "author": "Mike B.",
+            "location": null
+        },
+        {
+            "text": "Business attorney Greg Olson has helped my husband and me with business litigation as it related to the closure of our business.",
+            "author": "Sarah L.",
+            "location": null
+        },
+        {
+            "text": "Greg expertly handled two very different legal situations for me recently. Both situations were resolved in a favorable manner.",
+            "author": "Teresa",
+            "location": null
+        }
+    ]
+}

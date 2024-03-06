@@ -1,0 +1,65 @@
+{
+  "paragraph": "Schedule a Consultation Today",
+  "detailsData": [
+    {
+      "title": "Experienced Professionals",
+      "content": "With over 15 years of experience, our team provides expert legal services tailored to your needs."
+    },
+    {
+      "title": "Comprehensive Services",
+      "content": "From estate planning to business law, we offer a wide range of legal services to meet your requirements."
+    },
+    {
+      "title": "Client-Centered Approach",
+      "content": "We prioritize understanding your unique situation to deliver personalized solutions that work for you."
+    }
+  ],
+  "address": "2535 Kettner Blvd, Ste 3A2, San Diego, CA 92101",
+  "phoneNumber": "(858) 373-5555",
+  "email": "info@alexanderandassociates.law",
+  "linkNames": [
+    "Home",
+    "Our Firm",
+    "Our Team",
+    "Practice Areas",
+    "Publications & Seminars",
+    "Contact",
+    "Office"
+  ],
+  "companyName": "Alexander & Associates, APC",
+  "subHeading": "Your Future is Our Business",
+  "valueProp": "Alexander & Associates is a professional law corporation specializing in estate planning, corporate law, tax planning, and business transactions. Our team is dedicated to providing top-notch legal services tailored to your needs.",
+  "CTA": "Your first consultation is free.",
+  "topics": [
+    "Estate Planning",
+    "Corporate Law",
+    "Tax Planning",
+    "Civil & Estate Litigation",
+    "Transactional",
+    "Business Law"
+  ],
+  "members": [
+    {
+      "name": "Brian D. Alexander",
+      "position": "Managing Attorney"
+    }
+  ],
+  "openHours": "Our offices are open from 9 AM to 5 PM Monday through Thursday and by appointment only on Friday.",
+  "testimonalData": [
+    {
+      "text": "Brian did a remarkable job collecting the required documentation to get my trust/will developed prior to my deployment in support of an armed service mobilization.",
+      "author": "Ashley",
+      "location": null
+    },
+    {
+      "text": "My husband and I used Brian for our Estate planning and we were very pleased. Brian is knowledgeable and was able to provide us with all the answers we needed. We had an Estate plan within weeks of meeting with Brian.",
+      "author": "Lynn",
+      "location": null
+    },
+    {
+      "text": "Brian is my go-to lawyer. He has been there for me and so many of my teammates over the years.",
+      "author": "Dwight Gooden",
+      "location": null
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+    "paragraph": "Call today: 707-387-0955 for assistance or contact us by email.",
+    "detailsData": [
+        {
+            "title": "Experienced Litigator",
+            "content": "More than 25 years of litigation experience."
+        },
+        {
+            "title": "Personalized Service",
+            "content": "Partner-level experience with personalized service."
+        },
+        {
+            "title": "Proven Record of Success",
+            "content": "Strong reputation for integrity, professionalism, and trusted service."
+        }
+    ],
+    "address": "740 4th Street, Second Floor, Santa Rosa, CA 95404",
+    "phoneNumber": "707-387-0955",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "About",
+        "Practice Areas",
+        "Case Results",
+        "Articles",
+        "Blog",
+        "Contact"
+    ],
+    "companyName": "Law Office of Ethan A. Glaubiger",
+    "subHeading": "The Right Attorney Makes A Difference",
+    "valueProp": "At the Law Office of Ethan A. Glaubiger, we are committed to providing each of our clients with quality legal representation and superior service. We work closely with our clients, many of whom are involved in litigation and require the assistance of an experienced litigator.",
+    "CTA": "Discover More Articles",
+    "topics": [
+        "Business Law",
+        "Real Estate Law",
+        "Insurance Disputes",
+        "Contract Disputes",
+        "Landlord-Tenant Law",
+        "Real Estate Litigation",
+        "Business Litigation",
+        "Before Signing A Real Estate Lease",
+        "Buying And Selling Real Estate"
+    ],
+    "members": [
+        {
+            "name": "Ethan A. Glaubiger",
+            "position": "Santa Rosa Attorney"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Ethan is an exceptional attorney. His dedication to his clients is unmatched.",
+            "author": "John Doe",
+            "location": "Santa Rosa, CA"
+        },
+        {
+            "text": "I highly recommend Ethan for any legal matters. He is knowledgeable and efficient.",
+            "author": "Jane Smith",
+            "location": "Sonoma County, CA"
+        },
+        {
+            "text": "Ethan helped me navigate a complex real estate dispute with great success. Thank you!",
+            "author": "David Johnson",
+            "location": "Napa Valley, CA"
+        }
+    ]
+}

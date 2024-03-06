@@ -1,0 +1,67 @@
+{
+    "paragraph": "Contact us for a consultation.",
+    "detailsData": [
+        {
+            "title": "Experienced Representation",
+            "content": "Representing employees and employers since 1997."
+        },
+        {
+            "title": "Educating Attorneys",
+            "content": "Educates attorneys and HR Professionals regarding California employment laws."
+        },
+        {
+            "title": "Professional Guidance",
+            "content": "Helps you understand how the law affects your rights and responsibilities."
+        }
+    ],
+    "address": "5820 Stoneridge Mall Road, Suite 207, Pleasanton, CA 94588",
+    "phoneNumber": "925-400-9052",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "About",
+        "Practice Areas",
+        "Legal Updates",
+        "Testimonials",
+        "Contact"
+    ],
+    "companyName": "Nuddleman Law Firm, P.C.",
+    "subHeading": "Employment & Business Law",
+    "valueProp": "Dedicated to protecting the workplace. The Nuddleman Law Firm represents employers and employees, giving us an advantage over firms that only focus on one side or the other.",
+    "CTA": "Representing employees and employers since 1997.",
+    "topics": [
+        "Wrongful Termination",
+        "Workplace Harassment",
+        "Disability Accommodations",
+        "Household Workers",
+        "Wage And Hour",
+        "Employment Policies",
+        "Negotiations/ADR",
+        "Legal Updates",
+        "Testimonials"
+    ],
+    "members": [
+        {
+            "name": "Robert E. Nuddleman, Esq.",
+            "position": "Principal Attorney"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "I have received excellent legal advice and representation from the Nuddleman Law Firm. Highly recommended!",
+            "author": "John Doe",
+            "location": "San Jose, CA"
+        },
+        {
+            "text": "The team at Nuddleman Law Firm is professional and knowledgeable. They helped me navigate a complex employment issue with ease.",
+            "author": "Jane Smith",
+            "location": "Pleasanton, CA"
+        },
+        {
+            "text": "I am grateful for the support and guidance provided by the attorneys at Nuddleman Law Firm. They truly care about their clients.",
+            "author": "Alice Johnson",
+            "location": "Oakland, CA"
+        }
+    ]
+}

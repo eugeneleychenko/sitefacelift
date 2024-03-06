@@ -1,0 +1,75 @@
+{
+    "paragraph": "Call Us For Free Consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Litigators",
+            "content": "True litigators who know when to negotiate a settlement and when to fight all the way to trial."
+        },
+        {
+            "title": "Personalized Approach",
+            "content": "One-on-one relationship with clients, providing personal, passionate, and methodical representation."
+        },
+        {
+            "title": "Family Legacy",
+            "content": "A father-son firm with two generations of legal expertise serving Riverside and surrounding areas."
+        }
+    ],
+    "address": "3890 Tenth St. Riverside, CA 92501",
+    "phoneNumber": "(951) 742-7681",
+    "email": "info@knezlaw.com",
+    "linkNames": [
+        "Home",
+        "Meet Our Attorneys",
+        "Areas of Expertise",
+        "Case Summaries",
+        "News & Articles",
+        "Contact"
+    ],
+    "companyName": "Knez Law Group",
+    "subHeading": "A Father-Son Firm",
+    "valueProp": "The Knez Law Group is a Riverside based civil litigation firm representing both plaintiffs and defendants in cases throughout California.",
+    "CTA": "Call Us For Free Consultation",
+    "topics": [
+        "Business Law",
+        "Family Law",
+        "Personal Injury",
+        "Professional Liability",
+        "Wrongful Termination",
+        "Employment Defense Law",
+        "Cannabis Business Law",
+        "Construction Litigation",
+        "Child Custody"
+    ],
+    "members": [
+        {
+            "name": "Fred J. Knez",
+            "position": "Senior Attorney"
+        },
+        {
+            "name": "Andrew J. Knez",
+            "position": "Attorney"
+        },
+        {
+            "name": "Matthew J. Knez",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Fred and his team provided exceptional legal representation. I highly recommend their services.",
+            "author": "John Doe",
+            "location": "Riverside, CA"
+        },
+        {
+            "text": "The Knez Law Group helped me navigate a complex legal issue with professionalism and expertise.",
+            "author": "Jane Smith",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "I was impressed by the dedication and knowledge of the attorneys at Knez Law. They achieved a favorable outcome for me.",
+            "author": "David Johnson",
+            "location": "San Francisco, CA"
+        }
+    ]
+}

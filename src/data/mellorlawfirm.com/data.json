@@ -1,0 +1,65 @@
+{
+    "paragraph": "Call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Comprehensive Legal Services",
+            "content": "We offer a wide range of legal services to meet all your needs, from real estate to bankruptcy."
+        },
+        {
+            "title": "Responsive Representation",
+            "content": "Our firm is committed to providing responsive and aggressive representation to protect your interests."
+        },
+        {
+            "title": "Experienced Attorneys",
+            "content": "Our team of experienced attorneys has a proven track record of success in various legal matters."
+        }
+    ],
+    "address": "6800 Indiana Avenue, Suite 220, Riverside, CA 92506",
+    "phoneNumber": "(951) 221-4744",
+    "email": "Email Mark",
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Practice Areas",
+        "Contact"
+    ],
+    "companyName": "The Mellor Law Firm, APLC",
+    "subHeading": "California Real Estate, Construction, Bankruptcy, Foreclosure and Business Litigation Lawyers",
+    "valueProp": "The Mellor Law Firm is dedicated to providing top-notch legal services to clients in Riverside and beyond.",
+    "CTA": "Contact us today for expert legal assistance.",
+    "topics": [
+        "Real Estate Law",
+        "Construction Law",
+        "Bankruptcy",
+        "Foreclosure",
+        "Business Law",
+        "Contract Disputes",
+        "Insurance",
+        "Loan Modifications",
+        "Personal Injury & Wrongful Death"
+    ],
+    "members": [
+        {
+            "name": "Mark Mellor",
+            "position": "Founder & Managing Attorney"
+        }
+    ],
+    "openHours": "Monday - Friday: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "The Mellor Law Firm provided exceptional legal representation for my real estate case. Highly recommended!",
+            "author": "John Doe",
+            "location": "Riverside, CA"
+        },
+        {
+            "text": "I was impressed by the professionalism and dedication of the attorneys at The Mellor Law Firm. They truly care about their clients.",
+            "author": "Jane Smith",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "The team at The Mellor Law Firm helped me navigate a complex business dispute with ease. Thank you for your expertise!",
+            "author": "David Johnson",
+            "location": "Orange County, CA"
+        }
+    ]
+}
