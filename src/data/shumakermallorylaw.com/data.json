@@ -1,0 +1,78 @@
+{
+    "paragraph": "Call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Large Firm Expertise Small Firm Rates",
+            "content": "Highly experienced lawyers from elite law firms at affordable rates."
+        },
+        {
+            "title": "Women and Minority Owned Firm",
+            "content": "Dedicated to diversity and inclusion in the legal industry."
+        },
+        {
+            "title": "Specializing in Restaurants from the ground up",
+            "content": "Experts in all legal aspects of restaurant development and financing."
+        }
+    ],
+    "address": "333 South Grand Avenue, Suite 3400, Los Angeles, CA 90071",
+    "phoneNumber": "213-793-2020",
+    "email": "info@SMCounsel.com",
+    "linkNames": [
+        "Home",
+        "Legal Team",
+        "Practice Areas",
+        "Blog",
+        "Contact"
+    ],
+    "companyName": "Shumaker Mallory LLP",
+    "subHeading": "Large Firm Expertise, Small Firm Rates",
+    "valueProp": "Shumaker Mallory LLP is a team of highly experienced transactional and litigation lawyers providing top-tier legal services at affordable rates.",
+    "CTA": "Contact us today for a no-obligation consultation",
+    "topics": [
+        "Real Estate Acquisition & Dev",
+        "Real Estate Syndication",
+        "Commercial Leasing",
+        "Corporate and Securities",
+        "ICO and Blockchain",
+        "Intellectual Property",
+        "Food Service",
+        "Employment",
+        "Family Offices"
+    ],
+    "members": [
+        {
+            "name": "Clarisse Young Shumaker",
+            "position": "Partner"
+        },
+        {
+            "name": "Sandy Mallory",
+            "position": "Partner"
+        },
+        {
+            "name": "Charles Shumaker",
+            "position": "Senior Counsel"
+        },
+        {
+            "name": "Bennett Yankowitz",
+            "position": "Senior Counsel"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Professional and efficient service. Highly recommend!",
+            "author": "John Doe",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "Great team of lawyers who truly care about their clients.",
+            "author": "Jane Smith",
+            "location": "Beverly Hills, CA"
+        },
+        {
+            "text": "Handled my case with expertise and achieved a favorable outcome.",
+            "author": "Alice Johnson",
+            "location": "Santa Monica, CA"
+        }
+    ]
+}

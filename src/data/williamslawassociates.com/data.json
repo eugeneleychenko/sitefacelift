@@ -1,0 +1,84 @@
+{
+  "paragraph": "Contact us for a consultation.",
+  "detailsData": [
+    {
+      "title": "Experienced Tax Attorneys",
+      "content": "Over 100 years of combined experience in tax law."
+    },
+    {
+      "title": "Nationwide Representation",
+      "content": "Serving clients in California and across the U.S."
+    },
+    {
+      "title": "Recognized Expertise",
+      "content": "Tier 1 Tax Litigation Law Firm by U.S. News & World Report."
+    }
+  ],
+  "address": "3600 American River Drive, Suite 135, Sacramento, CA 95864",
+  "phoneNumber": "(916) 488-8501",
+  "email": null,
+  "linkNames": [
+    "Home",
+    "Firm Overview",
+    "Attorneys",
+    "Practice Areas",
+    "Success Stories",
+    "Client Testimonials",
+    "Resources",
+    "Videos",
+    "Blog",
+    "Make A Payment",
+    "Contact"
+  ],
+  "companyName": "Law Office of Williams & Associates, P.C.",
+  "subHeading": "Skilled Tax Attorneys Representing Clients Nationwide",
+  "valueProp": "The Law Office of Williams & Associates, P.C., is a firm that focuses on tax law. Our significant experience in this complex legal area allows our lawyers to help individuals and businesses resolve tax issues.",
+  "CTA": "Experience. Dedication. Results.",
+  "topics": [
+    "Tax Litigation",
+    "Tax Audits, Appeals, Protests, And Settlements",
+    "Business and Employment Tax Matters",
+    "California and Multi-State Tax Practice",
+    "Collection Issues, Liens, and Levies",
+    "Penalty Abatement And Tax Refunds",
+    "Criminal Tax Matters",
+    "Entity Formation And Dissolutions"
+  ],
+  "members": [
+    {
+      "name": "Todd Luoma",
+      "position": "Tax Controversy Resolution"
+    },
+    {
+      "name": "Betty Williams",
+      "position": "Firm Founder"
+    },
+
+    {
+      "name": "James Bourbeau",
+      "position": "Worker Classification and Wage Matters"
+    },
+    {
+      "name": "Anita Falk",
+      "position": "IRS and State Tax Audits"
+    }
+  ],
+  "openHours": "Monday - Friday: 9:00 AM - 5:00 PM",
+  "testimonalData": [
+    {
+      "text": "Thank you so much for resolving this issue so quickly and painlessly.",
+      "author": "Business Owner",
+      "location": "California"
+    },
+    {
+      "text": "You\u2019re forever on my 'Super Hero' list. Anytime I hear someone say tax and issues in the same sentence I will send them your way.",
+      "author": "Wholesale Distribution",
+      "location": "North Carolina"
+    },
+    {
+      "text": "You are in my forever rolodex, and I must say it is comforting to know you are there.",
+      "author": "Education Program Manager",
+      "location": "United Arab Emirates"
+    }
+  ]
+}

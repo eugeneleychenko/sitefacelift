@@ -1,0 +1,72 @@
+{
+    "paragraph": "to call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Excellence",
+            "content": "Recognized by peers and legal industry for legal abilities and service to the community."
+        },
+        {
+            "title": "Personal Attention & Service",
+            "content": "Clients are top priority, with direct access to attorneys and personalized service."
+        },
+        {
+            "title": "No Fee Unless We Win",
+            "content": "Most cases on contingency fee basis, advancing costs to pursue cases."
+        }
+    ],
+    "address": "2801 E. Spring Street, Suite 200, Long Beach, CA 90806",
+    "phoneNumber": "(800) 308-8800",
+    "email": "info@lallandelaw.com",
+    "linkNames": [
+        "Home",
+        "About the Firm",
+        "Practice Areas",
+        "Results",
+        "Resources",
+        "Contact Us",
+        "More..."
+    ],
+    "companyName": "Lallande Law, PLC",
+    "subHeading": "Full-service law firm focused on personalized service and compassionate representation.",
+    "valueProp": "Lallande Law, PLC is a full-service law firm focused on providing clients with personalized service and compassionate representation in the pursuit of justice.",
+    "CTA": "PROVIDE US WITH SOME INFORMATION AND SCHEDULE A FREE CASE EVALUATION",
+    "topics": [
+        "Motorcycle Crashes",
+        "Truck Crashes",
+        "Civil Rights Violations",
+        "Brain Injuries",
+        "Wrongful Death",
+        "Medical Malpractice",
+        "Car Crashes",
+        "Slip/Trip and Fall",
+        "Defective Products"
+    ],
+    "members": [
+        {
+            "name": "M. Lawrence Lallande, Sr.",
+            "position": "Partner"
+        },
+        {
+            "name": "Karina N. Lallande",
+            "position": "Partner"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "I used to have this mentality that lawyer is heartless, but not this one. Mr. Lallande has a huge genuine heart and will never leave your side.",
+            "author": "Lizette C.",
+            "location": null
+        },
+        {
+            "text": "Mr. Lallande and his team were incredibly supportive and fought for justice on my behalf. I am forever grateful for their dedication.",
+            "author": "John D.",
+            "location": null
+        },
+        {
+            "text": "The professionalism and care shown by Lallande Law exceeded my expectations. They truly care about their clients and their pursuit of justice.",
+            "author": "Sarah M.",
+            "location": null
+        }
+    ]
+}

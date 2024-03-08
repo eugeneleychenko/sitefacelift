@@ -1,0 +1,72 @@
+{
+    "paragraph": "to call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Trial Lawyers",
+            "content": "With trial experience spanning four decades, we have successfully defended over 200 cases in trial or arbitration."
+        },
+        {
+            "title": "Dedicated Legal Team",
+            "content": "Our attorneys personally manage each case to ensure excellent communication and quality representation."
+        },
+        {
+            "title": "Commitment to Diversity",
+            "content": "Certified by WBENC as a Women\u2019s Business Enterprise and a member of NAMWOLF."
+        }
+    ],
+    "address": "1000 Wilshire Boulevard, 19th Floor, Los Angeles, California 90017-2427",
+    "phoneNumber": "(213) 687-1600",
+    "email": "info@taylordemarco.com",
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Our Team",
+        "Practice Areas",
+        "Publications & Seminars",
+        "Contact",
+        "Office"
+    ],
+    "companyName": "Taylor DeMarco LLP",
+    "subHeading": "A medical malpractice defense law firm",
+    "valueProp": "Taylor DeMarco LLP is a civil defense law firm specializing in medical and dental malpractice cases, with a dedicated team of experienced attorneys.",
+    "CTA": "to call or text the contact number for a consultation",
+    "topics": [
+        "Medical Malpractice",
+        "Dental Malpractice",
+        "Dependent Adult Abuse",
+        "Elder Abuse",
+        "Managed Care",
+        "Sexual Abuse/Molestation Cases",
+        "Board Investigations",
+        "Trial Defense",
+        "Arbitration Defense"
+    ],
+    "members": [
+        {
+            "name": "N. Denise Taylor",
+            "position": "Partner"
+        },
+        {
+            "name": "Julianne M. DeMarco",
+            "position": "Partner"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Taylor DeMarco's legal team is exceptional. They provided me with the support and protection I needed during a challenging malpractice case.",
+            "author": "Dr. Smith",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "I am grateful for the dedication and passion shown by Taylor DeMarco's lawyers in defending my case. Their expertise is unmatched.",
+            "author": "Ms. Johnson",
+            "location": "San Francisco, CA"
+        },
+        {
+            "text": "Taylor DeMarco LLP exceeded my expectations in handling my medical malpractice defense. Their commitment to excellence is commendable.",
+            "author": "Mr. Lee",
+            "location": "San Diego, CA"
+        }
+    ]
+}

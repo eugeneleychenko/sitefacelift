@@ -1,0 +1,79 @@
+{
+  "paragraph": "to call or text the contact number for a consultation",
+  "detailsData": [
+    {
+      "title": "Experienced Litigators",
+      "content": "With nearly 70 years of collective experience providing legal advice to the construction industry."
+    },
+    {
+      "title": "Industry Recognition",
+      "content": "Annual accolades from reputable national and local publications such as Best Lawyer in America\u00ae, Super Lawyers\u00ae, Sacramento Business Journal."
+    },
+    {
+      "title": "Specialized Focus",
+      "content": "Dedicated solely to providing legal services to the construction industry, catering to contractors, subcontractors, owners, and sureties."
+    }
+  ],
+  "address": "2500 Venture Oaks Way, Suite 320, Sacramento, CA 95833",
+  "phoneNumber": "916-993-4540",
+  "email": null,
+  "linkNames": [
+    "HOME",
+    "ABOUT THE FIRM",
+    "PRACTICE AREAS",
+    "ATTORNEYS",
+    "CONTACT US",
+    "More"
+  ],
+  "companyName": "OTMK Law",
+  "subHeading": "Construction Industry Attorneys",
+  "valueProp": "OTMK Law is a leading provider of construction legal services, representing contractors, subcontractors, owners, and sureties with a focus on creative, proactive, and business-minded solutions.",
+  "CTA": "Leading Provider of Construction Legal Services",
+  "topics": [
+    "Construction Litigation",
+    "Alternative Dispute Resolution",
+    "Contract Drafting & Negotiation",
+    "Bidding and Protest Issues",
+    "Licensing",
+    "Insurance Coverage",
+    "Mechanic's Liens",
+    "Stop Notices",
+    "Surety"
+  ],
+  "members": [
+    {
+      "name": "Robert O'Connor",
+      "position": "Of Counsel"
+    },
+    {
+      "name": "Sean-Thomas Thompson",
+      "position": "Of Counsel"
+    },
+    {
+      "name": "Erin McDonough",
+      "position": "Of Counsel"
+    },
+    {
+      "name": "John Klotsche",
+      "position": "Of Counsel"
+    }
+  ],
+  "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+  "testimonalData": [
+    {
+      "text": "OTMK Law provided exceptional legal representation for our construction project. Highly recommended.",
+      "author": "John Doe",
+      "location": "Sacramento, CA"
+    },
+    {
+      "text": "The team at OTMK Law is professional, knowledgeable, and dedicated to their clients' success.",
+      "author": "Jane Smith",
+      "location": "San Francisco, CA"
+    },
+    {
+      "text": "Working with OTMK Law was a game-changer for our construction business. Their expertise is unmatched.",
+      "author": "Michael Johnson",
+      "location": "Los Angeles, CA"
+    }
+  ]
+}

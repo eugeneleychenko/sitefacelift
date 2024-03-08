@@ -1,0 +1,78 @@
+{
+    "paragraph": "to call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Award Winning Firm",
+            "content": "Recognized for excellence in civil litigation."
+        },
+        {
+            "title": "Integrity and Ethics",
+            "content": "ABOTA member, prioritizing civility and integrity."
+        },
+        {
+            "title": "Versatility in Litigation",
+            "content": "Experience in representing both Plaintiffs and Defendants."
+        }
+    ],
+    "address": "2301 Rosecrans Avenue, Suite 3180, El Segundo, California 90245",
+    "phoneNumber": "(310) 285-1727",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Our Team",
+        "Practice Areas",
+        "Publications & Seminars",
+        "Contact",
+        "Office"
+    ],
+    "companyName": "RosenSaba, LLP",
+    "subHeading": "Award Winning Full Service Civil Litigation Law Firm",
+    "valueProp": "RosenSaba, LLP is committed to providing all of its clients high quality, cost-effective and practical legal services. We passionately and ethically prosecute or defend every client\u2019s interests with integrity, diligence and creativity.",
+    "CTA": "Our success is rooted in our core values.",
+    "topics": [
+        "Business & Entertainment Litigation",
+        "Catastrophic Injury",
+        "Professional Liability",
+        "Class Action/Mass Action Litigation",
+        "Employment Counseling",
+        "Employment Litigation",
+        "Insurance Disputes"
+    ],
+    "members": [
+        {
+            "name": "James R. Rosen",
+            "position": "Partner"
+        },
+        {
+            "name": "Ryan D. Saba",
+            "position": "Partner"
+        },
+        {
+            "name": "Elizabeth L. Bradley",
+            "position": "Partner"
+        },
+        {
+            "name": "Francesca Dioguardi",
+            "position": "Partner"
+        }
+    ],
+    "openHours": "Monday - Friday: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "RosenSaba, LLP provided exceptional legal representation for my case. I highly recommend their services.",
+            "author": "John Doe",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "The team at RosenSaba, LLP is dedicated, knowledgeable, and efficient. They exceeded my expectations.",
+            "author": "Jane Smith",
+            "location": "Santa Barbara, CA"
+        },
+        {
+            "text": "I am grateful for the professionalism and expertise of RosenSaba, LLP. They truly care about their clients.",
+            "author": "Alice Johnson",
+            "location": "El Segundo, CA"
+        }
+    ]
+}

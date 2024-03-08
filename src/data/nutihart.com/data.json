@@ -1,0 +1,75 @@
+{
+    "paragraph": "to call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Local Roots",
+            "content": "Natives of the East Bay, deeply connected to the community."
+        },
+        {
+            "title": "Big Firm Expertise, Boutique Service",
+            "content": "Combining extensive knowledge with personalized attention."
+        },
+        {
+            "title": "Agile and Cost-Effective",
+            "content": "Efficient solutions without the large firm overhead."
+        }
+    ],
+    "address": "6232 La Salle Avenue, Suite D, Oakland, CA, 94611",
+    "phoneNumber": "510.506.7154",
+    "email": "info@nutihart.com",
+    "linkNames": [
+        "Home",
+        "Our Story",
+        "Attorneys",
+        "Representative Matters",
+        "News",
+        "Contact"
+    ],
+    "companyName": "Nuti Hart LLP",
+    "subHeading": "A law firm with deep Northern California roots",
+    "valueProp": "Nuti Hart LLP is a law firm over 20 years in the making, deeply rooted in the East Bay community...",
+    "CTA": "Want to learn more or think our team might be just what your business needs for legal representation?",
+    "topics": [
+        "Bankruptcy",
+        "Restructuring",
+        "Creditors\u2019 Rights",
+        "Commercial Litigation",
+        "Business Law",
+        "Debt Restructuring",
+        "Bankruptcy Litigation",
+        "Commercial Law",
+        "Business Litigation"
+    ],
+    "members": [
+        {
+            "name": "Greg Nuti",
+            "position": "Principal"
+        },
+        {
+            "name": "Chris Hart",
+            "position": "Principal"
+        },
+        {
+            "name": "Kevin Coleman",
+            "position": "Senior Counsel"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Nuti Hart LLP provided exceptional legal support for our business. Highly recommended!",
+            "author": "John Doe",
+            "location": "Oakland, CA"
+        },
+        {
+            "text": "The team at Nuti Hart LLP is professional, knowledgeable, and dedicated to their clients' success.",
+            "author": "Jane Smith",
+            "location": "San Francisco, CA"
+        },
+        {
+            "text": "Working with Nuti Hart LLP was a game-changer for our company. Their expertise is unmatched.",
+            "author": "David Johnson",
+            "location": "Berkeley, CA"
+        }
+    ]
+}

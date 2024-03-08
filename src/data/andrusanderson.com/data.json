@@ -1,0 +1,62 @@
+{
+  "paragraph": "To call or text the contact number for a consultation",
+  "detailsData": [
+    {
+      "title": "Expertise and Track Record",
+      "content": "Andrus Anderson has successfully taken on some of the world's largest corporations on behalf of their clients, obtaining justice for injured individuals, employees and defrauded consumers."
+    },
+    {
+      "title": "Highest Quality Representation",
+      "content": "Obtaining justice for injured individuals, employees and defrauded consumers."
+    },
+    {
+      "title": "Unparalleled Service",
+      "content": "Big firm experience with the individual attention of a trusted ally."
+    }
+  ],
+  "address": "155 Montgomery Street Suite 900 San Francisco, CA 94104",
+  "phoneNumber": "415.986.1400",
+  "email": "info@andrusanderson.com",
+  "linkNames": ["Home", "About Us", "Practice Areas", "News", "Contact Us"],
+  "companyName": "Andrus Anderson LLP",
+  "subHeading": "Dedicated to Justice and Accountability",
+  "valueProp": "Andrus Anderson is a law firm that will stand up to corporate giants and fight tirelessly to see individual rights prevail over corporate and governmental misconduct, greed and abuse.",
+  "CTA": "Obtaining justice for injured individuals, employees and defrauded consumers",
+  "topics": [
+    "Antitrust",
+    "Class Actions",
+    "Consumer Protection",
+    "Employee Rights",
+    "Equal Pay",
+    "Patient Safety",
+    "Personal Injury"
+  ],
+  "members": [
+    {
+      "name": "Lori E. Andrus",
+      "position": "Leader in Equal Pay Advocacy"
+    },
+    {
+      "name": "Jennie Lee Anderson",
+      "position": "Plaintiffs' Advocate"
+    }
+  ],
+  "openHours": "Monday - Friday: 9am - 5pm",
+  "testimonalData": [
+    {
+      "text": "Andrus Anderson fought for me when no one else would. I am forever grateful for their dedication and expertise.",
+      "author": "Jane Doe",
+      "location": "California"
+    },
+    {
+      "text": "I was impressed by the professionalism and results achieved by Andrus Anderson. Highly recommend their services.",
+      "author": "John Smith",
+      "location": "New York"
+    },
+    {
+      "text": "Choosing Andrus Anderson was the best decision I made for my case. Their team truly cares about their clients' well-being.",
+      "author": "Alice Johnson",
+      "location": "Texas"
+    }
+  ]
+}

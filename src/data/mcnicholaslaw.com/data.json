@@ -1,0 +1,80 @@
+{
+    "paragraph": "Call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Trial Lawyers",
+            "content": "Over 100 years of combined trial experience, with a track record of nearly $2 billion in compensation for clients."
+        },
+        {
+            "title": "Recognized Excellence",
+            "content": "Consistently recognized by various publications and organizations for excellence in legal representation."
+        },
+        {
+            "title": "Advocates for Workers' Rights",
+            "content": "Specializing in employment law, protecting workers from discrimination, harassment, and wrongful termination."
+        }
+    ],
+    "address": "10866 Wilshire Blvd. Suite 1400, Los Angeles, CA 90024",
+    "phoneNumber": "310-474-1582",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "About Us",
+        "Practice Areas",
+        "Successes",
+        "Videos",
+        "Careers",
+        "Contact Us"
+    ],
+    "companyName": "McNicholas & McNicholas, LLP",
+    "subHeading": "Aggressive representation for victims of injury, negligence and abuse in LA",
+    "valueProp": "McNicholas & McNicholas, LLP is a leading personal injury law firm in California, with a reputation for aggressive representation and successful outcomes.",
+    "CTA": "Los Angeles & California Personal Injury Attorneys",
+    "topics": [
+        "Personal Injury",
+        "Motor Vehicle Accidents",
+        "Truck Accidents",
+        "Employment Law",
+        "Product Liability",
+        "Wildfire Litigation",
+        "Amputation Injury",
+        "Traumatic Brain Injury",
+        "Wrongful Death"
+    ],
+    "members": [
+        {
+            "name": "John P. McNicholas",
+            "position": "Partner"
+        },
+        {
+            "name": "Patrick McNicholas",
+            "position": "Partner"
+        },
+        {
+            "name": "Matthew S. McNicholas",
+            "position": "Partner"
+        },
+        {
+            "name": "Juan C. Victoria",
+            "position": "Partner"
+        }
+    ],
+    "openHours": "Open 24 Hours",
+    "testimonalData": [
+        {
+            "text": "Matt McNicholas is a very knowledgeable, approachable and skilled trial lawyer. If you're looking for a firm that provides great service and maximizes your return on a personal injury or employment case, McNicholas & McNicholas is a great option.",
+            "author": "Spencer Y",
+            "location": null
+        },
+        {
+            "text": "Juan Victoria and the McNicholas team deserve more than 5 Stars. Words can't describe how grateful I am to have received help from McNicholas law firm. Juan is very SHARP, calm strategic thinker with a very approachable, down to earth manner.",
+            "author": "Veronica R",
+            "location": null
+        },
+        {
+            "text": "We like so many others never imagined being involved in a lawsuit. Essentially, we had no choice because of our child's traumatic injuries. It was a very dark place to see our son suffering and to be made to feel as if he was being put on trial by big insurance.",
+            "author": "Nancy A",
+            "location": null
+        }
+    ]
+}

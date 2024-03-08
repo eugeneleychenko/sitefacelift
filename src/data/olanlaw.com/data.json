@@ -1,0 +1,72 @@
+{
+    "paragraph": null,
+    "detailsData": [
+        {
+            "title": "Client-focused Approach",
+            "content": "We prioritize our clients' needs and well-being above all else, ensuring they receive the care and compensation they deserve."
+        },
+        {
+            "title": "Expert Legal Representation",
+            "content": "Our team of attorneys and support staff are dedicated to providing outstanding legal services, backed by years of expertise and successful results."
+        },
+        {
+            "title": "Personalized Service",
+            "content": "We offer personalized service to all our clients, keeping them informed and involved throughout the legal process."
+        }
+    ],
+    "address": "212 Marine Street, Suite 100, Santa Monica, CA 90405",
+    "phoneNumber": "310.566.0010",
+    "email": "info@olanlaw.com",
+    "linkNames": [
+        "Home",
+        "About Us",
+        "Practice Areas",
+        "Attorneys",
+        "Verdicts & Settlements",
+        "Resources",
+        "Community Involvement",
+        "Blog",
+        "Disclaimer",
+        "Site Map",
+        "Contact Us"
+    ],
+    "companyName": "Olan Law",
+    "subHeading": "Leading Los Angeles Personal Injury and Employment Law Firm",
+    "valueProp": "Olan Law is a premier Los Angeles personal injury and employment law firm dedicated to seeking justice for its clients.",
+    "CTA": null,
+    "topics": [
+        "Wrongful Death",
+        "Car Accidents",
+        "Motorcycle Accident",
+        "Under-insured & Uninsured Motorist",
+        "Dog Bite & Animal Attacks",
+        "Slip and Fall",
+        "Premises Liability",
+        "Product Liability",
+        "Construction Accidents"
+    ],
+    "members": [
+        {
+            "name": "David Olan",
+            "position": "Managing Partner"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "David Olan is a top-notch trial lawyer. His dedication to his clients is unmatched.",
+            "author": "John Doe",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "Olan Law provided me with excellent legal representation. I highly recommend their services.",
+            "author": "Jane Smith",
+            "location": "Santa Monica, CA"
+        },
+        {
+            "text": "I was impressed by the professionalism and care shown by the team at Olan Law. Thank you for your help.",
+            "author": "Alice Johnson",
+            "location": "Malibu, CA"
+        }
+    ]
+}

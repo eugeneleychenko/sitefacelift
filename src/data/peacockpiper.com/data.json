@@ -1,0 +1,78 @@
+{
+    "paragraph": null,
+    "detailsData": [
+        {
+            "title": "Collaborative Approach",
+            "content": "Our teamwork ensures we never lose sight of the big picture while minding the details."
+        },
+        {
+            "title": "Subject Matter Experts",
+            "content": "Tight-knit team of attorneys with over 100 years of collective experience."
+        },
+        {
+            "title": "Practical Advice",
+            "content": "Leverage our collaborative approach to obtain practical advice and positive results."
+        }
+    ],
+    "address": "100 West Broadway Suite 610, Long Beach, CA 90802",
+    "phoneNumber": "+1 (562) 320-8880",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Our Team",
+        "Practice Areas",
+        "Publications & Seminars",
+        "Contact",
+        "Office"
+    ],
+    "companyName": "Peacock Piper Tong + Voss LLP",
+    "subHeading": "Positive Attitude. Positive Approach. Positive Difference. Positive Results.",
+    "valueProp": "Peacock Piper Tong + Voss LLP is a team of trial, corporate, and transactional attorneys committed to providing high-caliber legal services to clients in various industries.",
+    "CTA": "Thank you for the opportunity to share how we can partner with you to achieve your litigation and business goals.",
+    "topics": [
+        "Maritime, Marine Terminals + Transportation",
+        "Construction + Engineering",
+        "Energy",
+        "Product Design, Manufacturing + Retail",
+        "Financial Services",
+        "Civil Litigation + Trial",
+        "Corporate, Transactional + Intellectual Property"
+    ],
+    "members": [
+        {
+            "name": "Albert E. Peacock III",
+            "position": "Attorney"
+        },
+        {
+            "name": "Glen R. Piper",
+            "position": "Attorney"
+        },
+        {
+            "name": "Sarah T. Sangmeister",
+            "position": "Attorney"
+        },
+        {
+            "name": "David A. Tong",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Peacock Piper Tong + Voss LLP provided exceptional legal services for our company. Highly recommended.",
+            "author": "John Doe",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "The team at Peacock Piper Tong + Voss LLP is professional, knowledgeable, and dedicated to their clients' success.",
+            "author": "Jane Smith",
+            "location": "Long Beach, CA"
+        },
+        {
+            "text": "I was impressed by the expertise and efficiency of Peacock Piper Tong + Voss LLP in handling our legal matters.",
+            "author": "Michael Johnson",
+            "location": "Oakland, CA"
+        }
+    ]
+}

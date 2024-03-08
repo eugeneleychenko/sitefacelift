@@ -1,0 +1,80 @@
+{
+    "paragraph": "To call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Trial Attorneys",
+            "content": "Highly experienced trial attorneys committed to aggressive, honest advocacy."
+        },
+        {
+            "title": "Commitment to Excellence",
+            "content": "Focused exclusively on trying cases and handling controversies for clients."
+        },
+        {
+            "title": "Cost-Effective Strategies",
+            "content": "Entrepreneurial flexibility to structure creative fee arrangements for clients."
+        }
+    ],
+    "address": "402 W Broadway, Suite 1400, San Diego, CA 92101",
+    "phoneNumber": "619.241.4810",
+    "email": "info@fitzgeraldknaier.com",
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Our Team",
+        "Practice Areas",
+        "Publications & Seminars",
+        "Contact",
+        "Office"
+    ],
+    "companyName": "Fitzgerald Knaier LLP",
+    "subHeading": "San Diego Trial Lawyers",
+    "valueProp": "Fitzgerald Knaier LLP is a law firm of highly experienced trial attorneys committed to aggressive, honest advocacy. We are a San Diego boutique litigation firm, focused exclusively on trying cases and handling controversies for our clients.",
+    "CTA": "To call or text the contact number for a consultation",
+    "topics": [
+        "Business Litigation",
+        "Intellectual Property",
+        "False Advertising",
+        "Class Action",
+        "Employment Law",
+        "Legal Malpractice",
+        "Personal Injury",
+        "Real Estate Litigation",
+        "Toxic Tort Litigation"
+    ],
+    "members": [
+        {
+            "name": "Kenneth M. Fitzgerald",
+            "position": "Business Litigation Attorney"
+        },
+        {
+            "name": "Robert G. Knaier",
+            "position": "Civil Litigation Attorney"
+        },
+        {
+            "name": "Keith M. Cochran",
+            "position": "Securities Litigation Attorney"
+        },
+        {
+            "name": "Kyle W. Hoffman",
+            "position": "Former Federal Prosecutor"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "The team at Fitzgerald Knaier LLP is exceptional. They provided me with top-notch legal representation and achieved a successful outcome for my case.",
+            "author": "John Smith",
+            "location": "San Diego, CA"
+        },
+        {
+            "text": "I was impressed by the professionalism and dedication of the attorneys at Fitzgerald Knaier LLP. They truly care about their clients and go above and beyond to deliver results.",
+            "author": "Jane Doe",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "Choosing Fitzgerald Knaier LLP was the best decision I made for my legal needs. Their expertise and commitment to excellence are unmatched.",
+            "author": "David Johnson",
+            "location": "San Francisco, CA"
+        }
+    ]
+}

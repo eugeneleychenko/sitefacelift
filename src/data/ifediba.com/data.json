@@ -1,0 +1,69 @@
+{
+    "paragraph": "Call today for a free case consultation.",
+    "detailsData": [
+        {
+            "title": "Experienced Trial Attorneys",
+            "content": "Our attorneys have over 40 years of combined experience in complex litigation."
+        },
+        {
+            "title": "Dedicated Client Service",
+            "content": "We are committed to being fantastic communicators with our clients, keeping them informed at all times."
+        },
+        {
+            "title": "Skilled Negotiators",
+            "content": "We are skilled negotiators and will work towards out-of-court settlements if it benefits our clients."
+        }
+    ],
+    "address": "1220 16TH STREET S. BIRMINGHAM, AL 35205",
+    "phoneNumber": "(205) 933-1515",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "About The Firm",
+        "Personal Injuries and Accidents",
+        "Business / Antitrust Cases",
+        "Environmental Law",
+        "Results/Testimonials",
+        "Video Center",
+        "Contact"
+    ],
+    "companyName": "Ifediba Law Group, P.C.",
+    "subHeading": "Birmingham's Best Personal Injury Attorney",
+    "valueProp": "Ifediba Law Group, P.C., is a leading law firm in Birmingham, known for aggressive and high-quality legal representation.",
+    "CTA": "Get The Justice You Deserve!",
+    "topics": [
+        "Airplane Accidents",
+        "Autonomous Vehicle Accident",
+        "Bar Liability / Dram Shop Claims",
+        "Bicycle Accidents",
+        "Birth Injury",
+        "Boat Accidents",
+        "Brain Injuries",
+        "Burn Injuries",
+        "Bus Accidents"
+    ],
+    "members": [
+        {
+            "name": "Anthony Ifediba",
+            "position": "Founder"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Great customer service! Excellent group of men to work with. Handle your case in a timely manner! Highly recommended!",
+            "author": "Ayana Gibson",
+            "location": null
+        },
+        {
+            "text": "They got me settlement within no time, very professional and great at what they do!",
+            "author": "Kharon Parham",
+            "location": null
+        },
+        {
+            "text": "Was able to settle my case quickly and with an amount I was satisfied with.",
+            "author": "C C",
+            "location": null
+        }
+    ]
+}

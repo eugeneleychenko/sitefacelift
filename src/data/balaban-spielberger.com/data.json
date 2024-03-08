@@ -1,0 +1,79 @@
+{
+  "paragraph": "Call or text the contact number for a consultation",
+  "detailsData": [
+    {
+      "title": "Experienced Attorneys",
+      "content": "Our team has over 50 years of combined experience in successfully representing clients."
+    },
+    {
+      "title": "Personalized Service",
+      "content": "We provide individualized attention to each client, ensuring their unique needs are met."
+    },
+    {
+      "title": "Proven Results",
+      "content": "We have secured over $250 million for our clients in the past twelve years."
+    }
+  ],
+  "address": "11999 San Vicente Blvd, Suite 345, Los Angeles, CA 90049 ",
+  "phoneNumber": "424-832-7677",
+  "email": "info@balabanspielberger.com",
+  "linkNames": [
+    "HOME",
+    "ABOUT",
+    "PRACTICE AREAS",
+    "PRESS",
+    "RESULTS",
+    "CONTACT"
+  ],
+  "companyName": "Balaban & Spielberger LLP",
+  "subHeading": "Committed to Excellence in Legal Representation",
+  "valueProp": "Balaban & Spielberger LLP is a boutique law firm committed to providing the best representation for our select group of clients. We take each case personally and strive for success.",
+  "CTA": "Call us today to discuss your case.",
+  "topics": [
+    "Auto Defects",
+    "Banking Law Litigation",
+    "Business Litigation",
+    "Corporate and Partnership Disputes",
+    "Drugs/Defective Medical Devices",
+    "Entertainment Litigation",
+    "Intellectual Property Litigation",
+    "Medical Malpractice",
+    "Personal Injury & Wrongful Death"
+  ],
+  "members": [
+    {
+      "name": "Daniel Balaban",
+      "position": "Partner"
+    },
+    {
+      "name": "Andrew Spielberger",
+      "position": "Partner"
+    },
+    {
+      "name": "Kahren Harutyunyan",
+      "position": "Attorney"
+    },
+    {
+      "name": "Vanessa Loftus-Brewer",
+      "position": "Attorney"
+    }
+  ],
+  "openHours": "Monday - Friday: 9:00 AM - 5:00 PM",
+  "testimonalData": [
+    {
+      "text": "I couldn't have asked for better legal representation. The team at Balaban & Spielberger truly cares about their clients.",
+      "author": "John Smith",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "text": "Balaban & Spielberger exceeded my expectations. Their dedication and expertise are unmatched.",
+      "author": "Emily Johnson",
+      "location": "San Francisco, CA"
+    },
+    {
+      "text": "I am grateful for the outstanding work done by Balaban & Spielberger. They are the best in the business.",
+      "author": "David Lee",
+      "location": "New York, NY"
+    }
+  ]
+}

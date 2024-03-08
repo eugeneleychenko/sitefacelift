@@ -1,0 +1,81 @@
+{
+    "paragraph": "Call or text the contact number for a consultation.",
+    "detailsData": [
+        {
+            "title": "Experienced Immigration Attorneys",
+            "content": "With over 20 years of exclusive practice in immigration law, our attorneys bring a wealth of experience to every case."
+        },
+        {
+            "title": "Boutique Immigration Practice",
+            "content": "Focused exclusively on business and family immigration law, we provide personalized attention to each client's unique needs."
+        },
+        {
+            "title": "Diverse Clientele",
+            "content": "Representing a wide range of clients from global multinational companies to individuals and their family members."
+        }
+    ],
+    "address": "10555 Jefferson Boulevard, Suite A, Culver City, California 90232-3513",
+    "phoneNumber": "Contact the firm for the phone number.",
+    "email": "Contact the firm for the email address.",
+    "linkNames": [
+        "Home",
+        "About",
+        "Services",
+        "Updates",
+        "Resources",
+        "FAQs",
+        "Blog",
+        "Contact"
+    ],
+    "companyName": "Loke Walsh Immigration Law",
+    "subHeading": "A Professional Law Corporation",
+    "valueProp": "Loke Walsh Immigration Law is a boutique immigration practice dedicated to providing personalized and effective immigration solutions to our clients.",
+    "CTA": "Call or text the contact number for a consultation.",
+    "topics": [
+        "Business Immigration",
+        "Family Immigration",
+        "Employment-Based Visas",
+        "Nonimmigrant Visas",
+        "Naturalization",
+        "Adjustment of Status",
+        "Treaty Trader and Investor Visas",
+        "Entertainment Visas",
+        "Student Visas"
+    ],
+    "members": [
+        {
+            "name": "TL Loke Walsh",
+            "position": "Principal"
+        },
+        {
+            "name": "Kellyann Everly",
+            "position": "Associate"
+        },
+        {
+            "name": "Maridex Abraham",
+            "position": "Associate"
+        },
+        {
+            "name": "Erika Dixon",
+            "position": "Associate"
+        }
+    ],
+    "openHours": "Contact the firm for their current business hours.",
+    "testimonalData": [
+        {
+            "text": "I had a great experience with Loke Walsh Immigration Law. They were professional and efficient in handling my case.",
+            "author": "John Doe",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "The team at Loke Walsh Immigration Law provided excellent guidance throughout the immigration process. Highly recommended!",
+            "author": "Jane Smith",
+            "location": "San Francisco, CA"
+        },
+        {
+            "text": "I am grateful for the support and expertise of Loke Walsh Immigration Law. They made a complex immigration issue much easier to navigate.",
+            "author": "David Johnson",
+            "location": "New York, NY"
+        }
+    ]
+}

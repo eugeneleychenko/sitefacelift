@@ -1,0 +1,72 @@
+{
+    "paragraph": "To call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Legal Team",
+            "content": "Our team has handled highly complex cases in federal and state courts, representing both domestic and international concerns."
+        },
+        {
+            "title": "Commitment to Clients",
+            "content": "We value each relationship and work hard to ensure the best possible outcome while providing a positive experience throughout the entire process."
+        },
+        {
+            "title": "Reputation for Success",
+            "content": "Our goal is to win justice for our clients, which has fueled our reputation for success in handling various legal matters."
+        }
+    ],
+    "address": "601 South Figueroa Street, Suite 2050, Los Angeles, CA 90017",
+    "phoneNumber": "844-622-6469",
+    "email": "info@nflawfirm.com",
+    "linkNames": [
+        "HOME",
+        "OUR FIRM",
+        "OUR TEAM",
+        "PRACTICE AREAS",
+        "PUBLICATIONS & SEMINARS",
+        "CONTACT",
+        "OFFICE"
+    ],
+    "companyName": "Nelson & Fraenkel LLP",
+    "subHeading": "EXPERIENCE MATTERS",
+    "valueProp": "At Nelson & Fraenkel, we understand the importance of selecting the right legal representation. Our commitment to our clients is paramount, as we value each relationship and strive for the best possible outcome.",
+    "CTA": "SPEAK WITH A LAWYER NOW, AVAILABLE 24/7",
+    "topics": [
+        "Aviation Law",
+        "Business Torts",
+        "Class Actions",
+        "Maritime Practice Areas",
+        "Motor Vehicle Accidents",
+        "Securities & Derivative Lawsuits",
+        "Serious Personal Injury",
+        "Whistleblower Lawsuits",
+        "Wrongful Death"
+    ],
+    "members": [
+        {
+            "name": "Gretchen M. Nelson",
+            "position": "Founder"
+        },
+        {
+            "name": "Stuart R. Fraenkel",
+            "position": "Founder"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Nelson & Fraenkel rocks! I couldn\u2019t be more pleased with the compassion they all showed to me and also, the settlement I received. I will always call on them when I am ever in need of rockstar representation!",
+            "author": "A Very Grateful Client",
+            "location": "California"
+        },
+        {
+            "text": "I have been a client of Nelson & Fraenkel for years, and they have always provided exceptional legal services. Their dedication to their clients is unmatched.",
+            "author": "Satisfied Client",
+            "location": "Los Angeles"
+        },
+        {
+            "text": "The team at Nelson & Fraenkel is top-notch. They handled my case with professionalism and care, ensuring I received the justice I deserved. Highly recommend!",
+            "author": "Happy Client",
+            "location": "San Francisco"
+        }
+    ]
+}

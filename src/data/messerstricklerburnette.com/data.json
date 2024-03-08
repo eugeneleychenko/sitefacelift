@@ -1,0 +1,73 @@
+{
+    "paragraph": "to call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Personalized Solutions",
+            "content": "Tailored solutions for every client, ensuring individual attention and creative problem-solving."
+        },
+        {
+            "title": "Cutting-Edge Approach",
+            "content": "Efficient and results-oriented representation, delivering outsized results for clients."
+        },
+        {
+            "title": "Collaborative Team",
+            "content": "A cohesive team providing top-notch representation and unparalleled results."
+        }
+    ],
+    "address": "12276 San Jose Blvd. Suite 718 Jacksonville, FL 32223",
+    "phoneNumber": "904-527-1172",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "About Us",
+        "Practice Areas",
+        "Team",
+        "Careers",
+        "Insights",
+        "Contact"
+    ],
+    "companyName": "Messer Strickler Burnette, Ltd.",
+    "subHeading": "Local Roots, National Results",
+    "valueProp": "Our firm takes a personalized approach to legal representation, focusing on individual attention, creative problem-solving, and commitment to client needs. We deliver outsized results through an efficient and cutting-edge approach.",
+    "CTA": "Small Enough to Listen. Big Enough to Lead.",
+    "topics": [
+        "Commercial Litigation",
+        "Commercial Real Estate",
+        "Commercial Transactions",
+        "Financial Services",
+        "Intellectual Property",
+        "Labor & Employment"
+    ],
+    "members": [
+        {
+            "name": "Joseph Messer",
+            "position": "Partner"
+        },
+        {
+            "name": "Nicole Strickler",
+            "position": "Partner"
+        },
+        {
+            "name": "Lauren Burnette",
+            "position": "Partner"
+        }
+    ],
+    "openHours": "Hours may vary, please contact the office for specific details.",
+    "testimonalData": [
+        {
+            "text": "Messer Strickler Burnette provided exceptional legal services, highly recommended.",
+            "author": "John Doe",
+            "location": "Jacksonville, FL"
+        },
+        {
+            "text": "The team at MSB is truly dedicated to their clients' success, a pleasure to work with.",
+            "author": "Jane Smith",
+            "location": "Sacramento, CA"
+        },
+        {
+            "text": "MSB's expertise and professionalism exceeded all expectations, a top-tier legal firm.",
+            "author": "Alice Johnson",
+            "location": "Chicago, IL"
+        }
+    ]
+}

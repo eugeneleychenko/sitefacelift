@@ -1,0 +1,64 @@
+{
+    "paragraph": "to call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Representation",
+            "content": "With over 30 years of experience, we have a strong record of favorable judgments in state and federal courts."
+        },
+        {
+            "title": "Proactive Legal Approach",
+            "content": "We take charge of the conversation and find advantages that speed the issue to resolution."
+        },
+        {
+            "title": "Strategic Case Handling",
+            "content": "We believe in being prepared for every angle and pride ourselves on successful outcomes in mediation and arbitration."
+        }
+    ],
+    "address": "3840 Watt Ave., Bldg. A, Sacramento, CA 95821",
+    "phoneNumber": "916.643.0600",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Our Team",
+        "Practice Areas",
+        "Publications & Seminars",
+        "Contact",
+        "Office"
+    ],
+    "companyName": "Goodman Law Corporation",
+    "subHeading": "Solving the Problems That Keep You Up at Night",
+    "valueProp": "Goodman Law Corporation is a Sacramento law firm providing legal services to business owners and professionals throughout the state. Our focus is on professional liability and malpractice, real estate, business disputes, ethics, and employment.",
+    "CTA": "Sign up to receive our free newsletter on the legal issues that matter most.",
+    "topics": [
+        "Legal Malpractice",
+        "Employment",
+        "Business Disputes",
+        "Real Estate Litigation",
+        "Real Estate License Defense"
+    ],
+    "members": [
+        {
+            "name": "Karen Goodman",
+            "position": "Founder"
+        }
+    ],
+    "openHours": "Hours may vary, contact for details",
+    "testimonalData": [
+        {
+            "text": "Karen is an exceptional lawyer. Her dedication to her clients and attention to detail are unmatched.",
+            "author": "John Doe",
+            "location": "Sacramento, CA"
+        },
+        {
+            "text": "I couldn't have asked for better legal representation. Lia's expertise and professionalism are top-notch.",
+            "author": "Jane Smith",
+            "location": "San Francisco, CA"
+        },
+        {
+            "text": "The team at Goodman Law Corporation truly cares about their clients' well-being. I highly recommend their services.",
+            "author": "David Johnson",
+            "location": "Los Angeles, CA"
+        }
+    ]
+}

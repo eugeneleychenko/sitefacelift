@@ -1,0 +1,62 @@
+{
+    "paragraph": "Call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Large Law Firm Expertise",
+            "content": "Brings over four decades of experience as a corporate transactional lawyer, including twenty-seven years as a partner of a leading firm."
+        },
+        {
+            "title": "Breadth of Relevant Experience",
+            "content": "Industry agnostic, advising clients on matters ranging from simple incorporations to multimillion dollar M&A transactions."
+        },
+        {
+            "title": "Smaller Law Firm Cost-Effectiveness",
+            "content": "Offers exceptional legal services at a significantly lower cost compared to larger firms."
+        }
+    ],
+    "address": "Not provided",
+    "phoneNumber": "949.900.4402",
+    "email": "cbarwick@barwickcorplaw.com",
+    "linkNames": [
+        "Home",
+        "Areas of Practice",
+        "Representative Transactions",
+        "Curt C. Barwick",
+        "The Firm",
+        "Contact Us"
+    ],
+    "companyName": "Barwick Corporate Law",
+    "subHeading": "Sophisticated, Cost-Effective Legal Solutions",
+    "valueProp": "Barwick Corporate Law provides sophisticated, cost-effective legal solutions for businesses, blending large firm expertise with personalized service.",
+    "CTA": "Call or text the contact number for a consultation",
+    "topics": [
+        "Mergers & Acquisitions",
+        "General Corporate & Business Representation",
+        "Venture Capital, Private Equity & Angel Investments",
+        "Emerging Business, Technology Transactions & Licensing"
+    ],
+    "members": [
+        {
+            "name": "Curt C. Barwick",
+            "position": "Founding Partner"
+        }
+    ],
+    "openHours": "Not provided",
+    "testimonalData": [
+        {
+            "text": "Barwick Corporate Law provided exceptional legal guidance for our M&A transaction. Highly recommended!",
+            "author": "John Doe",
+            "location": "California"
+        },
+        {
+            "text": "The team at Barwick Corporate Law is top-notch. Their expertise in venture capital was invaluable to our startup.",
+            "author": "Jane Smith",
+            "location": "New York"
+        },
+        {
+            "text": "I've worked with many law firms, but Barwick Corporate Law stands out for their dedication and results-driven approach.",
+            "author": "David Johnson",
+            "location": "Texas"
+        }
+    ]
+}

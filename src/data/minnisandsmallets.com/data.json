@@ -1,0 +1,82 @@
+{
+  "paragraph": "Call or text the contact number for a consultation",
+  "detailsData": [
+    {
+      "title": "Reputable Firm",
+      "content": "Experienced employment law firm in downtown San Francisco."
+    },
+    {
+      "title": "Personal Attention",
+      "content": "Dedicated to providing personal attention to clients."
+    },
+    {
+      "title": "Top Attorneys",
+      "content": "Recognized attorneys with significant achievements."
+    }
+  ],
+  "address": "57 Post Street, Suite 801, San Francisco, CA 94104",
+  "phoneNumber": "415-551-0885",
+  "email": null,
+  "linkNames": [
+    "Home",
+    "Our Team",
+    "Practice Areas",
+    "Leaves of Absence",
+    "Compensation Issues",
+    "Employment Agreements",
+    "Fee Arrangements",
+    "Working Together \u2013 Our Process",
+    "Reviews",
+    "Blog",
+    "Contact Us"
+  ],
+  "companyName": "Minnis & Smallets LLP",
+  "subHeading": "Employment attorneys in San Francisco protecting employees from discrimination, harassment, and wrongful discharge",
+  "valueProp": "Minnis & Smallets LLP is a reputable, experienced employment law firm in downtown San Francisco, serving all of the Bay Area. Personal attention is what sets us apart, according to our many satisfied clients.",
+  "CTA": "Contact Us",
+  "topics": [
+    "Discrimination",
+    "Unlawful Termination",
+    "Harassment",
+    "Leaves of Absence",
+    "Compensation Issues",
+    "Employment Agreements"
+  ],
+  "members": [
+    {
+      "name": "Aaron Minnis",
+
+      "position": "Partner"
+    },
+    {
+      "name": "Sonya Smallets",
+      "position": "Partner"
+    },
+    {
+      "name": "Evan Ettinghoff",
+      "position": "Associate"
+    },
+    {
+      "name": "Debby Katzowitz",
+      "position": "Legal Assistant"
+    }
+  ],
+  "openHours": "Monday - Friday: 9:00 AM - 5:00 PM",
+  "testimonalData": [
+    {
+      "text": "Aaron Minnis is superb! He is the most professional, educated and knowledgeable lawyer with whom I have worked.",
+      "author": "Tony S.",
+      "location": null
+    },
+    {
+      "text": "Sonya was terrific! As we discussed a challenging retroactive employment issue, she approached the conversation with a level of empathy, curiosity, and intelligence.",
+      "author": "Dave O.",
+      "location": null
+    },
+    {
+      "text": "Veronica P. highly recommends Sonya Smallets for any employment issues. She was honest and sincere and cared about her situation of unlawful termination.",
+      "author": "Veronica P.",
+      "location": null
+    }
+  ]
+}

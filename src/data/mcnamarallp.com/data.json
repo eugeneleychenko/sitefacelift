@@ -1,0 +1,66 @@
+{
+  "paragraph": null,
+  "detailsData": [
+    {
+      "title": "Experienced Attorneys",
+      "content": "Our team consists of accomplished attorneys with a national practice."
+    },
+    {
+      "title": "National Practice",
+      "content": "We have a national practice in white collar criminal defense and civil litigation."
+    },
+    {
+      "title": "Interdisciplinary Strength",
+      "content": "Our attorneys have interdisciplinary strength in both civil and criminal law."
+    }
+  ],
+  "address": "655 West Broadway, Suite 900, San Diego, CA 92101",
+  "phoneNumber": "(619) 269-0400",
+  "email": "info@mcnamarallp.com",
+  "linkNames": ["Home", "About", "Our Team", "Services", "News", "Contact"],
+  "companyName": "McNamara Smith LLP",
+  "subHeading": "Because Justice Matters",
+  "valueProp": "McNamara Smith LLP is a small firm of accomplished attorneys with a national practice in white collar criminal defense, securities enforcement, and civil litigation matters.",
+  "CTA": "Contact Us",
+  "topics": [
+    "White Collar & Securities Enforcement",
+    "Litigation & Class Actions",
+    "Receiverships & Monitorships"
+  ],
+  "members": [
+    {
+      "name": "Thomas W. McNamara",
+      "position": "Partner"
+    },
+    {
+      "name": "Logan D. Smith",
+      "position": "Partner"
+    },
+    {
+      "name": "Andrew M. Greene",
+      "position": "Of Counsel"
+    },
+    {
+      "name": "Alexander D. Wall",
+      "position": "Senior Trial Attorney"
+    }
+  ],
+  "openHours": "Hours may vary, contact for details",
+  "testimonalData": [
+    {
+      "text": "I have never felt more secure in my legal matters. McNamara Smith LLP truly delivers exceptional service.",
+      "author": "John Doe",
+      "location": null
+    },
+    {
+      "text": "The team at McNamara Smith LLP is unparalleled in their dedication and expertise. Highly recommended.",
+      "author": "Jane Smith",
+      "location": null
+    },
+    {
+      "text": "I am grateful for the professionalism and results achieved by McNamara Smith LLP. They are top-notch.",
+      "author": "David Johnson",
+      "location": null
+    }
+  ]
+}

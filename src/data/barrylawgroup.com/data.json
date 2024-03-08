@@ -1,0 +1,75 @@
+{
+    "paragraph": "Call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Attorneys",
+            "content": "With over 70 years of collective litigation experience, our attorneys have the expertise and understanding to effectively represent you in your legal dispute."
+        },
+        {
+            "title": "Client-Centered Approach",
+            "content": "We work closely with experts, investigators, and other attorneys to build your case and maximize the value of your claim."
+        },
+        {
+            "title": "Fee Flexibility",
+            "content": "We offer fee agreements that allow us to pursue your rights without straining your finances, including contingency options in certain cases."
+        }
+    ],
+    "address": "16633 Ventura Blvd. Suite 1000, Encino, California 91436",
+    "phoneNumber": "(818) 789-9444",
+    "email": "email@barrylawgroup.com",
+    "linkNames": [
+        "Home",
+        "About Us",
+        "Practice Areas",
+        "Attorneys",
+        "Locations",
+        "Contact"
+    ],
+    "companyName": "Barry Law Group",
+    "subHeading": "Committed to Your Legal Success",
+    "valueProp": "Barry Law Group is dedicated to providing exceptional legal representation with a focus on client education and success in all legal matters.",
+    "CTA": "Discuss Your Case With Our Skilled Attorneys",
+    "topics": [
+        "Workers\u2019 Compensation",
+        "Estate Litigation",
+        "Personal Injury",
+        "Trust Litigation",
+        "Real Estate Disputes",
+        "Business Litigation",
+        "Auto Accidents",
+        "Premises Liability",
+        "Disability Pensions"
+    ],
+    "members": [
+        {
+            "name": "Steven M. Barry",
+            "position": "Attorney"
+        },
+        {
+            "name": "Jonathan T. Barry",
+            "position": "Attorney"
+        },
+        {
+            "name": "Jared A. Barry",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": "9:00am - 5:00pm, Monday through Friday",
+    "testimonalData": [
+        {
+            "text": "Steven Barry is my lawyer and the complete staff is fantastic. I've been so blessed to have met Steven, and for Steven to have taken on my case.",
+            "author": "Robert",
+            "location": null
+        },
+        {
+            "text": "Jared Barry took on a probate matter that was expected to result in litigation by one of the beneficiaries. Mr. Barry has continued to defend the case and provide regular updates.",
+            "author": "Sandra",
+            "location": null
+        },
+        {
+            "text": "Jared is a true professional. Although we did not have a big case, it was important to us. Jared sincerely cared and gave the case the attention that it needed.",
+            "author": "Cindy",
+            "location": null
+        }
+    ]
+}

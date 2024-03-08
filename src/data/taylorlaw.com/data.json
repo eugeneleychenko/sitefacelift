@@ -1,0 +1,76 @@
+{
+    "paragraph": "to call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Extensive Experience",
+            "content": "Over 175 years of combined experience handling tax disputes with federal and state taxing agencies."
+        },
+        {
+            "title": "Government Experience",
+            "content": "Over 40 years of government experience with the California Department of Tax and Fee Administration, I.R.S., and U.S. Justice Department."
+        },
+        {
+            "title": "Unique Perspective",
+            "content": "A blend of government and private practice experience to resolve tax controversies in and out of court."
+        }
+    ],
+    "address": "1900 Main Street, Suite 650, Irvine, CA 92614",
+    "phoneNumber": "714-546-0445",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Our Team",
+        "Practice Areas",
+        "Publications & Seminars",
+        "Contact",
+        "Office"
+    ],
+    "companyName": "Taylor Nelson Amitrano LLP",
+    "subHeading": "Recognized Tax Law Experts",
+    "valueProp": "Taylor Nelson Amitrano LLP is a leading tax law firm with a team of experienced professionals dedicated to resolving tax disputes effectively.",
+    "CTA": "Request Consultation",
+    "topics": [
+        "Federal & State Tax Audits, Collections & Appeals",
+        "California Residency Audits",
+        "Innocent Spouse Matters",
+        "Federal & State Tax Litigation",
+        "Offshore & Domestic Voluntary Disclosure",
+        "Sales & Use Tax Disputes",
+        "Employment Tax / Worker Classification Audits",
+        "Bankruptcy Tax",
+        "Representation of Non-Filers"
+    ],
+    "members": [
+        {
+            "name": "A. Lavar Taylor",
+            "position": "Managing Partner"
+        },
+        {
+            "name": "Lisa O. Nelson",
+            "position": "Partner"
+        },
+        {
+            "name": "Jonathan T. Amitrano",
+            "position": "Partner"
+        }
+    ],
+    "openHours": "Monday - Friday: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Taylor Nelson Amitrano LLP provided exceptional legal counsel for my tax dispute. Highly recommended!",
+            "author": "John Doe",
+            "location": "California"
+        },
+        {
+            "text": "The team at Taylor Nelson Amitrano LLP is professional and knowledgeable. They resolved my tax issue efficiently.",
+            "author": "Jane Smith",
+            "location": "New York"
+        },
+        {
+            "text": "I was impressed by the expertise of the attorneys at Taylor Nelson Amitrano LLP. They achieved great results for my case.",
+            "author": "David Johnson",
+            "location": "Texas"
+        }
+    ]
+}

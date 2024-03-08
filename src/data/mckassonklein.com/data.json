@@ -1,0 +1,62 @@
+{
+  "paragraph": null,
+  "detailsData": [
+    {
+      "title": "Experienced Firm",
+      "content": "Over 20 years of successful legal services."
+    },
+    {
+      "title": "Global Clientele",
+      "content": "Serving clients from around the world."
+    },
+    {
+      "title": "Exceptional Results",
+      "content": "Consistently achieving exceptional outcomes."
+    }
+  ],
+  "address": "18401 Von Karman Ave, Suite 330, Irvine, CA 92612",
+  "phoneNumber": "949-724-0200",
+  "email": null,
+  "linkNames": ["Home", "Practice Areas", "Lawyers", "Articles", "Contact"],
+  "companyName": "McKasson & Klein LLP",
+  "subHeading": "A Focus On Business Law",
+  "valueProp": "McKasson & Klein LLP is a boutique law firm specializing in business transactions and litigation, with a focus on providing excellent legal services to clients worldwide.",
+  "CTA": "Contact Us",
+  "topics": [
+    "Business Litigation",
+    "Business Transactions",
+    "Employment Law",
+    "Intellectual Property",
+    "Maritime Transportation",
+    "International Arbitrations And Cross-Border Disputes",
+    "Real Property"
+  ],
+  "members": [
+    {
+      "name": "John McKasson",
+      "position": "Founding Partner"
+    },
+    {
+      "name": "Neil Klein",
+      "position": "Founding Partner"
+    }
+  ],
+  "openHours": "Mon-Fri: 9am-5pm",
+  "testimonalData": [
+    {
+      "text": "McKasson & Klein LLP provided exceptional legal representation for our business dispute. Highly recommended!",
+      "author": "Jane Doe",
+      "location": null
+    },
+    {
+      "text": "The attorneys at McKasson & Klein LLP are knowledgeable and dedicated. They helped us navigate complex legal issues with ease.",
+      "author": "John Smith",
+      "location": null
+    },
+    {
+      "text": "I am grateful for the professional and efficient legal services provided by McKasson & Klein LLP. They exceeded my expectations.",
+      "author": "Emily Johnson",
+      "location": null
+    }
+  ]
+}

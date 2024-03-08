@@ -1,0 +1,69 @@
+{
+    "paragraph": "Call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Client-Focused Representation",
+            "content": "Specializing in representing injured workers in workers' compensation claims and disabled individuals in Social Security Disability claims."
+        },
+        {
+            "title": "Certified Specialists",
+            "content": "Both partners are recognized as experts in the field of workers' compensation law by the State Bar of California."
+        },
+        {
+            "title": "Extensive Trial Experience",
+            "content": "Having taken over 500 cases to trial, they are among the most experienced trial lawyers in Santa Clara County."
+        }
+    ],
+    "address": "123 Main Street, Santa Clara, CA 95051",
+    "phoneNumber": "408-996-8650",
+    "email": "info@borahshafferlaw.com",
+    "linkNames": [
+        "Home",
+        "Legal Services",
+        "Attorneys",
+        "Contact Us"
+    ],
+    "companyName": "Law Office of Borah & Shaffer",
+    "subHeading": "Specializing in Workers' Compensation and Social Security Disability Claims",
+    "valueProp": "Our law firm is client-focused, specializing in representing injured workers in workers\u2019 compensation claims and disabled individuals in Social Security Disability claims.",
+    "CTA": "How can we help you? We want you to win your case.",
+    "topics": [
+        "Workers' Compensation",
+        "Social Security Disability",
+        "Serious and Willful Misconduct Claims",
+        "Discrimination Claims",
+        "Uninsured Claims",
+        "Subsequent Injuries Fund Claims",
+        "Settlements and Trials",
+        "Retraining Benefits",
+        "Death Benefits"
+    ],
+    "members": [
+        {
+            "name": "Andrew K. Shaffer",
+            "position": "Attorney"
+        },
+        {
+            "name": "Brett A. Borah",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": "Monday - Friday: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Brett and Andrew are amazing lawyers. They helped me win my case and I couldn't be happier.",
+            "author": "John Doe",
+            "location": "San Jose, CA"
+        },
+        {
+            "text": "The team at Borah & Shaffer is dedicated and knowledgeable. They guided me through the legal process with ease.",
+            "author": "Jane Smith",
+            "location": "Santa Clara, CA"
+        },
+        {
+            "text": "I highly recommend Borah & Shaffer. They are professional, caring, and truly experts in their field.",
+            "author": "Alice Johnson",
+            "location": "Sunnyvale, CA"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "paragraph": "to call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Representation",
+            "content": "With nearly a century of experience, we offer strategic and focused representation for our clients."
+        },
+        {
+            "title": "Specialized Expertise",
+            "content": "We have unparalleled expertise in defending lawyers, judges, design professionals, and other professionals."
+        },
+        {
+            "title": "Client Range",
+            "content": "From large firms to solo practitioners, we represent a diverse range of clients across various sectors."
+        }
+    ],
+    "address": "465 California Street 5th Floor, San Francisco, CA 94104",
+    "phoneNumber": "415-397-2222",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "About Us",
+        "Attorneys",
+        "Practices",
+        "News and Events",
+        "Contact",
+        "More"
+    ],
+    "companyName": "Long & Levit, LLP",
+    "subHeading": "Strategic. Experienced. Focused.",
+    "valueProp": "Long & Levit, LLP is a premier law firm with a nearly century-long history of providing strategic and experienced representation to a diverse range of clients. With specialized expertise in defending professionals and a client range from large firms to solo practitioners, we are committed to delivering focused legal services.",
+    "CTA": "Strategic. Experienced. Focused.",
+    "topics": [
+        "Law Firm",
+        "Legal Malpractice",
+        "Attorney",
+        "Long & Levit, LLP"
+    ],
+    "members": [
+        {
+            "name": "Mark Venardi",
+            "position": "Partner"
+        },
+        {
+            "name": "Martin Zurada",
+            "position": "Partner"
+        }
+    ],
+    "openHours": "465 California Street 5th Floor, San Francisco, CA 94104",
+    "testimonalData": [
+        {
+            "text": "Long & Levit, LLP provided exceptional legal services for our business. Their expertise and strategic approach were invaluable.",
+            "author": "John Doe",
+            "location": "San Francisco, CA"
+        },
+        {
+            "text": "I highly recommend Long & Levit, LLP for their professionalism and dedication to achieving positive outcomes for their clients.",
+            "author": "Jane Smith",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "Long & Levit, LLP exceeded our expectations with their legal representation. Their team's knowledge and experience were impressive.",
+            "author": "David Johnson",
+            "location": "San Francisco, CA"
+        }
+    ]
+}

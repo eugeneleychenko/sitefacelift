@@ -1,0 +1,80 @@
+{
+  "paragraph": "Call or text the contact number for a consultation.",
+  "detailsData": [
+    {
+      "title": "Comprehensive Services",
+      "content": "Offers a range of services for asset protection, tax planning, and more."
+    },
+    {
+      "title": "Client Education",
+      "content": "Believes in educating clients for successful planning outcomes."
+    },
+    {
+      "title": "Recognition",
+      "content": "Selected as one of the Best Law Firms in the U.S. by U.S. News and World Report."
+    }
+  ],
+  "address": "500 North Central Avenue, Suite 930, Glendale, CA 91203",
+  "phoneNumber": "213.289.0675",
+  "email": "info@ascendantllp.com",
+  "linkNames": [
+    "Home",
+    "Our Firm",
+    "Our Team",
+    "Practice Areas",
+    "Publications & Seminars",
+    "Contact",
+    "Office"
+  ],
+  "companyName": "Ascendant LLP",
+  "subHeading": "Your Wealth \u00b7 Your Legacy",
+  "valueProp": "Ascendant LLP is a multistate law firm dedicated to providing and maintaining comprehensive tax reduction, wealth protection and estate planning strategies for its domestic and international clientele. With combined professional experiences in legal and financial industries, we ensure that our clients\u2019 wealth planning needs are addressed in all respects.",
+  "CTA": "Welcome to Our Newest Attorney, Yuri Choe",
+  "topics": [
+    "Trusts & Estate Planning",
+    "Tax Planning",
+    "Business & Transaction Structuring",
+    "Asset Protection",
+    "Project Finance & Corporate Funding",
+    "Tax Controversy / Audit Defense",
+    "Trust Administration / Probate",
+    "California Tax Practice",
+    "Private Client Services"
+  ],
+  "members": [
+    {
+      "name": "Alexander D. Lee",
+      "position": "Managing Partner"
+    },
+    {
+      "name": "Aaron C. Yen",
+      "position": "Partner"
+    },
+    {
+      "name": "Raul A. Escatel",
+      "position": "Partner"
+    },
+    {
+      "name": "Yuri Choe",
+      "position": "Attorney"
+    }
+  ],
+  "openHours": "Monday - Friday: 9:00 AM - 5:00 PM",
+  "testimonalData": [
+    {
+      "text": "Ascendant LLP provided exceptional tax planning services for my family. Highly recommended!",
+      "author": "John Smith",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "text": "The team at Ascendant LLP helped us navigate complex trust administration with ease. Thank you!",
+      "author": "Mary Johnson",
+      "location": "New York, NY"
+    },
+    {
+      "text": "I was impressed by the professionalism and expertise of Ascendant LLP in handling our business structuring needs.",
+      "author": "David Lee",
+      "location": "San Francisco, CA"
+    }
+  ]
+}

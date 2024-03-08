@@ -1,0 +1,72 @@
+{
+    "paragraph": "to schedule a call or virtual meeting today!",
+    "detailsData": [
+        {
+            "title": "Excellence and Expertise",
+            "content": "Decades of experience at world class law firms, winning hundreds of cases."
+        },
+        {
+            "title": "Team Collaboration",
+            "content": "Weekly legal team meetings ensure expertise is shared across all cases."
+        },
+        {
+            "title": "Client-Centered Approach",
+            "content": "Strategies designed to meet the specific needs of each client."
+        }
+    ],
+    "address": "3017 Douglas Blvd, Suite 230, Roseville, CA 95661",
+    "phoneNumber": "(916) 783-1644",
+    "email": " [email protected]",
+    "linkNames": [
+        "Home",
+        "About Us",
+        "Practice Areas",
+        "Testimonials",
+        "Contact Us",
+        "Accessibility Policy",
+        "sacmag.com"
+    ],
+    "companyName": "FINNERTY LAW OFFICES, INC.",
+    "subHeading": "Not Your Typical Law Firm",
+    "valueProp": "We specialize in creating solutions for your legal issues. In litigation, we develop the evidence to win. In regulatory matters, we formulate strategies to achieve your objectives. In contract matters, corporate disputes, partnership disputes and other business matters, we deploy tactical advice to overcome the obstacles. We design our strategies to meet your needs.",
+    "CTA": "Welcome to FINNERTY LAW OFFICES, INC.",
+    "topics": [
+        "Business Litigation",
+        "ADA Defense",
+        "Intellectual Property",
+        "Corporations, Partnerships and LLCs",
+        "Cannabis Compliance and Transactions"
+    ],
+    "members": [
+        {
+            "name": "Kathleen E. Finnerty",
+            "position": "Founder"
+        },
+        {
+            "name": "Jessica Walker",
+            "position": "Attorney"
+        },
+        {
+            "name": "Teresa Woods",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "We have worked with Kathleen Finnerty for more than 20 years. She is our go-to lawyer when only the best will do.",
+            "author": "Chuck Hansen",
+            "location": null
+        },
+        {
+            "text": "Our regulatory and litigation matters are extremely complex and multifaceted. Kathleen handles them with grace, strength and intelligence. We are proud to have her on our team.",
+            "author": "Eric Scruggs",
+            "location": null
+        },
+        {
+            "text": "Kathleen is our ace-in-the-hole. She is smart, dedicated and tenacious in the pursuit of our interests.",
+            "author": "Gleb Tabachnik",
+            "location": null
+        }
+    ]
+}

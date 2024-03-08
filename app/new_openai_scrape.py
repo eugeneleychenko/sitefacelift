@@ -92,19 +92,19 @@ def process_response(response):
     structured_response = {}
 
     # Extract and rename 'CTA' to 'paragraph'
-    if 'CTA' in response:
-        structured_response['paragraph'] = response['CTA']
+    # if 'CTA' in response:
+    #     structured_response['paragraph'] = response['CTA']
 
-    # Process 'advantages' and rename to 'detailsData'
-    if 'advantages' in response and isinstance(response['advantages'], list):
-        structured_response['detailsData'] = response['advantages']
+    # # Process 'advantages' and rename to 'detailsData'
+    # if 'advantages' in response and isinstance(response['advantages'], list):
+    #     structured_response['detailsData'] = response['advantages']
 
     
     return structured_response
 
 # Main function to execute the app logic
 def main():
-    urls = ["https://nomoredebt.com/"]
+    urls = ["https://goodman-law.com/","https://goodman-law.com/firm/","https://goodman-law.com/legal-malpractice/"]
     questions = [
         "return the CTA which usually phrases like 'to call or text the contact number for a consultation'. Name the key 'paragraph' ",
         """

@@ -1,0 +1,68 @@
+{
+    "paragraph": "to call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Legal Team",
+            "content": "Our attorneys have a wealth of experience in a variety of legal matters, providing our clients with top-notch representation."
+        },
+        {
+            "title": "Client-Focused Approach",
+            "content": "We prioritize our clients' needs and work closely with them to achieve the best possible outcomes for their legal issues."
+        },
+        {
+            "title": "Ethical Expertise",
+            "content": "With a focus on legal ethics and risk management, we ensure that our practice maintains the highest ethical standards."
+        }
+    ],
+    "address": "1520 Eureka Road, Suite 100, Roseville, CA 95661",
+    "phoneNumber": "916.325.1000",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "Firm",
+        "Attorneys",
+        "Contact",
+        "Practice",
+        "Recruiting"
+    ],
+    "companyName": "Banks & Watson Attorneys",
+    "subHeading": "Skill is the unified force of experience, intellect and passion.",
+    "valueProp": "Banks & Watson is a law firm dedicated to providing exceptional legal services to our clients. With a focus on experience, intellect, and passion, we strive to achieve the best outcomes for those we represent.",
+    "CTA": "to call or text the contact number for a consultation",
+    "topics": [
+        "Administrative Law and Appeals",
+        "Business Transactions",
+        "California State Bar Disciplinary Matters",
+        "Complex Litigation and Alternative Dispute Resolution",
+        "Legal Ethics and Law Firm Risk Management",
+        "Real Estate"
+    ],
+    "members": [
+        {
+            "name": "James J. Banks",
+            "position": "Trial Attorney"
+        },
+        {
+            "name": "Roberta Lindsey Scott",
+            "position": "Senior Counsel"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Banks & Watson provided me with excellent legal representation. I highly recommend their services.",
+            "author": "John Doe",
+            "location": "Roseville, CA"
+        },
+        {
+            "text": "The attorneys at Banks & Watson are knowledgeable and dedicated to their clients' success.",
+            "author": "Jane Smith",
+            "location": "Sacramento, CA"
+        },
+        {
+            "text": "I was impressed by the professionalism and expertise of the legal team at Banks & Watson. They exceeded my expectations.",
+            "author": "Alice Johnson",
+            "location": "Folsom, CA"
+        }
+    ]
+}

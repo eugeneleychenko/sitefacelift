@@ -1,0 +1,75 @@
+{
+    "paragraph": "Call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Personalized Attention",
+            "content": "Dedicated to providing personal attention to all clients and delivering high-quality work product."
+        },
+        {
+            "title": "Cost-Efficient Representation",
+            "content": "Focus on cost-effective representation without compromising the client's legal position."
+        },
+        {
+            "title": "Prompt Communication",
+            "content": "Phone calls are promptly returned, and clients are kept informed of all developments."
+        }
+    ],
+    "address": "269 South Beverly Drive, Suite 1074, Beverly Hills, CA 90212",
+    "phoneNumber": "(310) 553-6611",
+    "email": "info@ogrlaw.com",
+    "linkNames": [
+        "Home",
+        "Areas of Practice",
+        "Recent Case Highlights",
+        "Representative Clients",
+        "Contact Us",
+        "Minor League Baseball"
+    ],
+    "companyName": "Owens & Gach Ray",
+    "subHeading": "Los Angeles Business Litigation & Conservatorships",
+    "valueProp": "Owens & Gach Ray is a Los Angeles based law firm specializing in business litigation and conservatorships. With a focus on personal attention and cost-efficient representation, they strive to protect and advance their clients' interests.",
+    "CTA": "Contact us if you have any questions about our services",
+    "topics": [
+        "Real Estate Litigation",
+        "Probate and Estate Litigation",
+        "Contract Disputes",
+        "Franchise Litigation",
+        "Entertainment Litigation",
+        "Shareholder Derivative Litigation",
+        "Business Tort Litigation",
+        "Class Actions",
+        "Conservatorships"
+    ],
+    "members": [
+        {
+            "name": "Rob Owens",
+            "position": "Founding Partner"
+        },
+        {
+            "name": "Linda Gach Ray",
+            "position": "Founding Partner"
+        },
+        {
+            "name": "Stephan M. Ray",
+            "position": "Of Counsel"
+        }
+    ],
+    "openHours": "Our offices are open from 9am to 5.30 PST Monday through Friday",
+    "testimonalData": [
+        {
+            "text": "Rob Owens and Linda Gach Ray provided exceptional legal representation for my case. Highly recommended!",
+            "author": "John Smith",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "I was impressed by the professionalism and dedication of the team at Owens & Gach Ray. They exceeded my expectations.",
+            "author": "Emily Johnson",
+            "location": "Beverly Hills, CA"
+        },
+        {
+            "text": "Owens & Gach Ray truly cares about their clients and goes above and beyond to achieve the best results. Thank you!",
+            "author": "Michael Brown",
+            "location": "Santa Monica, CA"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "paragraph": "To call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Litigator",
+            "content": "With over 48 years of major, complex litigation experience, George Fleming has a proven track record of successful outcomes."
+        },
+        {
+            "title": "Accessible Counsel",
+            "content": "Leaving a multinational firm to start Fleming PC, George Fleming ensures that all businesses can access world-class litigation counsel."
+        },
+        {
+            "title": "Professional Recognition",
+            "content": "President of the La Jolla Bar Association, past president of the San Diego Chapter of the American Board of Trial Advocates, and more."
+        }
+    ],
+    "address": "600 W Broadway Ave., Ste 1400, San Diego, CA 92101",
+    "phoneNumber": "858 488-1644",
+    "email": "gfleming@fleming-pc.com",
+    "linkNames": [
+        "Home",
+        "Attorney",
+        "Practice Areas"
+    ],
+    "companyName": "Fleming PC",
+    "subHeading": "Big Firm Quality, Small Firm Attention.",
+    "valueProp": "In over 48 years of major, complex litigation, George Fleming has handled an extraordinary number of jury trials and mediations, resulting in an impressive record of successful outcomes for prestigious clients.",
+    "CTA": "Your solution begins with us.",
+    "topics": [
+        "Products Liability Litigation",
+        "Complex Civil Litigation",
+        "Commercial Litigation",
+        "Major Personal Injury/Wrongful Death",
+        "Contractual Disputes & Indemnification",
+        "Employment Litigation",
+        "Wage and Hour Disputes",
+        "Employee Theft & Trade Secret",
+        "Fiduciary Litigation"
+    ],
+    "members": [
+        {
+            "name": "George Fleming",
+            "position": "President"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "George Fleming's expertise in litigation is unmatched. He secured a significant settlement for our company.",
+            "author": "John Doe",
+            "location": "San Diego, CA"
+        },
+        {
+            "text": "I highly recommend George Fleming for his professionalism and dedication to achieving favorable outcomes.",
+            "author": "Jane Smith",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "George Fleming's strategic approach to our case was instrumental in winning a complex legal battle.",
+            "author": "Alice Johnson",
+            "location": "San Francisco, CA"
+        }
+    ]
+}

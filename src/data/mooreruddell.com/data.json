@@ -1,0 +1,59 @@
+{
+  "paragraph": "Call Today (310) 792-7010",
+  "detailsData": [
+    {
+      "title": "Results Driven Trial Attorneys",
+      "content": "Committed to putting clients first and achieving their goals."
+    },
+    {
+      "title": "Trusted Referrals",
+      "content": "Clients are referred by other attorneys and past clients."
+    },
+    {
+      "title": "Experienced Representation",
+      "content": "Over 20 years of high-stakes litigation experience."
+    }
+  ],
+  "address": "21250 Hawthorne Blvd Suite 500 Torrance, CA 90503",
+  "phoneNumber": "(310) 792-7010",
+  "email": null,
+  "linkNames": ["Home", "About Us", "Practice Areas", "Contact Us"],
+  "companyName": "Moore Ruddell LLP",
+  "subHeading": "California Employment & Business Litigation Attorneys",
+  "valueProp": "Moore Ruddell is a Los Angeles-based civil litigation firm that provides dynamic, high-quality counsel and representation to individual and business clients across the State of California. Our uncompromising and rigorous advocacy focuses on achieving our clients\u2019 goals and protecting our clients\u2019 interests.",
+  "CTA": "Request a Free Consultation",
+  "topics": [
+    "Employment Law",
+    "Business Litigation",
+    "Trade Secrets & Intellectual Property",
+    "Defamation"
+  ],
+  "members": [
+    {
+      "name": "Howard Ruddell",
+      "position": "Partner"
+    },
+    {
+      "name": "Bonita Moore",
+      "position": "Partner"
+    }
+  ],
+  "openHours": "Monday - Friday, 9:00 am - 5:00 pm",
+  "testimonalData": [
+    {
+      "text": "Howard is everything you would want in an attorney. He's reasonable and even keeled but can be assertive and a zealous advocate when required.",
+      "author": "Matthew P.",
+      "location": null
+    },
+    {
+      "text": "What a professional firm. Friendly and honest...and really fight for you.",
+      "author": "Tami S.",
+      "location": null
+    },
+    {
+      "text": "Bonita was incredible I can\u2019t say enough good things about her she made me feel so confident going into court.",
+      "author": "Nick L.",
+      "location": null
+    }
+  ]
+}

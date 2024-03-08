@@ -1,0 +1,80 @@
+{
+    "paragraph": "Call us now for a consultation.",
+    "detailsData": [
+        {
+            "title": "Experienced Employment Lawyers",
+            "content": "Decades of experience litigating cases for employees and victims of sexual harassment."
+        },
+        {
+            "title": "Exclusive Plaintiff Representation",
+            "content": "Dedicated to representing plaintiffs or victims, never the perpetrators."
+        },
+        {
+            "title": "Focus on Client Advocacy",
+            "content": "Passionate and relentless in fighting for employee rights and justice."
+        }
+    ],
+    "address": "523 W. 6th Street, Suite 707, Los Angeles, CA 90014",
+    "phoneNumber": "(213) 805-5301",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Our Team",
+        "Practice Areas",
+        "Publications & Seminars",
+        "Contact",
+        "Office"
+    ],
+    "companyName": "Genie Harrison Law Firm",
+    "subHeading": "California Employment Lawyers",
+    "valueProp": "The Genie Harrison Law Firm is dedicated to advocating for those who have been wronged or harmed, striving to help them recover and resolve their issues.",
+    "CTA": "When the worst happens, call the best.",
+    "topics": [
+        "Wrongful Termination",
+        "Disability Discrimination",
+        "Equal Pay & Gender Discrimination",
+        "Sexual Harassment",
+        "Workplace Discrimination",
+        "Whistleblower Retaliation",
+        "Caregiver Overtime",
+        "Pregnancy Discrimination",
+        "Wage and Hour Violations"
+    ],
+    "members": [
+        {
+            "name": "Genie Harrison",
+            "position": "Lead Trial Attorney"
+        },
+        {
+            "name": "Andie Fields",
+            "position": "Attorney"
+        },
+        {
+            "name": "Mia Munro",
+            "position": "Attorney"
+        },
+        {
+            "name": "Jennifer Ostertag",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": "Monday - Friday: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Genie and her team definitely made me feel comfortable and in good hands every step of the way.",
+            "author": "Anonymous Client",
+            "location": null
+        },
+        {
+            "text": "Genie was a true professional and advocate of my cause in every single way possible.",
+            "author": "A.W.",
+            "location": null
+        },
+        {
+            "text": "Excellent experience with the Genie Harrison Law Firm. Genie and Amber are extremely supportive, communicative, and will fight hard for you.",
+            "author": "G.V.",
+            "location": null
+        }
+    ]
+}

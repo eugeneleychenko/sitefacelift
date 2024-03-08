@@ -1,0 +1,73 @@
+{
+    "paragraph": "To call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Litigators",
+            "content": "Our team has decades of experience in complex litigation, providing our clients with a winning strategy for each unique case."
+        },
+        {
+            "title": "Community Engagement",
+            "content": "We are actively involved in the community, serving on boards and providing pro bono services to give back."
+        },
+        {
+            "title": "Judgment and Strategy",
+            "content": "Our attorneys use their judgment and experience to find the best strategies for our clients, whether through aggressive litigation or creative problem-solving."
+        }
+    ],
+    "address": "201 Mission Street, Suite 1330, San Francisco, CA 94105",
+    "phoneNumber": "415.510.2114",
+    "email": "info@gluckdaniel.com",
+    "linkNames": [
+        "Home",
+        "Business Litigation",
+        "Real Estate Litigation",
+        "Meet Our Team",
+        "About GDA"
+    ],
+    "companyName": "Gluck Daniel Atkinson LLP",
+    "subHeading": "Years of experience in finding the winning strategy for each unique case",
+    "valueProp": "Gluck Daniel Atkinson is a team of talented lawyers in a culture defined by teamwork, integrity, creativity, and excellence.",
+    "CTA": "Years of experience in finding the winning strategy for each unique case",
+    "topics": [
+        "Business Litigation",
+        "Real Estate Litigation",
+        "Meet Our Team",
+        "About GDA"
+    ],
+    "members": [
+        {
+            "name": "Craig C. Daniel",
+            "position": "Partner"
+        },
+        {
+            "name": "Matthew J. Gluck",
+            "position": "Partner"
+        },
+        {
+            "name": "Gordon C. Atkinson",
+            "position": "Partner"
+        },
+        {
+            "name": "Justin Sowa",
+            "position": "Partner"
+        }
+    ],
+    "openHours": "Monday - Friday: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Gluck Daniel Atkinson provided exceptional legal representation for my case. Their team was professional and dedicated to achieving the best outcome.",
+            "author": "John Doe",
+            "location": "San Francisco, CA"
+        },
+        {
+            "text": "I was impressed by the strategic approach taken by the attorneys at Gluck Daniel Atkinson. They were thorough and effective in handling my legal matter.",
+            "author": "Jane Smith",
+            "location": "Oakland, CA"
+        },
+        {
+            "text": "The team at Gluck Daniel Atkinson went above and beyond to ensure my legal needs were met. I highly recommend their services.",
+            "author": "David Johnson",
+            "location": "San Jose, CA"
+        }
+    ]
+}

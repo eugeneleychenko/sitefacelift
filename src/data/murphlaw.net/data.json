@@ -1,0 +1,72 @@
+{
+    "paragraph": "Call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Trial Lawyers",
+            "content": "With over 40 years of collective experience, our trial lawyers have successfully litigated over 90 trials."
+        },
+        {
+            "title": "Community Involvement",
+            "content": "Actively involved in volunteer projects to help local communities provide a better future."
+        },
+        {
+            "title": "Free Initial Evaluation",
+            "content": "Every new client gets a free initial case evaluation to discuss their legal needs."
+        }
+    ],
+    "address": "3500 W. Olive Ave., Suite 300, Burbank, CA 91505",
+    "phoneNumber": "818-558-3718",
+    "email": "info@murphlaw.net",
+    "linkNames": [
+        "Home",
+        "Our Team",
+        "Areas of Expertise",
+        "Success",
+        "Newsroom",
+        "Testimonials",
+        "Contact Us"
+    ],
+    "companyName": "Law Offices of Michael C. Murphy",
+    "subHeading": "A Business Approach to Legal Issues",
+    "valueProp": "The Law Offices of Michael C. Murphy is a specialized boutique law firm located in the heart of Westlake Village, CA. Our firm is equipped with aggressive trial lawyers who have been collectively practicing for over 40 years.",
+    "CTA": "Free Evaluation",
+    "topics": [
+        "Business Fraud",
+        "Business Law",
+        "Civil Litigation",
+        "Contract Drafting & Negotiating",
+        "Debt Collection",
+        "Employment Law",
+        "Intellectual Property",
+        "Personal Injury",
+        "Unfair Business Practices"
+    ],
+    "members": [
+        {
+            "name": "Michael C. Murphy, Esq.",
+            "position": "Lead Trial Counsel"
+        },
+        {
+            "name": "Michael C. Murphy, Jr., Esq.",
+            "position": "Associate Attorney"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Highly ethical, highly experienced and will go to bat for you! So, if you've ever been in a situation where you really needed a lawyer, then you know what I'm talking about.",
+            "author": "Satisfied Client",
+            "location": null
+        },
+        {
+            "text": "Best decision I made after an accident was to hire the Law Offices of Michael Murphy. On our first meeting they explained what the process would be and it turned out to be exactly what happened.",
+            "author": "Another Satisfied Client",
+            "location": null
+        },
+        {
+            "text": "I could not have attained better legal representation than what I received from the 'Murphy Team'. Their dedication, integrity and overall perseverance put forth on my behalf was nothing short of exceptional.",
+            "author": "Grateful Client",
+            "location": null
+        }
+    ]
+}

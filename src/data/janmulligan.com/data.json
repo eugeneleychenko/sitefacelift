@@ -1,0 +1,63 @@
+{
+    "paragraph": "Call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Legal Team",
+            "content": "Over 30 years of experience in healthcare law, specializing in cutting-edge litigation involving emerging technologies."
+        },
+        {
+            "title": "Top Legal Rankings",
+            "content": "Ranked in the top 5% of all attorneys in the United States for legal skills and ethical standards."
+        },
+        {
+            "title": "Community Involvement",
+            "content": "Actively involved in various legal and community organizations, dedicated to giving back."
+        }
+    ],
+    "address": "2442 4th Avenue Suite 100, San Diego, CA 92101",
+    "phoneNumber": "619.238.8700",
+    "email": "Email Janice",
+    "linkNames": [
+        "Home",
+        "About",
+        "Practice Areas",
+        "Sample Cases",
+        "In the News",
+        "Blog",
+        "Contact"
+    ],
+    "companyName": "Mulligan Law",
+    "subHeading": "Health Care & Technology Law",
+    "valueProp": "Jan Mulligan is a highly respected attorney with over 30 years of experience in healthcare law, dedicated to providing exceptional legal representation.",
+    "CTA": "Contact Janice",
+    "topics": [
+        "Privacy & Technology Law",
+        "Medical Malpractice",
+        "Serious Personal Injury",
+        "Nursing Home Injury"
+    ],
+    "members": [
+        {
+            "name": "Janice F. Mulligan",
+            "position": "Founder & Attorney"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Jan Mulligan is a skilled attorney who truly cares about her clients. She fought tirelessly for my case and achieved a great outcome.",
+            "author": "John Doe",
+            "location": "San Diego, CA"
+        },
+        {
+            "text": "I highly recommend Mulligan Law. Their expertise in healthcare law is unmatched, and they provide top-notch legal services.",
+            "author": "Jane Smith",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "Janice Mulligan is a compassionate and dedicated lawyer. She goes above and beyond to ensure her clients receive the best representation.",
+            "author": "David Johnson",
+            "location": "San Francisco, CA"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "paragraph": "Call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Attorneys",
+            "content": "Our team has extensive expertise and a track record of success in various legal matters."
+        },
+        {
+            "title": "Client-Centered Approach",
+            "content": "We prioritize our clients' needs, providing personalized assistance and dedicated advocacy."
+        },
+        {
+            "title": "Trial Tested Advocates",
+            "content": "Our attorneys are zealous advocates for our clients' rights, with a focus on achieving optimal outcomes."
+        }
+    ],
+    "address": "16001 Ventura Blvd. Suite #200, Encino, CA 91436",
+    "phoneNumber": "833-228-7529",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "About The Firm",
+        "Our Attorneys",
+        "Practice Areas",
+        "Results",
+        "Resources",
+        "Press",
+        "Contact Us"
+    ],
+    "companyName": "ACTS LAW, LLP",
+    "subHeading": "Fearless Advocacy, Fearless Representation",
+    "valueProp": "ACTS LAW, LLP is a dedicated legal firm committed to providing exceptional advocacy and representation for our clients in a wide range of legal matters.",
+    "CTA": "Let Us Be Your Voice",
+    "topics": [
+        "Catastrophic Injury",
+        "Birth Injury",
+        "Sexual Abuse",
+        "Medical Malpractice",
+        "Construction Defects",
+        "Property Damage",
+        "Insurance Bad Faith",
+        "School Bullying",
+        "Other Practice Areas"
+    ],
+    "members": [
+        {
+            "name": "Danny Abir",
+            "position": "Founding Partner"
+        },
+        {
+            "name": "Alexander Cohen",
+            "position": "Founding Partner"
+        },
+        {
+            "name": "Boris Treyzon",
+            "position": "Founding Partner"
+        },
+        {
+            "name": "Renata Salo",
+            "position": "Founding Partner"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "ACTS LAW under promised and over performed for me. I was surprised with my attorney's team and their ability to keep me informed while assisting me with all my needs.",
+            "author": "Cara Barton",
+            "location": null
+        },
+        {
+            "text": "I can't thank Maryel, Jennie and the rest of the ACTS LAW team enough in everything they did to help me out. They were always so communicative with me, updating and keeping me in the loop of the whole process.",
+            "author": "Rebecca Latorre",
+            "location": null
+        },
+        {
+            "text": "In my 35 plus years of business experience, I have never met more knowledgeable, responsive professionals. My cases were settled in record time with extremely satisfactory results.",
+            "author": "Jacob Gurevich",
+            "location": null
+        }
+    ]
+}
