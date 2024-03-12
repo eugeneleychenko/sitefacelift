@@ -1,0 +1,78 @@
+{
+    "paragraph": "Call 888-309-1224 for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Attorneys",
+            "content": "With over 150 years of combined experience, our attorneys bring a wealth of knowledge to each case."
+        },
+        {
+            "title": "Impressive Track Record",
+            "content": "Having secured over $1.5 billion in verdicts and settlements, we have a proven history of success."
+        },
+        {
+            "title": "Client-Centered Approach",
+            "content": "We prioritize our clients' needs, ensuring each case is handled with care and dedication."
+        }
+    ],
+    "address": "354 Pine Street, Floor 3, San Francisco, CA 94104",
+    "phoneNumber": "888-309-1224",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "About",
+        "Practice Areas",
+        "Referrals",
+        "Results",
+        "Blog",
+        "Contact"
+    ],
+    "companyName": "The Brandi Law Firm",
+    "subHeading": "When Winning Matters Most",
+    "valueProp": "The Brandi Law Firm is dedicated to helping injured individuals seek fair compensation. With a strong track record of success and a client-centered approach, we are here to guide you through your legal challenges.",
+    "CTA": "Request a consultation",
+    "topics": [
+        "Collisions And Defective Cars",
+        "Personal Injury And Wrongful Death",
+        "Bicycle Accidents Overview",
+        "Dangerous Public Property",
+        "Elder Abuse",
+        "Product Defects",
+        "More"
+    ],
+    "members": [
+        {
+            "name": "Thomas J. Brandi",
+            "position": "Founder"
+        },
+        {
+            "name": "Brian J. Malloy",
+            "position": "Attorney"
+        },
+        {
+            "name": "Daniel Dell\u2019Osso",
+            "position": "Attorney"
+        },
+        {
+            "name": "Jason B. Friedman",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "The Brandi Law Firm fought tirelessly for my case and secured a favorable outcome. Highly recommended!",
+            "author": "John Doe",
+            "location": "San Francisco, CA"
+        },
+        {
+            "text": "I was impressed by the professionalism and dedication of the attorneys at The Brandi Law Firm. They truly care about their clients.",
+            "author": "Jane Smith",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "Exceptional legal representation. The team at The Brandi Law Firm exceeded my expectations and delivered results.",
+            "author": "David Johnson",
+            "location": "San Diego, CA"
+        }
+    ]
+}

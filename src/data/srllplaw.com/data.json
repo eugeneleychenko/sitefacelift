@@ -1,0 +1,79 @@
+{
+    "paragraph": "Call (805) 204-4599 to schedule a consultation with one of our Ventura attorneys today!",
+    "detailsData": [
+        {
+            "title": "Experienced Firm",
+            "content": "Peer Review Rated For Ethical Standards and Legal Ability \u2122 AV\u00ae PREEMINENT\u2122 Martindale-Hubbell\u00ae. Named one of the Best Law Firms by U.S. News."
+        },
+        {
+            "title": "Individualized Counsel",
+            "content": "Focused on the individual needs of each client. Prepared to provide sound legal counsel for each case."
+        },
+        {
+            "title": "Diverse Practice Areas",
+            "content": "Handles a variety of cases throughout Central and Southern California. Skilled in business, civil litigation, personal injury, and more."
+        }
+    ],
+    "address": "625 E. Santa Clara Street, Suite 101, Ventura, CA 93001",
+    "phoneNumber": "805.204.4599",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "About Our Firm",
+        "Practice Areas",
+        "Attorneys",
+        "Community Involvement",
+        "News",
+        "Contact Us"
+    ],
+    "companyName": "Slaughter, Reagan & Cole, LLP",
+    "subHeading": "Skilled Ventura Lawyers Serving Throughout Central and Southern California",
+    "valueProp": "Slaughter, Reagan & Cole, LLP is one of California's most distinguished law firms, providing expert legal services to clients in a wide range of practice areas.",
+    "CTA": "Looking For Legal Help? Retain An Experienced Firm",
+    "topics": [
+        "Business and Corporate",
+        "Civil Litigation",
+        "Construction Litigation",
+        "Real Estate & Environmental",
+        "Intellectual Property",
+        "Appellate Advocacy",
+        "Alternative Dispute Resolution",
+        "Personal Injury"
+    ],
+    "members": [
+        {
+            "name": "William M. Slaughter",
+            "position": "Partner"
+        },
+        {
+            "name": "Barry J. Reagan",
+            "position": "Partner"
+        },
+        {
+            "name": "James B. Cole",
+            "position": "Partner"
+        },
+        {
+            "name": "Michael Lebow",
+            "position": "Partner"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Slaughter, Reagan & Cole, LLP provided exceptional legal representation for my case. Highly recommended!",
+            "author": "John Doe",
+            "location": "Ventura, CA"
+        },
+        {
+            "text": "I was impressed by the professionalism and dedication of the attorneys at Slaughter, Reagan & Cole, LLP. They truly care about their clients.",
+            "author": "Jane Smith",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "The team at Slaughter, Reagan & Cole, LLP went above and beyond to secure a favorable outcome for me. Thank you!",
+            "author": "David Johnson",
+            "location": "Santa Barbara, CA"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "paragraph": null,
+    "detailsData": [
+        {
+            "title": "Experienced Attorneys",
+            "content": "Our attorneys have extensive experience litigating cases to trial, including to the California Supreme Court."
+        },
+        {
+            "title": "Aggressive Representation",
+            "content": "We aggressively prosecute and defend cases to achieve our clients\u2019 stated goals."
+        },
+        {
+            "title": "Comprehensive Legal Counsel",
+            "content": "We counsel and advise clients on a broad range of state and federal employment laws."
+        }
+    ],
+    "address": "401 B Street, Suite 2000, San Diego, CA 92101",
+    "phoneNumber": "(619) 234-1222",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "Who We Are",
+        "What We Do",
+        "Media Center",
+        "Results",
+        "Referrals",
+        "Contact Us"
+    ],
+    "companyName": "Berger & Williams, LLP",
+    "subHeading": null,
+    "valueProp": "Founded in 1996, Berger & Williams, LLP is a San Diego-based law firm that represents clients throughout the State of California. Our attorneys have extensive experience litigating cases to trial, and on appeal including to the California Supreme Court. We counsel and advise clients on a broad range of state and federal employment laws.",
+    "CTA": null,
+    "topics": [
+        "Labor and Employment Litigation",
+        "Business Litigation",
+        "Employment Counseling",
+        "Wage Disputes",
+        "Sexual Harassment/Discrimination",
+        "At-Will Employment and Termination",
+        "Workplace Closures",
+        "Leaves of Absence and Employment Rights",
+        "Business Litigation"
+    ],
+    "members": [
+        {
+            "name": "Harvey C. Berger",
+            "position": "Partner"
+        },
+        {
+            "name": "Timothy G. Williams",
+            "position": "Partner"
+        },
+        {
+            "name": "Shelby M. Harris",
+            "position": "Associate"
+        },
+        {
+            "name": "Matthew R. Baker",
+            "position": "Associate"
+        }
+    ],
+    "openHours": "Hours: Mon-Fri 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "I have worked with Berger & Williams for years and they have always provided exceptional legal services.",
+            "author": "John Doe",
+            "location": "San Diego, CA"
+        },
+        {
+            "text": "The team at Berger & Williams is professional, knowledgeable, and dedicated to their clients' success.",
+            "author": "Jane Smith",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "Berger & Williams helped me navigate a complex legal issue with ease and achieved a favorable outcome.",
+            "author": "Alice Johnson",
+            "location": "San Francisco, CA"
+        }
+    ]
+}

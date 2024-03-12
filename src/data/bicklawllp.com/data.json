@@ -1,0 +1,79 @@
+{
+    "paragraph": "To call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Top Tier Experience",
+            "content": "Bick Law offers clients a world-class environmental law practice with attorneys who have interdisciplinary experience in business, law, and science."
+        },
+        {
+            "title": "Business Focus",
+            "content": "Bick Law is exclusively focused on meeting the needs of business clients, providing top-tier environmental counseling in matters that intersect with critical business activities."
+        },
+        {
+            "title": "Bench Strength",
+            "content": "The firm's collective experience and exclusive focus on environmental law make its bench strength equal to top-tier law firms, capable of handling any environmental matter clients face."
+        }
+    ],
+    "address": "520 Newport Center Drive, STE 750, Newport Beach, CA 92660",
+    "phoneNumber": "949-432-3500",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "Who We Are",
+        "What We Do",
+        "Who We Represent",
+        "Our Insights",
+        "Where We Are"
+    ],
+    "companyName": "Bick Law LLP",
+    "subHeading": "Mastering The Balancing Act For Our Clients",
+    "valueProp": "Bick Law LLP is a top-tier environmental law firm committed to providing world-class environmental litigation, compliance, and transactional services to businesses, tailored by industry and personalized to each client's needs.",
+    "CTA": "Before The Elephant Enters the Room",
+    "topics": [
+        "Litigation",
+        "Transactions",
+        "Compliance Counseling",
+        "Sustainability",
+        "Rulemaking and Legislative Practice",
+        "Aerospace, Satellites and Defense Systems",
+        "Banking and Finance",
+        "Buildings and Construction",
+        "Chemicals"
+    ],
+    "members": [
+        {
+            "name": "Alan Bick",
+            "position": "Partner"
+        },
+        {
+            "name": "Kimberly Bick",
+            "position": "Partner"
+        },
+        {
+            "name": "Corrie Plant",
+            "position": "Partner"
+        },
+        {
+            "name": "Sheila Mojtehedi",
+            "position": "Counsel"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Bick Law provided exceptional legal counsel that helped us navigate complex environmental challenges with ease.",
+            "author": "John Doe",
+            "location": "California"
+        },
+        {
+            "text": "The team at Bick Law is truly dedicated to their clients, offering innovative solutions to environmental issues.",
+            "author": "Jane Smith",
+            "location": "New York"
+        },
+        {
+            "text": "I highly recommend Bick Law for their expertise in environmental law and their commitment to client success.",
+            "author": "David Johnson",
+            "location": "Texas"
+        }
+    ]
+}

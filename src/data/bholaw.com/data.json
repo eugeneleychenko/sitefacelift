@@ -1,0 +1,79 @@
+{
+    "paragraph": "To call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Attorneys",
+            "content": "Decades of experience litigating in state and federal courts."
+        },
+        {
+            "title": "Aggressive Approach",
+            "content": "Aggressive, efficient, and cooperative approach to obtain the best recoveries."
+        },
+        {
+            "title": "Record Results",
+            "content": "Obtained record results on behalf of consumers in various cases."
+        }
+    ],
+    "address": "501 West Broadway, Suite 1490 San Diego, CA 92101",
+    "phoneNumber": "619.338.1100",
+    "email": "info@bholaw.com",
+    "linkNames": [
+        "Home",
+        "The Firm",
+        "Expertise",
+        "Attorneys",
+        "Cases",
+        "Contact"
+    ],
+    "companyName": "Blood Hurst & O'Reardon, LLP",
+    "subHeading": "Nationally recognized consumer protection class action law firm",
+    "valueProp": "Blood Hurst & O\u2019Reardon, LLP is a nationally recognized consumer protection class action law firm dedicated to recovering money for those who have been cheated and correcting corporate wrongdoing.",
+    "CTA": "Are you aware of a consumer rip-off?",
+    "topics": [
+        "Data Breaches",
+        "Drugs, Food and Dietary Supplements",
+        "Insurance Fraud",
+        "Automobile Defects",
+        "Mortgage and Loan Fraud",
+        "Consumer Product Defects",
+        "Real Estate and Condominiums",
+        "Unfair and Unlawful Business Practices",
+        "Credit Card Fraud"
+    ],
+    "members": [
+        {
+            "name": "Timothy G. Blood",
+            "position": "Managing Partner"
+        },
+        {
+            "name": "Leslie E. Hurst",
+            "position": "Co-Founding Partner"
+        },
+        {
+            "name": "Thomas J. O\u2019Reardon II",
+            "position": "Co-Founding Partner"
+        },
+        {
+            "name": "Paula R. Brown",
+            "position": "Partner"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Blood Hurst & O'Reardon helped me recover money from a deceptive business practice. Highly recommended!",
+            "author": "John Doe",
+            "location": "San Diego, CA"
+        },
+        {
+            "text": "I was a victim of a data breach, and Blood Hurst & O'Reardon fought for my rights. Great legal team!",
+            "author": "Jane Smith",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "Their expertise in consumer protection law is unmatched. Thank you for standing up for consumers!",
+            "author": "Alice Johnson",
+            "location": "New York, NY"
+        }
+    ]
+}

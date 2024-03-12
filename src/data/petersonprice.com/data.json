@@ -1,0 +1,72 @@
+{
+    "paragraph": "To call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Decades of Experience",
+            "content": "Established in 1958, with decades of experience in real estate, land use, business, and corporate law."
+        },
+        {
+            "title": "Responsive Boutique Firm",
+            "content": "Combines the experience of a long-standing firm with the personal attention of a boutique firm."
+        },
+        {
+            "title": "AV Preeminent Rating",
+            "content": "Each shareholder has an AV Preeminent Rating, signifying the highest levels of skill and integrity."
+        }
+    ],
+    "address": "402 West Broadway, Suite 1815, San Diego, CA 92101",
+    "phoneNumber": "619.234.0361",
+    "email": "ccr@petersonprice.com",
+    "linkNames": [
+        "Home",
+        "Attorneys",
+        "Areas of Practice",
+        "Contact Us"
+    ],
+    "companyName": "Peterson & Price",
+    "subHeading": "A Professional Corporation",
+    "valueProp": "Established in 1958, Peterson & Price is one of San Diego County's oldest and most respected law firms, specializing in real estate, land use, business, and corporate law.",
+    "CTA": "Contact Us",
+    "topics": [
+        "Real Estate",
+        "Municipal and Administrative Advocacy and Lobbying",
+        "Business",
+        "Probate and Trust Administration"
+    ],
+    "members": [
+        {
+            "name": "Matthew A. Peterson",
+            "position": "Shareholder"
+        },
+        {
+            "name": "Marshal A. Scarr",
+            "position": "Shareholder"
+        },
+        {
+            "name": "Amy Strider Harleman",
+            "position": "Shareholder"
+        },
+        {
+            "name": "Tracy Berger",
+            "position": "Associate"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "I have worked with Peterson & Price for years, and their expertise in real estate law is unmatched.",
+            "author": "John Doe",
+            "location": "San Diego, CA"
+        },
+        {
+            "text": "Peterson & Price provided excellent legal advice for my business, helping us navigate complex contracts.",
+            "author": "Jane Smith",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "Highly recommend Peterson & Price for their professionalism and dedication to achieving positive outcomes for clients.",
+            "author": "Alice Johnson",
+            "location": "San Francisco, CA"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "paragraph": "to call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Trial Lawyers",
+            "content": "Seasoned trial lawyers with deep experience in a wide range of allegations."
+        },
+        {
+            "title": "Comprehensive Corporate Governance",
+            "content": "Expertise in advising on governance obligations and compliance program implementation."
+        },
+        {
+            "title": "Specialized Securities Defense",
+            "content": "Representation in investigations by various regulatory bodies on securities-related claims."
+        }
+    ],
+    "address": "1611 Telegraph Avenue, Suite 806, Oakland, California 94612",
+    "phoneNumber": "415.500.6640",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Our Team",
+        "Practice Areas",
+        "Publications & Seminars",
+        "Contact",
+        "Office"
+    ],
+    "companyName": "Illovsky & Calia LLP",
+    "subHeading": "Corporate Law and Litigation",
+    "valueProp": "Illovsky & Calia LLP is a premier law firm specializing in corporate law and litigation, providing expert legal services to individuals and organizations.",
+    "CTA": "Contact Us",
+    "topics": [
+        "White Collar Criminal Defense",
+        "Corporate Internal Investigations and Governance",
+        "Civil Litigation and Arbitration",
+        "Securities-Related and Competition Defense",
+        "Crisis Management",
+        "Employee Mobility",
+        "Appeals",
+        "Dispute Resolution Services"
+    ],
+    "members": [
+        {
+            "name": "Eugene Illovsky",
+            "position": "Attorney"
+        },
+        {
+            "name": "Kevin Calia",
+            "position": "Attorney"
+        },
+        {
+            "name": "Matthew Dirkes",
+            "position": "Attorney"
+        },
+        {
+            "name": "Sharon Frase",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "I have never felt more secure in my legal matters. The team at Illovsky & Calia LLP is exceptional.",
+            "author": "John Doe",
+            "location": "California"
+        },
+        {
+            "text": "Their attention to detail and dedication to my case was unparalleled. Highly recommend their services.",
+            "author": "Jane Smith",
+            "location": "New York"
+        },
+        {
+            "text": "Illovsky & Calia LLP exceeded all my expectations. Professionalism at its finest.",
+            "author": "Alice Johnson",
+            "location": "Texas"
+        }
+    ]
+}

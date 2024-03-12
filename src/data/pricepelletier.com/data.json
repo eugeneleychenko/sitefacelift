@@ -1,0 +1,80 @@
+{
+  "paragraph": "to call or text the contact number for a consultation",
+  "detailsData": [
+    {
+      "title": "Experienced Trial Lawyers",
+      "content": "Decades of courtroom experience, handling complex and high-stakes civil litigation."
+    },
+    {
+      "title": "Strategic Mindset",
+      "content": "Assessment of client needs with meticulous preparation for each case."
+    },
+    {
+      "title": "Relentless Approach",
+      "content": "Determined to outwork the opposition, providing efficient and effective solutions."
+    }
+  ],
+  "address": "530 B Street Suite 1310, San Diego, CA 92101",
+  "phoneNumber": null,
+  "email": "contact@pricepelletier.com",
+  "linkNames": [
+    "Home",
+    "About Us",
+    "Our Team",
+    "Practice Areas",
+    "News",
+    "Contact"
+  ],
+  "companyName": "Price Pelletier, LLP",
+  "subHeading": "A Wealth of Trial Experience",
+  "valueProp": "At Price Pelletier, LLP we handle complex, high stakes civil litigation \u2013 specializing in general/commercial defense and transportation cases. Experienced trial lawyers with decades of courtroom experience, we are relentless in our approach and determined to outwork the other side time and again.",
+  "CTA": "Contact Us",
+  "topics": [
+    "Business Litigation",
+    "Professional Liability",
+    "Cargo Claims",
+    "Construction Law",
+    "Employment Law",
+    "Hospitality and Retail Law",
+    "Premises Liability Defense",
+    "Products Liability Defense",
+    "Real Estate Law"
+  ],
+  "members": [
+    {
+      "name": "Stephen Pelletier",
+      "position": "Partner"
+    },
+    {
+      "name": "Virginia L. Price",
+      "position": "Partner"
+    },
+
+    {
+      "name": "Samuel S. Baxter",
+      "position": "Of Counsel"
+    },
+    {
+      "name": "Judson H. Price",
+      "position": "Senior Trial Attorney"
+    }
+  ],
+  "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+  "testimonalData": [
+    {
+      "text": "Price Pelletier, LLP provided exceptional legal representation. Their dedication and expertise were truly impressive.",
+      "author": "John Doe",
+      "location": "San Diego, CA"
+    },
+    {
+      "text": "I was extremely satisfied with the outcome of my case. Price Pelletier, LLP exceeded my expectations.",
+      "author": "Jane Smith",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "text": "The team at Price Pelletier, LLP is top-notch. I highly recommend their services for any legal matters.",
+      "author": "Alice Johnson",
+      "location": "San Francisco, CA"
+    }
+  ]
+}

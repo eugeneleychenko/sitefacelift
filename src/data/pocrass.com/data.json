@@ -1,0 +1,74 @@
+{
+    "paragraph": "To call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Attorneys",
+            "content": "With over 30 years of experience, our attorneys have obtained numerous multi-million dollar verdicts and settlements."
+        },
+        {
+            "title": "Personalized Representation",
+            "content": "We take the time to understand each client's unique situation and provide individualized attention throughout the case."
+        },
+        {
+            "title": "Trial Experience",
+            "content": "Our attorneys are trial lawyers who are not afraid to take cases to court if necessary, ensuring the best possible outcomes for our clients."
+        }
+    ],
+    "address": "1880 Century Park East, Suite 1415, Los Angeles, CA 90067",
+    "phoneNumber": "310.550.9050",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Our Team",
+        "Practice Areas",
+        "Publications & Seminars",
+        "Contact",
+        "Office"
+    ],
+    "companyName": "Pocrass & De Los Reyes LLP",
+    "subHeading": "Leading Los Angeles Law Firm",
+    "valueProp": "Pocrass & De Los Reyes is a leading Los Angeles law firm that provides big firm expertise and small firm service to people who have suffered serious personal injuries or to the families who have lost a loved one to a wrongful death due to the carelessness or negligence of another.",
+    "CTA": "FREE CONSULTATION",
+    "topics": [
+        "Serious Personal Injuries",
+        "Defective Products",
+        "Insurance Bad Faith"
+    ],
+    "members": [
+        {
+            "name": "Jim Pocrass",
+            "position": "Partner"
+        },
+        {
+            "name": "Tony De Los Reyes",
+            "position": "Partner"
+        },
+        {
+            "name": "Jonathan Howell",
+            "position": "Of Counsel"
+        },
+        {
+            "name": "Michael De Vore",
+            "position": null
+        }
+    ],
+    "openHours": "Mon-Fri: 9am-5pm",
+    "testimonalData": [
+        {
+            "text": "Pocrass & De Los Reyes helped me get the compensation I deserved after my accident. Highly recommended!",
+            "author": "John Smith",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "The attorneys at Pocrass & De Los Reyes are truly dedicated to their clients' well-being. I couldn't have asked for better representation.",
+            "author": "Jane Doe",
+            "location": "Orange County, CA"
+        },
+        {
+            "text": "I am grateful for the professionalism and care shown by Pocrass & De Los Reyes during a difficult legal matter. Thank you!",
+            "author": "Robert Johnson",
+            "location": "Riverside, CA"
+        }
+    ]
+}

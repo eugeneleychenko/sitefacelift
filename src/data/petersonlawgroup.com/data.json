@@ -1,0 +1,70 @@
+{
+    "paragraph": "Call Us Now",
+    "detailsData": [
+        {
+            "title": "Experienced Legal Counsel",
+            "content": "With over 35 years of practice, successful jury trial experience, and numerous multi-million dollar judgments, we pursue our clients' interests with personalized attention and creative strategies."
+        },
+        {
+            "title": "Specialized Practice Areas",
+            "content": "Focused on eminent domain, inverse condemnation, and dangerous conditions, our firm offers knowledge and experience to major corporations, developers, family-owned businesses, and individuals."
+        },
+        {
+            "title": "Results-Oriented Philosophy",
+            "content": "Emphasizing advocacy, results, and peace of mind, we work with clients to achieve their goals through innovative and creative solutions."
+        }
+    ],
+    "address": "633 West Fifth Street, 26th Floor, Los Angeles, CA 90071",
+    "phoneNumber": "(213) 236-9720",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "About",
+        "Areas We Practice",
+        "Results",
+        "Contact"
+    ],
+    "companyName": "Peterson Law Group",
+    "subHeading": "You Have Rights; We Protect Them.",
+    "valueProp": "Peterson Law Group represents California real estate and business owners in litigation and trial of matters affecting their property rights. Our well-established firm holds a successful reputation garnered from many years of representing clients in complex property disputes.",
+    "CTA": "Call Us Now",
+    "topics": [
+        "Civil Litigation",
+        "Eminent Domain",
+        "Inverse Condemnation",
+        "Dangerous Conditions",
+        "Landslides & Subsidence",
+        "Government Tort Liability",
+        "Business Litigation",
+        "Commercial Real Estate Disputes",
+        "Land Use & Zoning"
+    ],
+    "members": [
+        {
+            "name": "John S. Peterson",
+            "position": "Trial Attorney"
+        },
+        {
+            "name": "Christopher D. Peterson",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Peterson Law Group provided exceptional legal representation for my property dispute. Their expertise and dedication were truly impressive.",
+            "author": "Jane Doe",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "I was amazed by the results Peterson Law Group achieved for my eminent domain case. They are truly the best in the business.",
+            "author": "John Smith",
+            "location": "Irvine, CA"
+        },
+        {
+            "text": "The team at Peterson Law Group went above and beyond to protect my property rights. I highly recommend their services to anyone in need of legal assistance.",
+            "author": "Alice Johnson",
+            "location": "Orange County, CA"
+        }
+    ]
+}

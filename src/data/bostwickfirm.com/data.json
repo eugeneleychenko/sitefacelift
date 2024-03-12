@@ -1,0 +1,75 @@
+{
+    "paragraph": "To call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Nationally Recognized Law Firm",
+            "content": "More than $1 billion recovered for our clients. Record-setting verdicts and settlements in five states for medical malpractice and motor vehicle accidents."
+        },
+        {
+            "title": "Experienced Trial Lawyers",
+            "content": "Put our highly recognized and award-winning attorneys on your side. We will make the difference in your case."
+        },
+        {
+            "title": "Record-Setting Results",
+            "content": "Multiple record-setting results in various practice areas. James Bostwick named Trial Lawyer of the Year."
+        }
+    ],
+    "address": "38 Keyes Avenue, Suite 115, San Francisco, CA 94129",
+    "phoneNumber": "888-831-8448",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "The Firm",
+        "Practice Areas",
+        "Case Results",
+        "Contact Us",
+        "View Our Locations"
+    ],
+    "companyName": "Bostwick & Peterson, LLP",
+    "subHeading": "One of California's Leading Injury & Malpractice Law Firms",
+    "valueProp": "Bostwick & Peterson is a nationally recognized law firm with a long history of winning record-setting cases for clients. Our experienced team is dedicated to providing exceptional legal representation.",
+    "CTA": "Start With a Free Consultation",
+    "topics": [
+        "Medical Malpractice",
+        "Brain Injury",
+        "Wrongful Death",
+        "Birth and Neonatal Injury",
+        "Spinal Cord Injury",
+        "Auto Accident",
+        "Truck Accident",
+        "Stroke Injury",
+        "Amputation Injury"
+    ],
+    "members": [
+        {
+            "name": "James S. Bostwick",
+            "position": "Partner"
+        },
+        {
+            "name": "Erik L. Peterson",
+            "position": "Partner"
+        },
+        {
+            "name": "George Ellard",
+            "position": "Associate"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Bostwick & Peterson provided exceptional legal representation and secured a significant settlement for my case.",
+            "author": "John Doe",
+            "location": "San Francisco, CA"
+        },
+        {
+            "text": "I highly recommend Bostwick & Peterson for their professionalism and dedication to their clients.",
+            "author": "Jane Smith",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "The team at Bostwick & Peterson went above and beyond to ensure I received fair compensation for my injuries.",
+            "author": "Alice Johnson",
+            "location": "San Diego, CA"
+        }
+    ]
+}

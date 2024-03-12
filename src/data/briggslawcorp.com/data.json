@@ -1,0 +1,75 @@
+{
+    "paragraph": "Call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Client-focused Approach",
+            "content": "We prioritize the needs and goals of our clients, ensuring personalized attention and tailored legal solutions."
+        },
+        {
+            "title": "Transparent Communication",
+            "content": "We believe in open and honest communication with our clients, providing clarity and understanding throughout the legal process."
+        },
+        {
+            "title": "Community Advocacy",
+            "content": "Committed to serving the community, we engage in public-interest litigation to protect taxpayers and promote government transparency."
+        }
+    ],
+    "address": "123 Main Street, San Diego, CA 92101",
+    "phoneNumber": "123-456-7890",
+    "email": "info@briggslaw.com",
+    "linkNames": [
+        "Home",
+        "About Us",
+        "Practice Areas",
+        "Our Team",
+        "Cases",
+        "Press",
+        "Blog",
+        "Contact Us"
+    ],
+    "companyName": "Briggs Law Corporation",
+    "subHeading": "Dedicated to Public-Interest Litigation",
+    "valueProp": "Briggs Law Corporation is dedicated to providing high-quality legal representation to small businesses, non-profit organizations, and concerned citizens. Our commitment to transparency, accountability, and community advocacy sets us apart.",
+    "CTA": "Schedule a Consultation Today",
+    "topics": [
+        "Small Business Law",
+        "Government Accountability & Public-Interest Litigation",
+        "Environmental Law"
+    ],
+    "members": [
+        {
+            "name": "Cory J. Briggs",
+            "position": "Attorney"
+        },
+        {
+            "name": "Nora Pasin",
+            "position": "Attorney"
+        },
+        {
+            "name": "Janna Ferraro",
+            "position": "Attorney"
+        },
+        {
+            "name": "Ruth Flores",
+            "position": "Paralegal"
+        }
+    ],
+    "openHours": "Monday - Friday: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Briggs Law Corp. is very professional and friendly. Excellent attorney and staff.",
+            "author": "Michael T.",
+            "location": null
+        },
+        {
+            "text": "Cory Briggs has been helpful to my family and business. Great advice and direction.",
+            "author": "Larry W.",
+            "location": null
+        },
+        {
+            "text": "Over the past months that I have worked with Cory Briggs, I have found him to be extremely knowledgeable, ethical, and dedicated.",
+            "author": "Andrea S.",
+            "location": null
+        }
+    ]
+}

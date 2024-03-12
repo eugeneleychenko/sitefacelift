@@ -1,0 +1,77 @@
+{
+    "paragraph": "to call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Defense Attorneys",
+            "content": "Decades of experience protecting constitutional rights and defending individuals."
+        },
+        {
+            "title": "Exclusive Criminal Defense Practice",
+            "content": "Specializing in state and federal criminal defense cases only."
+        },
+        {
+            "title": "Strong Presence in San Diego Legal Community",
+            "content": "Established reputation based on zealous defense and protection of clients' rights."
+        }
+    ],
+    "address": "401 B Street, Suite 2330, San Diego, CA 92101",
+    "phoneNumber": "(619) 232-9700",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "Attorneys",
+        "News & Articles",
+        "Contact"
+    ],
+    "companyName": "Grimes & Warwick",
+    "subHeading": "State and Federal Criminal Defense",
+    "valueProp": "The attorneys at Grimes & Warwick have a strong presence in the San Diego legal community based on decades of experience protecting the constitutional rights of citizens accused of crimes.",
+    "CTA": "Contact Us",
+    "topics": [
+        "State Criminal Defense",
+        "Federal Criminal Defense",
+        "White-Collar Crimes",
+        "Drug Crimes",
+        "Violent Crimes",
+        "DUI Defense",
+        "Appeals",
+        "Investigations",
+        "Corporate Criminal Defense"
+    ],
+    "members": [
+        {
+            "name": "Robert L. Grimes",
+            "position": "Attorney"
+        },
+        {
+            "name": "Thomas J. Warwick, Jr.",
+            "position": "Attorney"
+        },
+        {
+            "name": "Dana M. Grimes",
+            "position": "Attorney"
+        },
+        {
+            "name": "Jay Temple",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "The team at Grimes & Warwick provided exceptional legal representation. Highly recommended!",
+            "author": "John Doe",
+            "location": "San Diego, CA"
+        },
+        {
+            "text": "I was impressed by the professionalism and dedication of the attorneys. They truly care about their clients.",
+            "author": "Jane Smith",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "Grimes & Warwick exceeded my expectations. Their expertise in criminal defense is unmatched.",
+            "author": "David Johnson",
+            "location": "San Francisco, CA"
+        }
+    ]
+}

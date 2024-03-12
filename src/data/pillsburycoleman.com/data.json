@@ -1,0 +1,81 @@
+{
+    "paragraph": "To learn more about our lawyers, please follow the links below.",
+    "detailsData": [
+        {
+            "title": "Experienced Legal Representation",
+            "content": "With over three decades of experience, our firm has a proven track record of holding insurance companies accountable."
+        },
+        {
+            "title": "Focused Exclusively on Insurance Disputes",
+            "content": "We specialize in insurance law, ensuring that our clients receive dedicated and knowledgeable representation."
+        },
+        {
+            "title": "Exceptional Results for Policyholders",
+            "content": "We have earned a reputation for achieving outstanding results for clients treated unfairly by insurance companies."
+        }
+    ],
+    "address": "100 Green Street, San Francisco, CA 94111",
+    "phoneNumber": "(415) 433-8000",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "Attorneys",
+        "Practice Areas",
+        "Testimonials",
+        "Successes",
+        "Video Center",
+        "News",
+        "Blog",
+        "Contact"
+    ],
+    "companyName": "Pillsbury & Coleman, LLP",
+    "subHeading": "California Trial Lawyers Handling Every Kind Of Insurance Dispute",
+    "valueProp": "Pillsbury & Coleman, LLP is a California law firm focused exclusively on representing policyholders in insurance disputes and bad faith litigation.",
+    "CTA": "request your consultation",
+    "topics": [
+        "Bad Faith Insurance",
+        "Disability Denial Claims",
+        "ERISA Benefits",
+        "Disability Insurance Companies",
+        "Disabling Conditions",
+        "Long-Term Care Insurance Claims",
+        "General Business Insurance Policies",
+        "Specialized Business Policy Disputes"
+    ],
+    "members": [
+        {
+            "name": "Philip L. Pillsbury Jr.",
+            "position": "Attorney"
+        },
+        {
+            "name": "Terrence J. Coleman",
+            "position": "Attorney"
+        },
+        {
+            "name": "Eric K. Larson",
+            "position": "Attorney"
+        },
+        {
+            "name": "Ryan H. Opgenorth",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": "Monday - Friday: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Pillsbury & Coleman truly make a difference in people's lives by getting outstanding results. I am forever grateful for their help.",
+            "author": "Mehran Imanabadi",
+            "location": null
+        },
+        {
+            "text": "As part of an in-house legal team, I look for smart, capable and no-nonsense outside counsel to guide me on critical issues. Pillsbury & Coleman's attorneys proved to be all of the above.",
+            "author": "Bill Friedman",
+            "location": null
+        },
+        {
+            "text": "I can't thank Pillsbury & Coleman enough for their help during the most difficult time of my life. They were always there for me.",
+            "author": "Peter Englert",
+            "location": null
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "paragraph": "Call us: (619) 717-8500 for a consultation",
+    "detailsData": [
+        {
+            "title": "Specialized Legal Expertise",
+            "content": "Focused on insurance bad faith, coverage, risk transfer, and contracts."
+        },
+        {
+            "title": "Proven Track Record",
+            "content": "Recognized as a Best Lawyer and with a Martindale-Hubbell AV Preeminent Review Rating."
+        },
+        {
+            "title": "Client-Centered Approach",
+            "content": "Crafting personalized legal strategies for each client's unique needs."
+        }
+    ],
+    "address": "2442 4th Avenue, Suite 100, San Diego, CA 92101",
+    "phoneNumber": "(619) 717-8500",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "About Us",
+        "News & Resources",
+        "Contact Us"
+    ],
+    "companyName": "MRV Law, Inc.",
+    "subHeading": "A Focus On Results",
+    "valueProp": "MRV Law Inc. specializes in insurance bad faith, insurance coverage, risk transfer, and contracts. With a focus on results, the firm provides tailored legal solutions to meet clients' needs.",
+    "CTA": "Contact Us",
+    "topics": [
+        "BAD FAITH & INSURANCE LAW",
+        "RISK MANAGEMENT & CONSTRUCTION LAW"
+    ],
+    "members": [
+        {
+            "name": "Mark R. VonderHaar Esq.",
+            "position": "Principal"
+        },
+        {
+            "name": "Wendy J. Schmitt Esq.",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "MRV Law provided exceptional legal support. Highly recommended!",
+            "author": "John Doe",
+            "location": "San Diego, CA"
+        },
+        {
+            "text": "Professional and knowledgeable team. Helped me navigate complex legal issues.",
+            "author": "Jane Smith",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "Great experience working with MRV Law. They exceeded my expectations.",
+            "author": "Alice Johnson",
+            "location": "San Francisco, CA"
+        }
+    ]
+}

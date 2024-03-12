@@ -1,0 +1,65 @@
+{
+    "paragraph": "to call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Investigators",
+            "content": "Deep expertise in workplace investigations and Title IX cases."
+        },
+        {
+            "title": "Nimble & Resourceful",
+            "content": "Quick response to client needs with dedicated attention."
+        },
+        {
+            "title": "Professional Affiliations",
+            "content": "Active involvement in legal and ADR organizations."
+        }
+    ],
+    "address": "U.S. Bank Tower, 633 W 5th Street, 26th Floor, Los Angeles, CA 90071",
+    "phoneNumber": "(213) 996-8474",
+    "email": "info@reddocklaw.com",
+    "linkNames": [
+        "Home",
+        "The Firm",
+        "Our Services",
+        "Our Team",
+        "News & Events",
+        "Resources",
+        "Blog",
+        "Contact Us"
+    ],
+    "companyName": "The Reddock Law Group",
+    "subHeading": "Experienced Investigators & ADR Professionals",
+    "valueProp": "The Reddock Law Group is a boutique, certified minority, and woman-owned employment and labor law firm specializing in workplace investigations, Title IX cases, and ADR services.",
+    "CTA": "Experience. Expertise. Dedication",
+    "topics": [
+        "Workplace & Title IX Investigations",
+        "Alternative Dispute Resolution",
+        "Workplace Training & Facilitation",
+        "Project Labor Agreement & Labor Compliance Consultation",
+        "Expert Witness"
+    ],
+    "members": [
+        {
+            "name": "Angela Reddock-Wright",
+            "position": "Founder and Managing Partner"
+        }
+    ],
+    "openHours": "Mon-Fri: 9am-5pm",
+    "testimonalData": [
+        {
+            "text": "Angela is a true professional, her investigations are thorough and fair.",
+            "author": "John Doe",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "The ADR services provided by Angela were instrumental in resolving our dispute.",
+            "author": "Jane Smith",
+            "location": "San Francisco, CA"
+        },
+        {
+            "text": "Highly recommend the Reddock Law Group for workplace investigations.",
+            "author": "Alice Johnson",
+            "location": "New York, NY"
+        }
+    ]
+}

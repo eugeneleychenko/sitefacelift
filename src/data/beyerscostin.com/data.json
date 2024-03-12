@@ -1,0 +1,80 @@
+{
+    "paragraph": "Contact us for a consultation.",
+    "detailsData": [
+        {
+            "title": "Deep Expertise",
+            "content": "Decades of experience in real estate and business law."
+        },
+        {
+            "title": "Creative Solutions",
+            "content": "Innovative thinking to solve complex challenges."
+        },
+        {
+            "title": "Client-Centered Approach",
+            "content": "Empathetic counsel focused on client success."
+        }
+    ],
+    "address": "123 Main Street, Santa Rosa, CA 95401",
+    "phoneNumber": "555-555-5555",
+    "email": "info@beyerscostinsimon.com",
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Our Team",
+        "Practice Areas",
+        "Publications & Seminars",
+        "Contact",
+        "Office"
+    ],
+    "companyName": "Beyers Costin Simon",
+    "subHeading": "Real Estate and Business Law Firm in Santa Rosa",
+    "valueProp": "Beyers Costin Simon is a leading real estate and business law firm in Santa Rosa, providing expert counsel and creative solutions to clients for over 40 years.",
+    "CTA": "Contact us for legal advice.",
+    "topics": [
+        "Real Estate Law",
+        "Business Law",
+        "Litigation",
+        "Land Use",
+        "Construction Law",
+        "Insurance Law",
+        "Environmental Law",
+        "Wine Business Law",
+        "Forestry Law"
+    ],
+    "members": [
+        {
+            "name": "James L. Beyers",
+            "position": "Counsel"
+        },
+        {
+            "name": "Peter L. Simon",
+            "position": "Shareholder"
+        },
+        {
+            "name": "Michael Garcia",
+            "position": "Shareholder"
+        },
+        {
+            "name": "Steven Bleasdell",
+            "position": "Partner"
+        }
+    ],
+    "openHours": "Monday-Friday: 9am-5pm",
+    "testimonalData": [
+        {
+            "text": "Beyers Costin Simon provided exceptional legal support for my real estate development project. Highly recommended!",
+            "author": "John Smith",
+            "location": "Santa Rosa, CA"
+        },
+        {
+            "text": "The team at Beyers Costin Simon helped me navigate a complex business dispute with great success. Thank you!",
+            "author": "Jane Doe",
+            "location": "Sonoma County, CA"
+        },
+        {
+            "text": "I was impressed by the dedication and expertise of Beyers Costin Simon in handling my real estate transaction. Top-notch service!",
+            "author": "David Johnson",
+            "location": "Napa Valley, CA"
+        }
+    ]
+}

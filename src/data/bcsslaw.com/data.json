@@ -1,0 +1,79 @@
+{
+  "paragraph": "To call or text the contact number for a consultation",
+  "detailsData": [
+    {
+      "title": "Experienced Trial Counsel",
+      "content": "Our attorneys have a proven track record of success in trial and appellate litigation."
+    },
+    {
+      "title": "National Recognition",
+      "content": "Listed in top legal publications and consistently ranked as one of the Best Law Firms."
+    },
+    {
+      "title": "Majority Women-Owned",
+      "content": "Leadership by women partners Carmen Santana and Viiu Spangler sets us apart."
+    }
+  ],
+  "address": "515 South Figueroa St. Suite 1500, Los Angeles CA 90071",
+  "phoneNumber": "213.955.1150",
+  "email": null,
+  "linkNames": [
+    "Home",
+    "Practice Areas",
+    "Our Team",
+    "News",
+    "Careers",
+    "Contact"
+  ],
+  "companyName": "Berkes Crane Santana & Spangler LLP",
+  "subHeading": "Distinguished Trial and Appellate Counsel",
+  "valueProp": "Berkes Crane Santana & Spangler LLP is a nationally recognized law firm with a distinguished history of success in trial and appellate litigation.",
+  "CTA": "Contact Us Today",
+  "topics": [
+    "ADR",
+    "Intellectual Property",
+    "Appellate Practice",
+    "Personal Injury",
+    "Automobile Liability Defense",
+    "Premises Liability",
+    "Civil Litigation",
+    "Products Liability",
+    "Construction Litigation"
+  ],
+  "members": [
+    {
+      "name": "Robert H. Berkes",
+      "position": "Partner"
+    },
+    {
+      "name": "Rebecca A. Bellow",
+      "position": "Of Counsel"
+    },
+    {
+      "name": "Christopher Bruni",
+      "position": "Partner"
+    },
+    {
+      "name": "Steven M. Crane",
+      "position": "Of Counsel"
+    }
+  ],
+  "openHours": "Monday - Friday: 9:00 AM - 5:00 PM",
+  "testimonalData": [
+    {
+      "text": "Berkes Crane Santana & Spangler provided excellent legal representation. Highly recommend!",
+      "author": "John Doe",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "text": "The team at BCS&S is professional and dedicated. They achieved great results for us.",
+      "author": "Jane Smith",
+      "location": "San Francisco, CA"
+    },
+    {
+      "text": "I was impressed by the expertise and efficiency of the attorneys at BCS&S. Top-notch service!",
+      "author": "David Johnson",
+      "location": "New York, NY"
+    }
+  ]
+}

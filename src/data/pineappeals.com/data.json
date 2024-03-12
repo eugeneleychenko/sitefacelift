@@ -1,0 +1,72 @@
+{
+    "paragraph": "to call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Certified Appellate Law Specialist",
+            "content": "Recognized by the State Bar of California for expertise in appellate law."
+        },
+        {
+            "title": "Top 100 Lawyers in California",
+            "content": "Consistently named among the top 100 lawyers in California by The Daily Journal."
+        },
+        {
+            "title": "Award-Winning Advocates",
+            "content": "Recipient of prestigious awards for landmark cases and excellence in appellate advocacy."
+        }
+    ],
+    "address": "14156 Magnolia Blvd., Suite 200, Sherman Oaks CA 91423",
+    "phoneNumber": "818-379-9710",
+    "email": "info@pineappeals.com",
+    "linkNames": [
+        "Home",
+        "Our Partners",
+        "Our Practice",
+        "Significant Decisions",
+        "Publications & Presentations",
+        "Contact",
+        "More"
+    ],
+    "companyName": "Pine Tillett LLP",
+    "subHeading": "Appellate Lawyers with Decades of Success",
+    "valueProp": "Pine Tillett LLP is a renowned law firm specializing in appellate law, with a track record of success in significant decisions and landmark cases.",
+    "CTA": "CONTACT US",
+    "topics": [
+        "Employment Law",
+        "Personal Injury",
+        "Entertainment Law",
+        "Business Litigation",
+        "Land Use",
+        "Civil Appeals",
+        "Appellate Advocacy",
+        "Wrongful Death",
+        "Civil Rights"
+    ],
+    "members": [
+        {
+            "name": "Norman Pine",
+            "position": "Partner"
+        },
+        {
+            "name": "Scott Tillett",
+            "position": "Partner"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "The team at Pine Tillett LLP provided exceptional legal representation and achieved a favorable outcome for my case.",
+            "author": "John Doe",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "I highly recommend Pine Tillett LLP for their expertise in appellate law and dedication to their clients.",
+            "author": "Jane Smith",
+            "location": "Sherman Oaks, CA"
+        },
+        {
+            "text": "Working with Pine Tillett LLP was a seamless experience, and their appellate lawyers are truly top-notch professionals.",
+            "author": "Alice Johnson",
+            "location": "Beverly Hills, CA"
+        }
+    ]
+}

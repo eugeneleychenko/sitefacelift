@@ -104,7 +104,7 @@ def process_response(response):
 
 # Main function to execute the app logic
 def main():
-    urls = ["https://goodman-law.com/","https://goodman-law.com/firm/","https://goodman-law.com/legal-malpractice/"]
+    urls = ["https://www.briggslawcorp.com/"," https://www.briggslawcorp.com/attorneys"," https://www.briggslawcorp.com/areas-of-expertise/"," https://www.briggslawcorp.com/attorneys/"]
     questions = [
         "return the CTA which usually phrases like 'to call or text the contact number for a consultation'. Name the key 'paragraph' ",
         """

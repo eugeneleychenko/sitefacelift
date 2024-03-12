@@ -1,0 +1,75 @@
+{
+    "paragraph": "Call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Trial Attorneys",
+            "content": "Our attorneys have extensive trial experience to guide clients through legal processes efficiently."
+        },
+        {
+            "title": "Personalized Attention",
+            "content": "We provide clients with personalized attention while utilizing the latest technology and resources."
+        },
+        {
+            "title": "Professional Advocacy",
+            "content": "Known for aggressive yet ethical advocacy, we prioritize professional and ethical representation."
+        }
+    ],
+    "address": "2240 Douglas Boulevard, Suite 150, Roseville, CA 95661",
+    "phoneNumber": "(916)797-3100",
+    "email": "info@gurneelaw.com",
+    "linkNames": [
+        "Home",
+        "Our Team",
+        "Practice Areas",
+        "Memberships",
+        "News And Events",
+        "Contact Us"
+    ],
+    "companyName": "Gurnee Mason Rushford Bonotto & Forestiere",
+    "subHeading": "Trusted by Clients Throughout California",
+    "valueProp": "Gurnee Mason Rushford Bonotto & Forestiere is a civil trial firm providing personalized and professional legal services to clients in California.",
+    "CTA": "Call or text for a consultation",
+    "topics": [
+        "Civil Litigation",
+        "Business Transactions and Corporate Matters",
+        "Employment Counseling and Litigation",
+        "Funeral and Cemetery Law",
+        "Construction"
+    ],
+    "members": [
+        {
+            "name": "Steven H. Gurnee",
+            "position": "Managing Partner"
+        },
+        {
+            "name": "John A. Mason",
+            "position": "Partner"
+        },
+        {
+            "name": "Phillip R. Bonotto",
+            "position": "Partner"
+        },
+        {
+            "name": "Nicholas P. Forestiere",
+            "position": "Partner"
+        }
+    ],
+    "openHours": "Monday - Friday: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "The team at Gurnee Mason Rushford Bonotto & Forestiere provided exceptional legal support. Highly recommended!",
+            "author": "Alice Johnson",
+            "location": "Sacramento, CA"
+        },
+        {
+            "text": "I was impressed by the professionalism and dedication of the attorneys. They truly care about their clients.",
+            "author": "Michael Smith",
+            "location": "Roseville, CA"
+        },
+        {
+            "text": "Gurnee Mason Rushford Bonotto & Forestiere exceeded my expectations. Their expertise is unmatched.",
+            "author": "Emily Brown",
+            "location": "Folsom, CA"
+        }
+    ]
+}

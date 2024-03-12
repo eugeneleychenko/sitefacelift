@@ -1,0 +1,71 @@
+{
+    "paragraph": "To call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Attorneys",
+            "content": "Our attorneys have over 50 years of experience and have won over $1 billion in compensation for clients."
+        },
+        {
+            "title": "Record-Setting Results",
+            "content": "We have obtained record-setting results in multiple states, including California, Hawaii, and more."
+        },
+        {
+            "title": "Top Legal Recognition",
+            "content": "Our attorneys are consistently named to Super Lawyers\u00ae, The Best Lawyers in America, and other prestigious legal lists."
+        }
+    ],
+    "address": "500 Ala Moana Blvd, Suite 400, Honolulu, HI 96813",
+    "phoneNumber": "808-320-5024",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "The Firm",
+        "Attorneys",
+        "Practice Areas",
+        "Case Results",
+        "Contact Us"
+    ],
+    "companyName": "Bostwick & Peterson, LLP",
+    "subHeading": "Over $1 Billion Recovered for Clients",
+    "valueProp": "Bostwick & Peterson, LLP is one of Hawaii's premier personal injury law firms, dedicated to fighting for victims and families.",
+    "CTA": "Start With a Free Consultation",
+    "topics": [
+        "Medical Malpractice",
+        "Brain Injury",
+        "Wrongful Death",
+        "Birth & Neonatal Injury",
+        "Spinal Cord Injury",
+        "Auto Accident",
+        "Truck Accident",
+        "Personal Injury",
+        "Legal Malpractice"
+    ],
+    "members": [
+        {
+            "name": "James S. Bostwick",
+            "position": "Senior Partner"
+        },
+        {
+            "name": "Erik L. Peterson",
+            "position": "Senior Partner"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Bostwick & Peterson helped me get the compensation I deserved. Highly recommended!",
+            "author": "John Doe",
+            "location": "Honolulu, HI"
+        },
+        {
+            "text": "The attorneys at Bostwick & Peterson are truly exceptional. They fought for me every step of the way.",
+            "author": "Jane Smith",
+            "location": "Maui, HI"
+        },
+        {
+            "text": "I couldn't have asked for better legal representation. Bostwick & Peterson exceeded all my expectations.",
+            "author": "David Johnson",
+            "location": "Kauai, HI"
+        }
+    ]
+}

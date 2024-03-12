@@ -1,0 +1,77 @@
+{
+    "paragraph": "to call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Attorneys",
+            "content": "Our team has over 30 years of experience in providing expert legal counsel."
+        },
+        {
+            "title": "Strategic Advice",
+            "content": "We provide smart and creative solutions to complex legal issues."
+        },
+        {
+            "title": "Community Support",
+            "content": "We actively support the community in which we live, work, and play."
+        }
+    ],
+    "address": "1122 S Street, Sacramento, CA 95811",
+    "phoneNumber": "(916) 287-9500",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Our Team",
+        "Practice Areas",
+        "Publications & Seminars",
+        "Contact",
+        "Office"
+    ],
+    "companyName": "Pioneer Law Group, LLP",
+    "subHeading": "Specialty Law Firm in Sacramento",
+    "valueProp": "Pioneer Law Group, LLP is a specialty law firm based in Sacramento, California, providing smart, creative, clear, and business-minded legal advice to clients.",
+    "CTA": "to call or text the contact number for a consultation",
+    "topics": [
+        "Business",
+        "CEQA",
+        "Environmental Remediation",
+        "Land Use",
+        "NEPA",
+        "Real Estate"
+    ],
+    "members": [
+        {
+            "name": "Joel Patrick Erb",
+            "position": "Partner"
+        },
+        {
+            "name": "Dan King",
+            "position": "Partner"
+        },
+        {
+            "name": "David L. Krotine",
+            "position": "Partner"
+        },
+        {
+            "name": "Andrea A. Matarazzo",
+            "position": "Partner"
+        }
+    ],
+    "openHours": "Monday - Friday: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Pioneer Law Group provided exceptional legal support for our business. Highly recommended!",
+            "author": "John Doe",
+            "location": "Sacramento, CA"
+        },
+        {
+            "text": "The team at Pioneer Law Group is professional and knowledgeable. They helped us navigate complex legal issues with ease.",
+            "author": "Jane Smith",
+            "location": "San Francisco, CA"
+        },
+        {
+            "text": "I am grateful for the expertise and dedication of Pioneer Law Group. They truly care about their clients' success.",
+            "author": "Michael Johnson",
+            "location": "Los Angeles, CA"
+        }
+    ]
+}
