@@ -1,0 +1,60 @@
+{
+    "paragraph": "Call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Tech-Savvy Legal Guidance",
+            "content": "Deep understanding of technology saves time and money. Acronyms and jargon don't scare us."
+        },
+        {
+            "title": "Client Involvement",
+            "content": "Clients remain involved and put to work. Every minute you put in saves you money."
+        },
+        {
+            "title": "Problem Prevention & Resolution",
+            "content": "Hands-on legal guidance for startups and businesses. Mitigation, negotiation, and litigation services."
+        }
+    ],
+    "address": "3245 University Ave., Suite 1245, San Diego, California 92104",
+    "phoneNumber": "619.446-6750",
+    "email": "info@tcjohnston.com",
+    "linkNames": [
+        "Home",
+        "Internet & Technology Law",
+        "About",
+        "Bits"
+    ],
+    "companyName": "T.C. Johnston, LL.M. Internet Law",
+    "subHeading": "Serving Your TechLaw Needs Since 2005",
+    "valueProp": "T.C. Johnston, LL.M. Internet Law provides hands-on legal guidance on Internet and technology issues such as online business disputes, trademarks, copyrights, Internet torts, and more.",
+    "CTA": "FREE INITIAL CONSULT",
+    "topics": [
+        "Tech and General Litigation",
+        "Tech Transactional",
+        "Intellectual Property & Domain Name Disputes",
+        "Not-So-Tech Transactional"
+    ],
+    "members": [
+        {
+            "name": "T.C. Johnston",
+            "position": "LL.M. Internet Law"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "T.C. Johnston provided excellent legal advice for our tech startup. Highly recommended!",
+            "author": "John Doe",
+            "location": "San Diego, CA"
+        },
+        {
+            "text": "Professional and knowledgeable in internet law. Helped us navigate complex legal issues.",
+            "author": "Jane Smith",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "Great experience working with T.C. Johnston. Resolved our legal matters efficiently.",
+            "author": "Alice Johnson",
+            "location": "San Francisco, CA"
+        }
+    ]
+}

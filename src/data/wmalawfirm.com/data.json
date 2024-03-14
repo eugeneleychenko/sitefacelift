@@ -1,0 +1,74 @@
+{
+    "paragraph": "to call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Trusted Advisor Relationship",
+            "content": "Committed to restoring and elevating the traditional Trusted Advisor relationship between client and attorney."
+        },
+        {
+            "title": "Multi-disciplinary Experience",
+            "content": "Former partners at a large law firm, bringing diverse experience to clients' business challenges."
+        },
+        {
+            "title": "Fresh Approach to Law",
+            "content": "Taking a fresh approach to the practice of law, providing clients with the insight they need to make informed decisions."
+        }
+    ],
+    "address": "401 B Street, Suite 2220, San Diego, CA 92101",
+    "phoneNumber": "619.407.0505",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Our Team",
+        "Practice Areas",
+        "Publications & Seminars",
+        "Contact",
+        "Office"
+    ],
+    "companyName": "Witham Mahoney & Abbott",
+    "subHeading": "RESTORING TRUST BETWEEN LAWYERS & BUSINESS PROFESSIONALS",
+    "valueProp": "Witham Mahoney & Abbott is a new generation of legal counsel focused on helping a new generation of businesses and professionals achieve success. We are committed to restoring and elevating the traditional Trusted Advisor relationship between client and attorney while taking a fresh approach to the practice of law.",
+    "CTA": "BUILD \u2022 INVEST \u2022 PROTECT",
+    "topics": [
+        "Business Counsel & Transactions",
+        "Disputes & Litigation",
+        "Trusts, Estates & Family Wealth"
+    ],
+    "members": [
+        {
+            "name": "Dan Abbott",
+            "position": "Partner"
+        },
+        {
+            "name": "Matt Mahoney",
+            "position": "Partner"
+        },
+        {
+            "name": "Charles B. Witham",
+            "position": "Partner"
+        },
+        {
+            "name": "Tayler Marshall",
+            "position": "Partner"
+        }
+    ],
+    "openHours": "Hours may vary, contact for details",
+    "testimonalData": [
+        {
+            "text": "Matt is my go-to lawyer. He has been there for me and so many of my teammates over the years.",
+            "author": "Dwight Gooden",
+            "location": null
+        },
+        {
+            "text": "Matt is a strategic thinker and really knows how to analyze and formulate a litigation game plan.",
+            "author": "Phil Regan",
+            "location": null
+        },
+        {
+            "text": "I heard other players saying amazing things about Matt and now I know for myself that it's all true as he never quits until the catch is made!",
+            "author": "Endy Chavez, NY Mets Player",
+            "location": null
+        }
+    ]
+}

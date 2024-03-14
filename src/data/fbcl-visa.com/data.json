@@ -1,0 +1,76 @@
+{
+    "paragraph": "to call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Attorneys",
+            "content": "With over 90 years of experience, our firm has a deep understanding of immigration law and a proven track record of success."
+        },
+        {
+            "title": "Responsive Service",
+            "content": "We pride ourselves on being responsive to our clients, providing timely assistance and guidance throughout the legal process."
+        },
+        {
+            "title": "Creative Solutions",
+            "content": "We welcome unusual cases that require innovative strategies, offering creative solutions to complex immigration challenges."
+        }
+    ],
+    "address": "130 Battery Street, Suite 550, San Francisco, CA 94111",
+    "phoneNumber": "(415) 781-2338",
+    "email": "info@fbcl-visa.com",
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Our Team",
+        "Practice Areas",
+        "Publications & Seminars",
+        "Contact",
+        "Office"
+    ],
+    "companyName": "Fallon Bixby Cheng & Lee, Inc.",
+    "subHeading": "Providing Legal Expertise to Immigrants Since 1925",
+    "valueProp": "At Fallon Bixby Cheng & Lee, we are passionate about advocating on behalf of each and every one of our clients, whether an individual starting a business, a family member seeking to immigrate a relative or an established corporation seeking to bring an employee on board as soon as possible.",
+    "CTA": "Contact us with all your immigration needs",
+    "topics": [
+        "Family Sponsorship",
+        "Employment Sponsorship",
+        "U.S. Citizenship Applications",
+        "Investor Visas",
+        "Multinational Companies",
+        "Permanent Residence Sponsorship",
+        "Temporary Work Visas",
+        "Religious Worker Visas",
+        "National Interest Waivers"
+    ],
+    "members": [
+        {
+            "name": "Lucy Fong Lee",
+            "position": "Attorney"
+        },
+        {
+            "name": "Julia Day Marquez",
+            "position": "Attorney"
+        },
+        {
+            "name": "Elizabeth Myers",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": "Monday-Friday: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "I highly recommend Fallon Bixby Cheng & Lee for their exceptional legal services. They guided me through the immigration process with professionalism and care.",
+            "author": "John Doe",
+            "location": "San Francisco, CA"
+        },
+        {
+            "text": "The attorneys at Fallon Bixby Cheng & Lee are knowledgeable and dedicated. They helped me achieve my immigration goals efficiently.",
+            "author": "Jane Smith",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "I am grateful for the expertise of the team at Fallon Bixby Cheng & Lee. They made the complex immigration procedures understandable and manageable.",
+            "author": "David Johnson",
+            "location": "New York, NY"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "paragraph": "Call today for your consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Representation",
+            "content": "With 40 years of experience, we provide top-notch legal advice and representation."
+        },
+        {
+            "title": "Specialized Services",
+            "content": "We offer unique services in contract negotiation, business formation, and family law."
+        },
+        {
+            "title": "Leading-edge Strategies",
+            "content": "We provide cutting-edge strategies to ensure success in business ventures."
+        }
+    ],
+    "address": "9440 Santa Monica Boulevard, Suite 301 Beverly Hills, California 90210",
+    "phoneNumber": "(310) 571-9141",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "About us",
+        "Practice Areas",
+        "Contact us"
+    ],
+    "companyName": "Ronald Lebow Law",
+    "subHeading": "Solving complex litigation in Business, Entertainment and Family Law.",
+    "valueProp": "The Law Offices Of Attorney Ronald M. Lebow, located in Los Angeles, California, represents individuals, small and large businesses, and creative talent in the areas of entertainment, business, and family law.",
+    "CTA": "Solving your legal problems",
+    "topics": [
+        "Entertainment Law",
+        "Business Law",
+        "Family Law"
+    ],
+    "members": [
+        {
+            "name": "Ronald M. Lebow",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Ronald Lebow provided exceptional legal services for my business. Highly recommended!",
+            "author": "John Doe",
+            "location": null
+        },
+        {
+            "text": "I was impressed by the professionalism and dedication of the team at Ronald Lebow Law.",
+            "author": "Jane Smith",
+            "location": null
+        },
+        {
+            "text": "Ronald Lebow helped me navigate a complex family law matter with ease. Thank you!",
+            "author": "Alice Johnson",
+            "location": null
+        }
+    ]
+}

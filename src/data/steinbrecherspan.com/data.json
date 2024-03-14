@@ -1,0 +1,80 @@
+{
+    "paragraph": "to call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Attorneys",
+            "content": "Decades of high-end business litigation experience."
+        },
+        {
+            "title": "Personalized Attention",
+            "content": "Dedicated representation with personalized attention."
+        },
+        {
+            "title": "Proven Results",
+            "content": "Track record of successful outcomes for clients."
+        }
+    ],
+    "address": "445 S. Figueroa Street, Suite 2350, Los Angeles, California 90071",
+    "phoneNumber": "213-891-1400",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Practice Areas",
+        "Testimonials",
+        "Community Involvement",
+        "Press",
+        "Blog",
+        "Contact Us",
+        "Locations"
+    ],
+    "companyName": "Steinbrecher & Span LLP",
+    "subHeading": "Business Litigation and Transactional Lawyers",
+    "valueProp": "Steinbrecher & Span LLP is a litigation law firm consisting of attorneys with decades of high-end, sophisticated business litigation experience.",
+    "CTA": "How can we help?",
+    "topics": [
+        "Business Litigation",
+        "Business Counseling & Transactions",
+        "Aviation Litigation & Regulation",
+        "Employment Litigation",
+        "Environmental Litigation",
+        "Products Liability & Toxic Tort Litigation",
+        "Real Estate Litigation"
+    ],
+    "members": [
+        {
+            "name": "Alan K. Steinbrecher",
+            "position": "Partner"
+        },
+        {
+            "name": "Robert S. Span",
+            "position": "Partner"
+        },
+        {
+            "name": "Michael K. Lindsey",
+            "position": "Partner"
+        },
+        {
+            "name": "Valerie Casey",
+            "position": "Transactional and Corporate Lawyer"
+        }
+    ],
+    "openHours": "Mon-Fri: 9am-5pm",
+    "testimonalData": [
+        {
+            "text": "Steinbrecher & Span is the 'go to' law firm. Their commitment to their clients coupled with their extraordinary legal talents always brings excellent results.",
+            "author": "Gretchen Nelson",
+            "location": "Kreindler & Kreindler LLP"
+        },
+        {
+            "text": "You get high-level representation but not at big firm prices.",
+            "author": "Tarini Ramprakash",
+            "location": "General Counsel to On Assignment"
+        },
+        {
+            "text": "We've used them for the past 25 years. They are the go-to guys on federal pre-emption issues.",
+            "author": "David A. Berg",
+            "location": "Vice President and General Counsel of the Air Transport Association of America Inc."
+        }
+    ]
+}

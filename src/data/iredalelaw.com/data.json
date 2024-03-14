@@ -1,0 +1,59 @@
+{
+  "paragraph": "To call or text the contact number for a consultation",
+  "detailsData": [
+    {
+      "title": "Experienced Attorneys",
+      "content": "Our team consists of highly experienced attorneys with a proven track record of success in both criminal defense and civil rights cases."
+    },
+    {
+      "title": "Top Law Firm Recognition",
+      "content": "Consistently recognized as one of the top law firms in America by U.S. News and World Report for our expertise in civil rights law and criminal defense."
+    },
+    {
+      "title": "Client-Focused Approach",
+      "content": "We prioritize our clients' rights and interests, providing dedicated and personalized legal representation for each case we handle."
+    }
+  ],
+  "address": "105 West 'F' St., 4th Floor, San Diego, CA 92101-6087",
+  "phoneNumber": "619-233-1525",
+  "email": "contact@iredalelaw.com",
+  "linkNames": ["Home", "News", "About", "Contact"],
+  "companyName": "Iredale and Yoo, APC",
+  "subHeading": "Client Focused, Rights Driven",
+  "valueProp": "Iredale and Yoo, APC is a boutique firm specializing in high-profile criminal and civil rights cases, providing top-tier legal representation to clients across California and the nation.",
+  "CTA": "Client Focused, Rights Driven",
+  "topics": [
+    "Civil Rights and Civil Liberties",
+    "Criminal Law",
+    "Federal Employment Rights",
+    "The Law"
+  ],
+  "members": [
+    {
+      "name": "Eugene Iredale",
+      "position": "Criminal Defense Lawyer"
+    },
+    {
+      "name": "Julia Yoo",
+      "position": "Civil Rights Attorney"
+    }
+  ],
+  "openHours": "Monday - Friday: 9:00 AM - 5:00 PM",
+  "testimonalData": [
+    {
+      "text": "Iredale and Yoo provided exceptional legal representation for my case. Their dedication and expertise were truly impressive.",
+      "author": "John Doe",
+      "location": "San Diego, CA"
+    },
+    {
+      "text": "I highly recommend Iredale and Yoo for anyone in need of skilled criminal defense or civil rights advocacy. They are the best in the business.",
+      "author": "Jane Smith",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "text": "The team at Iredale and Yoo went above and beyond to secure a favorable outcome for me. I am grateful for their professionalism and commitment.",
+      "author": "Robert Johnson",
+      "location": "San Francisco, CA"
+    }
+  ]
+}

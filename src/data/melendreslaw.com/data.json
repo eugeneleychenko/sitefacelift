@@ -1,0 +1,80 @@
+{
+    "paragraph": "Call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Attorneys",
+            "content": "Our attorneys come from world-class law firms, bringing top-tier experience to our clients."
+        },
+        {
+            "title": "Personalized Service",
+            "content": "We provide the personal attention of a small firm, ensuring dedicated advocacy for each client."
+        },
+        {
+            "title": "Cost-Effective Solutions",
+            "content": "Offering efficient and effective legal services to address complex issues at reasonable costs."
+        }
+    ],
+    "address": "1017 5th Street NW, Albuquerque, NM 87102",
+    "phoneNumber": "(505) 243-8310",
+    "email": "paul@melendreslaw.com",
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Our Team",
+        "Practice Areas",
+        "Publications & Seminars",
+        "Contact",
+        "Office"
+    ],
+    "companyName": "Melendres & Melendres P.C.",
+    "subHeading": "Combining experience with personal service",
+    "valueProp": "Melendres & Melendres P.C. is a boutique law firm that combines the experience and talent of attorneys from world-class law firms with the personal service of a small firm. Our commitment to solving unique problems guides our practice.",
+    "CTA": "Call or text for a consultation",
+    "topics": [
+        "General Litigation",
+        "Healthcare Law",
+        "Corporate Law",
+        "Employment Law",
+        "Real Estate",
+        "Personal Injury Law",
+        "Election Law",
+        "Municipal Finance",
+        "Family Law"
+    ],
+    "members": [
+        {
+            "name": "A. Paul Melendres, Esq.",
+            "position": "Attorney"
+        },
+        {
+            "name": "Frederick D. Melendres, Esq.",
+            "position": "Attorney"
+        },
+        {
+            "name": "Paige M. Melendres, Esq.",
+            "position": "Attorney"
+        },
+        {
+            "name": "Linda Melendres, Esq.",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "The team at Melendres & Melendres P.C. provided exceptional legal support, guiding me through a complex case with expertise.",
+            "author": "John Doe",
+            "location": "Albuquerque, NM"
+        },
+        {
+            "text": "I am grateful for the dedication and professionalism of the attorneys at Melendres & Melendres P.C. They truly care about their clients' success.",
+            "author": "Jane Smith",
+            "location": "San Diego, CA"
+        },
+        {
+            "text": "Melendres & Melendres P.C. exceeded my expectations, delivering results with integrity and efficiency. Highly recommended.",
+            "author": "David Johnson",
+            "location": "Los Angeles, CA"
+        }
+    ]
+}

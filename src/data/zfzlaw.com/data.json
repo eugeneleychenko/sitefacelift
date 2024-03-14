@@ -1,0 +1,74 @@
+{
+  "paragraph": "Call now for a consultation.",
+  "detailsData": [
+    {
+      "title": "Experienced Attorneys",
+      "content": "Over 50 years of combined experience in top-ranking positions."
+    },
+    {
+      "title": "Client-Focused Approach",
+      "content": "Committed to providing legal services of the highest caliber."
+    },
+    {
+      "title": "Efficient & Effective",
+      "content": "Meeting and exceeding clients' needs with remarkable results."
+    }
+  ],
+  "address": "315 W. 9th Street, Suite 1200, Los Angeles, CA 90015",
+  "phoneNumber": "213.266.5170",
+  "email": "info@zfzlaw.com",
+  "linkNames": [
+    "Home",
+    "About Us",
+    "Our Team",
+    "Practice Areas",
+    "Insights",
+    "Contact"
+  ],
+  "companyName": "Zweiback, Fiset & Zalduendo LLP",
+  "subHeading": "We are trial attorneys, we are litigators and we are advisors.",
+  "valueProp": "Zweiback, Fiset & Zalduendo is a premiere law firm comprised of elite attorneys representing a wide range of clients including public officials, high net-worth individuals, corporate executives, Fortune 500 companies, and government entities. We have over 50 years of experience firm-wide as top-ranking leaders in the Department of Justice and the nation\u2019s preeminent Big Law firms. We achieve remarkable results for our clients in complex litigation, government investigations, and criminal defense. We also provide highly sought-after advice in areas relating to privacy breach, cybersecurity, and compliance.",
+  "CTA": "Learn More",
+  "topics": [
+    "Criminal Defense & Government Investigations",
+    "Complex Litigation",
+    "Cybersecurity & Data Privacy"
+  ],
+  "members": [
+    {
+      "name": "Michael Zweiback",
+      "position": "Partner"
+    },
+    {
+      "name": "Rachel L. Fiset",
+      "position": "Managing Partner"
+    },
+
+    {
+      "name": "Jeanine Zalduendo",
+      "position": "Partner"
+    },
+    {
+      "name": "Ashley Amell",
+      "position": "Associate"
+    }
+  ],
+  "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+  "testimonalData": [
+    {
+      "text": "Zweiback, Fiset & Zalduendo provided exceptional legal representation. Highly recommended.",
+      "author": "John Doe",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "text": "The team at Zweiback, Fiset & Zalduendo is professional and dedicated to their clients' success.",
+      "author": "Jane Smith",
+      "location": "Washington, DC"
+    },
+    {
+      "text": "I was impressed by the expertise and efficiency of Zweiback, Fiset & Zalduendo. Great experience.",
+      "author": "Alice Johnson",
+      "location": "New York, NY"
+    }
+  ]
+}

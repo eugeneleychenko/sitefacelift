@@ -1,0 +1,80 @@
+{
+    "paragraph": "Call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Maritime Law Expertise",
+            "content": "Over 150 years of combined experience in Maritime Law and Marine industry."
+        },
+        {
+            "title": "Commitment to Clients",
+            "content": "Candor and transparency in reaching practical, cost-effective outcomes for client needs."
+        },
+        {
+            "title": "Emergency Response",
+            "content": "Readiness stance: Full Ahead. Immediate response to emergencies and casualties."
+        }
+    ],
+    "address": "1 World Trade Center, STE 2370, Long Beach, CA 90831",
+    "phoneNumber": "(562) 317-3300",
+    "email": "info@cwn-law.com",
+    "linkNames": [
+        "HOME",
+        "ABOUT US",
+        "LOCATIONS",
+        "PROFESSIONALS",
+        "NEWS",
+        "BLOG - ACROSS THE BOW",
+        "MORE"
+    ],
+    "companyName": "Collier Walsh Nakazawa LLP",
+    "subHeading": "Providing high quality legal services to businesses in the Marine, International Trade, and Energy industries.",
+    "valueProp": "Collier Walsh Nakazawa LLP provides high quality legal services to businesses in the Marine, International Trade, and Energy industries. Our commitment to doing what is best for our clients remains our focus.",
+    "CTA": "Full Ahead",
+    "topics": [
+        "Maritime Law",
+        "International Trade",
+        "Energy Law",
+        "Marine Insurance",
+        "Marine Casualties",
+        "Marine Pollution",
+        "Marine Environmental Law",
+        "Maritime Contracts",
+        "Maritime Arbitration"
+    ],
+    "members": [
+        {
+            "name": "Bill Collier",
+            "position": "Partner"
+        },
+        {
+            "name": "Joe Walsh",
+            "position": "Partner"
+        },
+        {
+            "name": "Alan Nakazawa",
+            "position": "Partner"
+        },
+        {
+            "name": "Barbara Holland",
+            "position": "Partner"
+        }
+    ],
+    "openHours": "Monday - Friday: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "The team at CWN provided exceptional legal support during a complex maritime transaction. Highly recommended.",
+            "author": "John Smith",
+            "location": "Long Beach, CA"
+        },
+        {
+            "text": "I was impressed by the professionalism and expertise of the lawyers at CWN. They guided us through a challenging marine insurance claim with great success.",
+            "author": "Emily Johnson",
+            "location": "Seattle, WA"
+        },
+        {
+            "text": "CWN's emergency response team was quick to act and effectively managed a marine casualty situation. Their experience and dedication are unmatched.",
+            "author": "David Lee",
+            "location": "San Francisco, CA"
+        }
+    ]
+}

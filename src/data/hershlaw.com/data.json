@@ -1,0 +1,70 @@
+{
+  "paragraph": "to call or text the contact number for a consultation",
+  "detailsData": [
+    {
+      "title": "Passionate Representation",
+      "content": "Dedicated trial lawyers who strive to provide personal attention to all clients."
+    },
+    {
+      "title": "History of Success",
+      "content": "Over four decades of achieving outstanding results for clients."
+    },
+    {
+      "title": "Industry Change",
+      "content": "Pioneering spirit leading to historic results and changes in various industries."
+    }
+  ],
+  "address": "1388 Sutter Street, Suite 1210, San Francisco, CA 94109",
+  "phoneNumber": "1-800-441-5545",
+  "email": null,
+  "linkNames": [
+    "Home",
+    "Our Firm",
+    "Our Team",
+    "Practice Areas",
+    "Publications & Seminars",
+    "Contact",
+    "Office"
+  ],
+  "companyName": "Hersh & Hersh",
+  "subHeading": "Passionate Personal Representation",
+  "valueProp": "Hersh & Hersh is a San Francisco based personal injury firm comprised of dedicated trial lawyers who strive to provide personal attention to all of our clients to achieve great results.",
+  "CTA": "Contact us now for a free consultation",
+  "topics": ["Personal Injury", "Medical Malpractice", "Employment Rights"],
+  "members": [
+    {
+      "name": "Mark E. Burton, Jr.",
+      "position": "Partner"
+    },
+    {
+      "name": "Nancy Hersh",
+      "position": "Partner"
+    },
+    {
+      "name": "Charles C. Kelly II.",
+      "position": "Partner"
+    },
+    {
+      "name": "Kate Hersh-Boyle",
+      "position": "Partner"
+    }
+  ],
+  "openHours": "Hours of operation: Monday to Friday, 9:00 AM - 5:00 PM",
+  "testimonalData": [
+    {
+      "text": "Thank you for never giving up on my case. I know in my heart that you wanted a positive outcome for mine and my family's sake above all else. You are a very special and unique person. I feel very blessed to know you. YOU'RE THE GREATEST!",
+      "author": "Client Testimonial",
+      "location": null
+    },
+    {
+      "text": "Without your incredible kindness and caring, I would not be 'sane' right now. We will always be grateful for having found you. We would send anyone with a legal issue to you, the support and expertise you provide is incomparable.",
+      "author": "Client Testimonial",
+      "location": null
+    },
+    {
+      "text": "My husband and I can't begin to tell you how much your representation has meant to us. Not only are you an expert in your field, but you gave me tremendous emotional support and became our friend as well. Thank you for all you and your firm have done for us.",
+      "author": "Client Testimonial",
+      "location": null
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+    "paragraph": null,
+    "detailsData": [
+        {
+            "title": "Experienced Legal Counsel",
+            "content": "With over 17 years of experience, our firm provides seasoned legal guidance to businesses."
+        },
+        {
+            "title": "Personalized Service",
+            "content": "We offer personalized attention to each client, ensuring their unique needs are met."
+        },
+        {
+            "title": "Strategic Business Solutions",
+            "content": "Our firm goes beyond legal advice to provide strategic solutions for business success."
+        }
+    ],
+    "address": "4695 Chabot Drive, Suite 200 Pleasanton, CA 94588",
+    "phoneNumber": "(925) 399-1529 (1LAW)",
+    "email": "info@integratedgeneralcounsel.com",
+    "linkNames": [
+        "Home",
+        "About Us",
+        "Services",
+        "What Clients Say",
+        "Video",
+        "Blog",
+        "Contact"
+    ],
+    "companyName": "Integrated General Counsel",
+    "subHeading": "Put the Legal Pieces Together",
+    "valueProp": "Integrated General Counsel partners with business owners to ensure they have a solid legal foundation for success.",
+    "CTA": "Sign up below for legal business insights!",
+    "topics": [
+        "Contracts",
+        "Employment",
+        "Entity Formation & Governance",
+        "Litigation",
+        "Intellectual Property",
+        "General Counsel",
+        "For Coaches",
+        "Business Coaches",
+        "Transactional Services"
+    ],
+    "members": [
+        {
+            "name": "Kristen Hayes",
+            "position": "Founder & Attorney"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Kristen and her staff were wonderful to work with in getting my business name trademarked. I greatly appreciate her being there when I need her!",
+            "author": "Bloomin' Pots by Cj \u00ae",
+            "location": null
+        },
+        {
+            "text": "Thanks so much for the compliance work that you did on our corporation. It was great working with you!",
+            "author": "Better Homes & Gardens Tri-Valley Realty",
+            "location": null
+        },
+        {
+            "text": "Integrated General Counsel provided us with strategic legal solutions that helped our business thrive. Highly recommended!",
+            "author": "Satisfied Client",
+            "location": null
+        }
+    ]
+}

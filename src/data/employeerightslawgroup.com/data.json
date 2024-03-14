@@ -1,0 +1,68 @@
+{
+    "paragraph": "Call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Employment Lawyer",
+            "content": "With over 30 years of experience, we have a proven track record of success in employment law cases."
+        },
+        {
+            "title": "Supreme Court Victory",
+            "content": "Our landmark Supreme Court victory sets us apart as leaders in protecting workers' rights."
+        },
+        {
+            "title": "Personalized Service",
+            "content": "We provide individualized attention to each client, ensuring their unique needs are met."
+        }
+    ],
+    "address": "8117 Manchester Ave Suite 505 Playa Del Rey, CA 90293",
+    "phoneNumber": "310.488.9020",
+    "email": "cathe@carawaylaw.com",
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Our Team",
+        "Practice Areas",
+        "Publications & Seminars",
+        "Contact",
+        "Office"
+    ],
+    "companyName": "Employee Rights Law Group",
+    "subHeading": "Protecting Workers' Rights in California",
+    "valueProp": "The Employee Rights Law Group is dedicated to fighting for the rights of hard-working individuals in California. With a focus on employment law, we strive to bring justice to the American workplace.",
+    "CTA": "Contact us for a free consultation",
+    "topics": [
+        "Civil Rights",
+        "Unpaid Wages",
+        "Wrongful Termination",
+        "Sexual Harassment",
+        "Gender Discrimination",
+        "Disability Discrimination",
+        "Workplace Harassment",
+        "Hostile Work Environment",
+        "Whistleblower Protection"
+    ],
+    "members": [
+        {
+            "name": "Cathe Caraway-Howard",
+            "position": "Principal"
+        }
+    ],
+    "openHours": "Monday- Friday 9:00am - 6:00pm",
+    "testimonalData": [
+        {
+            "text": "Cathe is an exceptional lawyer who truly cares about her clients. She fought tirelessly for my rights and I am grateful for her dedication.",
+            "author": "John Doe",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "I was impressed by the professionalism and expertise of the team at Employee Rights Law Group. They guided me through a complex legal issue with ease.",
+            "author": "Jane Smith",
+            "location": "Santa Monica, CA"
+        },
+        {
+            "text": "The legal advice I received from Cathe was invaluable. She helped me navigate a difficult employment situation and achieve a favorable outcome.",
+            "author": "David Johnson",
+            "location": "San Francisco, CA"
+        }
+    ]
+}

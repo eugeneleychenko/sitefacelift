@@ -1,0 +1,72 @@
+{
+    "paragraph": "to call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Expert Advice",
+            "content": "Our team of former big-firm lawyers provides clients with expert, innovative and practical advice."
+        },
+        {
+            "title": "Nimble Approach",
+            "content": "We are nimble, creative and cost-effective when approaching complex legal transactions."
+        },
+        {
+            "title": "Client Value",
+            "content": "We offer cutting-edge legal tools and effective solutions for clients looking to maximize value."
+        }
+    ],
+    "address": "3721 Douglas Blvd., Suite 350, Roseville, CA 95661",
+    "phoneNumber": "916.514.5800",
+    "email": "ian@carterwestlaw.com",
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Our Team",
+        "Practice Areas",
+        "Publications & Seminars",
+        "Contact",
+        "Office"
+    ],
+    "companyName": "Carter West Law",
+    "subHeading": "Progressive Boutique Law Firm",
+    "valueProp": "Carter West is a progressive, boutique law firm committed to providing clients with expert, innovative and practical advice.",
+    "CTA": "to call or text the contact number for a consultation",
+    "topics": [
+        "Corporate Law",
+        "Securities Law",
+        "Real Estate Law",
+        "Mergers and Acquisitions",
+        "Startup Counseling",
+        "Intellectual Property",
+        "Securities Law Matters",
+        "Real Estate Transactions",
+        "Outside General Counsel"
+    ],
+    "members": [
+        {
+            "name": "Ian Carter",
+            "position": "Founder"
+        },
+        {
+            "name": "Ashley West",
+            "position": "Corporate and Real Estate Lawyer"
+        }
+    ],
+    "openHours": "Monday - Friday: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Ashley offers not only excellent legal advice, she has developed a professional relationship with Green Earth Products and more important, its principles.",
+            "author": "Alan Magat",
+            "location": null
+        },
+        {
+            "text": "We used Ian to help us sell a major division of O1 Communications to a private equity-backed buyer. Ian's ability to see the big picture was integral to our success in the transaction.",
+            "author": "Jim Beausoleil",
+            "location": null
+        },
+        {
+            "text": "Ashley West is heavily invested in her clients and the community. She is an excellent listener, expert practitioner, and tireless worker.",
+            "author": "Ellen Warner",
+            "location": "Vice President, Development, Golden State Warriors"
+        }
+    ]
+}

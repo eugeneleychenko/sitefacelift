@@ -1,0 +1,67 @@
+{
+    "paragraph": "Tap Here to Call Us",
+    "detailsData": [
+        {
+            "title": "Employee Advocacy",
+            "content": "The firm exclusively represents employees, ensuring undivided loyalty to workers."
+        },
+        {
+            "title": "Extensive Experience",
+            "content": "Over 25 years of experience handling complex employment cases in Los Angeles and Orange County."
+        },
+        {
+            "title": "High-Stakes Results",
+            "content": "Secured over $120 million in verdicts and settlements for clients, including multi-million dollar cases."
+        }
+    ],
+    "address": "1638 S. Pacific Coast Hwy, Redondo Beach, CA 90277",
+    "phoneNumber": "310.606.2122",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "About Hardin",
+        "Employment Law",
+        "Results",
+        "Awards",
+        "News & Insights",
+        "Connect"
+    ],
+    "companyName": "Hardin Law Group",
+    "subHeading": "Expert Employee Rights Attorney Dedicated to Advancing the Interests of Workers",
+    "valueProp": "The Hardin Law Group is dedicated to fighting for the rights of employees in Los Angeles and Orange County, with a focus on achieving justice for workers.",
+    "CTA": "Contact Us Now",
+    "topics": [
+        "Wage & Hour Violations",
+        "Wrongful Termination",
+        "Retaliation",
+        "Medical Leaves",
+        "Sexual Harassment",
+        "Employment Discrimination",
+        "Class Actions",
+        "Trade Secrets"
+    ],
+    "members": [
+        {
+            "name": "James Hardin",
+            "position": "Founder & Employment Attorney"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "James is an incredibly intelligent and hardworking attorney. After presenting him with a difficult case, I am more than satisfied at the settlement that was reached.",
+            "author": "Arpee O.",
+            "location": "Manhattan"
+        },
+        {
+            "text": "I worked with James Hardin on a case against a former employer. He listened to my complaints, outlined the potential case, and went right to work contacting them.",
+            "author": "Kandice L.",
+            "location": "Manhattan"
+        },
+        {
+            "text": "My family had an employment law issue and needed some assistance and advice. We did not engage the firm to represent us, just help us out and see if it needed to go that.",
+            "author": "Matt H.",
+            "location": "Manhattan"
+        }
+    ]
+}

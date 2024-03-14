@@ -1,0 +1,72 @@
+{
+    "paragraph": "Call or text the contact number for a consultation.",
+    "detailsData": [
+        {
+            "title": "Industry Expertise",
+            "content": "Deep relationships and expertise in the entertainment industry."
+        },
+        {
+            "title": "Strategic Deal Making",
+            "content": "Skillful negotiation and deal making on behalf of clients."
+        },
+        {
+            "title": "Specialized Representation",
+            "content": "Specializing in talent representation across various entertainment sectors."
+        }
+    ],
+    "address": "10100 Santa Monica Boulevard Suite 1700, Los Angeles, CA 90067",
+    "phoneNumber": "310 703 1700",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Our Team",
+        "Practice Areas",
+        "Publications & Seminars",
+        "Contact",
+        "Office"
+    ],
+    "companyName": "Hirsch Wallerstein Hayum Matlof + Fishman LLP",
+    "subHeading": "Premier transactional entertainment, media, and music law firm",
+    "valueProp": "Hirsch Wallerstein Hayum Matlof + Fishman is a premier transactional entertainment, media, and music law firm specializing in talent representation across various entertainment sectors.",
+    "CTA": "Call or text the contact number for a consultation.",
+    "topics": [
+        "Film",
+        "Television",
+        "Music",
+        "Media",
+        "Endorsements",
+        "Licensing",
+        "Fashion",
+        "Content Creation",
+        "International Transactions"
+    ],
+    "members": [
+        {
+            "name": "Howard A. Fishman",
+            "position": "Founding Partner"
+        },
+        {
+            "name": "George T. Hayum",
+            "position": "Partner"
+        }
+    ],
+    "openHours": "Hours: Mon-Fri 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "HWHM+F provided exceptional legal services for my film project. Highly recommended!",
+            "author": "Sarah Johnson",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "The team at HWHM+F is truly dedicated to their clients' success. A pleasure to work with.",
+            "author": "Michael Smith",
+            "location": "New York, NY"
+        },
+        {
+            "text": "I've been a client of HWHM+F for years, and they consistently deliver top-notch legal advice.",
+            "author": "Emily Brown",
+            "location": "London, UK"
+        }
+    ]
+}

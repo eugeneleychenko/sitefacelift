@@ -1,0 +1,70 @@
+{
+    "paragraph": "To call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Litigators",
+            "content": "Dedication and proven success are hallmarks of Brown Wegner LLP. The firm\u2019s attorneys have worked at prestigious law firms, with decades of experience handling complex litigation matters for individuals as well as international and domestic businesses of all sizes."
+        },
+        {
+            "title": "Integrity and Outstanding Client Service",
+            "content": "Integrity and outstanding client service are trademarks of the firm. The firm takes special pride in its ability to combine creative thinking and problem-solving skills with the unique flexibility a boutique litigation firm can provide."
+        },
+        {
+            "title": "Effective Solutions",
+            "content": "The firm was formed with the goal of building a practice that crafts effective solutions to litigation problems of all sizes. We are seasoned litigators who focus on long-term strategies for success."
+        }
+    ],
+    "address": "2010 Main Street, Suite 1260, Irvine, CA 92614",
+    "phoneNumber": "(949) 705-0080",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "Firm",
+        "Attorneys",
+        "Practice",
+        "News",
+        "Contact"
+    ],
+    "companyName": "Brown Wegner LLP",
+    "subHeading": "Our Commitment Makes The Difference",
+    "valueProp": "Brown Wegner LLP is a law firm that focuses on business, commercial, and intellectual property litigation. Trained at the nation\u2019s premier law schools and law firms, our attorneys are committed to providing effective and thoughtful solutions to business problems. We offer legal services of the highest quality at reasonable rates.",
+    "CTA": "Our Commitment Makes The Difference",
+    "topics": [
+        "Business and Commercial Litigation",
+        "Copyright and Trademark Litigation",
+        "Trade Secret Litigation",
+        "Antitrust, Unfair Competition, and False Advertising",
+        "Patent Litigation",
+        "Class Action Litigation",
+        "Products Liability",
+        "Employment Law"
+    ],
+    "members": [
+        {
+            "name": "William J. Brown, Jr.",
+            "position": "Partner"
+        },
+        {
+            "name": "Matthew K. Wegner",
+            "position": "Partner"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Brown Wegner LLP provided exceptional legal representation for our company. Their attention to detail and strategic approach were instrumental in achieving a favorable outcome.",
+            "author": "John Doe",
+            "location": "Irvine, CA"
+        },
+        {
+            "text": "I highly recommend the attorneys at Brown Wegner LLP. Their professionalism and expertise in business litigation are unmatched.",
+            "author": "Jane Smith",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "Working with Brown Wegner LLP was a great experience. Their dedication to client service and legal excellence is commendable.",
+            "author": "David Johnson",
+            "location": "San Francisco, CA"
+        }
+    ]
+}

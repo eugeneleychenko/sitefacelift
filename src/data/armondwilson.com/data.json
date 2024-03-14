@@ -1,0 +1,80 @@
+{
+  "paragraph": "Call or text the contact number for a consultation.",
+  "detailsData": [
+    {
+      "title": "Top Boutique Firm",
+      "content": "Recognized as a top boutique law firm by various publications."
+    },
+    {
+      "title": "Elite Trial Lawyers",
+      "content": "Specializing in prosecuting and defending patent and intellectual property cases."
+    },
+    {
+      "title": "Technical Acumen",
+      "content": "Engineers by training with the ability to handle complex technologies."
+    }
+  ],
+  "address": "4685 MacArthur Court, Suite 390, Newport Beach, California 92660",
+  "phoneNumber": "949.386.1341",
+  "email": "info@armondwilson.com",
+  "linkNames": [
+    "Home",
+    "Our Firm",
+    "Our Team",
+    "Practice Areas",
+    "Publications & Seminars",
+    "Contact",
+    "Office"
+  ],
+  "companyName": "Armond Wilson LLP",
+  "subHeading": "Intellectual Property Disputes, Litigation & Appeals",
+  "valueProp": "Armond Wilson LLP is a nationally recognized boutique law firm specializing in intellectual property disputes, patent litigation, and appeals. With a track record of significant wins and client settlements, we offer exceptional representation and client service.",
+  "CTA": "Call Us : 949.386.1341",
+  "topics": [
+    "Patent Litigation",
+    "Patent Office Litigation",
+    "Trade Secret Litigation",
+    "Antitrust Litigation",
+    "Federal Circuit Appeals",
+    "Trademark Litigation",
+    "Intellectual Property Disputes",
+    "Patent Assertions",
+    "Demand Letters"
+  ],
+  "members": [
+    {
+      "name": "Douglas R. Wilson",
+      "position": "Partner"
+    },
+    {
+      "name": "Michelle E. Armond",
+      "position": "Partner"
+    },
+    {
+      "name": "Josepher Li",
+      "position": "Partner"
+    },
+    {
+      "name": "Patrick Maloney",
+      "position": "Senior Associate"
+    }
+  ],
+  "openHours": "Monday - Friday: 9:00 AM - 5:00 PM",
+  "testimonalData": [
+    {
+      "text": "The team at Armond Wilson provided exceptional legal support. Highly recommended!",
+      "author": "John Doe",
+      "location": "California"
+    },
+    {
+      "text": "I was impressed by the professionalism and expertise of the lawyers. Great experience!",
+      "author": "Jane Smith",
+      "location": "Texas"
+    },
+    {
+      "text": "Armond Wilson LLP exceeded my expectations. Their dedication to my case was outstanding.",
+      "author": "David Johnson",
+      "location": "New York"
+    }
+  ]
+}

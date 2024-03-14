@@ -1,0 +1,71 @@
+{
+    "paragraph": "Call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Employment Law Firm",
+            "content": "With 29 years of experience, the firm has successfully handled various employment law cases."
+        },
+        {
+            "title": "Practical Solutions",
+            "content": "Known for finding practical solutions to complex employment issues for clients."
+        },
+        {
+            "title": "Litigation Avoidance Strategies",
+            "content": "Helping employers develop strategies to avoid costly employment litigation."
+        }
+    ],
+    "address": "500 Capital Mall, Ste. 2350 Sacramento, CA 95814",
+    "phoneNumber": "(916) 449-3933",
+    "email": "mary@farrelllawgroup.com",
+    "linkNames": [
+        "Home",
+        "About",
+        "Speaking Engagements",
+        "Events",
+        "Advice",
+        "Training",
+        "Investigations",
+        "HR Audits",
+        "Privacy Policy",
+        "Terms of Service"
+    ],
+    "companyName": "Farrell Law Group",
+    "subHeading": "Sacramento's Premier Employment Law Firm",
+    "valueProp": "The Farrell Law Group is a Sacramento law firm specializing in all aspects of employment law, known for finding practical solutions to thorny employment issues.",
+    "CTA": "Call: (916) 449-3933",
+    "topics": [
+        "General Labor and Employment Advice",
+        "Wage and Hour Compliance",
+        "Equal Employment Opportunity Matters",
+        "Wrongful Termination",
+        "Occupational Safety and Health",
+        "Workplace Violence Prevention and Management",
+        "Unfair Competition and Trade Secrets",
+        "Business Torts, Unfair Business Practices, and Defamation",
+        "Workplace Privacy"
+    ],
+    "members": [
+        {
+            "name": "Mary E. Farrell",
+            "position": "Founder & Litigator"
+        }
+    ],
+    "openHours": "Monday - Friday: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Mary and her team provided excellent legal advice that helped us navigate a complex employment issue.",
+            "author": "John Doe",
+            "location": "Sacramento, CA"
+        },
+        {
+            "text": "The Farrell Law Group exceeded our expectations in handling our employment law case with professionalism and expertise.",
+            "author": "Jane Smith",
+            "location": "San Francisco, CA"
+        },
+        {
+            "text": "I highly recommend the Farrell Law Group for their dedication to finding practical solutions to employment law challenges.",
+            "author": "David Johnson",
+            "location": "Los Angeles, CA"
+        }
+    ]
+}

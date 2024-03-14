@@ -1,0 +1,71 @@
+{
+    "paragraph": "Contact us to schedule a consultation.",
+    "detailsData": [
+        {
+            "title": "Experienced Attorneys",
+            "content": "Decades of experience in high-stakes litigation and transactional matters."
+        },
+        {
+            "title": "Personalized Service",
+            "content": "Nimble creativity and successful track record for clients of all sizes."
+        },
+        {
+            "title": "Cost-Effective Rates",
+            "content": "Delivering unparalleled services at rates lower than large firms."
+        }
+    ],
+    "address": "8444 Wilshire Boulevard, PH 8th Floor, Beverly Hills CA 90211",
+    "phoneNumber": "323-202-2200",
+    "email": "info@caf-lawgroup.com",
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Our Team",
+        "Practice Areas",
+        "Publications & Seminars",
+        "Contact",
+        "Office"
+    ],
+    "companyName": "CAF Law Group",
+    "subHeading": "LAWYERS WHO LISTEN",
+    "valueProp": "CAF Law Group is a team of highly experienced attorneys known for their successful track record and personalized service.",
+    "CTA": "Contact Us",
+    "topics": [
+        "Labor and Employment",
+        "Automotive",
+        "Litigation",
+        "General Business"
+    ],
+    "members": [
+        {
+            "name": "Carla J. Feldman",
+            "position": "Partner"
+        },
+        {
+            "name": "Lisa L. Loveridge",
+            "position": "Of Counsel"
+        },
+        {
+            "name": "Matthew Menzie",
+            "position": "Senior Counsel"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "CAF Law Group lives up to their name one thousand percent - they put their clients first, always.",
+            "author": "Melanie Cliff",
+            "location": "SOCAL AUTO DEALERSHIP"
+        },
+        {
+            "text": "Melanie at the CAF Law Group was a pleasure to work with. Her knowledge in Automotive has been helpful with our business contracts.",
+            "author": "HAERFEST",
+            "location": "In House Counsel"
+        },
+        {
+            "text": "For our Clients and Friends",
+            "author": "Unknown Client",
+            "location": null
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+  "paragraph": null,
+  "detailsData": [
+    {
+      "title": "Experienced Lawyers",
+      "content": "With over 35 years of experience, our lawyers are consistently recognized as leaders in their fields."
+    },
+    {
+      "title": "State-of-the-Art Technology",
+      "content": "We rely on cutting-edge technology to serve clients effectively and keep costs down."
+    },
+    {
+      "title": "Extensive Network",
+      "content": "Our affiliations with experts in various fields ensure our clients receive the best possible outcomes."
+    }
+  ],
+  "address": "30765 Pacific Coast Hwy, Suite 411, Malibu, CA 90265, United States",
+  "phoneNumber": "+ 310 . 457 . 6100",
+  "email": "iplaw@holmesweinberg.com",
+  "linkNames": [
+    "Home",
+    "Our Firm",
+    "Our Team",
+    "Practice Areas",
+    "Publications & Seminars",
+    "Contact",
+    "Office"
+  ],
+  "companyName": "Holmes Weinberg, PC",
+  "subHeading": "We Think Big",
+  "valueProp": "Holmes Weinberg is a powerhouse boutique law firm founded in 2008 by veteran lawyers Henry Holmes and Steven Weinberg. We provide legal expertise and business insight to build, expand, protect, and defend our clients\u2019 careers, businesses, brands, images, and rights.",
+  "CTA": "Contact Us",
+  "topics": [
+    "Intellectual Property Law",
+    "Litigation",
+    "Advertising and Marketing",
+    "Digital Media",
+    "Business Law and General Counsel",
+    "Licensing and Sponsorship",
+    "Entertainment Law"
+  ],
+  "members": [
+    {
+      "name": "Steven M. Weinberg",
+      "position": "Lawyer"
+    },
+    {
+      "name": "Henry Holmes",
+      "position": "Consultant Emeritus"
+    },
+    {
+      "name": "Michael Salvatore",
+      "position": "Lawyer"
+    },
+    {
+      "name": "Michael Leventhal",
+      "position": "Lawyer"
+    }
+  ],
+  "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+  "testimonalData": [
+    {
+      "text": "Holmes Weinberg provided exceptional legal support for my business. Highly recommended!",
+      "author": "John Doe",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "text": "The team at Holmes Weinberg is professional and knowledgeable. They helped me navigate complex legal issues with ease.",
+      "author": "Jane Smith",
+      "location": "New York, NY"
+    },
+    {
+      "text": "I am grateful for the dedicated service I received from Holmes Weinberg. They truly care about their clients' success.",
+      "author": "David Johnson",
+      "location": "Chicago, IL"
+    }
+  ]
+}

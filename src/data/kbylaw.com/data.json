@@ -1,0 +1,80 @@
+{
+  "paragraph": "to call or text the contact number for a consultation",
+  "detailsData": [
+    {
+      "title": "Client Care",
+      "content": "Client relationships last because clients come first. Emphasis on client needs and preferences."
+    },
+    {
+      "title": "Value",
+      "content": "Rewarded on results and client service, not billable hours. Customized fee options."
+    },
+    {
+      "title": "Passion",
+      "content": "Attorneys care more about the practice of law as a service than billable hours. Team collaboration."
+    }
+  ],
+  "address": "7755 Center Ave, Ste. 1100, Huntington Beach, CA 92647",
+  "phoneNumber": "949.221.8700",
+  "email": null,
+  "linkNames": [
+    "Home",
+    "Our Firm",
+    "Our Team",
+    "Practice Areas",
+    "Publications & Seminars",
+    "Contact",
+    "Office"
+  ],
+  "companyName": "Klatte, Budensiek & Young-Agriesti, LLP",
+  "subHeading": "A Labor & Employment Law Firm for California's Employers",
+  "valueProp": "Klatte, Budensiek & Young-Agriesti is a service-based labor and employment law firm specifically for California employers, prioritizing client care, resourcefulness, and a team of professionals who value the practice of law as a service.",
+  "CTA": "Client Care. Value. Passion.",
+  "topics": [
+    "Defense of Employment Lawsuits",
+    "Wage and Hour Compliance",
+    "Human Resources Policies",
+    "Employee Leave Law",
+    "Trade Secret Protection",
+    "Sexual Harassment Compliance",
+    "Management Training",
+    "Workplace Safety",
+    "Executive Agreements"
+  ],
+  "members": [
+    {
+      "name": "Summer Young-Agriesti",
+      "position": "Managing Partner"
+    },
+    {
+      "name": "Ana Thomas",
+      "position": "Partner"
+    },
+    {
+      "name": "Angelica Sanchez",
+      "position": "Attorney"
+    },
+    {
+      "name": "Melissa Brandman",
+      "position": "Attorney"
+    }
+  ],
+  "openHours": "Mon-Fri: 9am-5pm",
+  "testimonalData": [
+    {
+      "text": "KBY provided excellent legal representation for our company. Highly recommended.",
+      "author": "John Doe",
+      "location": "California"
+    },
+    {
+      "text": "The team at KBY is professional and knowledgeable. They helped us navigate complex employment issues.",
+      "author": "Jane Smith",
+      "location": "Los Angeles"
+    },
+    {
+      "text": "I am grateful for the support and guidance KBY provided during a challenging legal matter. Thank you!",
+      "author": "David Johnson",
+      "location": "San Francisco"
+    }
+  ]
+}

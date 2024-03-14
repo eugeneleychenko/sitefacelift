@@ -1,0 +1,58 @@
+{
+  "paragraph": "Contact us for a consultation",
+  "detailsData": [
+    {
+      "title": "Seasoned Litigators",
+      "content": "Experienced in trying cases in every county in the San Francisco Bay Area and the United States District Court."
+    },
+    {
+      "title": "Insightful Case Planning",
+      "content": "Emphasis on practical case planning, working closely with clients to present their interests effectively."
+    },
+    {
+      "title": "Community Service",
+      "content": "Individually serving the community with nonprofit and pro bono work, believing in a work/life balance."
+    }
+  ],
+  "address": "411 Borel Ave Suite 425, San Mateo, Ca 94402",
+  "phoneNumber": "(650) 554-6200",
+  "email": "farbstein.com",
+  "linkNames": ["HOME", "TEAM", "PRACTICE", "CONNECT"],
+  "companyName": "Farbstein & Blackman",
+  "subHeading": "Employment . Business . Professional Liability",
+  "valueProp": "Farbstein & Blackman is a preeminent civil litigation law firm in Northern California, recognized for its seasoned approach to counseling and risk management practice.",
+  "CTA": "Reach Us",
+  "topics": ["Employment Law", "Business Litigation", "Professional Liability"],
+  "members": [
+    {
+      "name": "Michael A. Farbstein",
+      "position": "Attorney"
+    },
+    {
+      "name": "H. Ann Liroff",
+      "position": "Attorney"
+    },
+    {
+      "name": "Ramsey F. Kawar",
+      "position": "Attorney"
+    }
+  ],
+  "openHours": "Monday - Friday: 8 AM \u2013 5 PM",
+  "testimonalData": [
+    {
+      "text": "Farbstein & Blackman provided exceptional legal advice and representation. I highly recommend their services.",
+      "author": "John Doe",
+      "location": "San Francisco, CA"
+    },
+    {
+      "text": "The team at Farbstein & Blackman is truly dedicated to their clients' success. I am grateful for their expertise.",
+      "author": "Jane Smith",
+      "location": "Palo Alto, CA"
+    },
+    {
+      "text": "I was impressed by the professionalism and efficiency of Farbstein & Blackman. They exceeded my expectations.",
+      "author": "David Johnson",
+      "location": "San Mateo, CA"
+    }
+  ]
+}

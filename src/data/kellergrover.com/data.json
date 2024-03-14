@@ -1,0 +1,80 @@
+{
+    "paragraph": "to call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Attorneys",
+            "content": "With over 30 years of experience, the lawyers at Keller Grover are leaders in their field."
+        },
+        {
+            "title": "Track Record of Success",
+            "content": "Having recovered billions for clients, Keller Grover has a winning track record in litigating fraud and employment cases."
+        },
+        {
+            "title": "Unique Expertise",
+            "content": "Specializing in representing employees, consumers, and whistleblowers, Keller Grover offers comprehensive legal services."
+        }
+    ],
+    "address": "1965 Market St. San Francisco, CA 94103",
+    "phoneNumber": "866-663-3308",
+    "email": "info@kellergrover.com",
+    "linkNames": [
+        "Home",
+        "Our Team",
+        "Our Practice",
+        "Case Studies",
+        "Resources",
+        "News",
+        "Contact"
+    ],
+    "companyName": "Keller Grover",
+    "subHeading": "Protecting Employees and Consumers",
+    "valueProp": "Keller Grover is a leading law firm specializing in protecting the rights of employees, consumers, and whistleblowers. With a strong track record of success, we are dedicated to providing aggressive and effective representation for our clients.",
+    "CTA": "Request a consultation",
+    "topics": [
+        "Whistleblower Actions",
+        "Employment Violations",
+        "Unlawful Business Practices",
+        "Cyber Fraud",
+        "Consumer Protection",
+        "Antitrust Litigation",
+        "Government Contract Fraud",
+        "Medicare / Medicaid Fraud",
+        "Securities Fraud"
+    ],
+    "members": [
+        {
+            "name": "Jeffrey F. Keller",
+            "position": "Founding Partner"
+        },
+        {
+            "name": "Eric A. Grover",
+            "position": "Founding Partner"
+        },
+        {
+            "name": "Kathleen R. Scanlan",
+            "position": "Partner"
+        },
+        {
+            "name": "Robert Spencer",
+            "position": "Partner"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "The lawyers at Keller Grover provided me with the support I needed to pursue this case. Before I met them I felt frustrated, stressed, angry, and defeated. They worked tirelessly to expose the fraud and help me understand my rights. I'm glad I have Keller Grover on my side.",
+            "author": "Current Whistleblower client",
+            "location": null
+        },
+        {
+            "text": "Keller Grover's team was exceptional in handling my employment violation case. They fought for my rights and ensured I received fair compensation. I highly recommend their services to anyone facing similar issues.",
+            "author": "Satisfied Client",
+            "location": null
+        },
+        {
+            "text": "I was a victim of unlawful business practices and Keller Grover stood by me throughout the legal process. Their dedication and expertise led to a successful resolution of my case. Thank you, Keller Grover!",
+            "author": "Consumer Protection Client",
+            "location": null
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "paragraph": "to call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Client-Focused Approach",
+            "content": "Dedicated to representing clients with the highest level of skill and professionalism."
+        },
+        {
+            "title": "Expertise in Technology Sector",
+            "content": "Specialized in handling employment issues for technology companies and entrepreneurs."
+        },
+        {
+            "title": "Proven Track Record",
+            "content": "Regularly achieving successful outcomes in litigation and negotiations."
+        }
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "email": null,
+    "linkNames": [
+        "Home",
+        "About the Firm",
+        "Services",
+        "Attorneys",
+        "Results",
+        "Fees",
+        "Contact",
+        "Careers",
+        "Blog"
+    ],
+    "companyName": "SV Employment Law Firm PC",
+    "subHeading": null,
+    "valueProp": "SV Employment Law Firm PC is an entrepreneurial, client-focused law firm that provides sophisticated legal services for companies, groups, and individuals. The firm is dedicated to representing clients with the highest level of skill, advocacy, integrity, responsiveness, and professionalism.",
+    "CTA": null,
+    "topics": null,
+    "members": [
+        {
+            "name": "Steven L. Friedlander",
+            "position": "Founder"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "SV Employment Law Firm PC provided excellent legal services for our company. Highly recommended!",
+            "author": "John Doe",
+            "location": null
+        },
+        {
+            "text": "The attorneys at SV Employment Law Firm PC are top-notch professionals. They helped us navigate complex legal issues with ease.",
+            "author": "Jane Smith",
+            "location": null
+        },
+        {
+            "text": "I had a great experience working with SV Employment Law Firm PC. Their expertise and dedication are unmatched.",
+            "author": "Alice Johnson",
+            "location": null
+        }
+    ]
+}

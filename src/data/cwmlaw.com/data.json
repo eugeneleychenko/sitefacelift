@@ -1,0 +1,78 @@
+{
+  "paragraph": "Call or text the contact number for a consultation.",
+  "detailsData": [
+    {
+      "title": "Extensive Courtroom Experience",
+      "content": "All lawyers have extensive courtroom experience and success before juries."
+    },
+    {
+      "title": "Cost-Effective Representation",
+      "content": "Boutique size and nimble handling of cases make them a cost-effective choice."
+    },
+    {
+      "title": "Aggressive Litigation Approach",
+      "content": "Prepare each case as if it may go to trial, bringing deep litigation experience."
+    }
+  ],
+  "address": "75 Southgate Avenue, Daly City, CA 94015",
+  "phoneNumber": "(650) 991-5126",
+  "email": "info@cwmlaw.com",
+  "linkNames": [
+    "HOME",
+    "ABOUT US",
+    "PRACTICE AREAS",
+    "ATTORNEYS",
+    "CONTACT",
+    "More"
+  ],
+  "companyName": "Cesari Werner and Moriarty",
+  "subHeading": "Successful Civil Litigation Since 1965",
+  "valueProp": "For over 60 years, Cesari Werner and Moriarty have provided aggressive, professional, thorough, and economical representation for civil litigation clients.",
+  "CTA": "Successful Civil Litigation Since 1965",
+  "topics": [
+    "Personal Injury & Wrongful Death Litigation",
+    "Real Estate Litigation",
+    "Insurance Defense",
+    "Product Liability Litigation",
+    "Business & Commercial Litigation",
+    "Construction Litigation",
+    "Appellate Advocacy",
+    "Trust & Estate Litigation"
+  ],
+  "members": [
+    {
+      "name": "Dennis F. Moriarty",
+      "position": "Partner"
+    },
+    {
+      "name": "Sean Moriarty",
+      "position": "Partner"
+    },
+    {
+      "name": "Arlen Litman-Cleper",
+      "position": "Partner"
+    },
+    {
+      "name": "Maila S. Diwa-Acoba",
+      "position": "Associate Attorney"
+    }
+  ],
+  "openHours": "Open Monday to Friday, 9:00 AM - 5:00 PM",
+  "testimonalData": [
+    {
+      "text": "Cesari Werner and Moriarty are the best in the business. Their dedication to clients is unmatched.",
+      "author": "John Doe",
+      "location": "San Francisco, CA"
+    },
+    {
+      "text": "I couldn't have asked for better legal representation. They truly care about their clients' success.",
+      "author": "Jane Smith",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "text": "Exceptional service and results. I highly recommend Cesari Werner and Moriarty for any legal needs.",
+      "author": "Alice Johnson",
+      "location": "San Diego, CA"
+    }
+  ]
+}

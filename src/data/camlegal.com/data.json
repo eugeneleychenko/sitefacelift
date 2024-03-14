@@ -1,0 +1,74 @@
+{
+    "paragraph": "Call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Attorneys",
+            "content": "Specializing in commercial litigation, transportation, entertainment, and insurance coverage/defense."
+        },
+        {
+            "title": "Superior Service",
+            "content": "Unparalleled commitment to understanding and responding to client needs and business goals."
+        },
+        {
+            "title": "Business Partnership",
+            "content": "Attorneys who partner with clients' business operations, providing more than just legal solutions."
+        }
+    ],
+    "address": "555 E. Ocean Blvd, Long Beach, CA, 90802, US",
+    "phoneNumber": "562.495.9501",
+    "email": "info@camlegal.com",
+    "linkNames": [
+        "Home",
+        "About Us",
+        "Dennis A. Cammarano",
+        "Gregory B. Gershuni, Of Counsel",
+        "Contact Us",
+        "News and Events",
+        "Links/Resources",
+        "Testimonials",
+        "Practice Areas"
+    ],
+    "companyName": "Cammarano Law Group",
+    "subHeading": "Experienced Attorneys Specializing in Commercial Litigation",
+    "valueProp": "Cammarano Law Group is a team of experienced attorneys specializing in commercial litigation, transportation, entertainment, and insurance coverage/defense. With a focus on superior service and understanding client needs, we aim to partner with businesses to provide comprehensive legal solutions.",
+    "CTA": "Call or text for a consultation",
+    "topics": [
+        "Admiralty / Maritime",
+        "Inland Marine",
+        "Transportation",
+        "Subrogation",
+        "Business Litigation",
+        "Business Transactions",
+        "Commercial Liability",
+        "Insurance Coverage",
+        "Premises Liability"
+    ],
+    "members": [
+        {
+            "name": "Dennis A. Cammarano",
+            "position": "Founder"
+        },
+        {
+            "name": "Gregory B. Gershuni",
+            "position": "Of Counsel"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Professional and efficient legal services. Highly recommended!",
+            "author": "John Doe",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "Great team of attorneys who truly care about their clients.",
+            "author": "Jane Smith",
+            "location": "Long Beach, CA"
+        },
+        {
+            "text": "Handled my case with expertise and achieved a favorable outcome.",
+            "author": "David Johnson",
+            "location": "San Francisco, CA"
+        }
+    ]
+}

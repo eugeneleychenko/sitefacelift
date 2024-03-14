@@ -1,0 +1,69 @@
+{
+  "paragraph": null,
+  "detailsData": [
+    {
+      "title": "Specialized Expertise",
+      "content": "Focused on real estate, employment, and litigation."
+    },
+    {
+      "title": "Personalized Service",
+      "content": "Big-firm expertise with boutique law firm rates."
+    },
+    {
+      "title": "Efficiency and Responsiveness",
+      "content": "High caliber legal representation with improved service quality."
+    }
+  ],
+  "address": "620 Newport Center Drive, Suite 200, Newport Beach, CA 92660",
+  "phoneNumber": null,
+  "email": null,
+  "linkNames": [
+    "Home",
+    "Practice Areas",
+    "Our Attorneys",
+    "News & Events",
+    "About",
+    "Contact"
+  ],
+  "companyName": "Stuart Kane LLP",
+  "subHeading": "Committed to delivering high-caliber legal representation.",
+  "valueProp": "Stuart Kane LLP is committed to delivering the highest caliber of legal representation in the areas of real estate, employment, and litigation. We offer big-firm expertise, but with more personalized service, and at boutique law firm rates.",
+  "CTA": "Contact Us",
+  "topics": ["Real Estate", "Employment", "Litigation"],
+  "members": [
+    {
+      "name": "Josh C. Grushkin",
+      "position": "Partner"
+    },
+    {
+      "name": "Javier F. Gutierrez",
+      "position": "Partner"
+    },
+    {
+      "name": "Bruce D. May",
+      "position": "Partner"
+    },
+    {
+      "name": "Bruce C. Stuart",
+      "position": "Partner"
+    }
+  ],
+  "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+  "testimonalData": [
+    {
+      "text": "Stuart Kane LLP provided exceptional legal support for our business. Highly recommended!",
+      "author": "John Doe",
+      "location": "Newport Beach, CA"
+    },
+    {
+      "text": "The attorneys at Stuart Kane LLP are true professionals. Their expertise is unmatched.",
+      "author": "Jane Smith",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "text": "I am grateful for the guidance and representation I received from Stuart Kane LLP. They exceeded my expectations.",
+      "author": "Alice Johnson",
+      "location": "Irvine, CA"
+    }
+  ]
+}

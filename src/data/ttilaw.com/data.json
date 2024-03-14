@@ -1,0 +1,75 @@
+{
+    "paragraph": "To call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Attorneys",
+            "content": "Our team has over 100 years of combined experience in civil and business litigation."
+        },
+        {
+            "title": "AV Rated Firm",
+            "content": "We have received Martindale-Hubbell's AV Peer Review Rating for our legal expertise and integrity."
+        },
+        {
+            "title": "Successful Results",
+            "content": "We have a track record of achieving successful outcomes for our clients in various legal matters."
+        }
+    ],
+    "address": "2601 Main Street, Suite 620, Irvine, California 92614",
+    "phoneNumber": "949-955-2280",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "Firm",
+        "Professionals",
+        "Practices",
+        "Media",
+        "More.."
+    ],
+    "companyName": "Tomassian, Inouye & Grigorian LLP",
+    "subHeading": "Dedicated. Ethical. Skillful.",
+    "valueProp": "Tomassian, Inouye & Grigorian LLP is a law firm specializing in civil and business litigation, construction claims, real estate, and more.",
+    "CTA": "Call For a Consultation",
+    "topics": [
+        "Real Estate Litigation",
+        "Construction Claims and Defects",
+        "Condo, Community & HOA Unit Owner Representation",
+        "Business Litigation",
+        "Mechanic's Liens",
+        "Civil Litigation",
+        "Commercial Litigation",
+        "Breach of Contract",
+        "Arbitration"
+    ],
+    "members": [
+        {
+            "name": "Serge Tomassian",
+            "position": "Attorney"
+        },
+        {
+            "name": "Michael S. Inouye",
+            "position": "Attorney"
+        },
+        {
+            "name": "Talin Grigorian",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Tomassian, Inouye & Grigorian LLP provided excellent legal representation for my case. Highly recommended!",
+            "author": "John Doe",
+            "location": "Irvine, CA"
+        },
+        {
+            "text": "The attorneys at this firm are knowledgeable and dedicated to their clients' success. Thank you for your help!",
+            "author": "Jane Smith",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "I was impressed by the professionalism and expertise of the legal team. They exceeded my expectations.",
+            "author": "David Johnson",
+            "location": "San Diego, CA"
+        }
+    ]
+}

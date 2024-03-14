@@ -104,7 +104,7 @@ def process_response(response):
 
 # Main function to execute the app logic
 def main():
-    urls = ["https://www.briggslawcorp.com/"," https://www.briggslawcorp.com/attorneys"," https://www.briggslawcorp.com/areas-of-expertise/"," https://www.briggslawcorp.com/attorneys/"]
+    urls = ["https://integratedgeneralcounsel.com/","https://integratedgeneralcounsel.com/about-us/"," https://integratedgeneralcounsel.com/services/"," https://integratedgeneralcounsel.com/what-clients-say/"]
     questions = [
         "return the CTA which usually phrases like 'to call or text the contact number for a consultation'. Name the key 'paragraph' ",
         """
@@ -175,8 +175,12 @@ def main():
         company_name = domain.split('.law')[0] + '.law'
     elif '.org' in domain:
         company_name = domain.split('.org')[0] + '.org'
+    elif '.io' in domain:
+        company_name = domain.split('.io')[0] + '.io'    
     elif '.legal' in domain:  # Add this condition to handle .legal domains
         company_name = domain.split('.legal')[0] + '.legal'
+    elif '.la' in domain:  # Add this condition to handle .legal domains
+        company_name = domain.split('.la')[0] + '.la'    
     directory = f'/Users/eugeneleychenko/Downloads/sfl/sitefacelift/src/data/{company_name}'
     os.makedirs(directory, exist_ok=True)
     with open(f'{directory}/data.json', 'w', encoding='utf-8') as jsonfile:

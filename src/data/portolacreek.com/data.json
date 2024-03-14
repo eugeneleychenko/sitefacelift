@@ -1,0 +1,57 @@
+{
+    "paragraph": "Contact us for a consultation",
+    "detailsData": [
+        {
+            "title": "Values-Based Investing",
+            "content": "Aligning investments with personal values for impact."
+        }
+    ],
+    "address": "San Francisco, CA",
+    "phoneNumber": "415-634-0766",
+    "email": "info@portolacreek.com",
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Our Team",
+        "Practice Areas",
+        "Publications & Seminars",
+        "Contact",
+        "Office"
+    ],
+    "companyName": "Portola Creek Capital",
+    "subHeading": "Driving Capital to Social and Environmental Good",
+    "valueProp": "Portola Creek Capital aligns your investment portfolio with your personal values, driving capital to social and environmental good.",
+    "CTA": "Invest with your conscience",
+    "topics": [
+        "Portfolio Management",
+        "Tax Planning",
+        "Small Business Services",
+        "Wealth Transfer",
+        "Decision Analysis",
+        "Insurance Reviews"
+    ],
+    "members": [
+        {
+            "name": "Todd Wilson",
+            "position": "Founder"
+        }
+    ],
+    "openHours": "Mon-Fri: 9am-5pm",
+    "testimonalData": [
+        {
+            "text": "I have been impressed with the personalized service and impact-driven investment strategies at Portola Creek.",
+            "author": "John Smith",
+            "location": "San Francisco, CA"
+        },
+        {
+            "text": "Portola Creek helped me align my investments with my values, creating a positive impact on society.",
+            "author": "Jane Doe",
+            "location": "Santa Barbara, CA"
+        },
+        {
+            "text": "The team at Portola Creek is dedicated to driving positive change through conscientious investing.",
+            "author": "Alice Johnson",
+            "location": "Los Angeles, CA"
+        }
+    ]
+}

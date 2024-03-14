@@ -1,0 +1,80 @@
+{
+    "paragraph": "Contact the Yocca Law Firms team today.",
+    "detailsData": [
+        {
+            "title": "Decades of Experience",
+            "content": "With decades of experience in winning difficult cases, the firm successfully litigates with and against the largest multi-national law firms."
+        },
+        {
+            "title": "Responsive Service",
+            "content": "The firm combines the depth of experience found in large firms with the responsive service and personalized approach of a small firm."
+        },
+        {
+            "title": "Proven Track Record",
+            "content": "The lawyers at the firm have a record of success, including multi-million dollar verdicts and settlements in various cases."
+        }
+    ],
+    "address": "18881 Von Karman Avenue, Suite 1620, Irvine, California 92612",
+    "phoneNumber": "949-253-0800",
+    "email": "contact@yocca.com",
+    "linkNames": [
+        "Home",
+        "Our People",
+        "Representative Business Cases",
+        "Representative Employment Cases",
+        "Endorsements",
+        "COVID19 Update",
+        "Contact Us"
+    ],
+    "companyName": "The Yocca Law Firm LLP",
+    "subHeading": "A Business and Employment Litigation Firm",
+    "valueProp": "The Yocca Law Firm LLP is a business and employment litigation firm with decades of experience in winning difficult cases, successfully litigating with and against the largest multi-national law firms. Their lawyers combine the depth of experience found in large firms with the responsive service and personalized approach of a small firm.",
+    "CTA": "Contact the Yocca Law Firms team today.",
+    "topics": [
+        "Corporate",
+        "Employment",
+        "Finance",
+        "Intellectual Property",
+        "Litigation",
+        "Real Estate",
+        "Arbitration",
+        "Complex Business Litigation",
+        "Contract Litigation"
+    ],
+    "members": [
+        {
+            "name": "Mark W. Yocca",
+            "position": "Partner"
+        },
+        {
+            "name": "Paul Kim",
+            "position": "Partner"
+        },
+        {
+            "name": "Jared Glicksman",
+            "position": "Attorney"
+        },
+        {
+            "name": "Christine M. Yocca",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "The Yocca Law Firm LLP provided exceptional legal representation. Their dedication and expertise were truly impressive.",
+            "author": "John Doe",
+            "location": "California"
+        },
+        {
+            "text": "I was extremely satisfied with the outcome of my case. The team at Yocca Law Firm is top-notch.",
+            "author": "Jane Smith",
+            "location": "New York"
+        },
+        {
+            "text": "Highly recommend the Yocca Law Firm for any complex business litigation. They exceeded all expectations.",
+            "author": "David Johnson",
+            "location": "Texas"
+        }
+    ]
+}

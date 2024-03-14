@@ -1,0 +1,72 @@
+{
+    "paragraph": "Call us for a free consultation.",
+    "detailsData": [
+        {
+            "title": "Experienced Defense Attorneys",
+            "content": "Our team has years of experience in criminal defense, providing top-notch legal representation."
+        },
+        {
+            "title": "Client-Centered Approach",
+            "content": "We prioritize our clients' needs, offering personalized attention and tailored defense strategies."
+        },
+        {
+            "title": "Proven Track Record",
+            "content": "We have a history of successful case results, ensuring the best defense for our clients."
+        }
+    ],
+    "address": "123 Main Street, Los Angeles, CA",
+    "phoneNumber": "855.282.3800",
+    "email": "info@calabrialawgroup.com",
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Our Team",
+        "Practice Areas",
+        "Publications & Seminars",
+        "Contact",
+        "Office"
+    ],
+    "companyName": "Calabria Law Group, PC",
+    "subHeading": "Defense Attorneys at Law",
+    "valueProp": "Calabria Law Group, PC is committed to providing quality legal service and the best defense for our clients.",
+    "CTA": "Call us now for a free consultation.",
+    "topics": [
+        "Criminal Defense",
+        "Federal Crimes",
+        "Robbery",
+        "Immigration",
+        "Personal Injury",
+        "DUI",
+        "Juvenile Defense",
+        "Bankruptcy",
+        "Sex Crimes"
+    ],
+    "members": [
+        {
+            "name": "John Smith",
+            "position": "Partner"
+        },
+        {
+            "name": "Jane Doe",
+            "position": "Senior Attorney"
+        }
+    ],
+    "openHours": "Monday-Friday: 9am-5pm",
+    "testimonalData": [
+        {
+            "text": "I highly recommend Calabria Law Group for their exceptional legal representation and dedication to their clients.",
+            "author": "Sarah Johnson",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "The attorneys at Calabria Law Group are professional, knowledgeable, and truly care about their clients' well-being.",
+            "author": "Michael Adams",
+            "location": "San Diego, CA"
+        },
+        {
+            "text": "I was impressed by the expertise and commitment of the legal team at Calabria Law Group. They helped me navigate a complex legal issue with ease.",
+            "author": "Emily Roberts",
+            "location": "Ventura, CA"
+        }
+    ]
+}

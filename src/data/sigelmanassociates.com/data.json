@@ -1,0 +1,73 @@
+{
+  "paragraph": "To call or text the contact number for a consultation",
+  "detailsData": [
+    {
+      "title": "Experienced Trial Lawyer",
+      "content": "Decades of experience winning cases for clients."
+    },
+    {
+      "title": "Medical Background",
+      "content": "Unique advantage of being a Lawyer-MD."
+    },
+    {
+      "title": "Compassionate Counsel",
+      "content": "Empathy and commitment to clients."
+    }
+  ],
+  "address": "1901 1st Ave. 2nd floor San Diego, CA 92101",
+  "phoneNumber": "(619) 238-3813",
+  "email": "[email protected]",
+  "linkNames": [
+    "HOME",
+    "PRACTICE AREAS",
+    "ATTORNEYS",
+    "WHY CHOOSE US?",
+    "LOCATIONS",
+    "BLOG",
+    "EN ESPAÑOL",
+    "CONTACT US"
+  ],
+  "companyName": "Kenneth M. Sigelman & Associates",
+  "subHeading": "Award Winning Trial Lawyer",
+  "valueProp": "Kenneth M. Sigelman & Associates is a premier law firm with a track record of success in medical malpractice and serious injury cases.",
+  "CTA": "Schedule a Free Consultation",
+  "topics": [
+    "Medical Malpractice",
+    "Personal Injury",
+    "Birth Injury",
+    "Car Accidents",
+    "Truck Accidents",
+    "Anesthesia Malpractice",
+    "Hypoxic Ischemic Encephalopathy",
+    "Military Medical Malpractice",
+    "Kaiser Malpractice"
+  ],
+  "members": [
+    {
+      "name": "Ken Sigelman",
+      "position": "J.D., M.D."
+    },
+    {
+      "name": "Max Gruenberg",
+      "position": "Attorney"
+    }
+  ],
+  "openHours": "Monday - Friday: 9:00 AM - 5:00 PM",
+  "testimonalData": [
+    {
+      "text": "Ken showed tenacity. I am very thankful for finding him. He did justice for us. I would highly recommend him to everyone.",
+      "author": "Randall G.",
+      "location": null
+    },
+    {
+      "text": "This firm knows how to get the job done. Great lawyers great reputation.",
+      "author": "Risa B.",
+      "location": null
+    },
+    {
+      "text": "First-rate team with a phenomenal work ethic!",
+      "author": "GRAYSON L.",
+      "location": null
+    }
+  ]
+}

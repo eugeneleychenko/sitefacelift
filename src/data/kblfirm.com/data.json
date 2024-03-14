@@ -1,0 +1,68 @@
+{
+  "paragraph": "to call or text the contact number for a consultation",
+  "detailsData": [
+    {
+      "title": "Experienced Trial Lawyers",
+      "content": "Our team has nearly 25 years of experience in handling the disputes that matter most to our clients."
+    },
+    {
+      "title": "Value-Driven Approach",
+      "content": "We structure our teams around client objectives to achieve cost-effective results without compromising excellence."
+    },
+    {
+      "title": "Diverse Representation",
+      "content": "We are proud to have a team that reflects the diversity of our clients and community."
+    }
+  ],
+  "address": "555 Montgomery Street, Suite 750, San Francisco, CA 94111, U.S.A.",
+  "phoneNumber": "415-630-2350",
+  "email": "info@kblfirm.com",
+  "linkNames": ["Home", "Team", "Practice Areas", "News", "Careers", "Contact"],
+  "companyName": "Kwun Bhansali Lazarus LLP",
+  "subHeading": "Experienced Trial Lawyers",
+  "valueProp": "We emphasize results, value, and diversity to solve the problems our clients face in their most challenging litigation and trials. Our team of experienced courtroom advocates is dedicated to providing efficient and effective representation.",
+  "CTA": "to call or text the contact number for a consultation",
+  "topics": [
+    "Patent",
+    "Copyright and Trademark",
+    "Antitrust",
+    "Commercial Disputes",
+    "Pro Bono"
+  ],
+  "members": [
+    {
+      "name": "Asim Bhansali",
+      "position": "Lead Trial Lawyer"
+    },
+    {
+      "name": "Michael Kwun",
+      "position": "Technology Litigator"
+    },
+    {
+      "name": "Kate Lazarus",
+      "position": "Complex Litigation Specialist"
+    },
+    {
+      "name": "Nic Roethlisberger",
+      "position": "Broad Litigation Practitioner"
+    }
+  ],
+  "openHours": "Mon-Fri: 9:00 AM - 5:00 PM",
+  "testimonalData": [
+    {
+      "text": "KBL Firm provided exceptional legal representation. Their attention to detail and dedication to our case was outstanding.",
+      "author": "John Doe",
+      "location": "San Francisco, CA"
+    },
+    {
+      "text": "I highly recommend KBL Firm for their professionalism and expertise in handling complex litigation matters.",
+      "author": "Jane Smith",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "text": "Working with KBL Firm was a great experience. Their team's knowledge and strategic approach were invaluable.",
+      "author": "David Johnson",
+      "location": "New York, NY"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "paragraph": "Call or text the contact number for a consultation",
+  "detailsData": [
+    {
+      "title": "Industry Expertise",
+      "content": "Specialized in entertainment law with a focus on film, television, and music industries."
+    },
+    {
+      "title": "Global Reach",
+      "content": "Experience in international markets including the U.K., E.U., China, South Korea, and Japan."
+    },
+    {
+      "title": "Client Success",
+      "content": "Representing top-level talent and powerhouse production companies with a track record of successful deals."
+    }
+  ],
+  "address": "1801 Century Park East, 24th Floor, Los Angeles CA 90067",
+  "phoneNumber": "310.286.9696",
+  "email": "info@kleinberglange.com",
+  "linkNames": ["Welcome", "About", "Attorneys", "News", "Contact"],
+  "companyName": "Kleinberg Lange Cuddy & Carlo LLP",
+  "subHeading": "Leading transactional entertainment law firm in Los Angeles, CA",
+  "valueProp": "Kleinberg Lange Cuddy & Carlo LLP is a leading transactional entertainment law firm in Los Angeles, CA, providing advice and counsel to some of the biggest names in the entertainment business.",
+  "CTA": "Call for a consultation",
+  "topics": [
+    "Film Production",
+    "Television Contracts",
+    "Music Licensing",
+    "Intellectual Property",
+    "Digital Media",
+    "Reality TV Deals",
+    "Litigation Support",
+    "International Markets",
+    "Client Representation"
+  ],
+  "members": [
+    {
+      "name": "Kenneth Kleinberg",
+      "position": "Partner"
+    },
+    {
+      "name": "Candace Carlo",
+      "position": "Partner"
+    },
+    {
+      "name": "Christine S. Cuddy",
+      "position": "Partner"
+    },
+
+    {
+      "name": "Marko Kuo",
+      "position": "Partner"
+    }
+  ],
+  "openHours": "Monday - Friday: 9:00 AM - 5:00 PM",
+  "testimonalData": [
+    {
+      "text": "The team at Kleinberg Lange Cuddy & Carlo LLP is exceptional. They provided expert guidance throughout our deal.",
+      "author": "John Doe",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "text": "I highly recommend their services. They are professional, knowledgeable, and dedicated to their clients.",
+      "author": "Jane Smith",
+      "location": "New York, NY"
+    },
+    {
+      "text": "Working with Kleinberg Lange Cuddy & Carlo LLP was a game-changer for our production company. Their legal expertise is unmatched.",
+      "author": "Alex Johnson",
+      "location": "London, UK"
+    }
+  ]
+}

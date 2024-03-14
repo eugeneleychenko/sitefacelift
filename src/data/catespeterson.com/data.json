@@ -1,0 +1,78 @@
+{
+    "paragraph": "to call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Attorneys",
+            "content": "Our team has over 30 years of experience in various legal fields."
+        },
+        {
+            "title": "Personalized Attention",
+            "content": "We provide personal attention and cost-conscious legal services."
+        },
+        {
+            "title": "Broad Expertise",
+            "content": "Our firm combines expertise in corporate law, estate planning, and litigation."
+        }
+    ],
+    "address": "4100 Newport Place, Suite 230, Newport Beach, California 92660",
+    "phoneNumber": "949.724.1180",
+    "email": "info@catespeterson.com",
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Our Team",
+        "Practice Areas",
+        "Publications & Seminars",
+        "Contact",
+        "Office"
+    ],
+    "companyName": "Cates Peterson LLP",
+    "subHeading": "Personal Attention and Expertise",
+    "valueProp": "Most people need the expertise and knowledge of an experienced attorney at some point. When you do, you want an attorney who is easy to talk to, someone who you can trust, and someone who can take the weight of your legal matter off of your shoulders. When you meet one of us, you will know you have found the right attorney. Personal attention and personal relationships are the heart of our law firm. We will get to know you and work together with you to cost-consciously provide you the legal services you need.",
+    "CTA": "Contact Us",
+    "topics": [
+        "Corporate Law and Business Transactions",
+        "Probate and Estate Planning / Wills and Trusts",
+        "Business Litigation",
+        "Real Estate Litigation",
+        "Insurance and 'Bad Faith' Litigation",
+        "Health Care Litigation",
+        "Wills, Trusts and Probate Litigation"
+    ],
+    "members": [
+        {
+            "name": "Bill Cates",
+            "position": "Partner"
+        },
+        {
+            "name": "Mark Peterson",
+            "position": "Partner"
+        },
+        {
+            "name": "Kathleen Peterson",
+            "position": "Partner"
+        },
+        {
+            "name": "Amy Howse",
+            "position": "Partner"
+        }
+    ],
+    "openHours": "Monday - Friday: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Cates Peterson LLP provided excellent legal services. Highly recommended!",
+            "author": "John Doe",
+            "location": "California"
+        },
+        {
+            "text": "The team at Cates Peterson LLP was professional and efficient in handling my case.",
+            "author": "Jane Smith",
+            "location": "Newport Beach"
+        },
+        {
+            "text": "I was impressed by the dedication and knowledge of the attorneys at Cates Peterson LLP.",
+            "author": "David Johnson",
+            "location": "Los Angeles"
+        }
+    ]
+}
