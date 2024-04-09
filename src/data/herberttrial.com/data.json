@@ -1,0 +1,57 @@
+{
+    "paragraph": "Call, text, or click here. Se habla espa\u00f1ol.",
+    "detailsData": [
+        {
+            "title": "Client First",
+            "content": "Herbert Trial Law prioritizes client satisfaction, ensuring responsiveness and personal attention. Clients can expect direct communication with their attorney and a commitment to having their case prepared for trial swiftly."
+        },
+        {
+            "title": "Proven Expertise",
+            "content": "Led by Kyle Herbert, a Texas Monthly Super Lawyer, the firm boasts a track record of maximizing settlements for the injured. Their expertise and unique approach to personal injury law set them apart."
+        },
+        {
+            "title": "Comprehensive Support",
+            "content": "The firm offers a wide range of practice areas from car accidents to medical malpractice, ensuring clients receive specialized representation for their specific needs."
+        },
+        {
+            "title": "24/7 Availability",
+            "content": "Understanding the urgency of legal matters, Herbert Trial Law maintains 24-hour availability, offering clients round-the-clock support and access to legal assistance."
+        }
+    ],
+    "address": "3411 Richmond Ave Suite 400 Houston, Texas 77056",
+    "phoneNumber": "(713) 987-7100",
+    "email": "info@herberttrial.com",
+    "linkNames": [
+        "ABOUT",
+        "TEAM",
+        "PRACTICE AREAS",
+        "CONTACT"
+    ],
+    "companyName": "Herbert Trial Law",
+    "subHeading": "A Client First Law Firm",
+    "valueProp": "At Herbert Trial Law, we are dedicated to fighting for the rights and interests of our clients. With a focus on personal injury cases, our team, led by Kyle Herbert, works tirelessly to ensure that each client receives the personalized attention and aggressive representation they deserve. Our commitment to excellence and our proven track record of securing favorable settlements and verdicts have established us as a trusted name in legal advocacy.",
+    "CTA": "Call Now",
+    "topics": [
+        "Car Accidents",
+        "Talcum Powder Cases",
+        "Mass Tort",
+        "Product Liability",
+        "Truck Accidents",
+        "Sexual Assault",
+        "Medical Malpractice",
+        "Motorcycle Accidents",
+        "Construction Accidents"
+    ],
+    "members": [
+        {
+            "name": "Kyle Herbert",
+            "position": "Trial Lawyer"
+        },
+        {
+            "name": "Rachel Berkley",
+            "position": "Lawyer"
+        }
+    ],
+    "openHours": "Open 24 Hours",
+    "testimonalData": null
+}

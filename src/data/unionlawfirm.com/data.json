@@ -1,6 +1,23 @@
 {
-    "paragraph": "Call (212) 779-0057 for a consultation.",
-    "detailsData": "{\n    \"title\": \"Extensive Experience\",\n    \"content\": \"Hach & Rose, LLP, boasts a team of attorneys with a combined experience of over 100 years in personal injury law. They have a proven track record of representing New Yorkers and securing significant financial recoveries.\"\n  },\n  {\n    \"title\": \"Personal Commitment\",\n    \"content\": \"The firm promises a personal commitment to each case, ensuring clients never pay fees unless they recover for them. They prioritize prompt communication and provide an honest assessment of each personal injury case.\"\n  },\n  {\n    \"title\": \"Impressive Results\",\n    \"content\": \"Hach & Rose, LLP, has recovered over $500 million for their clients, demonstrating their ability to achieve substantial settlements and verdicts. Their results reflect a dedication to fighting for their clients' rights and interests.\"\n  }",
+    "paragraph": "Free Confidential Case Review, No Fees Unless We Recover For You",
+    "detailsData": [
+        {
+            "title": "Experienced Attorneys",
+            "content": "Michael Rose and Gregory Hach have dedicated their careers to representing New Yorkers, creating a law firm that has recovered well in excess of one billion dollars for their clients."
+        },
+        {
+            "title": "Personal Commitment",
+            "content": "The firm promises personal commitment to their clients, ensuring that they never pay anything unless a financial recovery is made on their behalf."
+        },
+        {
+            "title": "Comprehensive Practice",
+            "content": "Hach & Rose, LLP, offers a wide range of practice areas from personal injury to mass tort cases, ensuring clients receive specialized representation for their unique cases."
+        },
+        {
+            "title": "Award-Winning Representation",
+            "content": "The firm's attorneys have been recognized for their work, including being selected to the New York Super Lawyers list and being lifetime members of the Million Dollar and Multi-Million Dollar Advocates Forum."
+        }
+    ],
     "address": "112 Madison Ave, 10th Floor, New York, NY 10016",
     "phoneNumber": "(212) 779-0057",
     "email": null,
@@ -15,22 +32,54 @@
         "CONTACT US"
     ],
     "companyName": "Hach & Rose, LLP",
-    "subHeading": null,
-    "valueProp": "The New York City personal injury attorneys of Hach & Rose, LLP, are dedicated to vigorously protecting the rights and interests of those who have been hurt due to the negligence or recklessness of another party. For more than a decade, Michael Rose and Gregory Hach have dedicated their careers to representing New Yorkers and have partnered to create a law firm that has recovered well in excess of five hundred million dollars on behalf of their clients. If you have a personal injury claim, contact Michael Rose and Gregory Hach today.",
-    "CTA": "(212) 779-0057",
+    "subHeading": "Over One Billion Recovered",
+    "valueProp": "The New York City personal injury attorneys of Hach & Rose, LLP, are dedicated to vigorously protecting the rights and interests of those who have been hurt due to the negligence or recklessness of another party. For more than a decade, Michael Rose and Gregory Hach have dedicated their careers to representing New Yorkers and have partnered to create a law firm that has recovered well in excess of one billion dollars on behalf of their clients. If you have a personal injury claim, contact Michael Rose and Gregory Hach today.",
+    "CTA": "Free Consultation Why choose us",
     "topics": [
         "Personal Injury",
         "Mass Tort Cases",
         "Construction Injuries",
         "Social Security Disability",
-        "Sexual Abuse",
+        "Work-Related Injuries",
         "Car Accidents",
         "Truck Accidents",
         "Motorcycle Accidents",
         "Premises Liability"
     ],
-    "members": "```json\n[\n    {\n        \"name\": \"Michael A. Rose\",\n        \"position\": \"Attorney\"\n    },\n    {\n        \"name\": \"Gregory Hach\",\n        \"position\": \"Attorney\"\n    },\n    {\n        \"name\": \"Frank R. Schirripa\",\n        \"position\": \"Attorney\"\n    },\n    {\n        \"name\": \"David R. Cheverie\",\n        \"position\": \"Attorney\"\n    }\n]\n```",
+    "members": [
+        {
+            "name": "Michael A. Rose",
+            "position": "Attorney"
+        },
+        {
+            "name": "Gregory Hach",
+            "position": "Attorney"
+        },
+        {
+            "name": "Frank R. Schirripa",
+            "position": "Attorney"
+        },
+        {
+            "name": "David R. Cheverie",
+            "position": "Attorney"
+        }
+    ],
     "openHours": null,
-    "testimonalData": "```json\n[\n    {\n        \"text\": \"Excellent lawyers! Top notch!!!\",\n        \"author\": \"Becca\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Great lawfirm, with some truly amazing people working. Treat you like family even if that means tough love sometimes. Honest, professional, and thorough. I'll be back if ever needed.\",\n        \"author\": \"Thomas Badzio\",\n        \"location\": null\n    },\n    {\n        \"text\": \"I have worked with Ms. Constance Cooper on a number of cases and I have quite literally never met an attorney who gets as invested in a case as Ms. Cooper. \",\n        \"author\": \"Katryna Spearman\",\n        \"location\": null\n    }\n]\n```"
-    
+    "testimonalData": [
+        {
+            "text": "Excellent lawyers! Top notch!!!",
+            "author": "Becca",
+            "location": null
+        },
+        {
+            "text": "Great lawfirm, with some truly amazing people working. Treat you like family even if that means tough love sometimes. Honest, professional, and thorough. I'll be back if ever needed.",
+            "author": "Thomas Badzio",
+            "location": null
+        },
+        {
+            "text": "I have worked with Ms. Constance Cooper on a number of cases and I have quite literally never met an attorney who gets as invested in a case as Ms. Cooper. She is passionate about getting her clients exactly what they deserve and is willing to put in any amount of time, effort, and research to ensure a case is handled not just with professionalism, but with perfection.",
+            "author": "Katryna Spearman",
+            "location": null
+        }
+    ]
 }

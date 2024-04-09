@@ -6,8 +6,7 @@ from flask import Flask, request, jsonify, abort
 from flask_cors import CORS
 import html2text
 from openai import OpenAI
-
-
+from new_openai_scrape import main
 
 app = Flask(__name__)
 CORS(app)
@@ -97,8 +96,10 @@ def user_lists():
     user_lists = [{'id': item['id'], 'name': item['name']} for item in json.loads(res.text)]
     return jsonify(user_lists)
 
-#     This endpoint handles the addition of a new prospect to a specified list in Snov.io.
-#     It expects a POST request with JSON data containing the prospect's email, first name, and the ID of the list they should be added to.
+# This endpoint handles the addition of a new prospect to a specified list in Snov.io.
+# It expects a POST request with JSON data containing the prospect's email, first name, and the ID of the list they should be added to.
+
+
 @app.route("/add_prospect_to_list/", methods=['POST'])
 def add_prospect_to_list():
    
@@ -175,7 +176,7 @@ def find_specific_links(navigation_links):
    
     client = OpenAI()
     system_message = """
-             I am looking for links in a site's navigation. I will provide a list of links from the top to the bottom of the site. Weigh the links at the beginning higher than ones at the bottom of the list. Given a list of website navigation links, identify the link (keep in mind that i'm providing the full link, but in my examples im only providing the subdirectory) that most likely contains the list of attorneys or people working at the firm (this usually looks like /attorney, /people, or /who-we-are). Here are the links:
+             DO NOT RETURN ANYTHING WITH EXAMPLE.COM. I am looking for links in a site's navigation. I will provide a list of links from the top to the bottom of the site. Weigh the links at the beginning higher than ones at the bottom of the list. Given a list of website navigation links, identify the link (keep in mind that i'm providing the full link, but in my examples im only providing the subdirectory) that most likely contains the list of attorneys or people working at the firm (this usually looks like /attorney, /people, or /who-we-are). Here are the links:
              
              Which link contains the list of attorneys? 
              
@@ -188,8 +189,8 @@ def find_specific_links(navigation_links):
 
     # Pass the system message and formatted prompt to the LLM
     response = client.chat.completions.create(
-        # model="gpt-4-turbo-preview",
-        model="gpt-3.5-turbo-0125",
+        model="gpt-4-turbo-preview",
+        # model="gpt-3.5-turbo-0125",
         messages=[
             # {"role": "system", "content": system_message},
             {"role": "user", "content": full_prompt}
@@ -217,7 +218,7 @@ def find_nav_links(navigation_links):
              Which link contains the list of attorneys? Which link leads to practice areas? Which link leads to about us? Which link leads to testimonials?
              
              
-             Only return a json with 2 keys: 
+             Only return a json with 2 keys. Do not return emample.com. : 
              1) call this key, 'all nav links' and have an array of the links that are in the navigation,  The links should be full links, including the domain. Do not make up any links, only use it from the list provided. If links for certain pages dont exist then ignore that page.
              2) call this 'lawyer link' the link for the url that contains the list of lawyers that work at the firm. The links should be full links, including the domain. Do not make up any links, only use it from the list provided. If links for certain pages dont exist then ignore that page.
              """
@@ -367,6 +368,38 @@ def extract_attorneys_from_domain(domain_name):
     except Exception as e:
         print(f"An unexpected error occurred while processing {domain_name}: {e}")
         return jsonify({'error': 'An unexpected error occurred'}), 500
+    
+
+@app.route("/build_the_site", methods=['POST'])
+def build_the_site():
+    try:
+        # Log the raw request data
+        raw_data = request.data.decode('utf-8')
+        app.logger.info(f"Received raw request data: {raw_data}")
+
+        # Parse the JSON data
+        try:
+            data = json.loads(raw_data)
+            app.logger.info(f"Parsed JSON data: {data}")
+        except json.JSONDecodeError as e:
+            app.logger.error(f"JSON parsing error: {e}")
+            app.logger.error(f"Error occurred at line {e.lineno}, column {e.colno} (char {e.pos})")
+            app.logger.error(f"Raw data causing the error: {raw_data}")
+            abort(400, description="Invalid JSON data. Please check the request payload.")
+
+        if not data:
+            abort(400, description="Invalid request. Please provide an array of URLs in JSON format.")
+        
+        custom_urls = data.get('urls')
+        if not custom_urls:
+            abort(400, description="Missing required field 'urls'. Please provide an array of URLs.")
+        
+        main(custom_urls)
+        return jsonify({'message': 'Site built successfully'})
+    except Exception as e:
+        # Log the error
+        app.logger.error(f"An error occurred while building the site: {e}")
+        return jsonify({'error': 'An error occurred while building the site'}), 500
     
     # @app.route("/process_domain/<domain_name>", methods=['GET'])
     # def process_domain(domain_name):

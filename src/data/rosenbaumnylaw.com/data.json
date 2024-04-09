@@ -1,0 +1,84 @@
+{
+    "paragraph": "To call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Attorneys",
+            "content": "Our team has over 40 years of experience in successfully representing clients with catastrophic injuries and wrongful death."
+        },
+        {
+            "title": "Results-Driven Approach",
+            "content": "We focus on achieving justice for our injured clients, ensuring they receive the compensation they deserve."
+        },
+        {
+            "title": "Client Satisfaction",
+            "content": "Built on referrals and results, our firm has a history of satisfied clients who continue to trust us for legal representation."
+        },
+        {
+            "title": "Personalized Attention",
+            "content": "We offer a high level of personal attention to each client, ensuring their best interests are at the center of our practice."
+        }
+    ],
+    "address": "100 Wall Street, 15th Floor, New York, NY 10005-3709",
+    "phoneNumber": "212.514.5007",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "About",
+        "Practice Areas",
+        "Reviews",
+        "Case Results",
+        "Resources",
+        "Contact"
+    ],
+    "companyName": "Rosenbaum & Rosenbaum, P.C.",
+    "subHeading": "New York City Personal Injury Attorneys",
+    "valueProp": "At Rosenbaum & Rosenbaum, P.C., our NYC personal injury attorneys have successfully represented clients with all types of cases involving catastrophic injuries and wrongful death.",
+    "CTA": "Free Consultation - Available 24/7",
+    "topics": [
+        "Personal Injury",
+        "Vehicle Accidents",
+        "Premises Liability",
+        "Product Liability",
+        "Medical Malpractice",
+        "Construction Accidents",
+        "Car Accidents",
+        "Motorcycle Accidents",
+        "Pedestrian Accidents"
+    ],
+    "members": [
+        {
+            "name": "Craig D. Rosenbaum",
+            "position": "Partner"
+        },
+        {
+            "name": "George D. Rosenbaum",
+            "position": "Partner"
+        },
+        {
+            "name": "Matthew T. Gammons",
+            "position": "Partner"
+        },
+        {
+            "name": "Kevin Klein",
+            "position": "Partner"
+        }
+    ],
+    "openHours": "Available 24/7",
+    "testimonalData": [
+        {
+            "text": "Rosenbaum & Rosenbaum, P.C. provided exceptional legal representation for my case. I highly recommend their services.",
+            "author": "John Doe",
+            "location": "New York, NY"
+        },
+        {
+            "text": "The attorneys at Rosenbaum & Rosenbaum, P.C. were professional and dedicated to achieving the best outcome for me.",
+            "author": "Jane Smith",
+            "location": "Brooklyn, NY"
+        },
+        {
+            "text": "I was impressed by the expertise and commitment of the legal team at Rosenbaum & Rosenbaum, P.C. They truly care about their clients.",
+            "author": "David Johnson",
+            "location": "Queens, NY"
+        }
+    ]
+}

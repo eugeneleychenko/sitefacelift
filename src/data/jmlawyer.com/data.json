@@ -1,0 +1,85 @@
+{
+    "paragraph": null,
+    "detailsData": [
+        {
+            "title": "Experienced Team",
+            "content": "Jacoby & Meyers has been providing legal representation since 1972, making them one of the most experienced firms in the country."
+        },
+        {
+            "title": "Innovative Approach",
+            "content": "They were among the first law firms to use plain English in legal documents and to recognize a Client's Bill of Rights."
+        },
+        {
+            "title": "Personal Service",
+            "content": "They promise personal service and unsurpassed legal representation while preserving your dignity and privacy."
+        },
+        {
+            "title": "No Fee Promise",
+            "content": "Jacoby & Meyers will only charge a legal fee if they are successful in recovering money for your claims."
+        }
+    ],
+    "address": null,
+    "phoneNumber": "1-877-565-2993",
+    "email": null,
+    "linkNames": [
+        "LEGAL SERVICES",
+        "LOCATIONS",
+        "ABOUT US",
+        "RESOURCES",
+        "CASE RESULTS",
+        "BLOG",
+        "CAREERS",
+        "CONTACT US"
+    ],
+    "companyName": "Jacoby & Meyers",
+    "subHeading": null,
+    "valueProp": "Jacoby & Meyers was founded in 1972 with the goal of making top-quality legal representation available to everyone. Today, their New York and New Jersey offices represent plaintiffs in all types of personal injury claims. For nearly 50 years, their attorneys and support teams have been focused on providing compassionate, straightforward legal representation for injury victims in New York and New Jersey.",
+    "CTA": null,
+    "topics": [
+        "Car Accidents",
+        "Bicycle Accidents",
+        "Pedestrian Accidents",
+        "Scooter Accidents",
+        "Trucking Accidents",
+        "Construction Accidents",
+        "Nursing Home Neglect",
+        "Slip, Trip and Fall Accidents",
+        "Motorcycle Accidents"
+    ],
+    "members": [
+        {
+            "name": "Finkelstein, Andrew G.",
+            "position": "Partner"
+        },
+        {
+            "name": "Akerib, David",
+            "position": "Associate"
+        },
+        {
+            "name": "Alzugaray, Gustavo",
+            "position": "Associate"
+        },
+        {
+            "name": "Armatti, Linda",
+            "position": "Associate"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Where do I begin? After I was in an accident, I walked into their Bronx location not knowing where I stood as far as knowing if I even had a lawsuit. After the consultation, I was extremely confident something indeed happened to me, and I was getting the best help possible. Not only did my lawyer Sharon Scanlon keep me updated every step of the way, she got me a better settlement that even I thought I was getting! I would def recommend J&M!!!",
+            "author": "James H.",
+            "location": null
+        },
+        {
+            "text": "You guys are awesome at what you do. Everyone one is Kind, caring and respectful. You all have kept me up to date with my case. Thank you GB",
+            "author": "Jennifer R.",
+            "location": null
+        },
+        {
+            "text": "I was referred to David for my car accident case. He is very patient, supportive and honest. Whenever I contacted him, he responded to me on time and I always got positive vibes. More impressively, he always called me to give me updates on my file and obtained a great settlement. I highly recommend him to anyone involved in an accident. Thank you so much David for all your help, I highly appreciate it.",
+            "author": "Ivan K.",
+            "location": null
+        }
+    ]
+}

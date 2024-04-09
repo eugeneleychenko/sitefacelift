@@ -1,74 +1,78 @@
 {
-  "paragraph": "to call or text the contact number for a consultation",
-  "detailsData": [
-    {
-      "title": "Client-centered Approach",
-      "content": "We prioritize each client's unique concerns and priorities, ensuring a personalized experience."
-    },
-    {
-      "title": "Tenacious Advocacy",
-      "content": "We embrace challenges and apply critical, creative thinking to achieve optimal solutions for our clients."
-    },
-    {
-      "title": "Pragmatic Solutions",
-      "content": "We deliver concrete answers and durable solutions, focusing on practical and effective outcomes."
-    }
-  ],
-  "address": "12 Gough Street, 2nd Floor, San Francisco, CA 94103",
-  "phoneNumber": null,
-  "email": null,
-  "linkNames": [
-    "Home",
-    "Our Firm",
-    "Our Work",
-    "Our People",
-    "Contact Us",
-    "Menu"
-  ],
-  "companyName": "Silverstein & Pomerantz, LLP",
-  "subHeading": "Innovative and pragmatic attorneys focused on state and local tax.",
-  "valueProp": "Focused on state and local tax, Silverstein & Pomerantz attorneys have spent decades litigating many of the nation\u2019s most complex SALT disputes. We\u2019ll bring our experience and commitment to work for you.",
-  "CTA": "Our clients\u2019 concerns are our concerns. Whether for a controversy, business transaction, or other matter, we look forward to discussing how we can work together.",
-  "topics": [
-    "Income and Franchise Taxes",
-    "Transaction Taxes",
-    "Property Tax",
-    "Other Taxes, Fees, and Charges"
-  ],
-  "members": [
-    {
-      "name": "Neil I. Pomerantz",
-      "position": "Attorney"
-    },
-    {
-      "name": "Amy Silverstein",
-      "position": "Attorney"
-    },
-    {
-      "name": "Mark E. Medina",
-      "position": "Attorney"
-    },
-    {
-      "name": "Michelle Bush",
-      "position": "Attorney"
-    }
-  ],
-  "openHours": "Hours may vary, contact for details",
-  "testimonalData": [
-    {
-      "text": "Silverstein & Pomerantz provided exceptional legal representation and resolved our tax issues efficiently.",
-      "author": "John Doe",
-      "location": "San Francisco, CA"
-    },
-    {
-      "text": "Their team's expertise in state and local tax matters is unparalleled. Highly recommended!",
-      "author": "Jane Smith",
-      "location": "Denver, CO"
-    },
-    {
-      "text": "I was impressed by the dedication and professionalism of Silverstein & Pomerantz. They exceeded my expectations.",
-      "author": "Alice Johnson",
-      "location": "Los Angeles, CA"
-    }
-  ]
+    "paragraph": "to call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Client-centered",
+            "content": "We are aware that success is defined by each client\u2019s unique concerns and priorities. Tenacious."
+        },
+        {
+            "title": "Tenacious",
+            "content": "We embrace challenges. We apply critical, creative thinking to attain optimal solutions. Pragmatic."
+        },
+        {
+            "title": "Pragmatic",
+            "content": "We seek always to deliver concrete answers and durable solutions."
+        },
+        {
+            "title": "Focused on state and local tax",
+            "content": "Silverstein & Pomerantz attorneys have spent decades litigating many of the nation\u2019s most complex SALT disputes."
+        }
+    ],
+    "address": "12 Gough Street, 2nd Floor, San Francisco, CA 94103",
+    "phoneNumber": "(415) 593-3500",
+    "email": "sf_admin@sptaxlaw.com",
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Our Work",
+        "Our People",
+        "Contact Us",
+        "Menu"
+    ],
+    "companyName": "Silverstein & Pomerantz, LLP",
+    "subHeading": "Innovative and pragmatic attorneys focused on state and local tax.",
+    "valueProp": "Focused on state and local tax, Silverstein & Pomerantz attorneys have spent decades litigating many of the nation\u2019s most complex SALT disputes. We\u2019ll bring our experience and commitment to work for you.",
+    "CTA": "Our clients\u2019 concerns are our concerns. Whether for a controversy, business transaction, or other matter, we look forward to discussing how we can work together.",
+    "topics": [
+        "INCOME AND FRANCHISE TAXES",
+        "TRANSACTION TAXES",
+        "PROPERTY TAX",
+        "OTHER TAXES, FEES, AND CHARGES"
+    ],
+    "members": [
+        {
+            "name": "Amy Silverstein",
+            "position": "Partner"
+        },
+        {
+            "name": "Neil I. Pomerantz",
+            "position": "Partner"
+        },
+        {
+            "name": "Mark E. Medina",
+            "position": "Partner"
+        },
+        {
+            "name": "Michelle Bush",
+            "position": "Partner"
+        }
+    ],
+    "openHours": "Hours may vary, contact for details",
+    "testimonalData": [
+        {
+            "text": "Silverstein & Pomerantz provided exceptional legal representation for our tax case. Highly recommended.",
+            "author": "John Doe",
+            "location": "San Francisco, CA"
+        },
+        {
+            "text": "The team at Silverstein & Pomerantz is top-notch. They helped us navigate complex tax issues with ease.",
+            "author": "Jane Smith",
+            "location": "Denver, CO"
+        },
+        {
+            "text": "I couldn't be happier with the results achieved by Silverstein & Pomerantz. Professional and effective.",
+            "author": "Alice Johnson",
+            "location": "Los Angeles, CA"
+        }
+    ]
 }

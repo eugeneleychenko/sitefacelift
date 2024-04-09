@@ -71,8 +71,8 @@ def ask_questions_with_openai(markdown_content, questions):
         {"role": "user", "content": f"Only respond with json with the answer to the following questions. If it doesn't exist, return null. Not the string null, but the value null.\n\n{questions_content}"}
     ]
     completion = client.chat.completions.create(
-        model="gpt-3.5-turbo-0125",
-        # model="gpt-4-0125-preview",
+        # model="gpt-3.5-turbo-0125",
+        model="gpt-4-0125-preview",
         messages=messages,
         temperature=0,
         response_format={"type": "json_object"}
@@ -103,14 +103,15 @@ def process_response(response):
     return structured_response
 
 # Main function to execute the app logic
-def main():
-    urls = ["https://integratedgeneralcounsel.com/","https://integratedgeneralcounsel.com/about-us/"," https://integratedgeneralcounsel.com/services/"," https://integratedgeneralcounsel.com/what-clients-say/"]
+def main(urls=None):
+    if urls is None:
+        urls = ["https://integratedgeneralcounsel.com/","https://integratedgeneralcounsel.com/about-us/"," https://integratedgeneralcounsel.com/services/"," https://integratedgeneralcounsel.com/what-clients-say/"]
     questions = [
         "return the CTA which usually phrases like 'to call or text the contact number for a consultation'. Name the key 'paragraph' ",
         """
-        Find 3 advantages that sets this firm apart. Organize the objects in this way {
+        Find 4 advantages that sets this firm apart. Organize the objects in this way {
             "title": 3-4 word title of the advantage,
-            "content": 2 sentences talking about the advantage.
+            "content": 2 sentences talking about each advantage.
         }.
         Name the key 'detailsData'.
         """,

@@ -1,0 +1,80 @@
+{
+    "paragraph": "Call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Attorneys",
+            "content": "Our team has a wealth of experience and deep understanding of New York's legal landscape."
+        },
+        {
+            "title": "Personalized Approach",
+            "content": "We provide top-quality legal representation with a personalized approach to each case."
+        },
+        {
+            "title": "Million-Dollar Settlements",
+            "content": "With a history of million-dollar settlements, we strive for the best outcomes for our clients."
+        },
+        {
+            "title": "Dedicated Advocates",
+            "content": "Our attorneys are dedicated advocates for justice, fighting tirelessly for the rights of our clients."
+        }
+    ],
+    "address": "1 Cross Island Plaza Suite 203C, Queens, NY 11422",
+    "phoneNumber": "1 (800)-318-8888",
+    "email": " [email protected]",
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Our Team",
+        "Practice Areas",
+        "Publications & Seminars",
+        "Contact",
+        "Office"
+    ],
+    "companyName": "Gregory Spektor & Associates P.C.",
+    "subHeading": "YOUR SERIOUS INJURY ATTORNEYS",
+    "valueProp": "At Gregory Spektor & Associates P.C., our team of professional attorneys is highly recommended for their wealth of experience and a deep understanding of New York's legal landscape. We specialize in handling catastrophic and traumatic injury cases including automobile crashes and construction accident litigation, slip and fall on commercial property, wrongful death claims, medical malpractice, premise liability claims, and personal injury cases throughout New York.",
+    "CTA": "Call Now: 1(800)-318-8888",
+    "topics": [
+        "Car Accidents",
+        "Construction Accidents",
+        "Work Related Injuries",
+        "New York City Slip And Fall Lawyer",
+        "Premises Liability Claims",
+        "Nursing Home Negligence Attorney",
+        "Defective Products Lawsuits",
+        "Wrongful Death Lawsuits",
+        "Birth Injury & Negligence"
+    ],
+    "members": [
+        {
+            "name": "Gregory Spektor",
+            "position": "Attorney"
+        },
+        {
+            "name": "Mikhail Ilyaich",
+            "position": "Attorney"
+        },
+        {
+            "name": "Matthew Sullivan",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": "Monday \u2013 Friday 9:00am-6:00pm",
+    "testimonalData": [
+        {
+            "text": "Matt is my go-to lawyer. He has been there for me and so many of my teammates over the years.",
+            "author": "Dwight Gooden",
+            "location": null
+        },
+        {
+            "text": "Matt is a strategic thinker and really knows how to analyze and formulate a litigation game plan.",
+            "author": "Phil Regan",
+            "location": null
+        },
+        {
+            "text": "I heard other players saying amazing things about Matt and now I know for myself that it's all true as he never quits until the catch is made!",
+            "author": "Endy Chavez, NY Mets Player",
+            "location": null
+        }
+    ]
+}

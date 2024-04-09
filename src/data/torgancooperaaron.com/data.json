@@ -1,0 +1,82 @@
+{
+    "paragraph": "To call or text the contact number for a consultation",
+    "detailsData": [
+        {
+            "title": "Experienced Trial Attorneys",
+            "content": "Our attorneys have been representing clients in and out of the courtroom since 1987. We have the power to go after corporate giants who put profits over the safety of the people."
+        },
+        {
+            "title": "Individual Attention",
+            "content": "We keep a small caseload, allowing intimate engagement with every facet of each client\u2019s case."
+        },
+        {
+            "title": "Courtroom Strength",
+            "content": "We are consistently recognized by both our clients and our competitors as a top law firm."
+        },
+        {
+            "title": "Over $1 Billion in Verdicts and Settlements",
+            "content": "We have secured more than $1 billion in verdicts and settlements for our clients. We have obtained some of the largest outcomes in the industry."
+        }
+    ],
+    "address": "17 State St., 39th Floor, New York, NY 10004",
+    "phoneNumber": "212-232-2500",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "About",
+        "Blog",
+        "Practice Areas",
+        "Results",
+        "Reviews",
+        "Areas Served",
+        "Contact",
+        "Espa\u00f1ol"
+    ],
+    "companyName": "Torgan Cooper + Aaron",
+    "subHeading": "New York TRIAL ATTORNEYS",
+    "valueProp": "Torgan Cooper + Aaron has a quality over quantity approach when it comes to our caseload. Our firm limits the number of our cases, allowing our personal injury attorneys to be 100% invested in each client\u2019s case, from beginning to end.",
+    "CTA": "Over $1 billion in verdicts and settlements. Click for a free consultation",
+    "topics": [
+        "Personal Injury",
+        "Car Accidents",
+        "Construction Accidents",
+        "Medical Malpractice",
+        "Pedestrian Accidents",
+        "Wrongful Death",
+        "Construction Accidents",
+        "Car Accidents",
+        "Medical Malpractice"
+    ],
+    "members": [
+        {
+            "name": "Evan Torgan",
+            "position": "Founding Partner"
+        },
+        {
+            "name": "Ed Cooper",
+            "position": "Founding Partner"
+        },
+        {
+            "name": "Mitchell K. Aaron",
+            "position": "Founding Partner"
+        }
+    ],
+    "openHours": "Monday - Friday: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "There\u2019s a hundred lawyers on TV saying, \u2018I\u2019m the best,' but this man has walked with me through many things people wouldn\u2019t understand.",
+            "author": "James McMillan",
+            "location": null
+        },
+        {
+            "text": "Thank God for the American Courts and a lawyer like Evan, who would not let Duane Reade get away with their cover-up.",
+            "author": "Yehuda Miller",
+            "location": null
+        },
+        {
+            "text": "There\u2019s a hundred lawyers on TV saying, \u2018I\u2019m the best,' but this man has walked with me through many things people wouldn\u2019t understand.",
+            "author": "James McMillan",
+            "location": null
+        }
+    ]
+}

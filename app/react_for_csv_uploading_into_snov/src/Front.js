@@ -15,9 +15,11 @@ import {
   Tooltip,
   AccordionSummary,
   AccordionDetails,
+  CircularProgress,
 } from "@mui/material";
 
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
+import CheckIcon from "@mui/icons-material/Check";
 
 const Front = () => {
   const [userLists, setUserLists] = useState([]);
@@ -26,9 +28,15 @@ const Front = () => {
   const [emails, setEmails] = useState([]);
   const [names, setNames] = useState({});
   const [disabledEmails, setDisabledEmails] = useState({}); // New state to track disabled emails
-  const [attorneyNames, setAttorneyNames] = useState(); // New state to store attorney names as a string
+  const [attorneyNames, setAttorneyNames] = useState(""); // New state to store attorney names as a string
   const [navLinks, setNavLinks] = useState([]);
   const [tempNavLinks, setTempNavLinks] = useState("");
+  const [isLoading, setIsLoading] = useState(false);
+  const [successStatus, setSuccessStatus] = useState({});
+  const [isBuildingSite, setIsBuildingSite] = useState(false);
+  const [localhostUrl, setLocalhostUrl] = useState("http://localhost:3001");
+  const [generatedUrl, setGeneratedUrl] = useState("");
+  const [navLinksInput, setNavLinksInput] = useState("");
 
   const endPoint = "http://127.0.0.1:5000/";
 
@@ -57,18 +65,22 @@ const Front = () => {
   }, [attorneyNames]);
 
   useEffect(() => {
-    // Whenever navLinks changes, update tempNavLinks to reflect the current state
     setTempNavLinks(navLinks.join("\n"));
+    setNavLinksInput(navLinks.join("\n"));
     console.log(navLinks);
   }, [navLinks]);
 
+  useEffect(() => {
+    setGeneratedUrl(`${localhostUrl}/${domain}`);
+  }, [domain, localhostUrl]);
+
   const handleNavLinksChange = (event) => {
-    setTempNavLinks(event.target.value);
+    setNavLinksInput(event.target.value);
   };
 
   const updateNavLinks = () => {
-    // Split the tempNavLinks by newline to convert back to array and update navLinks state
-    setNavLinks(tempNavLinks.split("\n"));
+    // Split the tempNavLinks by newline, filter out empty lines, and directly set navLinks state
+    setNavLinks(navLinksInput.split("\n").filter((link) => link.trim() !== ""));
   };
 
   const handleDomainSearch = () => {
@@ -98,6 +110,7 @@ const Front = () => {
           body: JSON.stringify({
             access_token: accessToken,
             email: email,
+            attorneyNames: attorneyNames, // Split the string into an array
             firstName: name,
             listId: selectedList,
           }),
@@ -109,6 +122,12 @@ const Front = () => {
       // Check if the prospect was added successfully and update the disabledEmails state
       if (data.added) {
         setDisabledEmails((prevState) => ({ ...prevState, [email]: true }));
+        if (data.success) {
+          setSuccessStatus((prevState) => ({ ...prevState, [email]: true }));
+        }
+      }
+      if (data.success) {
+        setSuccessStatus((prevState) => ({ ...prevState, [email]: true }));
       }
     } catch (error) {
       console.error("Error adding prospect:", error);
@@ -120,6 +139,8 @@ const Front = () => {
   };
 
   const extractAttorneysFromDomain = () => {
+    setIsLoading(true);
+    setNavLinks([]); // Clear the navLinks array
     fetch(`${endPoint}extract_attorneys_from_domain/${domain}`)
       .then((response) => {
         if (!response.ok) {
@@ -136,14 +157,16 @@ const Front = () => {
           console.log("Navigation links:", data.all_nav_links);
         }
 
-        setAttorneyNames(data.attorney_names || []); // Fallback to empty array if undefined
-        setNavLinks(data.all_nav_links || []); // Fallback to empty array if undefined
+        setAttorneyNames(data.attorney_names || []); // Set the array directly or use an empty array if undefined
+        setNavLinks(data.all_nav_links || []);
+        setIsLoading(false); // Fallback to empty array if undefined
       })
       .catch((error) => {
         console.error("Error fetching attorney names:", error);
         console.error("Additional error details:", error.message);
         setAttorneyNames([]); // Reset to empty array or handle as needed
         setNavLinks([]);
+        setIsLoading(false);
       });
   };
 
@@ -178,11 +201,32 @@ const Front = () => {
     }
   };
 
-  const buildTheSite = () => {
-    console.log("Placeholder function for building the site.");
-    // Placeholder implementation
-    // This function is intended to build or reconstruct the site based on certain criteria.
-    // The actual implementation will depend on the specific requirements and setup.
+  const buildTheSite = async () => {
+    try {
+      setIsBuildingSite(true); // Set loading state to true before making the request
+      const navLinksArray = Array.isArray(navLinks) ? navLinks : [navLinks];
+
+      const response = await fetch(`${endPoint}build_the_site`, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          urls: navLinksArray,
+        }),
+      });
+
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+
+      const data = await response.json();
+      console.log("Success:", data);
+      setIsBuildingSite(false);
+    } catch (error) {
+      console.error("Error sending data to backend:", error);
+      setIsBuildingSite(false);
+    }
   };
 
   return (
@@ -228,13 +272,19 @@ const Front = () => {
               badgeContent={attorneyNames ? attorneyNames.split(",").length : 0}
               color="secondary"
             >
-              <Button
-                variant="contained"
-                onClick={extractAttorneysFromDomain}
-                sx={{ alignSelf: "flex-end", mt: "10px" }}
-              >
-                Find Names of Attorneys
-              </Button>
+              <Box sx={{ display: "flex", alignItems: "center" }}>
+                <Button
+                  variant="contained"
+                  onClick={extractAttorneysFromDomain}
+                  sx={{ alignSelf: "flex-end", mt: "10px" }}
+                  disabled={isLoading} // Disable the button while loading
+                >
+                  Fetch Nav Links & Find Names of Attorneys
+                </Button>
+                {isLoading && (
+                  <CircularProgress size={16} sx={{ ml: 1 }} /> // Show small CircularProgress to the right of the button when loading
+                )}
+              </Box>
             </Badge>
           </Tooltip>
           <Badge
@@ -246,9 +296,10 @@ const Front = () => {
               variant="contained"
               sx={{ alignSelf: "flex-end", m: "10px" }}
             >
-              Find Nav Links
+              Nav Links
             </Button>
           </Badge>
+          <br />
           <Tooltip
             placement="left"
             title="In this app, matches emails to first names"
@@ -266,12 +317,24 @@ const Front = () => {
             variant="contained"
             onClick={buildTheSite}
             sx={{ alignSelf: "flex-end", m: "10px" }}
+            disabled={isBuildingSite || navLinks.length === 0} // Disable the button while loading or if navLinks is empty
           >
             Build The Site
           </Button>
+          {isBuildingSite && (
+            <CircularProgress size={16} sx={{ ml: 1 }} /> // Show small CircularProgress to the right of the button when loading
+          )}
         </Box>
       </Grid>
-      <Grid item xs={8} sx={{ height: "100vh", overflowY: "auto" }}>
+      <Grid
+        item
+        xs={8}
+        sx={{
+          height: "100vh",
+          overflowY: "auto",
+          backgroundColor: "#ffa5000d",
+        }}
+      >
         {" "}
         {/* Scrollable right section */}{" "}
         {/* Main content takes up the remaining 67% */}
@@ -350,8 +413,18 @@ const Front = () => {
                   <Button
                     variant="contained"
                     onClick={() => handleAddProspect(email)}
+                    disabled={disabledEmails[email]}
                   >
                     Add to List
+                    {successStatus[email] && (
+                      <Badge
+                        badgeContent={<CheckIcon style={{ color: "green" }} />}
+                        anchorOrigin={{
+                          vertical: "top",
+                          horizontal: "right",
+                        }}
+                      />
+                    )}
                   </Button>
                 </Box>
               ))}
@@ -369,7 +442,7 @@ const Front = () => {
             label="Navigation Links"
             multiline
             rows={4}
-            value={tempNavLinks}
+            value={navLinksInput}
             onChange={handleNavLinksChange}
             variant="outlined"
             margin="normal"
@@ -381,6 +454,22 @@ const Front = () => {
           >
             Update
           </Button>
+          <TextField
+            fullWidth
+            label="Localhost URL"
+            defaultValue="http://localhost:3001"
+            value={localhostUrl}
+            onChange={(e) => setLocalhostUrl(e.target.value)}
+            // onBlur={() => setGeneratedUrl(`${localhostUrl}/${domain}`)}
+            placeholder="http://localhost:3001"
+            variant="outlined"
+            margin="normal"
+          />
+          <Typography variant="body1" sx={{ mt: 1 }}>
+            <a href={generatedUrl} target="_blank" rel="noopener noreferrer">
+              {generatedUrl}
+            </a>
+          </Typography>
         </Box>
       </Grid>
     </Grid>
