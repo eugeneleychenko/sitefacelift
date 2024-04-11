@@ -16,6 +16,7 @@ import {
   AccordionSummary,
   AccordionDetails,
   CircularProgress,
+  Snackbar,
 } from "@mui/material";
 
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
@@ -37,6 +38,7 @@ const Front = () => {
   const [localhostUrl, setLocalhostUrl] = useState("http://localhost:3001");
   const [generatedUrl, setGeneratedUrl] = useState("");
   const [navLinksInput, setNavLinksInput] = useState("");
+  const [snackbarOpen, setSnackbarOpen] = useState(false);
 
   const endPoint = "http://127.0.0.1:5000/";
 
@@ -141,6 +143,7 @@ const Front = () => {
   const extractAttorneysFromDomain = () => {
     setIsLoading(true);
     setNavLinks([]); // Clear the navLinks array
+    setAttorneyNames("");
     fetch(`${endPoint}extract_attorneys_from_domain/${domain}`)
       .then((response) => {
         if (!response.ok) {
@@ -223,6 +226,7 @@ const Front = () => {
       const data = await response.json();
       console.log("Success:", data);
       setIsBuildingSite(false);
+      setSnackbarOpen(true);
     } catch (error) {
       console.error("Error sending data to backend:", error);
       setIsBuildingSite(false);
@@ -264,10 +268,7 @@ const Front = () => {
               </Button>
             </Badge>
           </Tooltip>
-          <Tooltip
-            placement="left"
-            title="Scrapes site and returns names of Attorneys"
-          >
+          <Tooltip placement="left" title={attorneyNames}>
             <Badge
               badgeContent={attorneyNames ? attorneyNames.split(",").length : 0}
               color="secondary"
@@ -472,6 +473,24 @@ const Front = () => {
           </Typography>
         </Box>
       </Grid>
+      <Snackbar
+        open={snackbarOpen}
+        anchorOrigin={{ vertical: "top", horizontal: "right" }}
+        autoHideDuration={3000}
+        onClose={() => setSnackbarOpen(false)}
+        message={generatedUrl}
+        action={
+          <React.Fragment>
+            <Button
+              color="secondary"
+              size="small"
+              onClick={() => setSnackbarOpen(false)}
+            >
+              CLOSE
+            </Button>
+          </React.Fragment>
+        }
+      />
     </Grid>
   );
 };

@@ -25,7 +25,7 @@ function HeroSection({ barHeight }) {
         spaceBetween={30}
         effect={"fade"}
         loop={true}
-        navigation={true}
+        // navigation={false}
         pagination={{
           clickable: true,
         }}
