@@ -151,3 +151,14 @@
     justify-content: end;
   }
 }
+
+.mobileHide {
+  display: block;
+}
+
+@media (max-width: 768px) {
+  /* Adjust the max-width as needed for your design */
+  .mobileHide {
+    display: none;
+  }
+}

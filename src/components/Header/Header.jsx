@@ -14,7 +14,7 @@ function Header({ barHeight }) {
   return (
     <div className={styles.header} style={{ top: `${barHeight}px` }}>
       <Nav />
-      <hr />
+      <hr className={styles.mobileHide} />
       <div className={styles.headerStart}>
         <div className={styles.search}>
           <BiSearch />
