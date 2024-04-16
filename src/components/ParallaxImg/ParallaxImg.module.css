@@ -13,5 +13,6 @@
 @media (max-width: 767px) {
   .parallax {
     min-height: 400px;
+    background-attachment: scroll; /* Change from fixed to scroll */
   }
 }
