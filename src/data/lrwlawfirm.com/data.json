@@ -1,0 +1,84 @@
+{
+  "paragraph": "Contact Us Today",
+  "detailsData": [
+    {
+      "title": "Tradition",
+      "content": "With over 40 years of practicing in the Middle Tennessee area we have built a reputation on providing sound legal advice."
+    },
+    {
+      "title": "Personal Approach",
+      "content": "We pride ourselves on the relationships we build with our clients. Our success comes from our commitment to understanding the needs of our clients."
+    },
+    {
+      "title": "Family Owned",
+      "content": "We are a small family business committed to providing quality service. Our reputation is rooted in our founder, Larry R. Williams\u2019 commitment to providing honest, straight forward legal advice."
+    },
+    {
+      "title": "Aggressive",
+      "content": "We are assertive advocates. Our lawyers are passionate about what they do and will aggressively pursue your legal matter to ensure you get the result you deserve."
+    }
+  ],
+  "address": "315 Deaderick Street, Suite 1510, Nashville, Tennessee 37238",
+  "phoneNumber": "615.256.8880",
+  "email": null,
+  "linkNames": [
+    "HOME",
+    "WHO WE ARE",
+    "PRACTICE AREAS",
+    "CASE RESULTS",
+    "TESTIMONIALS",
+    "AREAS SERVED",
+    "CONTACT"
+  ],
+  "companyName": "Larry R. Williams, PLLC",
+  "subHeading": "Nashville Law Firm",
+  "valueProp": "Our Nashville personal injury attorneys, Tennessee Social Security attorneys, Estate Planning lawyers, and business lawyers make Larry R. Williams, PLLC a full-service law firm that has served clients in middle Tennessee for over 35 years.",
+  "CTA": "CLICK HERE FOR A FREE CASE EVALUATION",
+  "topics": [
+    "Personal Injury",
+    "Social Security Disability",
+    "Business + Corporate",
+    "Estate Planning",
+    "Brain Injuries",
+    "Car Accidents",
+    "Pedestrian Accidents",
+    "Spinal Cord Injuries",
+    "Uber, Lyft or Taxi Accidents"
+  ],
+  "members": [
+    {
+      "name": "Larry R. Williams",
+      "position": "Attorney"
+    },
+    {
+      "name": "Jonathan Williams",
+      "position": "Attorney"
+    },
+    {
+      "name": "Gregory Hazlewood",
+      "position": "Attorney"
+    },
+    {
+      "name": "Ann-Douglas Tycer",
+      "position": "Attorney"
+    }
+  ],
+  "openHours": null,
+  "testimonalData": [
+    {
+      "text": "Thank you, Jonathan. You have fought very hard for us and we appreciate all you\u2019ve done for us.",
+      "author": "Jane F.",
+      "location": null
+    },
+    {
+      "text": "We are so thankful to have met and worked with this firm and would recommend this firm to everyone.",
+      "author": "Adell N",
+      "location": null
+    },
+    {
+      "text": "Jonathan handled my case in a warm but professional fashion. I could not have asked for a better attorney!",
+      "author": "Sally W.",
+      "location": null
+    }
+  ]
+}

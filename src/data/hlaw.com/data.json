@@ -1,0 +1,70 @@
+{
+  "paragraph": "Call Today for a Free Consultation",
+  "detailsData": [
+    {
+      "title": "24/7 Access",
+      "content": "You have full access to your attorney day and night, ensuring that you are always informed and supported throughout your case."
+    },
+    {
+      "title": "Personal Approach",
+      "content": "You deal directly with the Attorney, not a paralegal or secretary, providing a more personalized and focused legal service."
+    },
+    {
+      "title": "No Fee Unless We Win",
+      "content": "You owe us nothing unless we put money in your pocket, aligning our success with yours and ensuring our motivations are fully aligned with your best interests."
+    },
+    {
+      "title": "Top-Rated Attorney",
+      "content": "Phil Harding has been elected as one of the top 100 trial lawyers in Colorado for the past ten years, demonstrating a high level of recognition and success in the legal field."
+    }
+  ],
+  "address": "730 17th Street #650 Denver, CO 80202",
+  "phoneNumber": "303-762-9500 or 1-800-878-7888",
+  "email": "info@hlaw.com",
+  "linkNames": [
+    "HOME",
+    "ABOUT US",
+    "PRACTICE AREAS",
+    "TESTIMONIALS",
+    "FAQS",
+    "RESOURCES",
+    "CONTACT US"
+  ],
+  "companyName": "Harding & Associates",
+  "subHeading": null,
+  "valueProp": "We understand that being injured in an auto or motorcycle accident can be a difficult situation. You need the best personal injury lawyer to help you resolve problems arising from a car accident, slip and fall, wrongful death or other personal injury claim. We are conveniently located in downtown Denver, Colorado, and have the legal experience and expertise to settle your case for the highest possible recovery.",
+  "CTA": "Call Today for a Free Consultation",
+  "topics": [
+    "Auto Accidents",
+    "Wrongful Death",
+    "Personal Injury: Slip and Fall"
+  ],
+  "members": [
+    {
+      "name": "Phil Harding",
+      "position": "Attorney"
+    },
+    {
+      "name": "Andrew Bubb",
+      "position": "Attorney"
+    }
+  ],
+  "openHours": null,
+  "testimonalData": [
+    {
+      "text": "Lawyer Harding is detailed oriented and his legal advise was very helpful in my case.",
+      "author": "Abhishek Shukla",
+      "location": null
+    },
+    {
+      "text": "He did an awesome job. respectful and on it bout u and ur share. I would recommend Phil all day.",
+      "author": "Tj Beitel",
+      "location": null
+    },
+    {
+      "text": "I cannot say enough about how this man actually cares about proper process. I got the advice I needed, and representation beyond suitable to feel confident pursuing a desirable outcome. This is a lawyer that CARES. Need I say more?",
+      "author": "M. 2",
+      "location": null
+    }
+  ]
+}

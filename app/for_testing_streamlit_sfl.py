@@ -7,18 +7,29 @@ from flask_cors import CORS
 import html2text
 from openai import OpenAI
 from new_openai_scrape import main
+import os
+from datetime import datetime, timedelta
 
 app = Flask(__name__)
 CORS(app)
 
-load_dotenv()
-config = dotenv_values(".env")
+load_dotenv()  # Load environment variables
+
+
+token_cache = {
+    "access_token": None,
+    "expires_at": datetime.now()
+}
 
 # Gets Snov token
-@app.route("/get_snov_token", methods=['GET'])
+@app.route("/get_snov_token", methods=['POST'])
 def get_snov_token_route():
-    clientId = config.get("snov_clientId")
-    clientSecret = config.get("snov_clientSecret")
+    # Check if the token exists and is still valid
+    if token_cache["access_token"] and token_cache["expires_at"] > datetime.now():
+        return jsonify({'access_token': token_cache["access_token"]})
+
+    clientId = os.getenv("snov_clientId")
+    clientSecret = os.getenv("snov_clientSecret")
     tokenEndpoint = 'https://api.snov.io/v1/oauth/access_token'
 
     payload = {
@@ -26,14 +37,16 @@ def get_snov_token_route():
         'client_id': clientId,
         'client_secret': clientSecret
     }
-
     response = requests.post(tokenEndpoint, data=payload)
     if response.status_code == 200:
         token_data = response.json()
+        # Store the new token and its expiry time
+        token_cache["access_token"] = token_data.get('access_token')
+        # Assuming token expires in 1 hour for demonstration. Adjust based on actual token expiry.
+        token_cache["expires_at"] = datetime.now() + timedelta(hours=1)
         return jsonify({'access_token': token_data.get('access_token')})
     else:
         return jsonify({'error': 'Failed to obtain token'}), response.status_code
-
 # The `ping_snov` function is designed to interact with the Snov.io API to retrieve email addresses associated with a given domain. 
 # Queries Snov.io's API for emails related to the specified domain, filtering the results to include only verified emails. 
 # The function returns a JSON response containing these verified emails. 
@@ -82,12 +95,23 @@ def user_lists():
     token_response = get_snov_token_route()
     if not token_response:
         abort(500, description="Failed to obtain Snov.io access token.")
-    token_data = token_response.get_json()
+    
+    # Check if token_response is a tuple and extract the JSON part if it is
+    if isinstance(token_response, tuple):
+        token_data = token_response[0].get_json()  # Assuming the first element is the response
+        status_code = token_response[1]  # And the second element is the status code
+        if status_code != 200:
+            abort(status_code, description="Failed to obtain access token from Snov.io.")
+    else:
+        # If it's not a tuple, assume it's a response object
+        token_data = token_response.get_json()
+    
     access_token = token_data.get('access_token')
     if not access_token:
         abort(500, description="Failed to obtain access token from Snov.io.")
+    
     params = {
-    'access_token':access_token
+        'access_token': access_token
     }
 
     res = requests.get('https://api.snov.io/v1/get-user-lists', params=params)
@@ -141,7 +165,7 @@ def add_prospect_to_list():
 
 def scrape_links(domain_name):
     """
-    Function to scrape the given domain name, convert the page into markdown, and find the links in the navigation.
+    Function to scrape the given domain name, convert the page into markdown, and find the links in the navigation, excluding images.
     """
     try:
         headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36'}
@@ -152,11 +176,21 @@ def scrape_links(domain_name):
         if response.status_code == 200:
             # Convert HTML to Markdown
             markdown = html2text.HTML2Text().handle(response.text)
-            # Use regular expressions to find links in the markdown
-            links = re.findall(r'\[([^\]]+)\]\((http[s]?://[^\s]+|/[^\s]+)\)', markdown)
-            # Prepare a list to hold both text and URL of the links
-            navigation_links = [{"text": text, "url": url} for text, url in links]
-            # print(navigation_links)
+            # Use regular expressions to find links in the markdown, excluding image links
+            links = re.findall(r'\[([^\]]+)\]\((http[s]?://[^\s]+|/[^\s]+)(\s+".+?")?\)', markdown)
+            # Prepare a set to hold both text and URL of the links, excluding any image links, to ensure uniqueness
+            navigation_links_set = set()
+            for match in links:
+                text, url, _ = match if len(match) == 3 else (*match, None)
+                # Exclude image links by ensuring they do not end in common image file extensions
+                if not url.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.svg')):
+                    # Check if the URL is relative
+                    if url.startswith('/'):
+                        # Convert relative URL to absolute by prepending the domain name
+                        url = domain_name.rstrip('/') + url
+                    navigation_links_set.add((text, url))
+            # Convert the set back to a list of dictionaries to maintain the original structure
+            navigation_links = [{"text": text, "url": url} for text, url in navigation_links_set]
             return navigation_links
         else:
             print(f"Failed to fetch {domain_name} with status code {response.status_code}")
@@ -176,12 +210,12 @@ def find_specific_links(navigation_links):
    
     client = OpenAI()
     system_message = """
-             DO NOT RETURN ANYTHING WITH EXAMPLE.COM. I am looking for links in a site's navigation. I will provide a list of links from the top to the bottom of the site. Weigh the links at the beginning higher than ones at the bottom of the list. Given a list of website navigation links, identify the link (keep in mind that i'm providing the full link, but in my examples im only providing the subdirectory) that most likely contains the list of attorneys or people working at the firm (this usually looks like /attorney, /people, or /who-we-are). Here are the links:
+             DO NOT RETURN ANYTHING WITH EXAMPLE.COM. Try to return only 5 links. I am looking for links in a site's navigation. I will provide a list of links from the top to the bottom of the site. Weigh the links at the beginning higher than ones at the bottom of the list. Given a list of website navigation links, identify the link (keep in mind that i'm providing the full link, but in my examples im only providing the subdirectory) that most likely contains the list of attorneys or people working at the firm (this usually looks like /attorney, /contact, /testimonials, /people, or /who-we-are). Here are the links:
              
              Which link contains the list of attorneys? 
              
              Only return a json with 1 key, 
-              call this 'lawyer link' the link for the url that contains the list of lawyers that work at the firm. The links should be full links, including the domain. Do not make up any links, only use it from the list provided. If links for certain pages dont exist then ignore that page.
+              call this 'lawyer_link' the link for the url that contains the list of lawyers that work at the firm. The links should be full links, including the domain. Do not make up any links, only use it from the list provided. If links for certain pages dont exist then ignore that page.
              """
     # Convert navigation links to a string format for the prompt
     formatted_links = "\n".join([f"- {link['text']}: {link['url']}" for link in navigation_links])
@@ -189,8 +223,8 @@ def find_specific_links(navigation_links):
 
     # Pass the system message and formatted prompt to the LLM
     response = client.chat.completions.create(
-        model="gpt-4-turbo-preview",
-        # model="gpt-3.5-turbo-0125",
+        # model="gpt-4-turbo-preview",
+        model="gpt-3.5-turbo-0125",
         messages=[
             # {"role": "system", "content": system_message},
             {"role": "user", "content": full_prompt}
@@ -218,9 +252,9 @@ def find_nav_links(navigation_links):
              Which link contains the list of attorneys? Which link leads to practice areas? Which link leads to about us? Which link leads to testimonials?
              
              
-             Only return a json with 2 keys. Do not return emample.com. : 
-             1) call this key, 'all nav links' and have an array of the links that are in the navigation,  The links should be full links, including the domain. Do not make up any links, only use it from the list provided. If links for certain pages dont exist then ignore that page.
-             2) call this 'lawyer link' the link for the url that contains the list of lawyers that work at the firm. The links should be full links, including the domain. Do not make up any links, only use it from the list provided. If links for certain pages dont exist then ignore that page.
+             Only return a json with 2 keys. Do not return example.com. : 
+             1) call this key, 'all_nav_links' and have an array of the links that are in the navigation,  The links should be full links, including the domain. Do not make up any links, only use it from the list provided. If links for certain pages dont exist then ignore that page. Only include URLs that are concise, focused on the main website or high-level categories, and do not appear to be designed for narrow geo-targeted SEO keywords. For example, instead of "https://example.com/city/long-tail-keyword-phrase/", prefer URLs like "https://example.com/" or "https://example.com/main-category/". Don't include the blog page, privacy-policy, site-map 
+             2) call this 'lawyer_link' the link for the url that contains the list of lawyers that work at the firm. The links should be full links, including the domain. Do not make up any links, only use it from the list provided. If links for certain pages dont exist then ignore that page.
              """
     # Convert navigation links to a string format for the prompt
     formatted_links = "\n".join([f"- {link['text']}: {link['url']}" for link in navigation_links])
@@ -228,8 +262,8 @@ def find_nav_links(navigation_links):
 
     # Pass the system message and formatted prompt to the LLM
     response = client.chat.completions.create(
-        # model="gpt-4-turbo-preview",
-        model="gpt-3.5-turbo-0125",
+        model="gpt-4-turbo-2024-04-09",
+        # model="gpt-3.5-turbo-0125",
         messages=[
             # {"role": "system", "content": system_message},
             {"role": "user", "content": full_prompt}
@@ -263,16 +297,31 @@ def extract_attorney_names(attorney_page_url):
             markdown = html2text.HTML2Text().handle(response.text)
             client = OpenAI()
             # Construct the prompt to extract names
-            prompt = "Extract and only return, in an array,  all the names of the people who work at the firm from the following text:\n\n" + markdown
-            # Pass the prompt to the LLM
-            response = client.chat.completions.create(
-                model="gpt-3.5-turbo-0125",
-                messages=[
-                    {"role": "user", "content": prompt}
-                ],
-                temperature=0,
-                # response_format={"type": "json_object"}
-            )
+            prompt = "Extract and only return, in an array, all the names of the people who work at the firm from the following text:\n\n" + markdown
+            # Initially try with the gpt-3.5-turbo model
+            model = "gpt-3.5-turbo-0125"
+            try:
+                # Pass the prompt to the LLM
+                response = client.chat.completions.create(
+                    model=model,
+                    messages=[
+                        {"role": "user", "content": prompt}
+                    ],
+                    temperature=0,
+                    # response_format={"type": "json_object"}
+                )
+            except Exception as e:
+                # If an error occurs, switch to the gpt-4-turbo-2024-04-09 model
+                print(f"Error with {model}: {e}. Switching to gpt-4-turbo-2024-04-09 model.")
+                model = "gpt-4-turbo-2024-04-09"
+                response = client.chat.completions.create(
+                    model=model,
+                    messages=[
+                        {"role": "user", "content": prompt}
+                    ],
+                    temperature=0,
+                    # response_format={"type": "json_object"}
+                )
             # Extract and return the names from the response
             names = response.choices[0].message.content
             print(names)
@@ -338,6 +387,7 @@ def extract_attorneys_from_domain(domain_name):
     try:
         # Step 1: Scrape navigation links
         navigation_links = scrape_links(domain_name)
+        print("navigation_links", navigation_links)
         if not navigation_links:
             print(f"Failed to scrape navigation links for {domain_name}.")
             return jsonify({'error': 'Failed to scrape navigation links'}), 500
@@ -349,10 +399,12 @@ def extract_attorneys_from_domain(domain_name):
             return jsonify({'error': 'Failed to find specific links'}), 500
 
         # Convert nav_links_response from JSON string to Python dictionary
+        print(f"Nav links response: {nav_links_response}")
         nav_links_response_dict = json.loads(nav_links_response)
-        lawyer_link_url = nav_links_response_dict.get("lawyer link")
-        all_nav_links = nav_links_response_dict.get("all nav links", [])  # Extract 'all nav links' information
+        lawyer_link_url = nav_links_response_dict.get("lawyer_link")
+        all_nav_links = nav_links_response_dict.get("all_nav_links", [])  # Extract 'all nav links' information
         
+        print(f"Lawyer link URL: {lawyer_link_url}")
         if not lawyer_link_url:
             print(f"No lawyer link found for {domain_name}.")
             return jsonify({'error': 'No lawyer link found'}), 404

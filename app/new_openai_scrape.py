@@ -107,7 +107,7 @@ def main(urls=None):
     if urls is None:
         urls = ["https://integratedgeneralcounsel.com/","https://integratedgeneralcounsel.com/about-us/"," https://integratedgeneralcounsel.com/services/"," https://integratedgeneralcounsel.com/what-clients-say/"]
     questions = [
-        "return the CTA which usually phrases like 'to call or text the contact number for a consultation'. Name the key 'paragraph' ",
+        "return the CTA which usually phrases like 'to call or text the contact number for a consultation'. If none exist, use 'Contact Us Today'. Name the key 'paragraph' ",
         """
         Find 4 advantages that sets this firm apart. Organize the objects in this way {
             "title": 3-4 word title of the advantage,
@@ -131,11 +131,11 @@ def main(urls=None):
   Name this key 'linkNames' 
   ,
   """ ,
-        "What is the name of this company? Name this key 'companyName'",
+        "What is the name of this company? Name this key 'companyName'. Make sure it's at most 5 words.",
         "What is the subheading of this company? Name this key 'subHeading' ",
         "Near the top of the site, there will a paragraph description about this firm, return it. If it doesn't exist, write 2 paragraphs about this firm. Name this key 'valueProp' ",
         "What is the CTA close to the top of the site? Name this key 'CTA' ",
-        "Return 9 practice areas of this law firm, in an array.  Name this key 'topics' ",
+        "Return 9 practice areas of this law firm, in an array. Dont return an null. Name this key 'topics' ",
         """
         ( Return, in an array of objects, 4 names of lawyers and their titles. Don't make up any lawyers. If less than 4 exists, then show only the real ones. For example 
         
@@ -146,7 +146,7 @@ def main(urls=None):
         " When is the firm open? Respond on one line, never as with multiple keys. Name this key 'openHours' " ,
         
         """
-          Return 3 testimonials from this site. They should be in an array of objects, including text, author, location. For example 
+          Return 3 testimonials from this site. Each should not be longer than 50 words. They should be in an array of objects, including text, author, location. For example 
           
           "```json\n[\n    {\n        \"text\": \"Matt is my go to lawyer. He has been there for me and so many of my teammates over the years.\",\n        \"author\": \"Dwight Gooden\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Matt is a strategic thinker and really knows how to analyze and formulate a litigation game plan.\",\n        \"author\": \"Phil Regan\",\n        \"location\": null\n    },\n    {\n        \"text\": \"I heard other players saying amazing things about Matt and now I know for myself that it's all true as he never quits until the catch is made!\",\n        \"author\": \"Endy Chavez, NY Mets Player\",\n        \"location\": null\n    }\n]\n```"
         If none exist, make them up.

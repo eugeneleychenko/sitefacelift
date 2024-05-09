@@ -1,0 +1,84 @@
+{
+    "paragraph": "Call 24/7 for Your Free Consultation",
+    "detailsData": [
+        {
+            "title": "Client Focus",
+            "content": "The Roth Firm, LLC dedicates its full attention to each client, ensuring personalized and focused legal representation."
+        },
+        {
+            "title": "Experienced Team",
+            "content": "With over 15 years of experience, the team at The Roth Firm, LLC is prepared to handle complex litigation and fight for the rights of those injured due to negligence."
+        },
+        {
+            "title": "No Fee Promise",
+            "content": "Clients are not charged any attorney fees unless The Roth Firm, LLC successfully recovers compensation on their behalf."
+        },
+        {
+            "title": "Comprehensive Service",
+            "content": "Offering a wide range of personal injury legal services, the firm is equipped to handle cases from car accidents to medical malpractice."
+        }
+    ],
+    "address": "1600 Parkwood Circle Suite 600 Atlanta, GA 30339",
+    "phoneNumber": "404-777-4899",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "ABOUT US",
+        "PRACTICE AREAS",
+        "CASE RESULTS",
+        "REVIEWS",
+        "LOCATIONS",
+        "CONTACT US"
+    ],
+    "companyName": "The Roth Firm, LLC",
+    "subHeading": "Fighting for Clients Throughout Georgia & Beyond",
+    "valueProp": "When you are injured as a result of someone else's careless, reckless, or wrongful actions, you have the right to take legal action. By filing a personal injury claim, you can fight to hold the negligent party accountable and secure fair financial compensation for your losses. Getting back on your feet after a serious accident or injury can be challenging--but having the right legal team on your side can make all the difference in your recovery.",
+    "CTA": "Get Your Free Consult",
+    "topics": [
+        "Truck Accidents",
+        "Car Accidents",
+        "Motorcycle Accidents",
+        "Premises Liability",
+        "Pedestrian Accidents",
+        "Rideshare Accidents",
+        "Defective Products",
+        "Traumatic Brain Injuries",
+        "Workers' Compensation"
+    ],
+    "members": [
+        {
+            "name": "James M. Roth",
+            "position": "Managing Partner"
+        },
+        {
+            "name": "Keri Mason Roth",
+            "position": "Managing Partner"
+        },
+        {
+            "name": "Richard Bentley",
+            "position": "Attorney at Law"
+        },
+        {
+            "name": "David Carter",
+            "position": "Attorney at Law"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "The entire time they represented us, the firm kept us well-informed of the case's status, was well prepared, and on top of things.",
+            "author": "Michael",
+            "location": null
+        },
+        {
+            "text": "He handled my claim after I was rear-ended. I would hire Jim Roth again and he will be the only PI attorney I will refer to.",
+            "author": "Catherine",
+            "location": null
+        },
+        {
+            "text": "He remembers me and everyone at the firm treats me like a truly valued client. I have been a client of the Roth Firm for many years.",
+            "author": "Tarcarnesia",
+            "location": null
+        }
+    ]
+}

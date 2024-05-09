@@ -1,0 +1,79 @@
+{
+    "paragraph": null,
+    "detailsData": [
+        {
+            "title": "Personalized Service",
+            "content": "CO Injury Law is a boutique law firm that provides exceptional service to each and every client. They take the time to get to know the specific facts of your case in order to obtain the settlement you deserve."
+        },
+        {
+            "title": "No Fees Unless We Win",
+            "content": "The consultation is free and they work completely on contingency. You pay no attorney fees unless they win!"
+        },
+        {
+            "title": "Expertise You Can Trust",
+            "content": "Every personal injury case in Denver deserves a tenured attorney to deliver the best possible resolution. Colorado Injury Law ensures you're working with the best team along the front range."
+        },
+        {
+            "title": "Aggressive Representation",
+            "content": "They know how to value a case and obtain a fair settlement. If necessary, they are not shy about taking insurance companies to trial to ensure their clients receive the restitution they deserve."
+        }
+    ],
+    "address": "5445 DTC PKWY STE 1000 Greenwood Village, CO 80111",
+    "phoneNumber": "(303) 807-4274",
+    "email": "info@coinjurylaw.com",
+    "linkNames": [
+        "HOME",
+        "PRACTICE AREAS",
+        "ABOUT",
+        "CONTACT"
+    ],
+    "companyName": "Colorado Injury Law",
+    "subHeading": "Helping You Get the Settlement You Deserve",
+    "valueProp": "Colorado Injury Law obtains top dollar settlements in personal injuries cases. We specialize in vehicular and pedestrian accidents, slip and falls, and dog bites in Denver, CO.",
+    "CTA": "GET HELP TODAY",
+    "topics": [
+        "Car Accidents",
+        "Motorcycle Accidents",
+        "Truck Accidents",
+        "Pedestrian Accidents",
+        "Dog Bites",
+        "Premises Liability",
+        "Bad Faith Litigation"
+    ],
+    "members": [
+        {
+            "name": "Nadim Ahmed",
+            "position": "Esquire & Founder"
+        },
+        {
+            "name": "Phil Amos",
+            "position": "Head of Litigation"
+        },
+        {
+            "name": "Anthony Perez",
+            "position": "Of Counsel"
+        },
+        {
+            "name": "Leslie Salazar",
+            "position": "Case Manager"
+        }
+    ],
+    "openHours": "Mon - Fri: 9:00 AM - 5:00 PM",
+    "testimonalData": [
+        {
+            "text": "Mr. Nadim Ahmed was an absolute pleasure to work with. He was, to put very simply awesome. I would strongly suggest him to anyone that needs help.",
+            "author": "Client Testimonial",
+            "location": null
+        },
+        {
+            "text": "I hired Nadim for a Personal Injury Case. With Nadim's hard work and attention to my case, we were able to settle for more than I anticipated in less time than I ever expected.",
+            "author": "Client Appreciation",
+            "location": null
+        },
+        {
+            "text": "Attorney Nadim is a true advocate. I don't know how he did it, but within one month he was able to double the current offer and settle my case.",
+            "author": "Grateful Client",
+            "location": null
+        }
+    ]
+}

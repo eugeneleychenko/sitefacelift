@@ -1,0 +1,87 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Experienced Team",
+            "content": "Our Personal Injury Attorneys are native Tennesseans with a deep understanding of local laws and community nuances. We're committed to the Middle Tennessee community, treating clients like neighbors."
+        },
+        {
+            "title": "Comprehensive Service",
+            "content": "We offer comprehensive legal service for personal injury victims, including car accidents, wrongful death, and medical malpractice, ensuring a thorough approach to each case."
+        },
+        {
+            "title": "Client-Centered Approach",
+            "content": "We understand the impact of injuries on families and focus on removing the burden from our clients, handling all legal issues so they can focus on recovery."
+        },
+        {
+            "title": "No Fees Until Win",
+            "content": "Our contingent fee basis means clients are not responsible for legal fees until we successfully recover compensation, aligning our success with theirs."
+        }
+    ],
+    "address": "207 23rd Avenue N. Nashville, TN 37203",
+    "phoneNumber": "1 (800) 777-MATT",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "TEAM",
+        "PRACTICE AREAS",
+        "TESTIMONIALS",
+        "INFO CENTER",
+        "GIVING BACK",
+        "PRESS & MEDIA",
+        "LOCATIONS",
+        "CONTACT US",
+        "ESPA\u00d1OL"
+    ],
+    "companyName": "Matt Hardin Law",
+    "subHeading": "RESTORE YOUR POWER FIND PEACE OF MIND",
+    "valueProp": "The personal injury, wrongful death, and car accident attorneys at Matt Hardin Law provide comprehensive legal service for personal injury victims and their families. We serve clients throughout Tennessee and Kentucky with offices in Nashville, Memphis, Murfreesboro, Mt. Juliet, Cookeville, Clarksville, and Bowling Green and the surrounding areas.",
+    "CTA": "REQUEST A FREE CONSULTATION",
+    "topics": [
+        "Car Accidents",
+        "Truck Accidents",
+        "Injuries to Children",
+        "Motorcycle Accidents",
+        "Medical Malpractice",
+        "Premises Liability",
+        "Rideshare Accidents",
+        "Wrongful Death",
+        "View All"
+    ],
+    "members": [
+        {
+            "name": "Matt Hardin",
+            "position": "Attorney & Owner"
+        },
+        {
+            "name": "William Mayfield",
+            "position": "Attorney & Partner"
+        },
+        {
+            "name": "Michael Kilgore",
+            "position": "Associate Attorney"
+        },
+        {
+            "name": "Janet Hardin",
+            "position": "Executive Director"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Matt and his team were absolutely amazing. I highly recommend Matt and his team.",
+            "author": "Teresa",
+            "location": null
+        },
+        {
+            "text": "I have worked closely with Matt Hardin on two personal injury cases. Mr. Hardin does not back down, and I whole-heartedly recommend him.",
+            "author": "Nicole",
+            "location": null
+        },
+        {
+            "text": "My experience with Matt Hardin was great! He handled my motor vehicle accident case. I highly recommend Matt \u2013 he will get the job done.",
+            "author": "Jake",
+            "location": null
+        }
+    ]
+}

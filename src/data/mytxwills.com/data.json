@@ -1,0 +1,83 @@
+{
+    "paragraph": null,
+    "detailsData": [
+        {
+            "title": "5 Star Reviews",
+            "content": "Mike Massey Law has garnered hundreds of 5-star reviews, showcasing their commitment to excellence and client satisfaction."
+        },
+        {
+            "title": "Transparent Pricing",
+            "content": "They offer low and transparent pricing, ensuring clients are fully informed about costs without any hidden fees."
+        },
+        {
+            "title": "Quick Turnaround",
+            "content": "The firm is known for its quick turnaround on legal services, providing efficient and timely solutions to clients."
+        },
+        {
+            "title": "Free Consultations",
+            "content": "Mike Massey Law offers free phone consultations, allowing potential clients to discuss their case without any financial commitment."
+        }
+    ],
+    "address": "418 Grace Ln Austin, TX 78746",
+    "phoneNumber": "512-400-4430",
+    "email": "mike@mytxwills.com",
+    "linkNames": [
+        "HOME",
+        "ABOUT",
+        "SERVICES",
+        "CONTACT",
+        "BOOK A MEETING",
+        "ESPANOL"
+    ],
+    "companyName": "Mike Massey Law",
+    "subHeading": null,
+    "valueProp": "At Mike Massey Law, we are dedicated to treating you as more than just another client in our system. With us, you are a partner. We work with you at all stages of your case, ensuring that you understand what to expect at every turn. Our personal injury lawyers will advise you whenever it is necessary so you can make the most informed decisions possible about your case. On top of representation for injured accident victims, we also provide estate planning services for those with an eye on the future.",
+    "CTA": "Call For A Free Case Evaluation Today!",
+    "topics": [
+        "Asset Protection",
+        "Probate",
+        "Real Estate Deeds",
+        "Trusts",
+        "Wills",
+        "Incapacity Planning",
+        "Elder Law",
+        "Brain Injury",
+        "Wrongful Death"
+    ],
+    "members": [
+        {
+            "name": "Mike Massey",
+            "position": "Attorney"
+        },
+        {
+            "name": "Christine Santana",
+            "position": "Attorney"
+        },
+        {
+            "name": "Stephanie Long",
+            "position": "Attorney"
+        },
+        {
+            "name": "Melissa Klein",
+            "position": "Client Service Manager"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "This is my first time writing a will, Mike Massey and his staff was wonderful and very professional, they made everything easy, I\u2019m totally recommend them.",
+            "author": "Lizbeth A. Ochoa",
+            "location": null
+        },
+        {
+            "text": "Mike's team was very thorough and made the process of getting a will together very easy.",
+            "author": "brandy louviere",
+            "location": null
+        },
+        {
+            "text": "We used their services for estate planning. My wife and I needed guidance in creating a will or a trust. Stephanie Long was the attorney assigned to our case and she was wonderful.",
+            "author": "Julio De la Fuente",
+            "location": null
+        }
+    ]
+}

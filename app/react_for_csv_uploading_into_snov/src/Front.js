@@ -48,12 +48,19 @@ const Front = () => {
       .then((response) => response.json())
       .then((data) => {
         // Transform the data to a format suitable for the dropdown
-        const transformedData = data.map(({ id, name }) => ({
+        const sortedData = data.sort(
+          (a, b) => new Date(b.created_at) - new Date(a.created_at)
+        );
+        // Transform the data to a format suitable for the dropdown
+        const transformedData = sortedData.map(({ id, name }) => ({
           value: id,
           label: name,
         }));
         setUserLists(transformedData);
-        // console.log(transformedData); // Log to see if data is correctly transformed
+        // Set the selectedList to the most recent one (now the first in the array)
+        if (transformedData.length > 0) {
+          setSelectedList(transformedData[0].value);
+        }
       })
       .catch((error) => console.error("Error fetching user lists:", error));
   }, []);
@@ -76,8 +83,42 @@ const Front = () => {
     setGeneratedUrl(`${localhostUrl}/${domain}`);
   }, [domain, localhostUrl]);
 
+  useEffect(() => {
+    if (snackbarOpen) {
+      document.title = "(1) " + document.title; // Prepend "(1)" when Snackbar is open
+    } else {
+      document.title = document.title.replace("(1) ", ""); // Remove "(1)" when Snackbar is closed
+    }
+  }, [snackbarOpen]);
+
   const handleNavLinksChange = (event) => {
     setNavLinksInput(event.target.value);
+  };
+
+  const getToken = async () => {
+    const tokenInfo = localStorage.getItem("snovTokenInfo");
+    if (tokenInfo) {
+      const { token, expiresAt } = JSON.parse(tokenInfo);
+      if (new Date().getTime() < expiresAt) {
+        return token; // Return the stored token if it's still valid
+      }
+    }
+
+    // Fetch a new token if none is stored or if it has expired
+    const response = await fetch("http://127.0.0.1:5000/get_snov_token", {
+      method: "POST",
+    });
+    if (response.ok) {
+      const data = await response.json();
+      const expiryTime = new Date().getTime() + 60 * 60 * 1000; // Assuming 1 hour validity
+      localStorage.setItem(
+        "snovTokenInfo",
+        JSON.stringify({ token: data.access_token, expiresAt: expiryTime })
+      );
+      return data.access_token;
+    } else {
+      throw new Error("Failed to fetch token");
+    }
   };
 
   const updateNavLinks = () => {
@@ -98,9 +139,8 @@ const Front = () => {
   const handleAddProspect = async (email) => {
     const name = names[email];
     try {
-      const tokenResponse = await fetch(`${endPoint}get_snov_token`);
-      const tokenData = await tokenResponse.json();
-      const accessToken = tokenData.access_token;
+      // Directly use the token returned by getToken, assuming getToken now returns just the token string
+      const accessToken = await getToken();
 
       const response = await fetch(
         "https://api.snov.io/v1/add-prospect-to-list",
@@ -108,16 +148,22 @@ const Front = () => {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
+            // If the API expects the token in the Authorization header, use this line:
+            Authorization: `Bearer ${accessToken}`,
           },
           body: JSON.stringify({
-            access_token: accessToken,
             email: email,
-            attorneyNames: attorneyNames, // Split the string into an array
+            attorneyNames: attorneyNames, // Assuming this is correct context for your API call
             firstName: name,
             listId: selectedList,
           }),
         }
       );
+
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+
       const data = await response.json();
       console.log(data);
 
@@ -414,7 +460,7 @@ const Front = () => {
                   <Button
                     variant="contained"
                     onClick={() => handleAddProspect(email)}
-                    disabled={disabledEmails[email]}
+                    disabled={disabledEmails[email] || !names[email]} // Disable if email is already disabled or name is not entered
                   >
                     Add to List
                     {successStatus[email] && (
@@ -476,7 +522,7 @@ const Front = () => {
       <Snackbar
         open={snackbarOpen}
         anchorOrigin={{ vertical: "top", horizontal: "right" }}
-        autoHideDuration={3000}
+        autoHideDuration={6000}
         onClose={() => setSnackbarOpen(false)}
         message={generatedUrl}
         action={

@@ -1,0 +1,87 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Innovative Strategies",
+            "content": "Utilizes cutting-edge technology and legal strategies to present compelling cases. Employs computer animation and accident reconstruction for clear, impactful trial presentations."
+        },
+        {
+            "title": "Dedicated Team",
+            "content": "A team of experienced, dedicated attorneys who focus exclusively on the injured, ensuring rights are upheld and justice is served. Known for fierce advocacy and extensive legal knowledge."
+        },
+        {
+            "title": "Client-Centered Approach",
+            "content": "Prides itself on case management skills, aiming for quick and effective resolutions. Ensures clients are fully informed and treated with courtesy and kindness from the first consultation."
+        },
+        {
+            "title": "Community Commitment",
+            "content": "Beyond legal services, the firm actively gives back to the community and engages in local activities. Demonstrates a strong commitment to the well-being of the areas they serve."
+        }
+    ],
+    "address": "545 Mainstream Dr. #105, Nashville, TN 37228",
+    "phoneNumber": "615-425-2500",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "WHY WE'RE BETTER",
+        "GLADIATORS",
+        "CASES WE HANDLE",
+        "OUR RESULTS",
+        "PRESS",
+        "BLOG",
+        "ATTORNEY REFERRALS",
+        "CONTACT US",
+        "LOCATIONS"
+    ],
+    "companyName": "Rocky McElhaney Law Firm",
+    "subHeading": null,
+    "valueProp": "\"When I was a teenager, Dad got hurt. Insurance company wouldn't pay. We lost our house. But, Dad got a lawyer and we got justice. That's the moment I decided to become an attorney. As a lawyer, I have dedicated my life to helping injury victims.\" ~ Rocky",
+    "CTA": "Call Today (615) 425-2500 Phones Answered 24 Hours A Day",
+    "topics": [
+        "Personal Injury",
+        "Auto Accidents",
+        "Truck Accidents",
+        "Motorcycle Accidents",
+        "Wrongful Death",
+        "Premises Liability",
+        "Slip and Fall",
+        "Workers Compensation",
+        "Birth Injuries"
+    ],
+    "members": [
+        {
+            "name": "Rocky McElhaney",
+            "position": "Founder, Chief Legal Officer"
+        },
+        {
+            "name": "Justin Hight",
+            "position": "Managing Attorney"
+        },
+        {
+            "name": "Penny McElhaney",
+            "position": "Chief Executive Officer & Attorney"
+        },
+        {
+            "name": "Patrick Kilgore",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Absolutely the BEST of the BEST! Rocky is definitely one of the most knowledgeable, and caring lawyers I have ever met! He is a winner in every respect.",
+            "author": "Marsha Duncan",
+            "location": null
+        },
+        {
+            "text": "If you\u2019re looking for a personal injury attorney then look no further, Rocky McElhaney Law Firm is the place!!! They were compassionate and made me feel heard.",
+            "author": "Sherry Parker",
+            "location": null
+        },
+        {
+            "text": "My situation was extremely difficult to handle and the paralegals and attorneys at the Rocky McElhaney Law Firm stuck with me for over a year to ensure everything was settled properly.",
+            "author": "Imani Chambers",
+            "location": null
+        }
+    ]
+}

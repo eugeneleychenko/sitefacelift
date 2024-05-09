@@ -1,0 +1,75 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Compassionate Care",
+            "content": "Debbie Taussig Law, LLC brings comfort and compassion to clients during difficult times, offering a concierge-style of services to help them heal physically, mentally, and financially."
+        },
+        {
+            "title": "Proven Results",
+            "content": "With millions of dollars recovered for clients, the firm has a track record of securing significant legal verdicts and settlements, demonstrating their commitment to justice and client satisfaction."
+        },
+        {
+            "title": "Expertise & Experience",
+            "content": "Debbie Taussig's extensive knowledge of personal injury law and her team's dedication ensure that clients receive strategic representation aimed at obtaining the reparations they deserve."
+        },
+        {
+            "title": "Client-Centric Approach",
+            "content": "The firm is known for its ability to listen, stellar communication, and responsiveness, diving deep into each client's story to advocate effectively on their behalf."
+        }
+    ],
+    "address": "1200 28th St, Suite 302 Boulder, CO 80303",
+    "phoneNumber": "(303) 442-0176",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "ABOUT US",
+        "PRACTICE AREAS",
+        "AREAS SERVED",
+        "RESOURCES",
+        "CONTACT US"
+    ],
+    "companyName": "Debbie Taussig Law, LLC",
+    "subHeading": null,
+    "valueProp": "Debbie Taussig Law, LLC is dedicated to serving the Boulder community with a focus on personal injury cases. The firm prides itself on providing compassionate, comprehensive legal services to those who have been injured due to the negligence of others. With a strong commitment to justice and a client-centric approach, Debbie Taussig and her team work tirelessly to ensure that their clients receive the compensation and support they need to recover and move forward.",
+    "CTA": "Schedule a Free Consultation 303-442-0176",
+    "topics": [
+        "Bicycle Accident",
+        "Bus Accident",
+        "Car Accident",
+        "Catastrophic Injury",
+        "Dog Bite",
+        "Insurance Disputes",
+        "Motorcycle Accident",
+        "Pedestrian Accident",
+        "Premises Liability"
+    ],
+    "members": [
+        {
+            "name": "Debbie Taussig",
+            "position": "Founder"
+        },
+        {
+            "name": "Joanna Merrill",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Completely happy with the work done by everyone at Debbie Taussig Law, LLC, and the settlement they obtained for me.",
+            "author": "Megan H.",
+            "location": null
+        },
+        {
+            "text": "Debbie and her team helped me through the most traumatic accident of my life. They won me my maximum rewards.",
+            "author": "Free F.",
+            "location": null
+        },
+        {
+            "text": "Debbie Taussig Law exceeded all expectations, my case wasn\u2019t only handled with utmost attention to detail, but also such a personal touch.",
+            "author": "Keenan B.",
+            "location": null
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+  "paragraph": "TAP TO CALL (719) 900-2500",
+  "detailsData": [
+    {
+      "title": "Direct Access",
+      "content": "At Earl & Earl, PLLC, you won\u2019t be passed off to an assistant. You'll have direct access to your attorney, ensuring personalized and strategic legal representation."
+    },
+    {
+      "title": "No Fees Unless",
+      "content": "With a free case review and no fees unless you win, there\u2019s no risk to getting the legal help you need. This approach makes quality legal services accessible to everyone."
+    },
+    {
+      "title": "Communication",
+      "content": "Communication you can count on is a cornerstone of their service. Earl & Earl, PLLC ensures you can always get a hold of them when you need to."
+    },
+    {
+      "title": "Personalized Representation",
+      "content": "Every case is different, and Earl & Earl, PLLC provides personalized and strategic legal representation tailored to the unique aspects of your case."
+    }
+  ],
+  "address": "1259 Lake Plaza Dr #230, Colorado Springs, CO 80906",
+  "phoneNumber": "(719) 900-2500",
+  "email": "admin@earlandearl.com",
+  "linkNames": [
+    "HOME",
+    "ABOUT US",
+    "PRACTICE AREAS",
+    "TESTIMONIALS",
+    "LOCATIONS",
+    "BLOG",
+    "CONTACT US"
+  ],
+  "companyName": "Earl & Earl, PLLC",
+  "subHeading": "Every case is different. Every lawyer is, too.",
+  "valueProp": "Choosing an attorney is a big decision. At Earl & Earl, PLLC, you are not just another claim number. Our personal injury attorneys treat you with the individualized attention and care you deserve.",
+  "CTA": "REQUEST A CALLBACK",
+  "topics": [
+    "Car Accident",
+    "Dog Bite",
+    "Motorcycle Accidents",
+    "Pedestrian Accidents",
+    "Premises Liability",
+    "Personal Injury",
+    "Truck Accidents",
+    "Wrongful Death",
+    "Bicycle Accidents"
+  ],
+  "members": [
+    {
+      "name": "Collin Earl",
+      "position": "Managing Partner"
+    },
+    {
+      "name": "Ryan Earl",
+      "position": "Partner"
+    },
+    {
+      "name": "Brian E. Hefner",
+      "position": "Attorney"
+    }
+  ],
+  "openHours": "Monday - Friday | 8:00 AM - 5:00 PM",
+  "testimonalData": [
+    {
+      "text": "The team at Earl & Earl, PLLC are all rockstars. They are courteous and professional in all interactions.",
+      "author": "Mason C.",
+      "location": null
+    },
+    {
+      "text": "After my car accident I hired Collin Earl to be my lawyer. It was almost a year long process, but Collin really pulled through for me.",
+      "author": "Nicole",
+      "location": null
+    },
+    {
+      "text": "Mr. Earl came into my life at a difficult time. Not only did he handle my injury case, he also helped me with some family law issues.",
+      "author": "Bob",
+      "location": null
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Real Trial Lawyer",
+            "content": "A lawyer whose track record and presence convey the seriousness of your claim. A tough, experienced, trial-tested advocate ready to battle in court."
+        },
+        {
+            "title": "Personal Attention",
+            "content": "Cummings Law provides personal attention and concern, working tirelessly to win your case and bring you justice."
+        },
+        {
+            "title": "Medical Malpractice Expert",
+            "content": "Brian Cummings is a board-certified medical malpractice attorney, one of only a handful in Tennessee, with a track record of success."
+        },
+        {
+            "title": "Comprehensive Services",
+            "content": "From personal injury to medical malpractice, Cummings Law offers a wide range of legal services to meet your needs."
+        }
+    ],
+    "address": "4235 Hillsboro Pike #300, Nashville, TN, 37215",
+    "phoneNumber": "615.241.2000",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "TESTIMONIALS",
+        "SERVICES",
+        "BLOG",
+        "ABOUT US",
+        "CONTACT US"
+    ],
+    "companyName": "Cummings Law",
+    "subHeading": null,
+    "valueProp": "If you have suffered a personal injury due to the negligence or misconduct of another, you are legally entitled to receive just compensation. In almost all cases, however, you will have to file a personal injury lawsuit to do so. You\u2019ll need a trustworthy lawyer who works exclusively in this field and so has well-honed skills in personal injury litigation. If you are seeking such a person in Middle Tennessee, the person you\u2019re looking for is Brian Cummings at Cummings Law in Nashville. He is not only highly esteemed, but has a track record of success. He will fight aggressively to win you the compensation you deserve.",
+    "CTA": "CONTACT OUR OFFICE",
+    "topics": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Car Accidents",
+        "Construction Accidents",
+        "Municipality Liability",
+        "Pedestrian Accidents",
+        "Premise Liability",
+        "Product Liability",
+        "Wrongful Death"
+    ],
+    "members": [
+        {
+            "name": "Brian Cummings",
+            "position": "Founding Partner / Trial Lawyer"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Cummings Law was amazing. Brian Cummings helped us with a significant personal injury claim. His hard work, constant attention, and legal skill got my wife and I a great settlement.",
+            "author": null,
+            "location": null
+        },
+        {
+            "text": "I was in a major motorcycle accident and was referred to Brian. Thanks to his skill and expertise, he aggressively negotiated with the insurance company and we reached a settlement without having to go court.",
+            "author": null,
+            "location": null
+        },
+        {
+            "text": "Brian is very professional and thorough in meeting our needs. I highly recommend him. Brian knows all aspects of the law and he always kept us informed of everything we needed to know at all times.",
+            "author": null,
+            "location": null
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "paragraph": "Call today to speak with one of our attorneys. Request Your **Free** Consultation",
+    "detailsData": [
+        {
+            "title": "Proven Results",
+            "content": "The Alfred Firm has a track record of securing significant settlements and jury verdicts for their clients, demonstrating their commitment to achieving the best possible outcomes."
+        },
+        {
+            "title": "No Win No Fee",
+            "content": "They operate on a contingency fee basis, meaning clients don't pay attorneys' fees unless they win their case, ensuring access to legal representation for all."
+        },
+        {
+            "title": "24/7 Availability",
+            "content": "Understanding the urgency of personal injury matters, The Alfred Firm offers 24/7 availability to ensure clients can reach them at any time."
+        },
+        {
+            "title": "Client Focused",
+            "content": "The firm prioritizes exceptional client service and maintains open lines of communication, ensuring clients are informed and supported throughout their case."
+        }
+    ],
+    "address": "2211 Norfolk St Suite 803 Houston, TX 77098",
+    "phoneNumber": "(713) 470-9714",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "OUR TEAM",
+        "PRACTICE AREAS",
+        "TESTIMONIALS",
+        "CASE RESULTS",
+        "CONTACT"
+    ],
+    "companyName": "The Alfred Firm",
+    "subHeading": "Texas Trial Lawyers",
+    "valueProp": "The Houston, Texas injury lawyers at The Alfred Firm are dedicated to helping personal injury victims and their family. Our team of attorneys center our practice on exceptional client service. We believe that communication is one of the essential keys to a successful case. We strive to maintain open lines of communication with our clients throughout their cases.",
+    "CTA": "Request Free Consultation",
+    "topics": [
+        "Personal Injury",
+        "Car Accident",
+        "Truck Accident",
+        "Motorcycle Accident",
+        "Brain Injury",
+        "Wrongful Death",
+        "Construction Accidents",
+        "Industrial Accidents",
+        "Maritime Injuries"
+    ],
+    "members": [
+        {
+            "name": "Byron C. Alfred",
+            "position": "Founder / Trial Lawyer"
+        },
+        {
+            "name": "Johnny Alfred, III",
+            "position": "Trial Lawyer"
+        },
+        {
+            "name": "Kai Henderson",
+            "position": "Trial Lawyer"
+        },
+        {
+            "name": "Amanda Zubire",
+            "position": "Chief of Staff / Head Paralegal"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Wonderful experience. Knowledgeable and responsive! Byron and his staff were helpful and responsive to all our questions and concerns. He was able to get me a great settlement in under about a year. He was kind and caring, always looking out for what was needed. Overall, it was a pleasant experience!",
+            "author": "Steve M.",
+            "location": null
+        },
+        {
+            "text": "Byron has been an amazing attorney. He helped me with all my medical needs and guided me along the whole way. Byron put up a good fight and won my case. I couldn't have asked for a better attorney!!",
+            "author": "Angelique",
+            "location": null
+        },
+        {
+            "text": "Byron Alfred is an amazing attorney! He represented my family and I during a very difficult time with compassion, honesty, dedication and determination! He is by far the best attorney for anyone who needs a voice in times of need or despair. I recommend him for any person needing sound advise and effective and firm representation.",
+            "author": "Shermette",
+            "location": null
+        }
+    ]
+}

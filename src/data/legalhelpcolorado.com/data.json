@@ -1,0 +1,67 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Free Consultations",
+            "content": "Our consultations are always free, providing potential clients with the opportunity to discuss their case without financial obligation."
+        },
+        {
+            "title": "Decades of Experience",
+            "content": "With decades of experience and tens of millions awarded to our clients, we have the legal skill to take on any insurance agency."
+        },
+        {
+            "title": "Personalized Service",
+            "content": "We offer large firm skills with small firm service, ensuring each client receives personalized attention and care."
+        },
+        {
+            "title": "Comprehensive Practice",
+            "content": "Our areas of practice include a wide range of personal injury cases, from car accidents to dog bites, ensuring comprehensive legal support."
+        }
+    ],
+    "address": "19751 E. Main Street, Suite 355, Parker, CO 80138",
+    "phoneNumber": "(303) 805-7430",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "ABOUT OUR FIRM",
+        "LOCATIONS",
+        "AREAS OF PRACTICE",
+        "CLIENT TESTIMONIALS",
+        "CONTACT",
+        "PARKER INJURY NEWS"
+    ],
+    "companyName": "James Munafo & Associates",
+    "subHeading": null,
+    "valueProp": "If you or a loved one have fallen victim to an injury, you might be searching for compensation. Before you decide to hire a lawyer, reach out to our law firm. We are Colorado Injury Advocates. Our consultations are always free. Settling an injury claim can require complex litigation, it should not, however, cost you a large part of your settlement. With decades of experience and TENS of MILLIONS awarded to our clients, we have the tools and the legal skill to take on ANY insurance agency.",
+    "CTA": "CLICK TO CALL",
+    "topics": [
+        "Personal Injury",
+        "Car Accidents",
+        "Ride Share Accidents",
+        "Truck Accidents",
+        "Motorcycle Accidents",
+        "Bicycle Accidents",
+        "Wrongful Deaths",
+        "Slip and Fall",
+        "Dog Bites"
+    ],
+    "members": null,
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "I would highly recommend Munafo and Associates! They truly cared and were extremely helpful.",
+            "author": "J.C.",
+            "location": null
+        },
+        {
+            "text": "James was very attentive to my case and answered all my questions throughout the whole process.",
+            "author": "Melisa Green",
+            "location": null
+        },
+        {
+            "text": "Great staff and great communication directly from an attorney.",
+            "author": "T.R. Whelan",
+            "location": null
+        }
+    ]
+}
