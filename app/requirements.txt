@@ -1,0 +1,10 @@
+requests
+re
+python-dotenv
+json
+flask
+flask-cors
+html2text
+openai
+os
+datetime
