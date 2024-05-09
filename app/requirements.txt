@@ -4,5 +4,4 @@ flask
 flask-cors
 html2text
 openai
-os
 datetime
