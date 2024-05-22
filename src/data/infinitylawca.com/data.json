@@ -1,0 +1,81 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Experienced Team",
+            "content": "Our attorneys serve not only the Bay Area, but the entire state of California. Our team has decades of combined experience."
+        },
+        {
+            "title": "Client Focused",
+            "content": "We are committed to helping our clients maximize their benefits while minimizing their risks. We create creative legal solutions fit to your specific needs."
+        },
+        {
+            "title": "Diverse Practice",
+            "content": "Infinity Law Group handles a wide range of legal matters, from personal injury and employment law to business law and litigation."
+        },
+        {
+            "title": "Proven Track Record",
+            "content": "We have an excellent track record for our clients, providing cost-effective solutions in dispute and litigation matters."
+        }
+    ],
+    "address": "1020 Aileen Street Lafayette, CA 94549",
+    "phoneNumber": "925-732-1188",
+    "email": null,
+    "linkNames": [
+        "ABOUT",
+        "PRACTICE AREAS",
+        "NEWS & RESOURCES",
+        "CONTACT US"
+    ],
+    "companyName": "Infinity Law Group",
+    "subHeading": "Committed to Finding the Best Path Forward",
+    "valueProp": "Our attorneys are here to help navigate the complexities of legal problems you face. We have the experience and tenacity to achieve the best possible results for our clients.",
+    "CTA": null,
+    "topics": [
+        "Trust and Probate",
+        "Real Estate",
+        "Business Law",
+        "Litigation",
+        "Personal Injury",
+        "Car Accidents",
+        "Employment",
+        "Discrimination",
+        "Wrongful Termination"
+    ],
+    "members": [
+        {
+            "name": "Ashar Ahmed",
+            "position": "Partner"
+        },
+        {
+            "name": "Ilya Filmus",
+            "position": "Partner"
+        },
+        {
+            "name": "Robert A. Huddleston",
+            "position": "Attorney"
+        },
+        {
+            "name": "Sandy Lowenstein",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "I have used Infinity Law Group for various corporate work and employment issues for my technology company. Both Ashar and Ilya are excellent lawyers.",
+            "author": "Uzair Sattar, CEO ICE Consulting, Inc.",
+            "location": null
+        },
+        {
+            "text": "He is always prompt when it comes to returning my calls and emails, friendly, professional and he is very knowledgeable in his areas of expertise!",
+            "author": "Faina L.",
+            "location": null
+        },
+        {
+            "text": "You could tell that Ilya is very experienced with accident cases because he predicted every step of the way.",
+            "author": "Anthony D.",
+            "location": null
+        }
+    ]
+}

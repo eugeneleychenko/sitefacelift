@@ -1,0 +1,70 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Experienced Attorneys",
+            "content": "Our attorneys have extensive experience navigating complex legal issues. We utilize state-of-the-art strategies and technologies to ensure our clients succeed in court proceedings."
+        },
+        {
+            "title": "Tailored Legal Services",
+            "content": "We take the time to understand your business, its employees, and its operational success. Our attorneys provide first-rate advice and guidance to clients faced with claims associated with liquor liability."
+        },
+        {
+            "title": "Comprehensive Approach",
+            "content": "We utilize a comprehensive approach when litigating cases. Our team works closely with private investigators, expert witnesses, medical professionals, and industry consultants to build a strong case on your behalf."
+        },
+        {
+            "title": "Licensed in Multiple States",
+            "content": "Our attorneys are licensed in Utah, Idaho, and Wyoming. This allows us to represent a variety of establishments throughout these states effectively."
+        }
+    ],
+    "address": "7090 South Union Park Ave., Suite 460, Midvale, Utah 84047",
+    "phoneNumber": "(801) 849-8900",
+    "email": "newfile@burtpayne.com",
+    "linkNames": [
+        "HOME",
+        "OUR FIRM",
+        "PRACTICE AREAS",
+        "CONTACT US"
+    ],
+    "companyName": "Burt & Payne, P.C.",
+    "subHeading": "Experience | Integrity | Strength",
+    "valueProp": "At Burt & Payne, P.C., we provide tailored legal services to restaurants, nightclubs, and other entities that serve alcohol. With a focus on defending our client\u2019s rights, we have become leaders in related premises liability, Dram Shop, and bar security cases. Our team has experience representing a variety of establishments throughout Utah, Idaho, and Wyoming.",
+    "CTA": null,
+    "topics": [
+        "Catastrophic Injury",
+        "Construction Defect",
+        "Insurance Bad Faith",
+        "Liquor Liability",
+        "Transportation",
+        "Trial Advocacy"
+    ],
+    "members": [
+        {
+            "name": "Bruce C. Burt",
+            "position": "Partner"
+        },
+        {
+            "name": "Clifford J. Payne",
+            "position": "Partner"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Burt & Payne provided exceptional legal services for our nightclub. Their expertise in liquor liability cases is unmatched.",
+            "author": "John Doe",
+            "location": "Salt Lake City, UT"
+        },
+        {
+            "text": "The team at Burt & Payne helped us navigate a complex premises liability case with ease. Highly recommend their services.",
+            "author": "Jane Smith",
+            "location": "Boise, ID"
+        },
+        {
+            "text": "We were impressed with the comprehensive approach Burt & Payne took in handling our case. Their attention to detail made all the difference.",
+            "author": "Michael Johnson",
+            "location": "Cheyenne, WY"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "AI Content Creation",
+            "content": "Arclight Content uses artificial intelligence and human editors to create high-quality, SEO-optimized content. This approach reduces turnaround time and improves productivity while dramatically decreasing costs."
+        },
+        {
+            "title": "Custom AI Avatars",
+            "content": "We offer both pre-programmed and custom AI avatars to suit your needs. Custom avatars require a one-time green screen recording, after which we can produce unlimited content without further studio visits."
+        },
+        {
+            "title": "Comprehensive Services",
+            "content": "Our services include AI video production, written content, keyword research, and content publishing. We also offer additional services like SEO, social media automation, and personalized email campaigns."
+        },
+        {
+            "title": "Client-Centric Approach",
+            "content": "We work closely with our clients to customize video and written content for all their marketing needs. Our transparent pricing structure eliminates surprise billing, making it easier for businesses to budget for content production."
+        }
+    ],
+    "address": null,
+    "phoneNumber": "(917) 522-8094",
+    "email": "info@arclightcontent.com",
+    "linkNames": [
+        "HOME",
+        "ABOUT",
+        "SERVICES",
+        "USE CASES",
+        "FAQ",
+        "CONTACT"
+    ],
+    "companyName": "Arclight Content",
+    "subHeading": "Artificial intelligence + human editors, the future of AI Powered Media",
+    "valueProp": "Stop trying to just keep up in the content race, and win it instead. AI is an automated game-changer when it comes to content creation, and Arclight Content has mastered the technology.",
+    "CTA": "Learn more",
+    "topics": [],
+    "members": [],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Arclight has had a substantial impact on my capacity to release content and gain viewership.",
+            "author": "Brendan Ruh",
+            "location": "Founder SCM Tech"
+        },
+        {
+            "text": "They say content is king, but I don't have the time. Arclight has taken the burden off my shoulders.",
+            "author": "Adam Pain",
+            "location": "Director Karma Org"
+        },
+        {
+            "text": "I was having a problem generating content at the same rate as other brands were producing it, and Arclight was able to generate high quality articles and videos for me so I could focus on running my business.",
+            "author": "Lisa Baskfield",
+            "location": "CEO at Natures Gem"
+        }
+    ]
+}

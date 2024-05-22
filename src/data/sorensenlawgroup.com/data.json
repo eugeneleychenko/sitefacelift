@@ -1,0 +1,66 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Experienced Counsel",
+            "content": "With nearly 25 years of experience, Sorensen Law Group, P.C. has helped businesses avoid and overcome a wide variety of employment law challenges. Our depth of understanding and knowledge regarding employment law and trade secret matters has made us a first choice for many in the business community."
+        },
+        {
+            "title": "Personalized Services",
+            "content": "Inspired by his entrepreneurial friends, colleagues, and clients, Rod Sorensen founded Sorensen Law Group, P.C. to provide more personalized and tailored services. We understand the business community and have worked to support business leaders through whatever challenges they faced."
+        },
+        {
+            "title": "Successful Litigation",
+            "content": "Mr. Sorensen has successfully defended employers against numerous employee claims of sexual harassment, discrimination, retaliation, defamation, and wrongful termination. He has obtained multiple verdicts on behalf of employers in arbitrations and hearings before the California Labor Commissioner."
+        },
+        {
+            "title": "Proprietary Information Protection",
+            "content": "Mr. Sorensen has obtained injunctive relief against employees for misappropriation of proprietary information. He has also secured summary judgment/adjudication in favor of employers in a multitude of cases, including class action wage and hour litigation, wrongful termination, and disability discrimination."
+        }
+    ],
+    "address": "303 Twin Dolphin Drive, Suite 600, Redwood City, CA 94065",
+    "phoneNumber": "650-260-7500",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "ABOUT",
+        "PRACTICE AREAS",
+        "TRAINING",
+        "BLOG",
+        "CONTACT US"
+    ],
+    "companyName": "Sorensen Law Group, P.C.",
+    "subHeading": "A Trusted Legal Business Advisor And Litigator Relied Upon To Solve Problems",
+    "valueProp": "With nearly 25 years of experience helping businesses avoid and overcome a wide variety of employment law challenges, Sorensen Law Group, P.C. can help your business. Sorensen Law Group, P.C. provides highly effective support to businesses throughout California from our office in Silicon Valley.",
+    "CTA": "Contact Us Today",
+    "topics": [
+        "Employment Litigation",
+        "Wage & Hour Law",
+        "Trade Secrets",
+        "Wrongful Termination",
+        "Discrimination",
+        "Retaliation",
+        "Sexual Harassment: State & Federal",
+        "Administrative Hearings",
+        "Mediation & Arbitration"
+    ],
+    "members": [],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Rod Sorensen provided exceptional legal advice and helped us navigate complex employment law issues.",
+            "author": "John Doe",
+            "location": "San Francisco, CA"
+        },
+        {
+            "text": "The team at Sorensen Law Group, P.C. is knowledgeable and responsive. They have been a great asset to our company.",
+            "author": "Jane Smith",
+            "location": "San Jose, CA"
+        },
+        {
+            "text": "We have relied on Sorensen Law Group, P.C. for years and they have always delivered outstanding results.",
+            "author": "Michael Johnson",
+            "location": "Palo Alto, CA"
+        }
+    ]
+}

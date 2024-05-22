@@ -1,0 +1,82 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Extensive Trial Experience",
+            "content": "Ricardo Meza has substantial trial experience having tried over 33 federal jury trials. This extensive experience ensures that clients receive top-notch representation in court."
+        },
+        {
+            "title": "Former Federal Prosecutors",
+            "content": "Both Ricardo Meza and Celia Meza have served as federal prosecutors. Their background provides them with unique insights and strategies for handling complex legal matters."
+        },
+        {
+            "title": "Certified Minority-Owned",
+            "content": "Meza Law is a certified minority-owned law firm. This certification highlights the firm's commitment to diversity and inclusion in the legal field."
+        },
+        {
+            "title": "Comprehensive Legal Services",
+            "content": "The firm offers a wide range of legal services, including commercial litigation, labor and employment, and white-collar defense. This ensures that clients can rely on the firm for various legal needs."
+        }
+    ],
+    "address": "542 S. Dearborn, 10th Floor, Chicago, IL 60605",
+    "phoneNumber": "(312) 802-0336",
+    "email": "info@meza.law",
+    "linkNames": [
+        "HOME",
+        "ABOUT",
+        "PRACTICE AREAS",
+        "NEWS",
+        "CONTACT"
+    ],
+    "companyName": "Meza Law",
+    "subHeading": "Trust - Experience - Ethics",
+    "valueProp": "Meza Law is a certified minority-owned law firm. Ricardo Meza served more than ten years as a federal prosecutor in the Northern District of Illinois and the Western District of Texas and was Illinois\u2019 former Executive Inspector General. He has substantial trial experience having tried over 33 federal jury trials. Celia Meza is the former City of Chicago Corporation Counsel where she led and managed the legal department for the 3rd largest city in the U.S. and oversaw all litigation, torts, contracts, real estate, commercial transactions, and enforcement. Celia is also a former federal prosecutor and is an expert on labor, employment and compliance matters.",
+    "CTA": "Learn More",
+    "topics": [
+        "Trial Lawyers & Commercial Litigators",
+        "Labor & Employment",
+        "Government Regulations",
+        "Inspector General Investigations",
+        "White Collar Defense",
+        "Federal Litigation",
+        "State Litigation",
+        "Business Advice",
+        "Strategic Response"
+    ],
+    "members": [
+        {
+            "name": "Ricardo Meza",
+            "position": "Managing Partner"
+        },
+        {
+            "name": "Celia Meza",
+            "position": "Partner"
+        },
+        {
+            "name": "David Herrera",
+            "position": "Of Counsel"
+        },
+        {
+            "name": "John Lechuga",
+            "position": "Partner"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Meza Law provided exceptional legal services and guided us through a complex litigation process.",
+            "author": "Jane Doe",
+            "location": "Chicago, IL"
+        },
+        {
+            "text": "Their expertise in labor and employment law helped our company navigate difficult compliance issues.",
+            "author": "John Smith",
+            "location": "Chicago, IL"
+        },
+        {
+            "text": "The team at Meza Law is professional, knowledgeable, and always available when we need them.",
+            "author": "Emily Johnson",
+            "location": "Chicago, IL"
+        }
+    ]
+}

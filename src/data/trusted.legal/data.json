@@ -1,0 +1,80 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Client-Centered Approach",
+            "content": "We prioritize relationship-building and provide tailored legal advice. We take the time to listen and understand each client's unique goals."
+        },
+        {
+            "title": "Embracing Technology",
+            "content": "We use technology to create custom solutions for each client. This helps break down the barriers that traditional law firms often raise."
+        },
+        {
+            "title": "Community Involvement",
+            "content": "We donate 10% of our profits to social justice nonprofits each year. Our team also volunteers time and services to several local organizations."
+        },
+        {
+            "title": "Diversity and Inclusion",
+            "content": "We are proud to be LGBTQ+ friendly and work with nonprofits that support diversity. We believe that diversity and inclusion are key to building a strong community."
+        }
+    ],
+    "address": "21 E Carrillo St, Suite 130, Santa Barbara, CA 93101",
+    "phoneNumber": "(805) 979-5160",
+    "email": "info@trusted.legal",
+    "linkNames": [
+        "CONTACT",
+        "HOME",
+        "ABOUT",
+        "PRACTICE AREAS",
+        "VALUES"
+    ],
+    "companyName": "Trusted Legal",
+    "subHeading": "Professional Legal Services and Personal Connections",
+    "valueProp": "Welcome to Trusted Legal, where we offer a fresh take on legal services. We pride ourselves on our agility, accessibility, and client-centered approach. We're redefining the traditional law firm experience. Our philosophy is built on the belief that the best results come from partnering with our clients, prioritizing relationship-building, and providing tailored legal advice.",
+    "CTA": "view our services",
+    "topics": [
+        "Business Law",
+        "Trademark Services",
+        "Employment Law",
+        "Litigation",
+        "Risk Management",
+        "Estate Planning",
+        "Real Estate Law"
+    ],
+    "members": [
+        {
+            "name": "Naomi Dewey",
+            "position": "Founder"
+        },
+        {
+            "name": "Nicole Hornick",
+            "position": "Attorney"
+        },
+        {
+            "name": "Elke Kane",
+            "position": "Attorney"
+        },
+        {
+            "name": "Brandi Redman",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "You are a rockstar and I would not have wanted to go through litigation with anybody else. I appreciate everything about you!",
+            "author": "C-Suite Employee",
+            "location": "Defended In Trade Secret Litigation"
+        },
+        {
+            "text": "At every step of the process, I was not only treated with respect as a client, Naomi also made me feel that she was personally involved with my concerns.",
+            "author": "Government employee",
+            "location": "represented at trial"
+        },
+        {
+            "text": "Naomi\u2019s ability to focus on the long game for our business has made our company stronger. With her help we made changes to our business model that allowed us to remain legally compliant as well as profitable.",
+            "author": "Award winning business owner",
+            "location": null
+        }
+    ]
+}

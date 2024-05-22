@@ -1,0 +1,85 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Team Support",
+            "content": "A Supportive Team on Your Side, ensuring personalized and attentive service for every client."
+        },
+        {
+            "title": "No Fees Unless",
+            "content": "You Do Not Pay Unless We Win Your Case, aligning our success with yours."
+        },
+        {
+            "title": "Experience",
+            "content": "Over 85 Years of Combined Legal Experience, bringing a wealth of knowledge to your case."
+        },
+        {
+            "title": "Millions Recovered",
+            "content": "Tens of Millions of Dollars Recovered for Our Clients, demonstrating our ability to achieve substantial results."
+        }
+    ],
+    "address": "51 East Campbell Avenue Suite 120 Campbell, CA 95008",
+    "phoneNumber": "800-900-0863",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "ABOUT US",
+        "PRACTICE AREAS",
+        "RESULTS",
+        "LOCATIONS",
+        "RESOURCES",
+        "CONTACT US",
+        "ESPA\u00d1OL"
+    ],
+    "companyName": "Caputo and Van Der Walde",
+    "subHeading": null,
+    "valueProp": "Caputo and Van Der Walde - Injury & Accident Attorneys is known and recognized as a leader in personal injury litigation due to our uncompromising commitment to your legal rights. With over 85 years of collective experience, our attorneys have a reputation for providing high-quality legal services and delivering excellent results. We have resolved hundreds of cases through settlements, verdicts, and awards.",
+    "CTA": "Get A Free Consultation",
+    "topics": [
+        "Assault Victims",
+        "Bike Accident",
+        "Boating Accident",
+        "Bus Accident",
+        "Car Accidents",
+        "Catastrophic Injury",
+        "Construction Accident",
+        "Dog Bite",
+        "Industrial Accident"
+    ],
+    "members": [
+        {
+            "name": "Paul Van Der Walde",
+            "position": "Founding Partner, Senior Trial Attorney"
+        },
+        {
+            "name": "Paul Caputo",
+            "position": "Founding Partner, Senior Trial Attorney"
+        },
+        {
+            "name": "Kathryn Montaperto",
+            "position": "Attorney"
+        },
+        {
+            "name": "Shawn Smith",
+            "position": "Case Manager"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Caputo and Van Der Walde (and their entire team) are a class act Law firm. Everyone I spoke with was professional, patient, and extremely accountable.",
+            "author": "Karen B",
+            "location": null
+        },
+        {
+            "text": "Paul has a great understanding of people's rights and drives to obtain all that is due to you. He listens and answers questions that anyone could understand.",
+            "author": "Gary G.",
+            "location": null
+        },
+        {
+            "text": "Don Peeler is the man! I got in an accident where I was rear ended and shoved into two cars in front of me. Highly recommend!",
+            "author": "Pete G.",
+            "location": null
+        }
+    ]
+}

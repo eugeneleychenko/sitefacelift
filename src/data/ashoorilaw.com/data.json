@@ -1,0 +1,83 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Extensive Legal Experience",
+            "content": "Our attorneys have extensive legal experience and a deep understanding of complex U.S. immigration laws and regulations. We believe in delivering exceptional customer service to our clients worldwide."
+        },
+        {
+            "title": "Personalized Approach",
+            "content": "We understand that each case requires a customized approach based on the specific circumstances at hand. Our attorneys recognize the importance and complexity of the immigration process."
+        },
+        {
+            "title": "High Success Rate",
+            "content": "We have a 98% success rate in handling immigration cases. Our team is committed to achieving the best possible outcomes for our clients."
+        },
+        {
+            "title": "Responsive Communication",
+            "content": "We are very responsive via email and other communication channels. Our team ensures that clients are kept informed throughout the entire process."
+        }
+    ],
+    "address": null,
+    "phoneNumber": "+1-818-741-1117",
+    "email": "Michael@AshooriLaw.com",
+    "linkNames": [
+        "HOME",
+        "TEAM",
+        "SERVICES",
+        "BLOG",
+        "REVIEWS",
+        "CONTACT"
+    ],
+    "companyName": "Ashoori Law",
+    "subHeading": "U.S. Immigration Lawyers",
+    "valueProp": "Ashoori Law is a U.S. immigration law firm focused on employment-based, family-based, business, and investment immigration. Our attorneys have extensive legal experience and we believe in delivering exceptional customer service to our clients worldwide. We have a deep understanding of complex U.S. immigration laws and regulations. Our attorneys recognize the importance and complexity of the immigration process. We understand that each case requires a customized approach based on the specific circumstances at hand.",
+    "CTA": "Request A Consultation",
+    "topics": [
+        "E1 Visa",
+        "E2 Visa",
+        "E3 Visa",
+        "EB1A Visa",
+        "EB1B Visa",
+        "EB1C Visa",
+        "EB2 Visa",
+        "EB3 Visa",
+        "EB5 Visa"
+    ],
+    "members": [
+        {
+            "name": "Michael Ashoori",
+            "position": "President of Ashoori Law"
+        },
+        {
+            "name": "Matthew Larsen",
+            "position": "Managing Attorney"
+        },
+        {
+            "name": "Ehsan Mehri",
+            "position": "Director of Business Operations"
+        },
+        {
+            "name": "Fredrick W. Voigtmann",
+            "position": "Collaborating Attorney"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "We used Ashoori law for our E2 visa process! Every step along the way was straight forward and seamless.",
+            "author": "Nicole G.",
+            "location": null
+        },
+        {
+            "text": "Thank God I found Ashoori Law as they made this difficult journey so much easier. Their service is phenomenal.",
+            "author": "Faraz H.",
+            "location": null
+        },
+        {
+            "text": "Ashoori Law Firm handled my application with excellent know-how, professionalism and attention to detail.",
+            "author": "David O.",
+            "location": null
+        }
+    ]
+}

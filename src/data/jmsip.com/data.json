@@ -1,0 +1,73 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Flat Fee Billing",
+            "content": "We predominantly use a flat fee billing structure. This ensures transparency and predictability in legal costs."
+        },
+        {
+            "title": "International Experience",
+            "content": "We have an established network of agents for foreign trademark clearance, advice, and filings. This allows us to handle international IP matters efficiently."
+        },
+        {
+            "title": "Flexible Arrangements",
+            "content": "We offer flexible working arrangements to ebb and flow with a company\u2019s needs. This includes short-term and project-based IP support."
+        },
+        {
+            "title": "Practical Legal Advice",
+            "content": "We provide timely, practical legal advice with a business-minded approach. Our goal is to align IP assets with business goals at every stage."
+        }
+    ],
+    "address": null,
+    "phoneNumber": "+1 201 306 9025",
+    "email": "jackie@jmsip.com",
+    "linkNames": [
+        "HOME",
+        "ABOUT",
+        "SERVICES",
+        "TESTIMONIALS",
+        "BRAND ACTION",
+        "CONTACT",
+        "PRIVACY POLICY",
+        "LEGAL NOTICES"
+    ],
+    "companyName": "JMS Legal LLC",
+    "subHeading": "Providing practical legal advice to maximize the value of your intellectual property",
+    "valueProp": "JMS Legal helps US and internationally-based companies to align their IP assets with business goals at every stage, taking a practical, business-minded approach to IP creation, protection and portfolio management. Services include: Trademark clearance, prosecution and enforcement, Copyright filings, IP audits and portfolio optimization, Negotiation and preparation of license agreements and related contracts.",
+    "CTA": "Learn More",
+    "topics": [
+        "Trademark clearance, filing and prosecution",
+        "Madrid refusals",
+        "Preparing and responding to cease and desist letters",
+        "Monitoring competitor trademarks",
+        "Copyright filing",
+        "Negotiation and preparation of license agreements and related contracts",
+        "IP audits and portfolio optimization",
+        "Trademark clearance, prosecution and enforcement",
+        "IP audits and portfolio optimization"
+    ],
+    "members": [
+        {
+            "name": "Jackie Stelling",
+            "position": "Founder"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "I highly recommend Jackie; she is an absolute pleasure to work with. As a valuable thought partner, she consistently provides insightful and strategic guidance.",
+            "author": "Clark Lagemann",
+            "location": "Avidon Health"
+        },
+        {
+            "text": "During the last ten years, Jackie has provided timely and no-nonsense support for all things concerning IP both for the U.S. and global markets.",
+            "author": "Phil Annett",
+            "location": "Consumer Health Brands Europe"
+        },
+        {
+            "text": "Jackie is an exceptionally talented lawyer and IP expert. Her keen mix of trademark expertise with business sense was integral to project development and ultimately a successful national launch.",
+            "author": "Larissa Hrabec",
+            "location": "Brand Management Consultant"
+        }
+    ]
+}

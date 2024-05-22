@@ -1,0 +1,66 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Personalized Training",
+            "content": "Our trainings are specifically tailored to the personalized needs of each client. This ensures that each organization receives the most relevant and effective guidance."
+        },
+        {
+            "title": "Established Methods",
+            "content": "Our proven methods drive results and can actually improve the bottom line. This leads to increased employee retention and overall satisfaction."
+        },
+        {
+            "title": "Professional Devotion",
+            "content": "We love what we do so every engagement is an unbeatable experience. Our passion translates into high-quality service and exceptional outcomes."
+        },
+        {
+            "title": "Extensive Experience",
+            "content": "With over 20 years of experience, we have collaborated with business owners, senior executives, and managers. Our expertise ensures that we can handle a wide range of organizational challenges."
+        }
+    ],
+    "address": "1111 Broadway Suite 2100 Oakland, CA 94607",
+    "phoneNumber": "(866) 498-3826",
+    "email": "info@lionheartedleader.com",
+    "linkNames": [
+        "HOME",
+        "ABOUT US",
+        "SERVICES",
+        "TRAININGS",
+        "BLOG",
+        "CONTACT"
+    ],
+    "companyName": "Lionhearted Leader",
+    "subHeading": "Creating leaders and building teams.",
+    "valueProp": "We create healthy workplace ecosystems and have the experience to train for transformation. We create leaders and successful teams, based on our belief in the \u201cdevelopment potential\u201d of organizations and their people. We artfully guide organizations to become internally accountable and high-performing with sustainable results, which leads to a maximized bottom line and worker satisfaction.",
+    "CTA": "get your first consultation free!",
+    "topics": [
+        "Trauma-Informed training",
+        "Leadership Training",
+        "Team Building",
+        "Sexual Harassment prevention",
+        "Performance Improvement Consultant",
+        "Diversity, equity and inclusion",
+        "Consultations",
+        "Trainings",
+        "Professional consulting"
+    ],
+    "members": [],
+    "openHours": "Monday to Friday: 9.00 AM \u2013 5.00 PM, Saturday: 10.00 AM \u2013 2.00 PM, Sunday: Closed",
+    "testimonalData": [
+        {
+            "text": "Micha was wonderful to work with. She is very knowledgeable, responded to all my questions very quickly.",
+            "author": "Shirley Parker",
+            "location": "United States"
+        },
+        {
+            "text": "I just watched your MCLE presentation and wanted to send a note of appreciation. It was very pertinent and important information.",
+            "author": "R.A.",
+            "location": "United States"
+        },
+        {
+            "text": "Thank you for doing this. It was very well organized and you presented it very well.",
+            "author": "R.A.",
+            "location": "United States"
+        }
+    ]
+}

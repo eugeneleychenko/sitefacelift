@@ -1,0 +1,76 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "High-Value Legal Services",
+            "content": "Providing high-value legal services and access to justice is the mission of the Johnson Firm. Founded with the express intention of improving on the traditional law firm model."
+        },
+        {
+            "title": "Cutting-Edge Technology",
+            "content": "The Johnson Firm utilizes cutting-edge technology to make our services more efficient and cost-effective. This approach helps our clients maximize recovery on their cases."
+        },
+        {
+            "title": "National Reach",
+            "content": "Through our affiliation with the Attorney Group, we serve personal injury clients across the United States. We associate with some of the leading attorneys in the country."
+        },
+        {
+            "title": "Dedicated Approach",
+            "content": "Drawing on our founders\u2019 experience in both the legal field and other business pursuits, we bring a well-rounded, dedicated, and practical approach to our clients\u2019 cases."
+        }
+    ],
+    "address": "610 President Clinton Avenue, Suite 300, Little Rock, AR 72201",
+    "phoneNumber": "(501) 777-7777",
+    "email": "info@yourattorney.com",
+    "linkNames": [
+        "HOME",
+        "ABOUT",
+        "CONTACT"
+    ],
+    "companyName": "Johnson Firm",
+    "subHeading": "We Provide High-Value Legal Services and Access to Justice.",
+    "valueProp": "The Johnson Firm is a nationally focused mass tort and personal injury law firm committed to helping individuals who have been injured by bad drugs and defective medical devices, other defective products, or in semi-truck, automobile or workplace accidents. Through our affiliation with the Attorney Group, we turn advocacy into action by helping injured individuals across the United States.",
+    "CTA": "Call Now",
+    "topics": [
+        "Actos",
+        "Bank Overdraft Fees",
+        "Bicycle Accident",
+        "Birth Injury",
+        "Boat Accident",
+        "Brain Injury",
+        "Burn Injury",
+        "Business Disputes",
+        "Business Formation"
+    ],
+    "members": [
+        {
+            "name": "Anthony C. Johnson",
+            "position": "Attorney"
+        },
+        {
+            "name": "Honey J. McMillan",
+            "position": "Attorney"
+        },
+        {
+            "name": "Laura Edmondson",
+            "position": "Associate Attorney"
+        }
+    ],
+    "openHours": "24 hours a day",
+    "testimonalData": [
+        {
+            "text": "The Johnson Firm provided exceptional service and helped me through a difficult time.",
+            "author": "John Doe",
+            "location": "Little Rock, AR"
+        },
+        {
+            "text": "I highly recommend the Johnson Firm for their professionalism and dedication.",
+            "author": "Jane Smith",
+            "location": "Conway, AR"
+        },
+        {
+            "text": "Their team was always available to answer my questions and guide me through the process.",
+            "author": "Michael Brown",
+            "location": "Fayetteville, AR"
+        }
+    ]
+}

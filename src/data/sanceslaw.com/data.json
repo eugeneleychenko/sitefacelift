@@ -1,0 +1,69 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Experienced",
+            "content": "Over 23 years of experience as a business attorney for public and private companies. Martin understands that time is a valuable commodity to us all."
+        },
+        {
+            "title": "Efficient",
+            "content": "Martin works differently than most attorneys. He focuses on getting parties to work together collaboratively using synergy and partnership."
+        },
+        {
+            "title": "Effective",
+            "content": "Martin is an amazing asset as inside counsel to our business. He saves us time, effort and money!"
+        },
+        {
+            "title": "Great Communicator",
+            "content": "Martin is responsive and great with communicating and explaining every step and process. He really listened and gave me great advice relating to an urgent legal problem."
+        }
+    ],
+    "address": "61 Avenida De Orinda, Ste E, Orinda, CA 94563",
+    "phoneNumber": "(925) 257-4007",
+    "email": "martin@sanceslaw.com",
+    "linkNames": [
+        "INNOVATION",
+        "MAKE AN APPOINTMENT WITH SANCES LAW, P.C.",
+        "LIVE CHAT",
+        "CONTACT US"
+    ],
+    "companyName": "Sances Law, P.C.",
+    "subHeading": "Business attorneys with vision",
+    "valueProp": "Our mission is to connect with clients in order to help them build businesses with integrity.",
+    "CTA": "Make an Appointment With Sances Law, P.C.",
+    "topics": [
+        "Business Law",
+        "Corporate Governance",
+        "Mergers and Acquisitions",
+        "Intellectual Property",
+        "Employment Law",
+        "Contract Law",
+        "Real Estate Law",
+        "Litigation",
+        "Compliance"
+    ],
+    "members": [
+        {
+            "name": "Martin R. Sances",
+            "position": "General Counsel"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "An amazing person. For me, he was like a god send person.",
+            "author": "Saravana C.",
+            "location": null
+        },
+        {
+            "text": "Very easy to do business with, clear communication, quick project completion and reasonably priced.",
+            "author": "Art K.",
+            "location": null
+        },
+        {
+            "text": "He really listened and gave me great advice relating to an urgent legal problem. Highly recommended.",
+            "author": "Donna D.",
+            "location": null
+        }
+    ]
+}

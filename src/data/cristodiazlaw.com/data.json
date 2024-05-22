@@ -1,0 +1,70 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Practical Legal Counsel",
+            "content": "Dedicated to practical, compassionate, and effective legal counsel for individuals, families, and businesses in Florida. We ensure that your rights and interests are protected throughout the legal process."
+        },
+        {
+            "title": "Comprehensive Services",
+            "content": "We offer a wide range of legal services including demand letters, tenant evictions, and civil litigation. Our goal is to resolve disputes swiftly and efficiently."
+        },
+        {
+            "title": "Experienced Representation",
+            "content": "Cristo Diaz, Esq. has extensive experience in handling various legal matters. He is committed to providing diligent and thorough representation for all clients."
+        },
+        {
+            "title": "Client-Centered Approach",
+            "content": "We prioritize our clients' needs and work closely with them to achieve favorable outcomes. Our approach is empathetic and precise, ensuring minimal stress and maximum protection."
+        }
+    ],
+    "address": null,
+    "phoneNumber": "305-916-4111",
+    "email": null,
+    "linkNames": [
+        "LEGAL",
+        "COUNSEL",
+        "CONSULTS",
+        "CIVIL LITIGATION",
+        "MORE"
+    ],
+    "companyName": "CRISTO DIAZ LAW PLLC",
+    "subHeading": "Dedicated to practical, compassionate, and effective legal counsel for individuals, families, and businesses in Florida.",
+    "valueProp": "Civil litigation is the process of resolving disputes between individuals or organizations in court through legal representation. Civil cases can involve a wide range of issues, such as breach of contract for goods and services, business disputes, construction disputes, motor vehicle repair disputes, personal injury, property damage, product liability, employment disputes, defamation, nuisance, debt collection, medical malpractice, evictions and other real-estate disputes that may arise during or after the sale of a property. It is important to have a diligent attorney that actively monitors your case and is committed to fighting for your rights and interests.",
+    "CTA": "SCHEDULE A CONSULT",
+    "topics": [
+        "breach of contract for goods and services",
+        "business disputes",
+        "construction disputes",
+        "motor vehicle repair disputes",
+        "personal injury",
+        "property damage",
+        "product liability",
+        "employment disputes",
+        "defamation"
+    ],
+    "members": [
+        {
+            "name": "Cristo Diaz",
+            "position": "Esq."
+        }
+    ],
+    "openHours": "09:00 am \u2013 05:00 pm",
+    "testimonalData": [
+        {
+            "text": "Cristo Diaz provided excellent legal counsel and helped me resolve my dispute quickly.",
+            "author": "John Doe",
+            "location": "Miami, FL"
+        },
+        {
+            "text": "I highly recommend Cristo Diaz for his professionalism and dedication to his clients.",
+            "author": "Jane Smith",
+            "location": "Miami, FL"
+        },
+        {
+            "text": "Thanks to Cristo Diaz, I was able to navigate a complex legal situation with ease.",
+            "author": "Robert Johnson",
+            "location": "Miami, FL"
+        }
+    ]
+}

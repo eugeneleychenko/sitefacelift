@@ -1,0 +1,84 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Driven by Excellence",
+            "content": "We are meticulous. We excel with wit, creativity and experience."
+        },
+        {
+            "title": "Intellectually Aggressive",
+            "content": "We pursue each matter with ingenuity and inspiration, taking a bold approach."
+        },
+        {
+            "title": "Calculated Combat",
+            "content": "Your victory is our purpose. We fight the battles worth fighting with a laser focus on what\u2019s important."
+        },
+        {
+            "title": "Actionable Advice",
+            "content": "The matters we handle are rarely black and white, and we advise clients operating in gradations of grey by handicapping risk and driving value."
+        }
+    ],
+    "address": "48 Wall Street, Suite 1100, New York, NY 10005",
+    "phoneNumber": "(646) 603-0522",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "OUR TEAM",
+        "PRACTICE AREAS",
+        "RECENT NEWS",
+        "CASE RESULTS",
+        "IN THE MEDIA",
+        "TESTIMONIALS"
+    ],
+    "companyName": "Hamilton Clarke, LLP",
+    "subHeading": "Dedicated to Making A Difference",
+    "valueProp": "Hamilton Clarke is an elite boutique law firm that represents clients in high stakes Corporate and Shareholder Activism, Commercial and Civil Litigation, and White Collar and Criminal Defense matters. HC brings sophistication, experience and relentlessness to each matter. We know what it takes to win, and by disrupting the traditional playbook HC sets the standard for the modern law firm.",
+    "CTA": "Scroll To Explore",
+    "topics": [
+        "Alternative Investments",
+        "Civil Rights",
+        "Commercial Litigation",
+        "Corporate and Transactional",
+        "Criminal Defense",
+        "Employment Discrimination",
+        "Shareholder Activism",
+        "Title IX Defense",
+        "White Collar Defense, Investigations, and Securities Enforcement"
+    ],
+    "members": [
+        {
+            "name": "Phillip C. Hamilton",
+            "position": "Managing Partner"
+        },
+        {
+            "name": "Lance A. Clarke",
+            "position": "Managing Partner"
+        },
+        {
+            "name": "Drew G.L. Chapman",
+            "position": "Chair, Corporate Department"
+        },
+        {
+            "name": "Joshua S. Moskovitz",
+            "position": "Partner"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "A trusted friend recommended that I call Lance Clarke after my arrest. As soon as I entered the courtroom, I could tell that Mr. Clarke was highly respected by the prosecution and courtroom staff alike.",
+            "author": "Former Client",
+            "location": null
+        },
+        {
+            "text": "Phillip Hamilton saved my life. He represented me in a highly publicized national case. I was vilified by the media. I was charged with multiple felonies and misdemeanors.",
+            "author": "Former Client",
+            "location": null
+        },
+        {
+            "text": "Mr. Clarke is the kind of attorney that strengthens the relationship between the prosecution and the defense bar.",
+            "author": "Federal Prosecutor",
+            "location": null
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Attention to Details",
+            "content": "Omni Law Group\u2019s attorneys pride themselves on paying close attention to the details. This ensures that every aspect of your case is meticulously handled."
+        },
+        {
+            "title": "Professional Representation",
+            "content": "We provide highly professional results-oriented legal representation. Our team is dedicated to achieving the best outcomes for our clients."
+        },
+        {
+            "title": "Cost-Effective Services",
+            "content": "Omni Law Group offers cost-effective legal representation. We aim to provide value while maintaining high standards of service."
+        },
+        {
+            "title": "Proactive Communication",
+            "content": "We proactively communicate with clients through real-time updates. Our team quickly responds to inquiries to keep you informed."
+        }
+    ],
+    "address": "1940 Hamilton Ave., San Jose, CA 95125",
+    "phoneNumber": "408.879.8500",
+    "email": null,
+    "linkNames": [
+        "YOUR CASE",
+        "YOUR BUSINESS",
+        "YOUR LIFE",
+        "YOUR FIRM"
+    ],
+    "companyName": "Omni Law Group, LLP",
+    "subHeading": null,
+    "valueProp": "Omni Law Group, LLP's attorneys provide experienced and creative legal counsel to clients needing assistance in the areas of litigation, tax controversy, business planning and procedure, tax planning, estate planning, or estate administration.",
+    "CTA": null,
+    "topics": [
+        "Business Litigation",
+        "Construction Litigation",
+        "Contract Litigation",
+        "Employment Litigation",
+        "Estate Litigation",
+        "Tax Litigation",
+        "Contract Review & Negotiation",
+        "Formation & Dissolution",
+        "Mergers & Acquisitions"
+    ],
+    "members": null,
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Omni Law Group provided exceptional service and attention to detail.",
+            "author": "John Doe",
+            "location": "San Jose, CA"
+        },
+        {
+            "text": "Their proactive communication kept me informed throughout the process.",
+            "author": "Jane Smith",
+            "location": "San Francisco, CA"
+        },
+        {
+            "text": "Highly professional and results-oriented legal representation.",
+            "author": "Robert Brown",
+            "location": "Los Angeles, CA"
+        }
+    ]
+}

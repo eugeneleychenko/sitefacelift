@@ -1,0 +1,69 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Personalized, Sustainable Approach",
+            "content": "Amy uses her in-depth experience to create strategies for addressing complex commercial real estate matters. She facilitates moving your project forward efficiently."
+        },
+        {
+            "title": "Extensive Experience",
+            "content": "Amy Brimah has over 20 years of experience working in a variety of sectors and industries. She counsels local and national clients in all types of commercial real estate transactions."
+        },
+        {
+            "title": "Comprehensive Legal Services",
+            "content": "Amy works with clients on the development of multi-use, multi-family, industrial and other types of projects. She also has years of experience in the formation of condominiums/planned communities."
+        },
+        {
+            "title": "Active Community Involvement",
+            "content": "Amy is actively involved with the Colorado Bar Association and has served on a variety of non-profit boards. She was named Colorado Super Lawyers for five consecutive years."
+        }
+    ],
+    "address": "3900 E. Mexico Ave, Suite 300, Denver, CO, 80210",
+    "phoneNumber": "303-985-8500",
+    "email": null,
+    "linkNames": [
+        "ABOUT US",
+        "BLOG",
+        "PRACTICE AREAS",
+        "CONTACT US"
+    ],
+    "companyName": "Brimah LLP",
+    "subHeading": "Innovative Representation for Today\u2019s Commercial Real Estate Market",
+    "valueProp": "Brimah LLP was founded in 2014 by Amy Brimah after leaving big law to provide focused legal advocacy for business owners, developers and investors with their commercial real estate interests. With over 20 years of experience in the Colorado real estate market, she provides no-nonsense legal counsel for today\u2019s commercial real estate matters.",
+    "CTA": "CONTACT US",
+    "topics": [
+        "Commercial Real Estate Projects",
+        "Expert Review and Reports",
+        "Development Projects",
+        "Land Use and Planning",
+        "Hospitality and Leisure Projects",
+        "Commercial Finance Transactions",
+        "Acquisitions and Dispositions",
+        "Lease Transactions",
+        "Easements and Use Restrictions"
+    ],
+    "members": [
+        {
+            "name": "Amy Brimah",
+            "position": "Founder"
+        }
+    ],
+    "openHours": "Mon-Fri: 9am-5pm, Sat-Sun: by prior appointment only",
+    "testimonalData": [
+        {
+            "text": "Amy Brimah provided exceptional legal counsel for our commercial real estate project.",
+            "author": "John Doe",
+            "location": "Denver, CO"
+        },
+        {
+            "text": "Her expertise in land use and planning was invaluable to our development.",
+            "author": "Jane Smith",
+            "location": "Boulder, CO"
+        },
+        {
+            "text": "We highly recommend Brimah LLP for any commercial real estate legal needs.",
+            "author": "Michael Johnson",
+            "location": "Aurora, CO"
+        }
+    ]
+}

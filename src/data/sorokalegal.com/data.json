@@ -1,0 +1,83 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Experienced Counsel",
+            "content": "Soroka & Associates handles a wide array of litigation needs on behalf of personal injury, criminal defense, and family law clients in Columbus and throughout Central Ohio. We take on the tough cases that other firms may not be equipped to handle, and prepare every case for a jury."
+        },
+        {
+            "title": "Personal Injury Experts",
+            "content": "Our Columbus personal injury lawyers are here to help you pursue legal options that can help you protect your future. We handle complex personal injury lawsuits involving catastrophic injuries such as traumatic brain injuries, spinal cord injuries, and wrongful death."
+        },
+        {
+            "title": "Effective Defense Strategies",
+            "content": "Our Columbus criminal defense attorneys represent clients facing felony and misdemeanor charges in state or federal courts. We know what\u2019s at stake and provide effective defense strategies to protect your rights and future."
+        },
+        {
+            "title": "Family Law Support",
+            "content": "Soroka & Associates assists clients with divorce, child custody, property division, and spousal support. We aim to resolve matters as quickly as possible with compassion and litigation experience."
+        }
+    ],
+    "address": "503 South Front Street, Suite 205, Columbus, OH 43215",
+    "phoneNumber": "614-358-6525",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "Attorneys",
+        "Practice Areas",
+        "Verdicts and Settlements",
+        "Blog",
+        "Contact Us"
+    ],
+    "companyName": "Soroka & Associates",
+    "subHeading": "Experienced counsel for litigation matters in Ohio",
+    "valueProp": "Under the Sixth and Seventh Amendments of the United States Constitution, you are guaranteed the right to a jury of your peers. If you are facing a moment where you must exercise that right \u2013 because you have been hurt through another\u2019s negligence or are charged with a crime, you deserve to have a litigation team with experience, knowledge, and resources on your side.",
+    "CTA": "Call Now For A Free Consultation",
+    "topics": [
+        "Personal Injury",
+        "Brain Injuries",
+        "Burn Injuries",
+        "Spinal Cord Injuries",
+        "Traumatic Amputation",
+        "Wrongful Death",
+        "Premises Liability",
+        "Negligent Security",
+        "Products Liability"
+    ],
+    "members": [
+        {
+            "name": "Roger R. Soroka",
+            "position": "Managing Partner"
+        },
+        {
+            "name": "Joshua Bedtelyon",
+            "position": "Partner"
+        },
+        {
+            "name": "Matthew Bodeman",
+            "position": "Attorney"
+        },
+        {
+            "name": "Katherine Memsic",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": "Open 24 Hours",
+    "testimonalData": [
+        {
+            "text": "Roger and Matt were both extremely professional and a true pleasure to work with.",
+            "author": "Matthew Hageman",
+            "location": null
+        },
+        {
+            "text": "Roger and his firm have always done an exceptional job for me. Roger is very professional and cares about his clients.",
+            "author": null,
+            "location": null
+        },
+        {
+            "text": "I highly recommend the Soroka law firm!",
+            "author": null,
+            "location": null
+        }
+    ]
+}

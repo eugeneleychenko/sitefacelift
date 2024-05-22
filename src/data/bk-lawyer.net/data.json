@@ -1,0 +1,82 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "1 On 1 Attention",
+            "content": "You will be in direct and continuous communication with the attorney working your case. This ensures personalized and dedicated service."
+        },
+        {
+            "title": "100+ Years of Experience",
+            "content": "We have a reputation of excellence and are an AV-rated law firm through Martindale-Hubbell. Our extensive experience allows us to handle complex cases effectively."
+        },
+        {
+            "title": "Full-Service Practice",
+            "content": "We provide individuals and businesses with other non-bankruptcy alternatives and financial solutions. Our comprehensive services cover a wide range of legal needs."
+        },
+        {
+            "title": "Creative Solutions",
+            "content": "We represent debtors and creditors, capable of viewing debt issues from every angle. Our innovative approach helps in finding effective resolutions."
+        }
+    ],
+    "address": "4000 Town Center, Suite 1200, Southfield, MI 48075",
+    "phoneNumber": "(248) 213-7888",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "ABOUT",
+        "ATTORNEYS",
+        "PRACTICE AREAS",
+        "CONTACT US"
+    ],
+    "companyName": "Goldstein Bershad and Fried, PC",
+    "subHeading": "Debt Relief Is Right Around the Corner",
+    "valueProp": "Our team has over 100 years of combined experience in bankruptcy law, real estate law, and all facets of debt relief. We handle small and large cases and you will always receive one-on-one care from dedicated, experienced attorneys at our firm. If you are an individual or business debtor or creditor experiencing a legal concern, our firm can help you.",
+    "CTA": "Get Trusted Advice & Creative Solutions Today",
+    "topics": [
+        "Bankruptcy Litigation",
+        "Business Debt Issues",
+        "Discharge of Tax Debt",
+        "Commercial Litigation",
+        "Debt Collection",
+        "Personal Bankruptcy",
+        "Real Estate",
+        "Chapter 7",
+        "Chapter 11"
+    ],
+    "members": [
+        {
+            "name": "Stanley M. Bershad",
+            "position": "Attorney"
+        },
+        {
+            "name": "Scott M. Kwiatkowski",
+            "position": "Attorney"
+        },
+        {
+            "name": "Martin L. Fried",
+            "position": "Attorney"
+        },
+        {
+            "name": "Aaron J. Scheinfield",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": "Monday - Friday 9:00 AM - 5:00 PM, Evening appointments available upon request.",
+    "testimonalData": [
+        {
+            "text": "The team at Goldstein Bershad and Fried, PC provided exceptional service and creative solutions to my debt issues.",
+            "author": "John Doe",
+            "location": "Southfield, MI"
+        },
+        {
+            "text": "Their personalized attention and extensive experience made a significant difference in my case.",
+            "author": "Jane Smith",
+            "location": "Waterford, MI"
+        },
+        {
+            "text": "I highly recommend Goldstein Bershad and Fried, PC for anyone facing complex financial problems.",
+            "author": "Robert Johnson",
+            "location": "Farmington Hills, MI"
+        }
+    ]
+}

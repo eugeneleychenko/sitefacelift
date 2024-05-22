@@ -1,0 +1,65 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Full-Service Lawyer",
+            "content": "No matter where I\u2019ve been in my legal career, I\u2019ve always been the 'full-service' lawyer for whatever product development projects I\u2019ve been part of. Negotiating and redlining contracts, writing customer terms and conditions, and working with marketing teams are just a few examples."
+        },
+        {
+            "title": "Payments Expertise",
+            "content": "Along the way, I\u2019ve picked up a bunch of payments expertise. This includes FinTech bank partnerships, mobile wallets, P2P payments, and more."
+        },
+        {
+            "title": "Regulatory Experience",
+            "content": "I have extensive experience with various regulations such as Regulation E, Regulation P, and BSA/AML. This includes customer identification programs, suspicious activity reporting, and beneficial ownership rules."
+        },
+        {
+            "title": "Operational Perspective",
+            "content": "I break down cryptic regulatory compliance requirements into operationalized bite-sized requirements. This helps in making something work from both a legal, business, and operational perspective."
+        }
+    ],
+    "address": "323 Washington Avenue North, Suite 200, Minneapolis, MN 55401",
+    "phoneNumber": "(212) 710-2925",
+    "email": "brian@axell.law",
+    "linkNames": [
+        "ABOUT",
+        "SERVICES",
+        "THOUGHTS",
+        "CONTACT",
+        "PRIVACY POLICY"
+    ],
+    "companyName": "Axell Law LLC",
+    "subHeading": "It\u2019s time to disrupt the ordinary.",
+    "valueProp": "There\u2019s no such thing as a typical business, but the market is brimming with typical law firms. Rest assured, this law firm isn\u2019t one of them. Your business needs to move fast and expand the law to keep pace with an ever-growing surge of innovation, and I\u2019m here to help you lead the way.",
+    "CTA": "Let\u2019s Talk",
+    "topics": [
+        "FinTech Bank Partnerships",
+        "Challenger Bank/Neobank Products",
+        "Mobile Wallets",
+        "P2P Payments",
+        "Prepaid Cards",
+        "Credit Cards",
+        "ACH Payments",
+        "Visa Direct and Mastercard Send Real-Time Payments",
+        "RTP Network"
+    ],
+    "members": null,
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Axell Law provided exceptional service and expertise in navigating complex regulatory requirements.",
+            "author": "John Doe",
+            "location": "Minneapolis, MN"
+        },
+        {
+            "text": "Their full-service approach and deep understanding of payments made our product launch seamless.",
+            "author": "Jane Smith",
+            "location": "New York, NY"
+        },
+        {
+            "text": "Brian's operational perspective and legal acumen were invaluable to our project.",
+            "author": "Michael Johnson",
+            "location": "San Francisco, CA"
+        }
+    ]
+}

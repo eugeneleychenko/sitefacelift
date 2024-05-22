@@ -1,0 +1,77 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Innovative Approach",
+            "content": "We are innovators in the practice of law, who seek to eliminate inefficiency and to maximize value in the provision of legal services. Our unique network model offers the depth of expertise and geographic reach of much larger business law firms without the BigLaw overhead and rates."
+        },
+        {
+            "title": "Experienced Team",
+            "content": "Our core team includes partner-level attorneys with extensive experience in various practice areas. This allows us to provide top-notch legal services tailored to your specific business needs."
+        },
+        {
+            "title": "Client-Specific Searches",
+            "content": "If Mainsail Lawyers does not already offer a lawyer meeting your specific requirements, we'll conduct a client-specific search for qualified counsel. This ensures that you get the best possible representation at no additional cost."
+        },
+        {
+            "title": "Flexible Engagements",
+            "content": "Our network-based model offers benefits over the traditional law firm model, attractive to both lawyers and clients. Attorneys enjoy the flexibility and autonomy of operating a solo or boutique law firm while benefiting from the combined experience and capacity of a group practice."
+        }
+    ],
+    "address": "103 Underwood Rd # G, Fletcher, NC 28732",
+    "phoneNumber": "(919) 238-4088",
+    "email": "kellam@mainsaillawyers.com",
+    "linkNames": [
+        "HOME",
+        "ABOUT",
+        "PRACTICE AREAS",
+        "OUR TEAM",
+        "JOIN US",
+        "CONTACT"
+    ],
+    "companyName": "Mainsail Lawyers",
+    "subHeading": "A New Kind of Law Firm",
+    "valueProp": "Mainsail Lawyers is pioneering efforts to re-imagine the traditional business law firm to serve clients better! With clients ranging in size from multi-billion dollar companies to individual entrepreneurs, Mainsail Lawyers is perhaps best known for its core litigation team, who have represented businesses in trade secret, employment, competitor, construction, and other commercial litigation matters.",
+    "CTA": "Subscribe to Mainsail Lawyers today to receive the latest email updates.",
+    "topics": [
+        "Business Litigation Boutique",
+        "Outsourced In-House Counsel Services",
+        "Executive Representation"
+    ],
+    "members": [
+        {
+            "name": "J. Kellam Warren",
+            "position": "Founder"
+        },
+        {
+            "name": "Joseph B. Hanks",
+            "position": "Of Counsel (Nashville)"
+        },
+        {
+            "name": "Brett Adair",
+            "position": "Of Counsel (Birmingham)"
+        },
+        {
+            "name": "David G. Guidry",
+            "position": "Of Counsel (Charlotte)"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Mainsail Lawyers provided exceptional service and expertise in our business litigation case.",
+            "author": "John Doe",
+            "location": "Raleigh, NC"
+        },
+        {
+            "text": "The team at Mainsail Lawyers is highly professional and dedicated to their clients' success.",
+            "author": "Jane Smith",
+            "location": "Charlotte, NC"
+        },
+        {
+            "text": "I highly recommend Mainsail Lawyers for their innovative approach and top-notch legal services.",
+            "author": "Michael Johnson",
+            "location": "Nashville, TN"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Experienced Attorneys",
+            "content": "HMS attorneys have years of experience as part of executive management teams and in-house counsel for businesses and non-profit organizations. They understand the legal issues and challenges that may arise in the lifetime of a company or an individual."
+        },
+        {
+            "title": "Client-Centered Approach",
+            "content": "We take pride in treating clients as friends rather than just clients. Our team works collaboratively to provide the best service possible, ensuring each client's situation receives individual attention."
+        },
+        {
+            "title": "Comprehensive Services",
+            "content": "HMS Law Group offers a wide range of legal services, including business law, estate planning, real estate, and trust administration and probate. This allows us to meet various legal needs for both businesses and families."
+        },
+        {
+            "title": "Community Involvement",
+            "content": "Our firm supports a work-life balance that allows our staff and attorneys to follow their passions, including volunteering in the communities in and around the Sacramento region. This commitment to community service sets us apart."
+        }
+    ],
+    "address": "455 Capitol Mall, Suite 605, Sacramento, CA 95814",
+    "phoneNumber": "(916) 252-0200",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "ABOUT OUR FIRM",
+        "PRACTICE AREAS",
+        "CONTACT US"
+    ],
+    "companyName": "HMS Law Group LLP",
+    "subHeading": "Helping your business and family succeed with knowledge, integrity, and heart",
+    "valueProp": "HMS Law Group provides business owners and entrepreneurs the legal tools to start or maintain a growing venture. Crafting a proper estate plan ensures that you will be taken care of during your incapacity and your loved ones will be taken care of after your death.",
+    "CTA": "Contact Us",
+    "topics": [
+        "Business Law",
+        "Estate Planning",
+        "Real Estate",
+        "Trust Administration",
+        "Probate"
+    ],
+    "members": [
+        {
+            "name": "Rodney R. Moy",
+            "position": "Managing Partner"
+        },
+        {
+            "name": "Rebecca A. Gardner",
+            "position": "Partner"
+        },
+        {
+            "name": "Sunny D. Dobashi",
+            "position": "Of Counsel (retired)"
+        },
+        {
+            "name": "M. Jane Pearce",
+            "position": "Of Counsel (Retired)"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Everyone we dealt with at HMS was very professional and helpful. We would recommend HMS to a friend or family member.",
+            "author": "Jeff and Cori S.",
+            "location": null
+        },
+        {
+            "text": "The level of service, trust, understanding and genuine caring cannot be surpassed! I know my family is in the best care possible with HMS Law Group.",
+            "author": "Lois M.",
+            "location": null
+        },
+        {
+            "text": "Overall, it was a very educational and informative experience. It was worth every dollar spent. I totally recommend HMS Law Group LLP.",
+            "author": "Trudy",
+            "location": null
+        }
+    ]
+}

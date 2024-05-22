@@ -1,0 +1,75 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Effective Collaboration",
+            "content": "The firm strongly believes in effective attorney/client collaboration in order to obtain positive results. This approach ensures that clients are always in the loop and their needs are met."
+        },
+        {
+            "title": "Experienced Litigators",
+            "content": "Amy and Tom Cramer have successfully litigated in both federal and state courts. Their extensive experience allows them to navigate complex legal issues effectively."
+        },
+        {
+            "title": "Personalized Attention",
+            "content": "Tom Cramer maintains a steadfast focus on each of his clients, ensuring personalized attention. This approach helps in understanding and addressing the unique needs of each client."
+        },
+        {
+            "title": "Comprehensive Services",
+            "content": "From litigation to severance negotiations, Cramer Law Group offers a wide spectrum of legal services. This comprehensive approach ensures that all client needs are met under one roof."
+        }
+    ],
+    "address": "161 N. Clark St. Suite 1700 Chicago, IL 60601",
+    "phoneNumber": "312-924-0219",
+    "email": "acramer@cramer-law.com",
+    "linkNames": [
+        "OUR CLIENTS",
+        "NOTABLE CASES",
+        "ATTORNEYS",
+        "WHAT WE DO",
+        "BLOG & PRESS",
+        "CONTACT"
+    ],
+    "companyName": "Cramer Law Group",
+    "subHeading": "Employment Lawyers Who Make Work Life Better",
+    "valueProp": "Cramer Law Group is a boutique law firm that represents individuals and companies across a wide spectrum of legal matters. The firm strongly believes in effective attorney/client collaboration in order to obtain positive results. From litigation to severance negotiations, Cramer Law Group will work with you to find the best path forward.",
+    "CTA": "Learn More",
+    "topics": [
+        "Employment Discrimination",
+        "Workplace Harassment",
+        "Retaliation/Whistleblowing",
+        "Wrongful Termination",
+        "Hiring Contract Reviews",
+        "Severance Contract Reviews",
+        "Non-Compete Agreements",
+        "Employee Pregnancy Rights",
+        "Workplace post-Roe v. Wade"
+    ],
+    "members": [
+        {
+            "name": "Amy S. Cramer",
+            "position": "Partner"
+        },
+        {
+            "name": "Thomas M. Cramer",
+            "position": "Partner"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "We cannot say enough amazing things about this firm. I\u2019ve never met two people more professional, dedicated and diligent than Amy and Tom.",
+            "author": "Chloe",
+            "location": "Employment Client"
+        },
+        {
+            "text": "Tom was very helpful throughout this process. He was very detailed and knew the laws very well as they pertained to my case.",
+            "author": "Dave",
+            "location": "Employment Client"
+        },
+        {
+            "text": "Amy Cramer helped me with a very difficult work situation. I was satisfied with the results and with the charges for her services.",
+            "author": "Lois",
+            "location": "Employment Client"
+        }
+    ]
+}

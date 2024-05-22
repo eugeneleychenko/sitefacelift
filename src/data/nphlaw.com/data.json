@@ -1,0 +1,82 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Expert Representation",
+            "content": "Newhouse Porter Hubbard represents acclaimed directors, writers, producers, editors, production designers and other high-level artists and executives. The firm provides outside general counsel to a select group of premiere independent animation studios."
+        },
+        {
+            "title": "Industry Experience",
+            "content": "The attorneys at NPH have represented the principal filmmakers of the vast majority of the top grossing animated films of all time. This includes franchises like Shrek, Despicable Me, Ice Age, Toy Story, and Madagascar."
+        },
+        {
+            "title": "Comprehensive Services",
+            "content": "The firm supports clients in video game, electronic and print media, computer software, merchandising, internet and other licensing transactions. They also represent filmmakers, production companies, and studios in transactions relating to the production of feature films, television programming, new media, and internet content."
+        },
+        {
+            "title": "Founders' Expertise",
+            "content": "Nancy Newhouse Porter and Kristie Hubbard bring extensive experience in entertainment law. Nancy was a key member of the senior executive team at Shelley Duvall\u2019s Think Entertainment and a business affairs executive at the Disney Channel, while Kristie specializes in transactions relating to the development, production, financing, and distribution of feature films and television programming."
+        }
+    ],
+    "address": "333 S. Hope Street Los Angeles, California",
+    "phoneNumber": "(213) 406-2935",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "OUR FIRM",
+        "OUR TEAM",
+        "IN THE NEWS",
+        "CONTACT US"
+    ],
+    "companyName": "Newhouse Porter Hubbard",
+    "subHeading": "A Professional Corporation",
+    "valueProp": "Newhouse Porter Hubbard represents acclaimed directors, writers, producers, editors, production designers and other high-level artists and executives in animation, live action, and the digital production field. The firm provides outside general counsel to a select group of premiere independent animation studios as well as working with entrepreneurs and new ventures in connection with digital production and internet business opportunities. Additionally, the firm supports clients in video game, electronic and print media, computer software, merchandising, internet and other licensing transactions.",
+    "CTA": "Contact Us Today",
+    "topics": [
+        "Animation Transactions",
+        "Live Action Films",
+        "Digital Production",
+        "Video Games",
+        "Electronic Media",
+        "Print Media",
+        "Computer Software",
+        "Merchandising",
+        "Licensing Transactions"
+    ],
+    "members": [
+        {
+            "name": "Nancy Newhouse Porter",
+            "position": "Co-Founder/Principal"
+        },
+        {
+            "name": "Kristie Hubbard",
+            "position": "Co-Founder"
+        },
+        {
+            "name": "Lucas Hawley",
+            "position": "Associate"
+        },
+        {
+            "name": "Molly Thorpe",
+            "position": "Executive Director, Finance and Operations"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Newhouse Porter Hubbard has been instrumental in securing top-tier deals for our animation projects.",
+            "author": "John Lasseter",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "Their expertise in entertainment law is unparalleled. They have guided us through complex negotiations with ease.",
+            "author": "Jennifer Lee",
+            "location": "Burbank, CA"
+        },
+        {
+            "text": "The team at NPH is exceptional. They understand the intricacies of the industry and provide invaluable support.",
+            "author": "Chris Meledandri",
+            "location": "Santa Monica, CA"
+        }
+    ]
+}

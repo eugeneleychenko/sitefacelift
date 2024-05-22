@@ -1,0 +1,75 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Extensive Experience",
+            "content": "Our lawyers have extensive experience handling cases involving corporate disputes, contracts, foreclosure, bankruptcy, residential and commercial real estate, financing, and much more. No matter what your legal issue is, our dedicated group of lawyers will go above and beyond to resolve it successfully."
+        },
+        {
+            "title": "Personalized Attention",
+            "content": "The Frank Law Firm has the resources, capabilities, and experience needed to protect your legal rights in any size, complexity, or type of case. Whether it is a short- or long-term legal matter, you can be confident that you and your case will receive the attention you deserve."
+        },
+        {
+            "title": "Licensed in Multiple States",
+            "content": "The Frank Law Firm has attorneys licensed to practice law in Florida, New Jersey, and New York. This allows us to provide comprehensive legal services across multiple jurisdictions."
+        },
+        {
+            "title": "Client-Centric Approach",
+            "content": "We believe that everyone deserves access to quality legal counsel and we guarantee the highest level of personalized legal services available in the New York area. You deserve nothing less than a team that treats you like family and will go the extra mile to get you the desired results."
+        }
+    ],
+    "address": "333 Glen Head Road, Suite 145, Old Brookville, New York 11545",
+    "phoneNumber": "516-246-5577",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "PRACTICE AREAS",
+        "LEARN",
+        "TESTIMONIALS",
+        "CONTACT",
+        "MAKE A PAYMENT"
+    ],
+    "companyName": "The Frank Law Firm P.C.",
+    "subHeading": "Qualified legal advice in many areas...",
+    "valueProp": "The Frank Law Firm P.C. is a team of professional attorneys and support staff that provide legal services for businesses in Long Island, New York City, and the surrounding areas. We offer a full range of legal services, from simple contract reviews to complex litigation matters.\n\nOur lawyers have extensive experience handling cases involving corporate disputes, contracts, foreclosure, bankruptcy, residential and commercial real estate, financing, and much more. No matter what your legal issue is, our dedicated group of lawyers will go above and beyond to resolve it successfully.",
+    "CTA": "Request a consultation today",
+    "topics": [
+        "Bankruptcy & Reorganization",
+        "Business Lawyer",
+        "Chapter 7 Bankruptcy",
+        "Civil Litigation Services",
+        "Litigation",
+        "Financial Services & Foreclosure",
+        "Real Estate",
+        "Appellate & Trial Practice",
+        "Banking & Finance"
+    ],
+    "members": [
+        {
+            "name": "Thomas J. Frank",
+            "position": "Partner"
+        },
+        {
+            "name": "Amanda M. Baron-Frank",
+            "position": "Partner"
+        }
+    ],
+    "openHours": "Mon-Fri: 8:30am - 5:30pm, Weekend: By Appointment Only",
+    "testimonalData": [
+        {
+            "text": "Thomas Frank came highly recommended by an attorney I trust and represented me in a complex matter against a large business entity.",
+            "author": "Atelier WM",
+            "location": null
+        },
+        {
+            "text": "Amanda quickly cleaned up our previous attorney's mess and put us back on track. From day one they were very transparent about their process and fees.",
+            "author": "Juan Pacheco",
+            "location": null
+        },
+        {
+            "text": "Amanda was a pleasure to work with!!! Selling and buying a home at the same time is very stressful to begin with and my experience was very difficult and stressful to say the least.",
+            "author": "Sophia Siagris",
+            "location": null
+        }
+    ]
+}

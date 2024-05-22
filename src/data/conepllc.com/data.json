@@ -1,0 +1,68 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Unparalleled Client Focus",
+            "content": "We prioritize our clients\u2019 needs, concerns, and goals, ensuring that their interests are at the forefront of everything we do."
+        },
+        {
+            "title": "Culture of Respect & Integrity",
+            "content": "Treating others as we want to be treated is the cornerstone of our success. Our practice is rooted in respect, integrity, and ethical practices."
+        },
+        {
+            "title": "Knowledge & Innovation",
+            "content": "Our attorneys stay at the forefront of legal developments, regularly updating their knowledge and skills to provide effective legal strategies."
+        },
+        {
+            "title": "Client-Centric Focus",
+            "content": "We prioritize our clients' needs and concerns. Our client-centric approach ensures that you receive personalized attention throughout your case."
+        }
+    ],
+    "address": "2019 Washington Ave, Suite 201, Houston, Texas 77007",
+    "phoneNumber": "(713) 955-2729",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "ABOUT US",
+        "PRACTICE AREAS",
+        "CONTACT"
+    ],
+    "companyName": "Con\u00e9 PLLC",
+    "subHeading": "Your Trusted Legal Ally In Greater Houston",
+    "valueProp": "Our mission is to provide exceptional legal services with a personalized touch, ensuring our clients' needs and objectives take center stage. We strive to establish lasting partnerships with our clients, built on trust, respect, and open communication. By fostering a collaborative environment, we aim to understand the unique circumstances of each client, enabling us to deliver tailored solutions that address their specific legal challenges.",
+    "CTA": "Schedule A Consultation With Us! Get Started",
+    "topics": [
+        "Appellate Litigation",
+        "Civil Litigation",
+        "Complex Litigation",
+        "Estate Planning"
+    ],
+    "members": [
+        {
+            "name": "Misty Hataway-Con\u00e9",
+            "position": "Firm Founder & Civil Litigator"
+        },
+        {
+            "name": "Jackson McKellar",
+            "position": "Legal Associate"
+        }
+    ],
+    "openHours": "Mon - Fri 8:30 am - 5:30 pm, Sat - Sun Closed",
+    "testimonalData": [
+        {
+            "text": "If you're looking for an aggressive, take charge and very knowledgeable attorney, Misty is your answer.",
+            "author": "David B.",
+            "location": null
+        },
+        {
+            "text": "Without hesitation I would recommend Cone' LLC as someone you want in your corner. Misty is the most understanding, patient professional I have ever met.",
+            "author": "Lauren C.",
+            "location": null
+        },
+        {
+            "text": "Can\u2019t say enough good things about working with Misty. She made the best of a bad situation.",
+            "author": "Rhonda K.",
+            "location": null
+        }
+    ]
+}

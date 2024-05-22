@@ -1,0 +1,80 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Relentless Commitment to Quality",
+            "content": "We have the experience and level of commitment that stack up with the best in the business. We can put together a strategic legal defense, which leads to better outcomes for our clients."
+        },
+        {
+            "title": "Transparent Attorney-Client Relationship",
+            "content": "Every case is led by our experienced attorneys. Unlike other firms, we do not delegate much of the casework to paralegals, ensuring high-quality work."
+        },
+        {
+            "title": "Consistent & Timely Communication",
+            "content": "We communicate with clients in the manner they prefer, keeping them informed throughout their case. This gives our clients peace of mind."
+        },
+        {
+            "title": "Transparent and Simplified Billing",
+            "content": "We provide weekly billing, allowing clients to know on a timely basis where their investment is going. Our streamlined operations translate into better value for clients."
+        }
+    ],
+    "address": "300 Trade Center, Suite 3700 Woburn, MA 01801",
+    "phoneNumber": "339-298-2300",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "PRACTICE AREAS",
+        "ATTORNEYS & STAFF",
+        "WHY CHOOSE SLG?",
+        "BLOG",
+        "SUCCESS STORIES",
+        "CONTACT"
+    ],
+    "companyName": "Shapiro Law Group, PC",
+    "subHeading": "Employment Lawyer for Massachusetts",
+    "valueProp": "We are the solution for individuals and small-to-medium sized businesses with legal needs that are dissatisfied with law firms that produce low quality work, solo practitioners, attorneys that are difficult to contact, and indecipherable billing. At SLG, our clients work with a dedicated attorney who is easy to contact and will go above and beyond to represent our clients, resulting in successful case outcomes.",
+    "CTA": "Discuss your situation with us during a free, confidential phone consultation. Take the first step in the right direction by calling our firm at (339) 298-2300 or filling out the form below.",
+    "topics": [
+        "Employment Law",
+        "Personal Injury",
+        "Business Law",
+        "Civil Law",
+        "Bankruptcy",
+        "Family & Domestic Relations",
+        "Trust & Estate Planning",
+        "Health Law",
+        "Litigation & Mediation Law"
+    ],
+    "members": [
+        {
+            "name": "Anna Shapiro",
+            "position": "Chief Executive Officer"
+        },
+        {
+            "name": "Gennadiy Shapiro",
+            "position": "Attorney"
+        },
+        {
+            "name": "Sarah Lopes",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Anna Shapiro was fantastic. Going through a divorce is not easy, but they were supportive, encouraging, and professional every step of the way.",
+            "author": "Maureen K.",
+            "location": null
+        },
+        {
+            "text": "I recently had the pleasure of working with Anna Shapiro and the Shapiro Law Group PC. Anna was extremely helpful in reviewing my employment case.",
+            "author": "Dana M.",
+            "location": null
+        },
+        {
+            "text": "I wanted to thank you for all the work you did to help my family and I. I will recommend you to anyone who needs legal assistance.",
+            "author": "Lucy Lee",
+            "location": null
+        }
+    ]
+}

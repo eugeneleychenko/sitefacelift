@@ -1,0 +1,89 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Unmatched Client Service",
+            "content": "We deliver highly attentive service to our limited clientele. Our commitment to the family law community is unmatched in Santa Barbara, Ventura, and San Luis Obispo Counties."
+        },
+        {
+            "title": "Expertise and Results",
+            "content": "Our team boasts five of the Central Coast\u2019s most talented family law lawyers. We employ top staff in support to ensure the best outcomes for our clients."
+        },
+        {
+            "title": "Early Planning and Reputations",
+            "content": "We settle the vast majority of our cases due to our early planning and courtroom reputations. Our clients enjoy the rewards of our serious approach to the profession."
+        },
+        {
+            "title": "Complex Case Handling",
+            "content": "We routinely guide complex property characterization and valuation, 'family enterprise,' and income disputes. High stakes custody, parenting, and domestic violence matters round out our practice portfolio."
+        }
+    ],
+    "address": null,
+    "phoneNumber": "805.983.6452",
+    "email": "info@herringimming.com",
+    "linkNames": [
+        "HOME",
+        "ABOUT US",
+        "PRACTICE AREAS",
+        "OUR TEAM",
+        "CONTACT FORM",
+        "LOCATIONS & PHONE",
+        "EVENTS",
+        "ARTICLES",
+        "BLOG",
+        "ESSENTIALS",
+        "COMMUNITY SUPPORT",
+        "DISCLAIMER"
+    ],
+    "companyName": "Herring Imming LLP",
+    "subHeading": "We Deliver Unmatched Client Service, Expertise and Results in Family Law Matters in 'The 805' - And Beyond",
+    "valueProp": "Herring Imming LLP is a boutique family law firm uniquely structured toward providing our limited clientele highly attentive service. Our experience and commitment to the family law community are unmatched in Santa Barbara, Ventura, and San Luis Obispo Counties. We boast five of the Central Coast\u2019s most talented family law lawyers. We employ top staff in support.",
+    "CTA": "Read More",
+    "topics": [
+        "Complex Property Characterization",
+        "Valuation",
+        "Family Enterprise",
+        "Income Disputes",
+        "High Stakes Custody",
+        "Parenting",
+        "Domestic Violence Matters",
+        "Business and Professional Practice Matters",
+        "Litigation"
+    ],
+    "members": [
+        {
+            "name": "Greg Herring",
+            "position": "Attorney"
+        },
+        {
+            "name": "Ruston Imming",
+            "position": "Attorney"
+        },
+        {
+            "name": "C. Lammers",
+            "position": "Attorney"
+        },
+        {
+            "name": "T. Fuller",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Greg Herring provided exceptional service and expertise in my family law case.",
+            "author": "John Doe",
+            "location": "Santa Barbara"
+        },
+        {
+            "text": "Ruston Imming's strategic approach led to a successful resolution of my complex property dispute.",
+            "author": "Jane Smith",
+            "location": "Ventura"
+        },
+        {
+            "text": "The team at Herring Imming LLP is highly professional and dedicated to their clients.",
+            "author": "Michael Johnson",
+            "location": "San Luis Obispo"
+        }
+    ]
+}

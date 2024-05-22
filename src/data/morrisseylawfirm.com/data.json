@@ -1,0 +1,71 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Client-Centered Approach",
+            "content": "The attorney works for the client, not the other way around. It is always the client\u2019s case, which is why our job is to investigate, evaluate, and advise our clients."
+        },
+        {
+            "title": "Complete Trust and Honesty",
+            "content": "The attorney-client relationship must be based on complete trust and honesty. That\u2019s why I will never sugar-coat anything, but I will always be respectful and empathetic."
+        },
+        {
+            "title": "Face-to-Face Meetings",
+            "content": "We want a face-to-face meeting with our clients before we begin working on their behalf. This meeting is a two-way interview to ensure mutual compatibility."
+        },
+        {
+            "title": "Experienced Representation",
+            "content": "With over 27 years of expertise, we are committed to fighting in court for those we represent. We aim to get each client every cent deserved."
+        }
+    ],
+    "address": "2208 W Chesterfield Blvd. Suite 108 Springfield, MO 65807",
+    "phoneNumber": "417.887.0529",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "CASES WE HANDLE",
+        "OUR COURT RULINGS",
+        "MEET THE FIRM",
+        "COMMUNITY INVOLVEMENT",
+        "BLOG",
+        "CONTACT US"
+    ],
+    "companyName": "The Morrissey Law Firm, P.C.",
+    "subHeading": "I want to be your attorney.",
+    "valueProp": "At The Morrissey Law Firm, P.C., we value our relationships with our clients. The attorney works for the client, not the other way around. It is always the client\u2019s case, which is why our job is to investigate, evaluate, and advise our clients. Our client's job is to make decisions that will determine the outcome of their personal injury case, with my guidance every step of the way.",
+    "CTA": "Call Today",
+    "topics": [
+        "Slip and Falls",
+        "Car Wrecks",
+        "Drunk Driving Wrecks",
+        "Semi-Truck Wrecks",
+        "Motorcycle Wrecks",
+        "Dog Attacks",
+        "Workplace Negligence Claims",
+        "Wrongful Deaths"
+    ],
+    "members": [
+        {
+            "name": "Thomas Morrissey",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": "Mon-Thurs: 8:00 a.m. - 5:00 p.m., Fri: 8:00 a.m. - 3:00 p.m., Closed on the weekend",
+    "testimonalData": [
+        {
+            "text": "Thomas Morrissey provided exceptional legal representation and was always there to answer my questions.",
+            "author": "John Doe",
+            "location": "Springfield, MO"
+        },
+        {
+            "text": "The Morrissey Law Firm helped me get the compensation I deserved after my car accident.",
+            "author": "Jane Smith",
+            "location": "Springfield, MO"
+        },
+        {
+            "text": "I highly recommend The Morrissey Law Firm for their professionalism and dedication.",
+            "author": "Robert Johnson",
+            "location": "Springfield, MO"
+        }
+    ]
+}

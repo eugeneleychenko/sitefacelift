@@ -1,0 +1,69 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Experienced Trial Lawyers",
+            "content": "At McCool Law PLLC, we have extensive experience in handling complex cases. Our team is known for its ability to resolve difficult cases before or early in the litigation process."
+        },
+        {
+            "title": "Relentless Defense",
+            "content": "We are dedicated to defending individuals charged with serious offenses. Our tenacity and commitment to our clients are second to none."
+        },
+        {
+            "title": "Client-Centered Approach",
+            "content": "We value our clients' input and ideas, and we work tirelessly to prepare their defense. Our innovative approaches and willingness to pursue unconventional strategies set us apart."
+        },
+        {
+            "title": "Proven Track Record",
+            "content": "Our firm has a history of winning unwinnable cases. We are known for our strategic judgment and thinking, which are as good as anyone in the field."
+        }
+    ],
+    "address": "1717 K Street, NW, Suite 900, Washington, DC 20006",
+    "phoneNumber": "202-680-2440",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "MEET YOUR TEAM",
+        "PRACTICE AREAS",
+        "TESTIMONIALS",
+        "NEWS",
+        "CONTACT US"
+    ],
+    "companyName": "McCool Law PLLC",
+    "subHeading": null,
+    "valueProp": "At McCool Law PLLC, we regularly represent companies, officers, directors, executives and other individuals in criminal prosecutions, grand jury investigations, and internal investigations. We have extensive experience in handling cases relating to white collar defense, general litigation, and criminal defense.",
+    "CTA": null,
+    "topics": [
+        "White Collar Defense/Investigations",
+        "General Litigation/Trial Practice",
+        "Criminal Defense"
+    ],
+    "members": [
+        {
+            "name": "Steven J. McCool",
+            "position": "Partner"
+        },
+        {
+            "name": "Julia M. Coleman",
+            "position": "Partner"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Steve is not only a good man and friend, but he is a great lawyer. He understands that defending a case does not begin in the courtroom; rather it ends there.",
+            "author": "Marc Morales",
+            "location": null
+        },
+        {
+            "text": "Steven McCool is relentless in the defense of his clients. Steven works as though he is the one on trial. His tenacity is second to none.",
+            "author": "Lenny Solt",
+            "location": null
+        },
+        {
+            "text": "Steven has an incredible work ethic and was unrelenting while representing me. He went into extensive detail when preparing for my case and gave me a great sense of relief about my situation.",
+            "author": "Donald Ball",
+            "location": null
+        }
+    ]
+}

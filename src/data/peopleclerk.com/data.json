@@ -1,0 +1,65 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Easy Navigation",
+            "content": "We make it easy to navigate the bureaucratic court system. You answer simple questions online in 20 minutes or less."
+        },
+        {
+            "title": "Printing & Mailing",
+            "content": "We take care of all the printing & mailing of your court documents when filing & serving. We can even print your evidence and mail it to you, the court, and the other party for you!"
+        },
+        {
+            "title": "Hearing Preparation",
+            "content": "Increase your chances of winning by being prepared. We help you prepare for your hearing with an organized evidence packet."
+        },
+        {
+            "title": "Attorney Review",
+            "content": "Get suggestions for your evidence by having an attorney review your court documents and evidence before going to court."
+        }
+    ],
+    "address": null,
+    "phoneNumber": "(650) 385-8507",
+    "email": "[email protected]",
+    "linkNames": [
+        "HOME",
+        "PRICING",
+        "LEARN",
+        "ESPA\u00d1OL",
+        "LOGIN"
+    ],
+    "companyName": "People Clerk",
+    "subHeading": "We have your back with Small Claims Court",
+    "valueProp": "At People Clerk, you come first. You will always have access to our team via email ([email protected]). We know that navigating small claims is intimidating, but we are here to help.",
+    "CTA": "Get Started",
+    "topics": [
+        "Airline",
+        "Landlord",
+        "Mechanic",
+        "Money Owed",
+        "Property Theft",
+        "Security Deposit",
+        "Unpaid Invoices",
+        "More topics",
+        "Popular Courts"
+    ],
+    "members": null,
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Wow. What an amazing resource. Making the all important tool of small claims court accessible to everyone.",
+            "author": null,
+            "location": null
+        },
+        {
+            "text": "They were extremely helpful with my small claims case. Very well organized and the website was simple to use.",
+            "author": null,
+            "location": null
+        },
+        {
+            "text": "Using People Court to help you navigate through the small claims process is a no-brainer! They make it so easy and are great to work with.",
+            "author": null,
+            "location": null
+        }
+    ]
+}

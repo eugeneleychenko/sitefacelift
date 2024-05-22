@@ -1,0 +1,66 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Innovative Legal Technology",
+            "content": "By integrating technology seamlessly into our practice, we direct our resources toward high-impact tasks. This approach allows us to manage every facet of your matter with meticulous care and unparalleled efficiency."
+        },
+        {
+            "title": "Bespoke Pricing Models",
+            "content": "We provide bespoke pricing models that feature transparent, fixed fees across a broad range of matters. This ensures you receive top-tier representation without the need for massive legal budgets."
+        },
+        {
+            "title": "Seasoned Legal Experts",
+            "content": "Our teams consist of seasoned legal experts and specialists. This ensures our services are precisely tailored to meet your unique needs."
+        },
+        {
+            "title": "Collaborative Partnership",
+            "content": "We aim to foster a collaborative partnership where we become an integral part of your team. With us, you will feel like your matter is our only matter."
+        }
+    ],
+    "address": "80 S 8th St, Suite 900, Minneapolis, MN 55402",
+    "phoneNumber": "855-750-9951",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "ABOUT",
+        "TEAM",
+        "PRACTICE AREAS",
+        "PRICING",
+        "INSIGHTS",
+        "CONTACT"
+    ],
+    "companyName": "Avantech Law, LLP",
+    "subHeading": "A Law Firm That Innovates Like You Do",
+    "valueProp": "Avantech Law is an intellectual property and technology law firm serving clients in the Americas, Europe, and Asia-Pacific. Our ethos is grounded in a commitment to redefine the delivery of premier legal services. Leveraging state-of-the-art legal technology and deploying teams of seasoned legal experts and specialists, we ensure our services are precisely tailored to meet your unique needs. You deserve a law firm that embodies your innovative spirit.",
+    "CTA": "You Create the Future. We Protect It.",
+    "topics": [
+        "IP Enforcement & Defense",
+        "IP Development & Strategy",
+        "IP Transactions"
+    ],
+    "members": [
+        {
+            "name": "William Woodford",
+            "position": "Trial Lawyer"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Avantech Law provided exceptional service and innovative solutions for our IP needs.",
+            "author": "John Doe",
+            "location": "Minneapolis, MN"
+        },
+        {
+            "text": "Their bespoke pricing models made top-tier legal representation affordable for our startup.",
+            "author": "Jane Smith",
+            "location": "San Francisco, CA"
+        },
+        {
+            "text": "The team at Avantech Law is approachable, accessible, and truly cares about their clients.",
+            "author": "Michael Johnson",
+            "location": "New York, NY"
+        }
+    ]
+}

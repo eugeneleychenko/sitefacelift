@@ -1,0 +1,65 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Experienced Trial Lawyer",
+            "content": "Our founder Edward Perdue has over twenty-four years of experience at a large national law firm. He has practiced at the highest level in many state and federal courts across the nation."
+        },
+        {
+            "title": "Lean Operation",
+            "content": "The firm is organized as a lean operation which harnesses the power of technology to bring unparalleled efficiency. This allows us to provide 'big law' quality and service with significant cost savings."
+        },
+        {
+            "title": "Alternative Dispute Resolution",
+            "content": "We explore and present clients with alternative dispute resolution strategies early in the life of each case. This approach helps in achieving client objectives in a smarter and more efficient manner."
+        },
+        {
+            "title": "Commitment to Diversity",
+            "content": "As a minority and service-disabled veteran-owned small business, we are dedicated to exceptional client service. Our founder is the son of a Colombian immigrant and a fluent Spanish speaker."
+        }
+    ],
+    "address": "P.O. Box 2390, Grand Rapids, MI 49501",
+    "phoneNumber": "616-888-2960",
+    "email": "eperdue@perduelawgroup.com",
+    "linkNames": [
+        "MISSION",
+        "BIOGRAPHY",
+        "PRACTICE",
+        "NEWS",
+        "PAYMENTS",
+        "CONTACT"
+    ],
+    "companyName": "Perdue Law Group",
+    "subHeading": "No case too difficult, no sacrifice too great.",
+    "valueProp": "Perdue Law Group is a boutique civil litigation firm based in Grand Rapids, Michigan. Born from a desire to service a broader range of clients, this firm is dedicated to assisting its clients navigate the treacherous waters of today's civil justice system.",
+    "CTA": "WE FIGHT TIRELESSLY FOR OUR CLIENTS' INTERESTS.",
+    "topics": [
+        "Commercial Litigation",
+        "Employment Litigation",
+        "Alternative Dispute Resolution"
+    ],
+    "members": [
+        {
+            "name": "Edward Perdue",
+            "position": "Founder"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Ed Perdue is a strategic thinker and really knows how to analyze and formulate a litigation game plan.",
+            "author": "John Doe",
+            "location": "Grand Rapids, MI"
+        },
+        {
+            "text": "The team at Perdue Law Group is dedicated and passionate about their work. They truly care about their clients.",
+            "author": "Jane Smith",
+            "location": "Detroit, MI"
+        },
+        {
+            "text": "I highly recommend Perdue Law Group for their exceptional client service and high-quality work product.",
+            "author": "Michael Johnson",
+            "location": "Albuquerque, NM"
+        }
+    ]
+}

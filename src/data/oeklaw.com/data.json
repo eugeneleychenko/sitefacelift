@@ -1,0 +1,83 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Exclusive Focus",
+            "content": "OTTERSTEDT & KAMMER PLLC is engaged exclusively in the practice of Intellectual Property Law. This specialization ensures a deep understanding and proficiency in patent, trademark, and copyright law."
+        },
+        {
+            "title": "Diverse Clientele",
+            "content": "The firm counsels a diverse group of clients, from individual inventors to Fortune 500 companies. This broad client base includes leaders in industries such as computer hardware, software, and electronics."
+        },
+        {
+            "title": "Technical Expertise",
+            "content": "Many of our professionals hold advanced degrees in their fields of technical expertise. This technical proficiency is invaluable in rendering high-quality intellectual property legal services."
+        },
+        {
+            "title": "Recognized Excellence",
+            "content": "The firm has been recognized as a 2014 'Go-To Law Firm at the Top 500 Companies' for its work in Intellectual Property Law. This recognition highlights our commitment to excellence."
+        }
+    ],
+    "address": null,
+    "phoneNumber": "(203) 433-3157",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "ABOUT US",
+        "SERVICES",
+        "PATENTS",
+        "CAREERS",
+        "CONTACT US"
+    ],
+    "companyName": "Otterstedt & Kammer PLLC",
+    "subHeading": "Patent, Trademarks, Copyrights, and Related Matters",
+    "valueProp": "OTTERSTEDT & KAMMER PLLC is engaged exclusively in the practice of Intellectual Property Law, primarily patent, trademark and copyright law. We value our client relationships, and have an uncompromising commitment to excellence in procuring and licensing our clients\u2019 intellectual property. The firm was founded in 2010.",
+    "CTA": null,
+    "topics": [
+        "Broadband Data Services",
+        "Cable TV",
+        "Clean Technology",
+        "Computer-Aided Engineering and Design Tools",
+        "Computer Hardware",
+        "Control Systems",
+        "Consumer Products and Appliances",
+        "Digital Radio",
+        "Energy Efficiency and Conservation"
+    ],
+    "members": [
+        {
+            "name": "Paul J. Otterstedt",
+            "position": "Founding Attorney"
+        },
+        {
+            "name": "Robert M. Trepp",
+            "position": "Attorney"
+        },
+        {
+            "name": "A. Thomas Kammer",
+            "position": "Attorney"
+        },
+        {
+            "name": "James P. Janniello",
+            "position": "Patent Agent"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "OTTERSTEDT & KAMMER PLLC provided exceptional service in securing our patents.",
+            "author": "John Doe",
+            "location": "New York, NY"
+        },
+        {
+            "text": "Their expertise in intellectual property law is unparalleled.",
+            "author": "Jane Smith",
+            "location": "San Francisco, CA"
+        },
+        {
+            "text": "Highly recommend for anyone needing patent or trademark services.",
+            "author": "Michael Johnson",
+            "location": "Chicago, IL"
+        }
+    ]
+}

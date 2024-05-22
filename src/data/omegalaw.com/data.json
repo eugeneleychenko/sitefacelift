@@ -1,0 +1,83 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Decades of Experience",
+            "content": "We Have Decades of Combined legal experience. Our seasoned attorneys bring a wealth of knowledge and expertise to every case."
+        },
+        {
+            "title": "Trial Ready",
+            "content": "Our Trial attorneys are not afraid to take your case to court. We are prepared to fight for your rights and secure the best possible outcome."
+        },
+        {
+            "title": "24/7 Availability",
+            "content": "Direct communication with our attorneys is available 24/7. We ensure you have the support and guidance you need, whenever you need it."
+        },
+        {
+            "title": "No Fee Promise",
+            "content": "You Don\u2019t pay any fees unless we win your case. Our commitment is to your success and peace of mind."
+        }
+    ],
+    "address": "8350 Wilshire Blvd, 3rd Floor, Beverly Hills, CA 90211",
+    "phoneNumber": "(310) 526-8383",
+    "email": null,
+    "linkNames": [
+        "ABOUT",
+        "PRACTICE AREAS",
+        "AREAS WE SERVE",
+        "FAQS",
+        "RESULTS",
+        "CONTACT US"
+    ],
+    "companyName": "Omega Law Group",
+    "subHeading": "No Recovery, No Fee. FREE CONSULTATION. SE HABLA ESPA\u00d1OL",
+    "valueProp": "Omega Law Group is a premier personal injury law firm based in Beverly Hills, California. Our experienced attorneys specialize in a wide range of practice areas, including car accidents, rideshare accidents, trucking accidents, motorcycle accidents, pedestrian accidents, wrongful death, and more. We are dedicated to providing our clients with personalized, compassionate, and effective legal representation. Our firm operates on a contingency fee basis, meaning you pay nothing unless we win your case. Contact us today for a free consultation and let us help you on your path to recovery.",
+    "CTA": "Contact Us Today",
+    "topics": [
+        "Personal Injury",
+        "Rideshare Accident",
+        "Truck Accident",
+        "Motorcycle Accident",
+        "Pedestrian Accident",
+        "Wrongful Death",
+        "Car Accident",
+        "Brain Injury",
+        "Bicycle Accident"
+    ],
+    "members": [
+        {
+            "name": "Robin Saghian",
+            "position": "Partner"
+        },
+        {
+            "name": "Shahab Mossavar-Rahmani",
+            "position": "Partner"
+        },
+        {
+            "name": "Edwin Saghian",
+            "position": "Partner"
+        },
+        {
+            "name": "Lourdes De Armas",
+            "position": "Partner"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Omega Law Group truly focuses on assisting you, guiding you, and being there for you. They exceeded my expectations.",
+            "author": "ZAINA K.",
+            "location": null
+        },
+        {
+            "text": "I was hit while driving my motorcycle and got sideswiped. Thanks to Ms. Gabriella's hard work, I received a considerable amount of money.",
+            "author": "TYLER",
+            "location": null
+        },
+        {
+            "text": "Accidents are no fun, especially after an awful accident six months ago! I am so glad I stumbled across this office.",
+            "author": "A.H.",
+            "location": null
+        }
+    ]
+}

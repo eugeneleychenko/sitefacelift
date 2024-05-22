@@ -1,0 +1,63 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Experienced Team",
+            "content": "The attorneys at Needham Kepner & Fish LLP bring decades of legal experience to their practice, ensuring knowledgeable and effective representation for their clients."
+        },
+        {
+            "title": "Personal Attention",
+            "content": "Despite offering the resources of a large firm, they provide the personalized care and attention you would expect from a smaller practice, focusing on the unique needs of each client."
+        },
+        {
+            "title": "Mediation Services",
+            "content": "In addition to litigation, the firm offers mediation services, providing clients with alternative dispute resolution options to save time and legal expenses."
+        },
+        {
+            "title": "Contingent Fee Basis",
+            "content": "Needham Kepner & Fish LLP handles injury cases on a contingent fee basis, meaning clients pay nothing until they recover compensation, easing financial stress during the legal process."
+        }
+    ],
+    "address": "1960 The Alameda Suite 210 San Jose, CA 95126",
+    "phoneNumber": "408-716-1668",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "ATTORNEY PROFILES",
+        "PRACTICE AREAS",
+        "FAQS",
+        "BLOG",
+        "CONTACT US"
+    ],
+    "companyName": "Needham Kepner & Fish LLP",
+    "subHeading": null,
+    "valueProp": "The San Jose personal injury lawyers at Needham Kepner & Fish LLP understand the devastating impact an accident and its resulting injuries has on you and your family. We truly care about helping you recover compensation for your suffering. Our personal injury lawyers in San Jose have extensive experience in litigation and mediation.",
+    "CTA": "Contact Us Today",
+    "topics": [
+        "Car Accidents",
+        "Bike Accidents",
+        "Catastrophic Injuries",
+        "Elder Abuse",
+        "Motorcycle Accidents",
+        "Pedestrian Accidents",
+        "Premises Liability",
+        "Public Transportation Accidents",
+        "Truck Accidents"
+    ],
+    "members": [
+        {
+            "name": "Craig Needham",
+            "position": "Attorney"
+        },
+        {
+            "name": "Anne J. Kepner",
+            "position": "Attorney"
+        },
+        {
+            "name": "Kirsten M. Fish",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": null
+}

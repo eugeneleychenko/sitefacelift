@@ -1,0 +1,73 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Experienced Legal Recruiter",
+            "content": "With decades of experience in the legal field, founder Mary Beth Monzingo Link has hands-on and executive expertise in law firm management, personnel, recruiting and legal marketing. She knows what her law firm clients need and how to help lawyers build momentum."
+        },
+        {
+            "title": "Personalized Consulting",
+            "content": "Monzingo LLC offers personalized consulting and coaching to give you the support you need to meet your career goals. We take the time to understand you and your career goals so we can make a viable match."
+        },
+        {
+            "title": "Comprehensive Services",
+            "content": "Monzingo Legal Consulting provides recruiting and legal marketing and management consulting services to lawyers and law firms. This includes aiding attorneys to start and run their firms and assisting with personnel issues."
+        },
+        {
+            "title": "Proven Recruiting Process",
+            "content": "Our recruiting process is tried and true and has resulted in hundreds of successful placements. We work with you from the start of the search to the candidate\u2019s first day of employment with your firm."
+        }
+    ],
+    "address": "6900 Daniels Pkwy, No. 29-227, Fort Myers, Florida 33912",
+    "phoneNumber": "(239) 770-8823",
+    "email": "mb@monzingolegal.com",
+    "linkNames": [
+        "HOME",
+        "ABOUT",
+        "LAW JOBS",
+        "CANDIDATES",
+        "EMPLOYERS",
+        "NEWS",
+        "CONSULTING",
+        "CONTACT"
+    ],
+    "companyName": "Monzingo LLC",
+    "subHeading": "Legal Recruiter. Legal Marketing.",
+    "valueProp": "With decades of experience in the legal field, founder Mary Beth Monzingo Link has hands-on and executive expertise in law firm management, personnel, recruiting and legal marketing within multiple law practice areas. She knows what her law firm clients need and how to help lawyers build momentum. Monzingo Legal Consulting provides recruiting and legal marketing and management consulting services to lawyers and law firms, including aiding attorneys to start and run their firms and assisting with personnel issues.",
+    "CTA": "Get in touch",
+    "topics": [
+        "Estates",
+        "Trust",
+        "Tax",
+        "Wealth Planning",
+        "Litigation",
+        "Trial",
+        "Civil Litigation",
+        "Estate Planning",
+        "Probate"
+    ],
+    "members": [
+        {
+            "name": "Mary Beth Monzingo Link",
+            "position": "Founder"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "I used Mary Beth to locate a Senior Associate Attorney for our firm. She made the process so easy.",
+            "author": "Bill McQueen, Esq.",
+            "location": "St. Petersburg, FL"
+        },
+        {
+            "text": "Mary Beth Monzingo is an amazing recruiter. I am so thankful I picked up the phone and called her to help me.",
+            "author": "Randall Hooper",
+            "location": "Brentwood, TN"
+        },
+        {
+            "text": "Mary Beth has gotten several fantastic candidates that have really helped me grow my business.",
+            "author": "Craige Thompson, JD, EE, PE",
+            "location": "Austin, TX"
+        }
+    ]
+}

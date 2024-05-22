@@ -1,0 +1,71 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Super Lawyer",
+            "content": "In 2024, Ronald Page was selected for the 11th year as a Virginia Super Lawyer in the practice area of bankruptcy. This recognition highlights his expertise and dedication in the field."
+        },
+        {
+            "title": "Legal Elite",
+            "content": "In 2023, Ronald Page was selected for the 5th year as one of the Legal Elite by Virginia Business Magazine in the practice area of bankruptcy. This accolade underscores his professional excellence and client satisfaction."
+        },
+        {
+            "title": "Client Approved",
+            "content": "Ronald Page has a perfect rating of 10 out of 10 on the lawyer referral website Avvo.com. He also boasts a 5-star rating for all client reviews, reflecting his commitment to client service."
+        },
+        {
+            "title": "Pro Bono Advocate",
+            "content": "Ronald Page proudly donates 10 percent of his practice to pro bono clients. This demonstrates his dedication to giving back to the community and helping those in need."
+        }
+    ],
+    "address": "14321 Winter Breeze Dr., Ste. 50, Midlothian, VA 23113",
+    "phoneNumber": "(804) 562-8704",
+    "email": "rpage@rpagelaw.com",
+    "linkNames": [
+        "FULL BIO",
+        "PRACTICES",
+        "OFFICES",
+        "NEWS",
+        "PAYMENTS",
+        "CONTACT"
+    ],
+    "companyName": "Ronald Page, PLC",
+    "subHeading": "Trusted Counsel",
+    "valueProp": "Ronald Page is a Richmond, Virginia attorney who represents clients in the areas of Business Bankruptcy, Consumer Bankruptcy, Commercial Litigation, Creditors' Rights, and Estate Planning. Ronald Page's bankruptcy practice includes representing individuals in personal reorganizations under Chapter 7, Chapter 11, and Chapter 13 of the Bankruptcy Code and representing secured and unsecured creditors, trustees, disinterested directors, and corporate debtors regarding insolvency matters, including Chapter 11 reorganizations, business liquidations, and loan workouts.",
+    "CTA": null,
+    "topics": [
+        "Commercial Litigation",
+        "Creditors\u2019 Rights",
+        "Business Restructuring",
+        "Consumer Bankruptcy",
+        "Business Formation",
+        "Estate Planning",
+        "Chapter 7 Bankruptcy",
+        "Chapter 11 Bankruptcy",
+        "Chapter 13 Bankruptcy"
+    ],
+    "members": [
+        {
+            "name": "Ronald Page",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Working with Ronald has been nothing short of refreshing and a positive experience in a stressful situation.",
+            "author": "Mark S.",
+            "location": "Business Owner"
+        },
+        {
+            "text": "Ron's expertise in bankruptcy and debtor-creditor matters will be immediately apparent to anyone who speaks with him.",
+            "author": "Thomas Nesbitt",
+            "location": "Attorney"
+        },
+        {
+            "text": "Ron is incredible to work with! I was so concerned about the legal process and he immediately helped me feel at ease.",
+            "author": "Christy S.",
+            "location": "Chapter 13 Client"
+        }
+    ]
+}

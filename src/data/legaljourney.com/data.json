@@ -1,0 +1,74 @@
+{
+    "paragraph": "Call 888-245-2919 or 813-517-1525 to schedule a consultation",
+    "detailsData": [
+        {
+            "title": "Fixed Price Services",
+            "content": "By offering services at a fixed price, we guarantee that our relationship will be based on meeting your needs without increasing your legal bill. This ensures transparency and affordability for our clients."
+        },
+        {
+            "title": "Personalized Attention",
+            "content": "As a solo practitioner, I take the time to get to know you personally. I work closely with you to determine your most pressing needs and concerns, utilizing the latest legal strategies and tools to achieve your goals."
+        },
+        {
+            "title": "Convenient Consultations",
+            "content": "Consultations are available in-person or online, including after hours and weekends. This flexibility ensures that you can receive legal guidance at a time and place that suits you best."
+        },
+        {
+            "title": "Comprehensive Legal Services",
+            "content": "We provide a wide range of services including estate planning, elder law, and asset protection. Our goal is to guide you through each step of your legal journey with expertise and care."
+        }
+    ],
+    "address": "2002 W. Cleveland St, Tampa, Florida 33606",
+    "phoneNumber": "813.344.5769",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "PRACTICE AREAS",
+        "FAQS",
+        "SEMINARS",
+        "BLOG",
+        "FORMS",
+        "FIRM PROFILE",
+        "CONSULTATION REQUEST",
+        "CONTACT"
+    ],
+    "companyName": "LegalJourney Law Firm",
+    "subHeading": "Legal Guidance Through Your Life's Journey",
+    "valueProp": "As you go through life, your circumstances change, be it through marriage, divorce, the birth of a child, an adoption, retirement or a new business. These changes often require that you have a solid plan in place to protect the people that are most important to you and the assets you have worked a lifetime to achieve. LegalJourney Law Firm will be there to provide you 'Legal Guidance Through Your Life's Journey.'",
+    "CTA": "Schedule an initial consultation today.",
+    "topics": [
+        "Estate Planning",
+        "Elder Law/Medicaid Planning",
+        "Planning for Children",
+        "Probate / Estate Administration",
+        "Guardianships",
+        "Special Needs Planning",
+        "Estate Tax Planning",
+        "Estate Litigation",
+        "Asset Protection"
+    ],
+    "members": [
+        {
+            "name": "Karnardo Garnett",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": "Consultations are available in-person or online, including after hours and weekends.",
+    "testimonalData": [
+        {
+            "text": "LegalJourney Law Firm provided exceptional service and guidance through my estate planning process.",
+            "author": "John Doe",
+            "location": "Tampa, FL"
+        },
+        {
+            "text": "I highly recommend Karnardo Garnett for his professionalism and expertise in elder law.",
+            "author": "Jane Smith",
+            "location": "Clearwater, FL"
+        },
+        {
+            "text": "The fixed price services offered by LegalJourney Law Firm gave me peace of mind and financial clarity.",
+            "author": "Robert Johnson",
+            "location": "St. Petersburg, FL"
+        }
+    ]
+}

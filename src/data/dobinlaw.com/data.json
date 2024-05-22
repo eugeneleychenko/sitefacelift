@@ -1,0 +1,72 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Client-First Approach",
+            "content": "Dobin Law Group places the client's interest first. They strive to achieve an optimal resolution, either through settlement or hearing, for their clients."
+        },
+        {
+            "title": "Extensive Experience",
+            "content": "Marc S. Dobin, the founder, has over 25 years of experience in securities arbitration, mediation, and litigation. This extensive experience ensures knowledgeable and effective representation."
+        },
+        {
+            "title": "Diverse Case Handling",
+            "content": "The firm has handled a wide variety of issues related to the securities business, including unauthorized trading, churning, unsuitability, and fraud claims. They also handle commercial disputes of various shapes and sizes."
+        },
+        {
+            "title": "Mediation Expertise",
+            "content": "Marc S. Dobin is a Florida Supreme Court Certified Circuit Civil Mediator. He has mediated numerous cases to conclusion, focusing on securities and commercial disputes."
+        }
+    ],
+    "address": "11954 SW Sandy Bay Circle, Port St. Lucie, FL 34987",
+    "phoneNumber": "561.575.5880",
+    "email": "Service@DobinLaw.com",
+    "linkNames": [
+        "HOME",
+        "ABOUT DOBINLAW",
+        "PRACTICE AREAS",
+        "MARC S. DOBIN",
+        "MARC'S BLOG",
+        "IN THE NEWS",
+        "CONTACT US"
+    ],
+    "companyName": "Dobin Law Group, P.A.",
+    "subHeading": "Mediator and Securities Lawyer in Palm Beach, Martin and Saint Lucie County, Florida",
+    "valueProp": "Dobin Law Group, P.A. is run by one basic principle, do right by the client. We place our client's interest first. We are a litigation firm. We deal in conflict. But we should never waiver from the primary objective, which is to achieve an optimal resolution, either through settlement or hearing, for our client.",
+    "CTA": "Contact Us Today",
+    "topics": [
+        "Mediation in Florida",
+        "Securities Regulatory and Registration Matters",
+        "Employment Matters",
+        "Commercial Litigation",
+        "Securities Litigation & Arbitration",
+        "Unauthorized Trading",
+        "Churning",
+        "Unsuitability",
+        "Fraud Claims"
+    ],
+    "members": [
+        {
+            "name": "Marc S. Dobin",
+            "position": "Attorney - Founder"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Marc Dobin provided exceptional legal representation and achieved a favorable outcome for my case.",
+            "author": "John Doe",
+            "location": "Palm Beach, FL"
+        },
+        {
+            "text": "The team at Dobin Law Group is professional, knowledgeable, and truly cares about their clients.",
+            "author": "Jane Smith",
+            "location": "Martin County, FL"
+        },
+        {
+            "text": "I highly recommend Marc Dobin for any securities litigation needs. He is experienced and dedicated.",
+            "author": "Robert Johnson",
+            "location": "Saint Lucie County, FL"
+        }
+    ]
+}

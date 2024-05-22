@@ -39,8 +39,29 @@ const Front = () => {
   const [generatedUrl, setGeneratedUrl] = useState("");
   const [navLinksInput, setNavLinksInput] = useState("");
   const [snackbarOpen, setSnackbarOpen] = useState(false);
+  const [activeStep, setActiveStep] = useState(1);
+  const [newEmail, setNewEmail] = useState("");
+  const [newName, setNewName] = useState("");
+  const [emailCounts, setEmailCounts] = useState(0);
 
   const endPoint = "http://127.0.0.1:5000/";
+
+  const handleNewEmailChange = (event) => {
+    setNewEmail(event.target.value);
+  };
+
+  const handleNewNameChange = (event) => {
+    setNewName(event.target.value);
+  };
+
+  const handleAddNewProspect = () => {
+    if (newEmail && newName) {
+      handleNameChange(newEmail, newName); // Update the name associated with the email
+      handleAddProspect(newEmail); // Add the new prospect
+      setNewEmail(""); // Reset the new email input field
+      setNewName(""); // Reset the new name input field
+    }
+  };
 
   useEffect(() => {
     // Fetch user lists on component mount
@@ -126,14 +147,33 @@ const Front = () => {
     setNavLinks(navLinksInput.split("\n").filter((link) => link.trim() !== ""));
   };
 
+  const updateEmailCount = async (domain) => {
+    try {
+      const response = await fetch(`${endPoint}email_count/${domain}`);
+      if (response.ok) {
+        const data = await response.json();
+        setEmailCounts(data); // Assuming setEmailCounts is the state updater function for emailCounts
+        console.log("Email count updated:", data);
+      } else {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+    } catch (error) {
+      console.error("Error updating email count:", error);
+    }
+  };
+
   const handleDomainSearch = () => {
+    setNavLinks([]);
+
     fetch(`${endPoint}ping_snov/${domain}`)
       .then((response) => response.json())
       .then((data) => {
         setEmails(data);
         console.log(emails);
       })
+
       .catch((error) => console.error("Error searching domain:", error));
+    setActiveStep(2); // Set the next step active after domain search
   };
 
   const handleAddProspect = async (email) => {
@@ -209,6 +249,7 @@ const Front = () => {
         setAttorneyNames(data.attorney_names || []); // Set the array directly or use an empty array if undefined
         setNavLinks(data.all_nav_links || []);
         setIsLoading(false); // Fallback to empty array if undefined
+        setActiveStep(3); // Set the next step active after extracting attorneys
       })
       .catch((error) => {
         console.error("Error fetching attorney names:", error);
@@ -245,6 +286,7 @@ const Front = () => {
 
       // Set the updated names in the state
       setNames(updatedNames);
+      setActiveStep(4); // Set the next step active after extracting attorneys
     } catch (error) {
       console.error("Error sending data to backend:", error);
     }
@@ -276,6 +318,7 @@ const Front = () => {
     } catch (error) {
       console.error("Error sending data to backend:", error);
       setIsBuildingSite(false);
+      setActiveStep(5); // Set the next step active after extracting attorneys
     }
   };
 
@@ -308,9 +351,27 @@ const Front = () => {
               <Button
                 variant="contained"
                 onClick={handleDomainSearch}
-                sx={{ alignSelf: "flex-start", mt: "10px" }}
+                sx={{
+                  alignSelf: "flex-start",
+                  mt: "10px",
+                  backgroundColor: activeStep === 1 ? "red" : "#1976d2",
+                  position: "relative",
+                }}
               >
                 Domain Search and Return Emails
+                <Badge
+                  badgeContent={emailCounts}
+                  color="primary"
+                  anchorOrigin={{
+                    vertical: "bottom",
+                    horizontal: "right",
+                  }}
+                  sx={{
+                    position: "absolute",
+                    // The transform property is used to position the badge correctly
+                    transform: "translate(50%, 50%)",
+                  }}
+                />
               </Button>
             </Badge>
           </Tooltip>
@@ -323,7 +384,11 @@ const Front = () => {
                 <Button
                   variant="contained"
                   onClick={extractAttorneysFromDomain}
-                  sx={{ alignSelf: "flex-end", mt: "10px" }}
+                  sx={{
+                    alignSelf: "flex-end",
+                    mt: "10px",
+                    backgroundColor: activeStep === 2 ? "red" : "#1976d2",
+                  }}
                   disabled={isLoading} // Disable the button while loading
                 >
                   Fetch Nav Links & Find Names of Attorneys
@@ -354,7 +419,11 @@ const Front = () => {
             <Button
               variant="contained"
               onClick={matchEmailstoNames}
-              sx={{ alignSelf: "flex-end", mt: "10px" }}
+              sx={{
+                alignSelf: "flex-end",
+                mt: "10px",
+                backgroundColor: activeStep === 3 ? "red" : "#1976d2",
+              }}
             >
               Match Emails to Names
             </Button>
@@ -363,7 +432,11 @@ const Front = () => {
           <Button
             variant="contained"
             onClick={buildTheSite}
-            sx={{ alignSelf: "flex-end", m: "10px" }}
+            sx={{
+              alignSelf: "flex-end",
+              m: "10px",
+              backgroundColor: activeStep === 4 ? "red" : "#1976d2",
+            }}
             disabled={isBuildingSite || navLinks.length === 0} // Disable the button while loading or if navLinks is empty
           >
             Build The Site
@@ -475,8 +548,42 @@ const Front = () => {
                   </Button>
                 </Box>
               ))}
+              {/* Add new email and name input fields below */}
+              <Box
+                sx={{
+                  width: "100%",
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "center",
+                  mt: 2,
+                  mb: 2,
+                }}
+              >
+                <TextField
+                  label="New Email"
+                  sx={{ flexGrow: 1, mr: 2 }}
+                  value={newEmail}
+                  onChange={handleNewEmailChange}
+                  margin="normal"
+                />
+                <TextField
+                  label="Name"
+                  sx={{ flexGrow: 1, mr: 2 }}
+                  value={newName}
+                  onChange={handleNewNameChange}
+                  margin="normal"
+                />
+                <Button
+                  variant="contained"
+                  onClick={handleAddNewProspect}
+                  disabled={!newEmail || !newName} // Disable if either new email or name is not entered
+                >
+                  Add to List
+                </Button>
+              </Box>
             </AccordionDetails>
           </Accordion>
+
           <Typography
             variant="h6"
             component="div"
@@ -497,7 +604,7 @@ const Front = () => {
           <Button
             variant="contained"
             onClick={updateNavLinks}
-            sx={{ alignSelf: "flex-end", m: "10px" }}
+            sx={{ alignSelf: "flex-start", m: "10px" }}
           >
             Update
           </Button>
@@ -522,7 +629,7 @@ const Front = () => {
       <Snackbar
         open={snackbarOpen}
         anchorOrigin={{ vertical: "top", horizontal: "right" }}
-        autoHideDuration={6000}
+        autoHideDuration={16000}
         onClose={() => setSnackbarOpen(false)}
         message={generatedUrl}
         action={

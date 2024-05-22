@@ -1,0 +1,83 @@
+{
+    "paragraph": "or call us at (800) 800-0000",
+    "detailsData": [
+        {
+            "title": "Proven Results",
+            "content": "The Barnes Firm has a track record of securing significant settlements, with over $2.5 Billion recovered for their clients."
+        },
+        {
+            "title": "Experienced Attorneys",
+            "content": "With over 500 combined years of experience, The Barnes Firm's attorneys bring extensive knowledge and expertise to every case."
+        },
+        {
+            "title": "No Fee Promise",
+            "content": "Clients are not charged any fees unless The Barnes Firm wins their case, ensuring access to justice for all."
+        },
+        {
+            "title": "24/7 Availability",
+            "content": "The Barnes Firm is available around the clock, offering free consultations and ensuring they are there when you need them."
+        }
+    ],
+    "address": null,
+    "phoneNumber": "(800) 800-0000",
+    "email": null,
+    "linkNames": [
+        "ABOUT US",
+        "ATTORNEYS",
+        "PRACTICE AREAS",
+        "RESOURCES",
+        "LOCATIONS",
+        "CONTACT"
+    ],
+    "companyName": "The Barnes Firm",
+    "subHeading": null,
+    "valueProp": "The Barnes Firm is one of America's leading personal injury law firms, dedicated to helping victims of accidents and injuries. With a team of experienced attorneys and a commitment to securing the best possible outcomes for their clients, The Barnes Firm has recovered billions of dollars in settlements and awards. Whether you're dealing with a car accident, workplace injury, or any other type of personal injury, The Barnes Firm is ready to fight for your rights and ensure you receive the compensation you deserve.",
+    "CTA": "Free Case Evaluation __",
+    "topics": [
+        "Motor Vehicle Accidents",
+        "Construction Accident Claims",
+        "Dog Bites",
+        "Slip & Fall Injuries",
+        "Medical Malpractice",
+        "Aviation Accidents",
+        "Defective Products",
+        "Bicycle Accident Attorneys",
+        "Pedestrian Accident Lawyers"
+    ],
+    "members": [
+        {
+            "name": "Steve Barnes",
+            "position": "Founder"
+        },
+        {
+            "name": "Rich Barnes",
+            "position": "Buffalo, NY"
+        },
+        {
+            "name": "Mory Ahmadi",
+            "position": "Los Angeles, CA"
+        },
+        {
+            "name": "Richard Amico",
+            "position": "Rochester, NY"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "I cannot say enough great things about my lawyer Rob Seigal at The Barnes firm. He was so on point, always called me back, kept in touch and let me know what was going on with the case.",
+            "author": "Saltwater and Sunshines",
+            "location": null
+        },
+        {
+            "text": "My attorney Landon Vivian did so well on both of my cases I\u2019m very appreciative of his team and the hard work he did I definitely will recommend him to anyone that needs help with any case.",
+            "author": "Jose S.",
+            "location": null
+        },
+        {
+            "text": "My personal injury lawyer was Jeff Bodily, he and his staff were wonderful and thorough throughout the 3 year process.",
+            "author": "Chelsea J.",
+            "location": null
+        }
+    ]
+}

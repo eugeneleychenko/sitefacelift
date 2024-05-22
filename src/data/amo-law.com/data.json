@@ -1,0 +1,71 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Flat Fees",
+            "content": "We offer flat fees so you are never surprised. This ensures transparency and trust in our services."
+        },
+        {
+            "title": "Plan Review",
+            "content": "We provide a plan review every 3 years at no extra cost. This keeps your estate plan current and effective."
+        },
+        {
+            "title": "Virtual Planning",
+            "content": "We offer virtual legal planning for your convenience. This allows you to plan from the comfort of your home."
+        },
+        {
+            "title": "Membership Programs",
+            "content": "Our membership programs ensure your plan works throughout your lifetime. This includes annual reviews and updates."
+        }
+    ],
+    "address": "1901 Newport Boulevard, Suite 350, Costa Mesa, CA 92627",
+    "phoneNumber": "(949) 891-2114",
+    "email": "info@amo-law.com",
+    "linkNames": [
+        "ABOUT",
+        "WHO WE SERVE",
+        "OUR PROCESS",
+        "SERVICES",
+        "RESOURCES",
+        "SCHEDULE ONLINE"
+    ],
+    "companyName": "AMO LAW",
+    "subHeading": "Legacy Planning",
+    "valueProp": "Do you know what would happen legally\u2014to you, your loved ones, your money, and everything else you care about\u2014if something unexpected happened to you? If you have an estate plan and it\u2019s out of date, your assets could be lost to the State Department of Unclaimed Property, or to an unnecessary Court process. If you don\u2019t know exactly what would happen for everyone you love and everything you own, then the first step is to find out exactly what would happen, legally and financially, so that you can decide if the current state of your affairs is okay with you.",
+    "CTA": "Schedule a FREE 15-Minute Consultation",
+    "topics": [
+        "Estate Planning",
+        "Kids Protection Planning",
+        "Asset Protection Planning",
+        "Legacy Planning",
+        "Digital Assets Planning",
+        "Family Wealth Inventory",
+        "Membership Programs",
+        "Plan Review",
+        "Virtual Legal Planning"
+    ],
+    "members": [
+        {
+            "name": "Cecilia Amo",
+            "position": "Founder"
+        }
+    ],
+    "openHours": "Monday to Friday \u2013 9:00 AM to 5:00 PM (By appointment only)",
+    "testimonalData": [
+        {
+            "text": "AMO LAW provided exceptional service and peace of mind for my family.",
+            "author": "John Doe",
+            "location": "Costa Mesa, CA"
+        },
+        {
+            "text": "The team at AMO LAW is knowledgeable and compassionate. Highly recommend!",
+            "author": "Jane Smith",
+            "location": "Corona, CA"
+        },
+        {
+            "text": "Thanks to AMO LAW, my estate plan is comprehensive and up-to-date.",
+            "author": "Robert Johnson",
+            "location": "Chino Hills, CA"
+        }
+    ]
+}

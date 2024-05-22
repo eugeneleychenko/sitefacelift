@@ -1,0 +1,80 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Client-Focused Services",
+            "content": "When you choose Scott Selis as your elder law attorney, you can expect to be treated with empathy and respect. Your comfort in our services is paramount and our team is here to support you at every point in your journey."
+        },
+        {
+            "title": "Open Communication",
+            "content": "With our team, you never have to worry if we're listening to your needs. We can answer any and all questions you may have about elder law in order to develop a plan to protect the things you have spent a lifetime earning."
+        },
+        {
+            "title": "A Friendly Team",
+            "content": "We focus on developing relationships with our clients in order to provide the personalized care you and your family deserve. Each member of our team will be friendly, knowledgeable, and responsive to your unique needs."
+        },
+        {
+            "title": "Comprehensive Services",
+            "content": "Our services include estate planning, probate, Medicaid, trust administration, and long-term care planning. We strive to provide families with peace of mind as they plan for the future."
+        }
+    ],
+    "address": "1024 N US Hwy 1, Ormond Beach, FL 32174",
+    "phoneNumber": "(866) 735-3377",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "BLOG",
+        "LOCATIONS",
+        "CALL US",
+        "CONTACT",
+        "ABOUT",
+        "OUR SERVICES"
+    ],
+    "companyName": "Selis Law Firm",
+    "subHeading": "Serving Florida With Elder Law & Estate Planning for All Ages",
+    "valueProp": "Attorney Scott A. Selis and his compassionate team provide families throughout Volusia County and all of Florida with a complete range of elder care and estate planning legal services from our offices in Ormond Beach and Palm Coast. To ensure you can reach your individual goals, our attorney's approach to elder law and estate planning includes client-focused services, open communication, and a friendly team.",
+    "CTA": "Request a Meeting With an Attorney",
+    "topics": [
+        "Estate Planning",
+        "Probate",
+        "Medicaid",
+        "Trust Administration",
+        "Long-term Care Planning",
+        "VA Representation and Pension Benefits",
+        "Elder Care Law",
+        "Medicaid Lawyer",
+        "Probate Lawyer"
+    ],
+    "members": [
+        {
+            "name": "Scott A. Selis",
+            "position": "Founder"
+        },
+        {
+            "name": "Judith Rhodes",
+            "position": "Paralegal"
+        },
+        {
+            "name": "Jemma Takx",
+            "position": "Estate Planning Attorney"
+        }
+    ],
+    "openHours": "Open Today 10:00am - 2:00pm",
+    "testimonalData": [
+        {
+            "text": "I highly recommend Selis law Group! Scott, DeLisa and Judy helped me through a difficult time after my father passed away.",
+            "author": "Janie Mayfield",
+            "location": "Palm Coast, FL"
+        },
+        {
+            "text": "The team who worked with my father were fantastic and treated him well. If you need a team to walk you through elder law, this is the place.",
+            "author": "Mary Kayler",
+            "location": "Palm Coast, FL"
+        },
+        {
+            "text": "A very patient and empathetic team here. Taking good care of our family when we are in great need of support.",
+            "author": "Melissa Kiel",
+            "location": "Palm Coast, FL"
+        }
+    ]
+}

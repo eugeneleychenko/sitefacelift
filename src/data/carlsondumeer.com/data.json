@@ -1,0 +1,89 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Experienced Legal Team",
+            "content": "We have more than 20 years of combined experience. Our firm has the resources and dedication to work hard for you."
+        },
+        {
+            "title": "Accessible 24/7",
+            "content": "We are accessible 24/7 for clients in Connecticut. We respond promptly to calls, texts, and emails."
+        },
+        {
+            "title": "Strong Attorney-Client Relationships",
+            "content": "We provide the support and counsel you need through strong attorney-client relationships. You will never have to worry about the dedication of your attorney when you retain our firm."
+        },
+        {
+            "title": "Free Case Evaluation",
+            "content": "We provide a free, no-obligation case evaluation. You have nothing to lose by contacting our firm."
+        }
+    ],
+    "address": "144 Whitney St. Hartford, CT 06105",
+    "phoneNumber": "877-795-5594",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "ABOUT US",
+        "CRIMINAL DEFENSE",
+        "FEDERAL CRIMINAL DEFENSE",
+        "PERSONAL INJURY",
+        "OTHER PRACTICE AREAS",
+        "ESPA\u00d1OL",
+        "VIDEO CENTER",
+        "CASE RESULTS",
+        "TESTIMONIALS",
+        "FIRM BLOG",
+        "CONTACT US"
+    ],
+    "companyName": "Carlson & Dumeer, LLC",
+    "subHeading": "Strength in Your Time of Need",
+    "valueProp": "At Carlson & Dumeer, LLC, our Hartford lawyers are backed by skills and knowledge to protect your rights and future. As a dual practice area law firm, we handle matters related to personal injury law and criminal defense law for clients in Hartford and Middletown.",
+    "CTA": "Contact us at (877) 795-5594 today to get started on your criminal defense or personal injury case in Hartford. When your future is hanging in the balance, let our attorneys fight for you!",
+    "topics": [
+        "Arson",
+        "Drug Crimes",
+        "DUI",
+        "Expungement",
+        "Federal Crimes",
+        "Internet Crimes",
+        "Probation Violations",
+        "Theft Crimes",
+        "Traffic Offenses"
+    ],
+    "members": [
+        {
+            "name": "Scott Carlson",
+            "position": "Attorney"
+        },
+        {
+            "name": "Brian Dumeer",
+            "position": "Attorney"
+        },
+        {
+            "name": "Vienna Ortiz",
+            "position": null
+        },
+        {
+            "name": "Christina Levesque",
+            "position": null
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "They got me a great award, but more importantly the level of service they gave me was phenomenal.",
+            "author": "J.L.F.",
+            "location": null
+        },
+        {
+            "text": "When you are so badly injured and shaken up you really need a champion and I found that in Attorney Dumeer.",
+            "author": "K.T.E.",
+            "location": null
+        },
+        {
+            "text": "You were recommended from a friend and I feel you went above and beyond to settle this case in reasonable time.",
+            "author": "C.G.",
+            "location": null
+        }
+    ]
+}

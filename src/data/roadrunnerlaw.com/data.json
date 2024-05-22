@@ -1,0 +1,65 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Local Experts",
+            "content": "We have been serving the New Mexico community for over 20 years. We know its laws, courts, attorneys, and system inside out."
+        },
+        {
+            "title": "Personal Attention",
+            "content": "We keep our caseload deliberately small so we can pay personal attention to each of our clients. We treat you like a friend, not a number."
+        },
+        {
+            "title": "Honest Communication",
+            "content": "We bring compassion, perseverance, and integrity into every case. We will always tell you the truth and help you understand every detail thoroughly."
+        },
+        {
+            "title": "No Win, No Fee",
+            "content": "We do not charge you a cent until we have won your case. We never take more than you receive in your pocket."
+        }
+    ],
+    "address": null,
+    "phoneNumber": "505-444-4321",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "NEWS",
+        "PRACTICE AREAS",
+        "ABOUT US",
+        "CONTACT US"
+    ],
+    "companyName": "Roadrunner Law",
+    "subHeading": "Top Injury Lawyers",
+    "valueProp": "Based in Albuquerque and serving all of New Mexico, we are the personal injury lawyers you want on your side.",
+    "CTA": "Call Now: 505-444-4321",
+    "topics": [
+        "Car Accidents",
+        "Motorcycle Accidents",
+        "Drunk Driving Victims",
+        "Animal Attacks & Dog Bites",
+        "Premises Liability",
+        "Bicycle Accident",
+        "Wrongful Death",
+        "Slip and Fall",
+        "Personal Injury"
+    ],
+    "members": [],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "From the first day I went in for a consultation, they were professional and knowledgeable of what I had just experienced.",
+            "author": "R. Herrera",
+            "location": null
+        },
+        {
+            "text": "Extremely professional, knowledgeable and compassionate. They keep you well informed and updated throughout the entire case.",
+            "author": "Paulina L.",
+            "location": null
+        },
+        {
+            "text": "Heather and Eva are amazing. They\u2019re very genuine and care about you as a client which was refreshing.",
+            "author": "Daxton M.",
+            "location": null
+        }
+    ]
+}

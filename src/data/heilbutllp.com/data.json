@@ -1,0 +1,64 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Courage to Solve",
+            "content": "We have the courage to solve big problems and ask the hard questions. Our team is dedicated to doing the big thinking to help you get where you\u2019re going."
+        },
+        {
+            "title": "Tailored Services",
+            "content": "We pride ourselves on caring for your business goals and anticipating your needs. Our services are tailored to each client\u2019s unique journey."
+        },
+        {
+            "title": "Collaborative Approach",
+            "content": "Our work style is centered around collaboration and candor. We are a firm for clients who value true partnership."
+        },
+        {
+            "title": "Integrity and Honesty",
+            "content": "We speak with honesty and act with integrity. We live our lives with curiosity both in and outside of the office."
+        }
+    ],
+    "address": "276 Fifth Avenue, Suite 704, PMB 17, New York, NY 10001",
+    "phoneNumber": "917.921.8394",
+    "email": null,
+    "linkNames": [
+        "ABOUT US",
+        "SERVICES",
+        "CONTACT",
+        "INSIGHTS"
+    ],
+    "companyName": "Heilbut LLP",
+    "subHeading": "Intellectual Property & Business Law",
+    "valueProp": "We pride ourselves on caring for your business goals, anticipating your needs, solving your problems, and meeting your priorities. The services listed here are merely a sample. We enjoy tailoring our services to each client\u2019s unique journey.",
+    "CTA": "Learn More",
+    "topics": [
+        "Trademark & Copyright",
+        "Patent Prosecution & Counseling",
+        "IP Licensing, Agreements, & Transactions",
+        "Corporate Governance",
+        "Employment Counsel",
+        "Corporate & Commercial Advisory",
+        "Founder's Counsel",
+        "Investor's Counsel",
+        "Mergers & Acquisitions"
+    ],
+    "members": null,
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Heilbut LLP has been instrumental in our business growth. Their tailored services and collaborative approach are unmatched.",
+            "author": "John Doe",
+            "location": "New York, NY"
+        },
+        {
+            "text": "The team at Heilbut LLP is incredibly knowledgeable and always acts with integrity. We couldn't ask for better legal partners.",
+            "author": "Jane Smith",
+            "location": "San Francisco, CA"
+        },
+        {
+            "text": "Their courage to solve big problems and ask the hard questions has been invaluable to our company.",
+            "author": "Michael Johnson",
+            "location": "Chicago, IL"
+        }
+    ]
+}

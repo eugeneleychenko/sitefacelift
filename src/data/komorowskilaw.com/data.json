@@ -1,0 +1,83 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Experienced Attorneys",
+            "content": "Our team consists of attorneys with substantial experience in the U.S. court system and international business law. We provide expert legal advice tailored to your business needs."
+        },
+        {
+            "title": "Comprehensive Services",
+            "content": "We offer a full range of legal and business services, from incorporation and fundraising to regulatory filings and corporate governance. Our goal is to support your business at every stage."
+        },
+        {
+            "title": "International Expertise",
+            "content": "Our attorneys are educated and experienced in both the U.S. and Europe, allowing us to provide comprehensive legal support for international business ventures. We understand the complexities of cross-border transactions."
+        },
+        {
+            "title": "Trusted by Clients",
+            "content": "We are trusted by a wide range of companies, from startups to well-established enterprises. Our clients operate primarily in the technology, IT, and healthcare sectors, both in the United States and internationally."
+        }
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "email": "office@komorowskilaw.com",
+    "linkNames": [
+        "HOME",
+        "SERVICES",
+        "RESOURCES",
+        "TEAM",
+        "CLIENTS",
+        "CONTACT"
+    ],
+    "companyName": "Komorowski PLLC",
+    "subHeading": "U.S. Business Law Services",
+    "valueProp": "We provide legal and business advice during the full cycle of a company\u2019s lifetime, from incorporation and fundraising, through ongoing commercial activity, to exits. Our area of expertise includes contract negotiation and drafting, corporate governance, and regulatory filings.",
+    "CTA": "Start or run a business venture in the U.S.",
+    "topics": [
+        "Incorporation",
+        "Fundraising",
+        "Contract Negotiation",
+        "Corporate Governance",
+        "Regulatory Filings",
+        "Commercial Litigation",
+        "Arbitration",
+        "International Business",
+        "Anticorruption Compliance"
+    ],
+    "members": [
+        {
+            "name": "Matteo Bonuzzi",
+            "position": "Attorney"
+        },
+        {
+            "name": "Stanislaw Komorowski",
+            "position": "Business Attorney"
+        },
+        {
+            "name": "Snaig\u0117 \u017didonyt\u0117",
+            "position": "Business and Legal Specialist"
+        },
+        {
+            "name": "Victoria Shemet",
+            "position": "Business and Legal Specialist"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Komorowski PLLC provided exceptional legal support for our startup. Their expertise in U.S. business law was invaluable.",
+            "author": "John Doe",
+            "location": "New York, NY"
+        },
+        {
+            "text": "The team at Komorowski PLLC is knowledgeable and professional. They helped us navigate complex international business regulations.",
+            "author": "Jane Smith",
+            "location": "San Francisco, CA"
+        },
+        {
+            "text": "We highly recommend Komorowski PLLC for their comprehensive legal services. They were instrumental in our successful fundraising efforts.",
+            "author": "Michael Johnson",
+            "location": "Chicago, IL"
+        }
+    ]
+}

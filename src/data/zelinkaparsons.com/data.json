@@ -1,0 +1,64 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Standard of Excellence",
+            "content": "Our elite programs have been developed by lawyers, for other intense career professionals to meet the needs and exacting expectations of professional services firms and their partners. And they're implemented by a highly trained team who has been carefully chosen for their experience and expertise to deliver."
+        },
+        {
+            "title": "Operating with Integrity",
+            "content": "You and your team will know exactly what to expect from our programs \u2014 the why, what and how. The transparency in our business and the commitment shown by our coach facilitators ensures your partners feel understood, supported and empowered."
+        },
+        {
+            "title": "People First Approach",
+            "content": "Relationships are at the heart of everything we do. They're the reason the world's leading law and professional services firms continue to trust us with their people, and the reason their partners feel comfortable and confident taking this important journey with us."
+        },
+        {
+            "title": "Customized Talent Solutions",
+            "content": "We offer customized workshops ranging from one to three hours that help to educate and empower your professionals and leaders about how to approach succession planning and prepare for life after retirement from an intense career. Over time, these workshops help to normalize the topics of retirement and succession planning, allowing for more proactive and effective engagement on these topics."
+        }
+    ],
+    "address": "7400 North Oracle Road Suite 150-201 Tucson, AZ 85704",
+    "phoneNumber": null,
+    "email": "info@zelinkaparsons.com",
+    "linkNames": [
+        "PROGRAMS",
+        "OUR APPROACH",
+        "ABOUT US",
+        "RESOURCES",
+        "CONTACT US"
+    ],
+    "companyName": "Zelinka Parsons",
+    "subHeading": "The succession planning partnership for retirement success",
+    "valueProp": "Succession planning is a critical element of a firm\u2019s talent management strategy and more importantly, the key to ensuring the wellbeing of your team as they prepare for retirement. Zelinka Parsons is the experienced partner you need to help plan a successful path forward \u2014 for everyone.",
+    "CTA": "Book a consultation",
+    "topics": [],
+    "members": [
+        {
+            "name": "Elizabeth Zelinka",
+            "position": "Co-Founder"
+        },
+        {
+            "name": "David Parsons",
+            "position": "Co-Founder"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "I absolutely and enthusiastically recommend that every partner considering participating do so. I am so happy that I did.",
+            "author": "Cary H.",
+            "location": null
+        },
+        {
+            "text": "Zelinka Parsons is a wonderful resource for committed professionals who need to find additional meaning in their lives.",
+            "author": "John B., Partner, AmLaw 10 Firm",
+            "location": null
+        },
+        {
+            "text": "I have executed on the game plan we devised together and am thoroughly enjoying my retirement.",
+            "author": "Partner, AmLaw 10 Firm",
+            "location": null
+        }
+    ]
+}

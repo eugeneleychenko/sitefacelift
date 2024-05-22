@@ -1,0 +1,69 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Client-Centric Approach",
+            "content": "At The Gordian Knot, the client comes first. Always. The Gordian Knot can represent you independently or partner with your existing counsel."
+        },
+        {
+            "title": "Skilled Storytelling",
+            "content": "There is a story behind every transaction \u2013 your story. The Gordian Knot leverages its business and financial services experience to tell your story in a way your lender or transaction partner will understand."
+        },
+        {
+            "title": "Business-Centric Approach",
+            "content": "The Gordian Knot pursues a business-centric, not a lawyer-centric, approach to your transaction. After all, it's your deal \u2013 not ours. The tail should never wag the dog."
+        },
+        {
+            "title": "Cost-Effective Solutions",
+            "content": "The Gordian Knot doesn't hire associates or rent expensive office space. Use the savings on legal fees to grow your business."
+        }
+    ],
+    "address": "525 North Tryon Street, Suite 1600, Charlotte, North Carolina 28202",
+    "phoneNumber": "704.499.6281",
+    "email": "mcash@gordianknotlaw.com",
+    "linkNames": [
+        "ABOUT",
+        "SERVICES",
+        "FIRST FRIDAYS",
+        "CONTACT"
+    ],
+    "companyName": "The Gordian Knot",
+    "subHeading": "BigLaw Experience Without BigLaw Fees",
+    "valueProp": "Leveraging decades of legal and business experience, The Gordian Knot offers business and corporate clients efficient, cost-effective access to services typically associated with larger traditional law firms. The Gordian Knot is committed to ensuring that your needs drive the representation, providing a business-centric approach to your transactions.",
+    "CTA": "Learn More",
+    "topics": [
+        "Fractional General Counsel",
+        "General Corporate",
+        "Commercial Finance",
+        "Real Estate Finance",
+        "Structured Finance",
+        "Business & Corporate Representation",
+        "Crisis Management",
+        "Strategic Assessments",
+        "Critical Path Initiatives"
+    ],
+    "members": [
+        {
+            "name": "Marvin S. Cash",
+            "position": "Founder"
+        }
+    ],
+    "openHours": "Hours by Appointment Only",
+    "testimonalData": [
+        {
+            "text": "Marvin is a strategic thinker and really knows how to analyze and formulate a business plan.",
+            "author": "John Doe",
+            "location": "Charlotte, NC"
+        },
+        {
+            "text": "The Gordian Knot provided us with cost-effective solutions that helped grow our business.",
+            "author": "Jane Smith",
+            "location": "Raleigh, NC"
+        },
+        {
+            "text": "Their client-centric approach made us feel valued and understood.",
+            "author": "Michael Johnson",
+            "location": "Durham, NC"
+        }
+    ]
+}

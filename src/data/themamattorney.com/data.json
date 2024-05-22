@@ -1,0 +1,71 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Legal Expertise",
+            "content": "As an established trial attorney, Daphne has recovered millions of dollars for her clients. For the first time, a trial lawyer of this caliber is sharing all of her expertise to the public, without sending anyone an attorney bill."
+        },
+        {
+            "title": "Comprehensive Support",
+            "content": "The Academy provides all of Daphne\u2019s secrets, provided through videos, checklists and handouts. It also provides step-by-step 'how to' scripts and tools so you can succeed as a woman in the workforce."
+        },
+        {
+            "title": "Community Connection",
+            "content": "Connect with other powerful women who are educated advocates through community and support. The Academy offers regular group sessions with Daphne and continuous support through an online community."
+        },
+        {
+            "title": "Affordable Access",
+            "content": "Much to the disdain of other lawyers who charge hourly for this information, Daphne decided to make everything available for an affordable price. The content is also easy-to-digest, woman-to-woman, and judgment-free."
+        }
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "BLOG",
+        "ABOUT",
+        "MEDIA",
+        "FAQ",
+        "THE MAMATTORNEY ACADEMY"
+    ],
+    "companyName": "The Mamattorney",
+    "subHeading": "Confidently Advocate for Your Rights at Work",
+    "valueProp": "Protect your paycheck, your time with your family, your health and your sanity! Learn how to advocate for your rights at work. The motherhood tax is real. The pay gap still exists. Too many women are forced out of jobs. It\u2019s time to change that.",
+    "CTA": "Join the Academy!",
+    "topics": [
+        "Pregnancy Rights",
+        "Parental Leave Rights",
+        "Back to Work Rights",
+        "Equal Pay Rights",
+        "Pregnancy Discrimination",
+        "Parental Leave Benefits",
+        "Postpartum Accommodations",
+        "Lactation Rights",
+        "Gender Discrimination"
+    ],
+    "members": [
+        {
+            "name": "Daphne Delvaux",
+            "position": "Trial Attorney"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Thanks for all your info as you\u2019ve so far saved our family! Thanks to your help I was able to keep my job and healthcare while tending to my kids.",
+            "author": "April",
+            "location": null
+        },
+        {
+            "text": "I want to thank you deeply for all that you do! I was empowered and today I received the yes!!! I will be off for 12 extra paid weeks after pregnancy disability leave.",
+            "author": "Adi",
+            "location": null
+        },
+        {
+            "text": "I\u2019m a huge fan of yours! What you do is so appreciated and has already helped me a ton! You answered more of my questions about leave rights than my employer was able to!",
+            "author": "KD",
+            "location": null
+        }
+    ]
+}

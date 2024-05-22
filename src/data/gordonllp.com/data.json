@@ -1,0 +1,86 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Experienced Attorneys",
+            "content": "With decades of employment law experience handling some of the toughest trials, Gordon Law Group\u2019s employment lawyers understand the underlying legal issues. They have the knowledge, skills, and experience needed to guide clients to successful outcomes without sacrificing results."
+        },
+        {
+            "title": "Employee Advocacy",
+            "content": "Dedicated to employee litigation and advocacy, representing employees at all stages of their careers, from service workers to CEOs. The firm is committed to advocating for employees who have been wronged."
+        },
+        {
+            "title": "Class Action Expertise",
+            "content": "Gordon Law Group has been among the pioneers in class action litigation. Their Boston employment lawyers are often recognized for their work across a wide variety of industries."
+        },
+        {
+            "title": "Comprehensive Legal Services",
+            "content": "The firm handles a wide range of employment law matters, including wage and hour, overtime, commissions, bonuses, and employment discrimination. They also assist with employment contracts, non-competition clauses, and severance agreements."
+        }
+    ],
+    "address": "585 Boylston St, Boston, MA 02116",
+    "phoneNumber": "(800) 403-7755",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "ABOUT US",
+        "OUR ATTORNEYS",
+        "LABOR & EMPLOYMENT LAW",
+        "EXECUTIVE EMPLOYMENT LAW",
+        "CLASS ACTIONS",
+        "FAQS",
+        "BLOG",
+        "CONTACT US"
+    ],
+    "companyName": "Gordon Law Group",
+    "subHeading": "Representing employees throughout Massachusetts",
+    "valueProp": "Dedicated to employee litigation and advocacy, representing employees at all stages of their careers, from service workers to CEOs. Gordon Law Group\u2019s attorneys are widely considered among the best employment lawyers.",
+    "CTA": "Contact Us Now",
+    "topics": [
+        "Age Discrimination",
+        "Commission Dispute",
+        "Discrimination",
+        "Independent Contractor",
+        "Minimum Wage",
+        "Unpaid Wages & Overtime",
+        "Race Discrimination",
+        "Wrongful Termination",
+        "Severance Agreements"
+    ],
+    "members": [
+        {
+            "name": "Philip J. Gordon",
+            "position": "Attorney"
+        },
+        {
+            "name": "Benjamin M. Flam",
+            "position": "Attorney"
+        },
+        {
+            "name": "Elizabeth A. Rodgers",
+            "position": "Attorney"
+        },
+        {
+            "name": "Kristen M. Hurley",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Extraordinary skill displayed in this litigation.",
+            "author": "Judge Daniel O'Shea",
+            "location": null
+        },
+        {
+            "text": "Impressive scholarly expertise.",
+            "author": "Judge Joseph F. Leighton, Jr.",
+            "location": null
+        },
+        {
+            "text": "Extensive experience and success in the realm of class action lawsuits.",
+            "author": "Judge Robert C. Cosgrove",
+            "location": null
+        }
+    ]
+}

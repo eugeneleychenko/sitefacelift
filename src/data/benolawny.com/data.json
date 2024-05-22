@@ -1,0 +1,70 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Expert Legal Assistance",
+            "content": "Our team has over 50 years of experience practicing law in New York State. We specialize in Immigration Law, Family Law, and Real Estate Law."
+        },
+        {
+            "title": "Multilingual Team",
+            "content": "We have a multilingual team that can cater to diverse client needs. This ensures clear communication and better understanding of your legal matters."
+        },
+        {
+            "title": "Individualized Strategies",
+            "content": "We provide individualized, knowledgeable legal assistance tailored to your specific needs. Our goal is to deliver optimal results for each client."
+        },
+        {
+            "title": "Up-to-date Knowledge",
+            "content": "We stay current with changes in laws and regulations. Our clients are always informed about any updates that may affect their cases."
+        }
+    ],
+    "address": "299 Broadway Suite 1415 New York, NY 10007",
+    "phoneNumber": "212-608-8800",
+    "email": "contactus@benolawny.com",
+    "linkNames": [
+        "HOME",
+        "SERVICES",
+        "ABOUT US",
+        "RESOURCES",
+        "CONTACT"
+    ],
+    "companyName": "Beti Beno Law Group P.C.",
+    "subHeading": "Specializing in Immigration, Family and Real Estate Law",
+    "valueProp": "When faced with the U.S. legal system, you need a trusted legal partner that will navigate all legal complexities for you and with you and will deliver the best results possible. Beti Beno Law Group P.C. brings an unmatched level of expertise in Immigration Law, Family Law, and Real Estate Law.",
+    "CTA": "Have a question? Contact us for a free consultation.",
+    "topics": [
+        "Political Asylum",
+        "Cancellation of Removal",
+        "Adjustment of Status",
+        "Citizenship",
+        "Divorce Proceedings",
+        "Prenuptial Agreements",
+        "Child and Spousal Support",
+        "Child Custody",
+        "Real Estate Closing"
+    ],
+    "members": [
+        {
+            "name": "Beti Beno",
+            "position": "Founder and President"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "I'll be indebted to you and your team my entire life. You have helped me beyond words.",
+            "author": "Valon M.",
+            "location": null
+        },
+        {
+            "text": "I highly recommend Beti Beno Law Group. Beti is by far the best person for the job.",
+            "author": "Arta K.",
+            "location": null
+        },
+        {
+            "text": "Ms. Beti and her team are professional and courteous. They worked hard to reverse removal proceedings.",
+            "author": "Jose G.",
+            "location": null
+        }
+    ]
+}

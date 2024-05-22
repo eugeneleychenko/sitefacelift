@@ -1,0 +1,75 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Enterprise Solution",
+            "content": "CMS offers an enterprise solution for all your loan origination, forward and reverse, and loan servicing needs. Our highly configurable solutions provide all the tools and integrations you need to keep operations streamlined."
+        },
+        {
+            "title": "Customer Support",
+            "content": "Our customer support team is available to help with all of your questions 24/7, not just during implementation. Your company will also have a dedicated account manager to keep you on track and be a guide for new enhancements and product updates."
+        },
+        {
+            "title": "Compliance Focused",
+            "content": "CMS is committed to ensuring our customers meet ever-changing compliance regulations. Our client-driven audits will help you prepare for changes and prevent costly errors."
+        },
+        {
+            "title": "Industry Experience",
+            "content": "Each team member has experience in the mortgage industry. They know what you need and how to help you, closing an average of 73% of first-time tickets within 24 hours of submission."
+        }
+    ],
+    "address": "2 Towne Square, Suite 150, Southfield, MI 48076",
+    "phoneNumber": "(800) 850-8060",
+    "email": null,
+    "linkNames": [
+        "OUR STORY",
+        "SOLUTIONS",
+        "AFFILIATES",
+        "PRICING",
+        "PARTNERS",
+        "NEWS",
+        "EVENTS",
+        "CONTACT US"
+    ],
+    "companyName": "Constellation Mortgage Solutions",
+    "subHeading": "The GOLD standard in mortgage lending technology",
+    "valueProp": "Constellation Mortgage Solutions (CMS) is the GOLD standard in mortgage lending technology. CMS offers an enterprise solution for all your loan origination, forward and reverse, and loan servicing needs. CMS empowers your team, quickly adapts to changing regulations, and is customizable to your unique workflow. Our highly configurable solutions provide all the tools and integrations you need to keep operations streamlined and within the CMS enterprise platform.",
+    "CTA": "Request Your Demo Today",
+    "topics": [],
+    "members": [
+        {
+            "name": "Frank Poiesz",
+            "position": "President & General Manager"
+        },
+        {
+            "name": "Kelli Himebaugh",
+            "position": "Chief Revenue Officer"
+        },
+        {
+            "name": "Kendrew Peacey",
+            "position": "Chief Technology Officer"
+        },
+        {
+            "name": "Liz Fafette",
+            "position": "VP Product Management"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "CMS has transformed our loan origination process, making it more efficient and compliant.",
+            "author": "John Doe",
+            "location": "California"
+        },
+        {
+            "text": "The customer support at CMS is unparalleled. They are always available to help.",
+            "author": "Jane Smith",
+            "location": "New York"
+        },
+        {
+            "text": "With CMS, we have seen a significant improvement in our loan servicing operations.",
+            "author": "Michael Johnson",
+            "location": "Texas"
+        }
+    ]
+}

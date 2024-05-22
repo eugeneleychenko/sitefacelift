@@ -87,6 +87,58 @@ def ping_snov(domain):
     verified_emails = [item['email'] for item in response_data.get('data', []) if item['status'] == 'verified']
     return jsonify(verified_emails)
 
+
+@app.route("/email_count/<domain>", methods=['GET'])
+def email_count(domain):
+    print("Starting email_count route for domain:", domain)
+    # Attempt to use cached access token
+    if 'access_token' in token_cache and 'expires_at' in token_cache:
+        if datetime.now() < token_cache['expires_at']:
+            access_token = token_cache['access_token']
+        else:
+            # Token has expired, fetch a new one
+            access_token_response = get_snov_token_route()
+            if not access_token_response:
+                abort(500, description="Failed to obtain new access token.")
+            access_token = access_token_response.get_json().get('access_token')
+            token_cache['access_token'] = access_token
+            token_cache['expires_at'] = datetime.now() + timedelta(hours=1)
+    else:
+        # No token in cache, fetch a new one
+        access_token_response = get_snov_token_route()
+        if not access_token_response:
+            abort(500, description="Failed to obtain access token.")
+        access_token = access_token_response.get_json().get('access_token')
+        token_cache['access_token'] = access_token
+        token_cache['expires_at'] = datetime.now() + timedelta(hours=1)
+
+    print("Fetching email count for domain:", domain)
+    email_count_response = get_email_count(domain, access_token)
+    print("Email count response:", email_count_response)
+    if 'error' in email_count_response:
+        print("Error in email count response:", email_count_response['error'])
+        abort(email_count_response['status_code'], description=email_count_response['error'])
+    
+    # Extracting the result from the response
+    result = email_count_response.get('result', 0)
+    print("Extracted result:", result)
+    return jsonify({'result': result})
+
+# Helper function to get email count, now requires access_token as a parameter
+def get_email_count(domain, access_token):
+    params = {
+        'access_token': access_token,
+        'domain': domain
+    }
+
+    res = requests.post('https://api.snov.io/v1/get-domain-emails-count', data=params)
+    if res.status_code == 200:
+        return json.loads(res.text)
+    else:
+        return {'error': 'Failed to get email count', 'status_code': res.status_code}
+
+
+
 # This endpoint is responsible for fetching and returning a list of user-created lists from the Snov.io API. 
 # It retrieves these lists by making a GET request to the Snov.io 'get-user-lists' endpoint using the access token obtained from the Snov.io authentication process. 
 # The response is a JSON object containing an array of lists, each list having an 'id' and a 'name'. This is useful for applications that need to display or interact with these user lists, such as adding new prospects to a specific list.
@@ -172,7 +224,7 @@ def scrape_links(domain_name):
         # Ensure the domain name is prefixed with https://www.
         if not domain_name.startswith(('http://', 'https://')):
             domain_name = 'https://www.' + domain_name
-        response = requests.get(domain_name, headers=headers)
+        response = requests.get(domain_name, headers=headers, verify=False)
         if response.status_code == 200:
             # Convert HTML to Markdown
             markdown = html2text.HTML2Text().handle(response.text)
@@ -254,7 +306,7 @@ def find_nav_links(navigation_links):
              
              Only return a json with 2 keys. Do not return example.com. : 
              1) call this key, 'all_nav_links' and have an array of the links that are in the navigation,  The links should be full links, including the domain. Do not make up any links, only use it from the list provided. If links for certain pages dont exist then ignore that page. Only include URLs that are concise, focused on the main website or high-level categories, and do not appear to be designed for narrow geo-targeted SEO keywords. For example, instead of "https://example.com/city/long-tail-keyword-phrase/", prefer URLs like "https://example.com/" or "https://example.com/main-category/". Don't include the blog page, privacy-policy, site-map 
-             2) call this 'lawyer_link' the link for the url that contains the list of lawyers that work at the firm. The links should be full links, including the domain. Do not make up any links, only use it from the list provided. If links for certain pages dont exist then ignore that page.
+             2) call this 'lawyer_link' the link for the url that contains the list of lawyers that work at the firm. The links should be full links, including the domain. Do not make up any links, only use it from the list provided. If links for certain pages dont exist then ignore that page. If it's none, that it's most likely the /about page.
              """
     # Convert navigation links to a string format for the prompt
     formatted_links = "\n".join([f"- {link['text']}: {link['url']}" for link in navigation_links])
@@ -262,7 +314,7 @@ def find_nav_links(navigation_links):
 
     # Pass the system message and formatted prompt to the LLM
     response = client.chat.completions.create(
-        model="gpt-4-turbo-2024-04-09",
+        model=os.getenv("latest_openai_model"),
         # model="gpt-3.5-turbo-0125",
         messages=[
             # {"role": "system", "content": system_message},
@@ -283,7 +335,7 @@ def find_nav_links(navigation_links):
 
 
 #     Takes a URL that contains the names of the attorneys that work at the firm,
-#     converts that page to markdown, passes it to OpenAI, and extracts all the names
+#     converts that page to markdown, passes it to OpenAI, and s all the names
 #     of the people who work at the firm.
 
 def extract_attorney_names(attorney_page_url):
@@ -291,7 +343,7 @@ def extract_attorney_names(attorney_page_url):
     try:
         # Fetch the HTML content from the URL
         headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36'}
-        response = requests.get(attorney_page_url, headers=headers)
+        response = requests.get(attorney_page_url, headers=headers, verify=False)
         if response.status_code == 200:
             # Convert HTML to Markdown
             markdown = html2text.HTML2Text().handle(response.text)
@@ -299,7 +351,7 @@ def extract_attorney_names(attorney_page_url):
             # Construct the prompt to extract names
             prompt = "Extract and only return, in an array, all the names of the people who work at the firm from the following text:\n\n" + markdown
             # Initially try with the gpt-3.5-turbo model
-            model = "gpt-3.5-turbo-0125"
+            model="gpt-3.5-turbo-0125"
             try:
                 # Pass the prompt to the LLM
                 response = client.chat.completions.create(
@@ -313,7 +365,7 @@ def extract_attorney_names(attorney_page_url):
             except Exception as e:
                 # If an error occurs, switch to the gpt-4-turbo-2024-04-09 model
                 print(f"Error with {model}: {e}. Switching to gpt-4-turbo-2024-04-09 model.")
-                model = "gpt-4-turbo-2024-04-09"
+                model=os.getenv("latest_openai_model")
                 response = client.chat.completions.create(
                     model=model,
                     messages=[
@@ -446,7 +498,16 @@ def build_the_site():
         if not custom_urls:
             abort(400, description="Missing required field 'urls'. Please provide an array of URLs.")
         
-        main(custom_urls)
+        # Log the URLs being processed
+        app.logger.info(f"Processing URLs: {custom_urls}")
+
+        # Call the main function and log any errors
+        try:
+            main(custom_urls)
+        except Exception as e:
+            app.logger.error(f"Error in main function: {e}")
+            abort(500, description=f"An error occurred while processing the URLs: {e}")
+
         return jsonify({'message': 'Site built successfully'})
     except Exception as e:
         # Log the error

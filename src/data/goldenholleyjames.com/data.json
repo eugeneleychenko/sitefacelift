@@ -1,0 +1,76 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Nationally Recognized Expertise",
+            "content": "Holley & Pearson-Farrer LLP is a boutique law firm nationally recognized for our expertise in public finance. Our mission is to provide expert legal advice to clients working to improve their communities with creative use of economic development finance tools."
+        },
+        {
+            "title": "Innovative Counsel",
+            "content": "Since the firm was founded in 1993, our attorneys have provided forward-looking, innovative, clear, and practical counsel. We have been involved in more than $150 billion in complex public and corporate finance transactions."
+        },
+        {
+            "title": "Certified MWBE and DBE",
+            "content": "Holley & Pearson-Farrer is a certified minority-and woman-owned (MWBE) and disadvantaged (DBE) firm. This certification underscores our commitment to diversity and inclusion in the legal profession."
+        },
+        {
+            "title": "Award-Winning Service",
+            "content": "We were recently recognized for our role as disclosure counsel in The Bond Buyer\u2019s 2023 Deal of the Year. This accolade highlights our dedication to excellence and client satisfaction."
+        }
+    ],
+    "address": "444 West Lake Street Suite 1700, Chicago, Illinois 60606",
+    "phoneNumber": "(855) 770-9090",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "ABOUT H|PF",
+        "WHO WE ARE",
+        "WHAT WE DO",
+        "OUR WORK",
+        "NEWS AND INSIGHTS",
+        "CONTACT US"
+    ],
+    "companyName": "Holley & Pearson-Farrer LLP",
+    "subHeading": "Decades of Experience Shaping the Future",
+    "valueProp": "Holley & Pearson-Farrer LLP is a boutique law firm nationally recognized for our expertise in public finance. Our mission is to provide expert legal advice to clients working to improve their communities with creative use of economic development finance tools.",
+    "CTA": "Contact Us Today",
+    "topics": [
+        "Bond Counsel",
+        "Disclosure Counsel",
+        "Underwriters\u2019 Counsel",
+        "Complex Transactions and Post-Issuance Representation",
+        "Issuer\u2019s Counsel",
+        "Borrower\u2019s Counsel",
+        "Bank Counsel",
+        "Defeasance Counsel",
+        "Economic Development"
+    ],
+    "members": [
+        {
+            "name": "Charles J. Holley",
+            "position": "Partner"
+        },
+        {
+            "name": "Natalia N. Pearson-Farrer",
+            "position": "Partner"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Holley & Pearson-Farrer LLP provided exceptional service and expertise in our public finance project.",
+            "author": "John Doe",
+            "location": "Chicago, IL"
+        },
+        {
+            "text": "Their innovative approach and dedication to client satisfaction set them apart.",
+            "author": "Jane Smith",
+            "location": "New York, NY"
+        },
+        {
+            "text": "We highly recommend Holley & Pearson-Farrer LLP for their professionalism and expertise.",
+            "author": "Michael Johnson",
+            "location": "Savannah, GA"
+        }
+    ]
+}

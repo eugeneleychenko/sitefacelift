@@ -1,0 +1,72 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Independent Nationwide Specialist",
+            "content": "Capital Appellate Advocacy is an independent, nationwide appellate litigation boutique. It combines Big Law prestige, expertise, and experience with the flexibility of flat-fee billing."
+        },
+        {
+            "title": "Pro-Business Focus",
+            "content": "The firm is pro-business, handling appeals for individual companies and writing amicus curiae briefs for entire industries. This focus ensures a deep understanding of business-related legal issues."
+        },
+        {
+            "title": "Experienced Leadership",
+            "content": "Larry Ebner, the firm's leader, has a storied career in appellate litigation. He has been repeatedly recognized as a top appellate lawyer and has extensive experience in the U.S. Supreme Court and federal courts of appeals."
+        },
+        {
+            "title": "Strategic Amicus Briefs",
+            "content": "The firm excels in writing persuasive amicus briefs. These briefs are used strategically to influence court decisions, drawing on Larry Ebner's expertise and experience in judicial advocacy."
+        }
+    ],
+    "address": "1701 Pennsylvania Ave NW, Suite 200, Washington, DC 20006",
+    "phoneNumber": "202-872-0011",
+    "email": "lawrence.ebner@capitalappellate.com",
+    "linkNames": [
+        "HOME",
+        "LARRY EBNER",
+        "SERVICES",
+        "NEWS",
+        "PUBLICATIONS",
+        "COMMENTARY",
+        "ALL THINGS AMICUS"
+    ],
+    "companyName": "Capital Appellate Advocacy PLLC",
+    "subHeading": "Independent. Nationwide. Pro-Business. Flat-Fee Appellate Specialist.",
+    "valueProp": "Capital Appellate Advocacy is a pro-business appellate litigation boutique that combines Big Law prestige, expertise, and experience with the flexibility of flat-fee billing. Led by Larry Ebner, the firm handles appeals for individual companies and writes amicus curiae briefs for entire industries, primarily in the U.S. Supreme Court and federal courts of appeals.",
+    "CTA": "Learn more about Larry",
+    "topics": [
+        "Appellate Strategy",
+        "Brief-Writing",
+        "Oral Argument",
+        "Amicus Briefs",
+        "Supreme Court",
+        "Federal Courts of Appeals",
+        "State Appellate Courts",
+        "Federal Preemption",
+        "Judicial Advocacy"
+    ],
+    "members": [
+        {
+            "name": "Lawrence S. Ebner",
+            "position": "Executive Vice President & General Counsel"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Larry Ebner's expertise in appellate litigation is unparalleled. His strategic approach and persuasive writing have been invaluable.",
+            "author": "John Doe",
+            "location": "New York, NY"
+        },
+        {
+            "text": "Capital Appellate Advocacy provided exceptional service and delivered outstanding results. Highly recommend!",
+            "author": "Jane Smith",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "The firm's pro-business focus and flat-fee billing make them a top choice for appellate litigation.",
+            "author": "Michael Johnson",
+            "location": "Chicago, IL"
+        }
+    ]
+}

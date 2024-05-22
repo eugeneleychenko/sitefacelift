@@ -1,0 +1,77 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Personalized Approach",
+            "content": "Unlike many large recruitment firms, we work directly with you throughout the entire recruitment cycle. This boutique-like approach builds deeper individual relationships between our recruiters and our clients."
+        },
+        {
+            "title": "Thorough Vetting",
+            "content": "We spend a considerable amount of time interviewing and getting to know the candidates. This ensures that they are a good fit in advance of client presentation."
+        },
+        {
+            "title": "Strategic Partner",
+            "content": "We take the time to know the hiring managers and managing partners at many top firms. This allows us to speak intelligently with candidates about the roles we are representing and your firm."
+        },
+        {
+            "title": "End-to-End Support",
+            "content": "We stay engaged and work with the client through the offer stage. This ensures a seamless process from start to finish."
+        }
+    ],
+    "address": null,
+    "phoneNumber": "917.301.9163",
+    "email": "Kevin@MerkerGroup.com",
+    "linkNames": [
+        "WHO WE ARE",
+        "HOW WE ARE DIFFERENT",
+        "OUR PROCESS",
+        "EMPLOYERS",
+        "CANDIDATES",
+        "ACTIVE SEARCHES",
+        "CONTACT US",
+        "INSIGHTS"
+    ],
+    "companyName": "The Merker Group",
+    "subHeading": "Legal and Compliance Recruiting",
+    "valueProp": "The Merker Group is a leading national recruiting firm. We work many of the top law firms across the nation. We also have clients that range from small start-ups to multinational corporations across all industries and sectors. The combination of our unique approach and our in depth knowledge of the legal market, along with actual experience practicing law, makes us the ideal choice for your next search.",
+    "CTA": "See How We Are Different | Go",
+    "topics": [
+        "Legal Recruitment",
+        "Compliance Recruitment",
+        "In-House Counsel",
+        "Law Firm Associates",
+        "Senior Associates",
+        "Counsel",
+        "Start-Ups",
+        "Fortune 100 Companies",
+        "Fortune 500 Companies"
+    ],
+    "members": [
+        {
+            "name": "Danielle Goldstone Merker",
+            "position": "Co-Founder and President"
+        },
+        {
+            "name": "Kevin Merker",
+            "position": "Co-Founder and Head of Business Development and Marketing"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "The Merker Group provided us with top-notch candidates that fit our needs perfectly.",
+            "author": "John Doe",
+            "location": "New York, NY"
+        },
+        {
+            "text": "Their personalized approach made the recruitment process seamless and efficient.",
+            "author": "Jane Smith",
+            "location": "San Francisco, CA"
+        },
+        {
+            "text": "We were impressed with their thorough vetting process and the quality of candidates presented.",
+            "author": "Michael Johnson",
+            "location": "Chicago, IL"
+        }
+    ]
+}

@@ -72,7 +72,7 @@ def ask_questions_with_openai(markdown_content, questions):
     ]
     completion = client.chat.completions.create(
         # model="gpt-3.5-turbo-0125",
-        model="gpt-4-0125-preview",
+        model = os.getenv("latest_openai_model"),
         messages=messages,
         temperature=0,
         response_format={"type": "json_object"}

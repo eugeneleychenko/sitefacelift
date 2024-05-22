@@ -1,0 +1,72 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Client Approved",
+            "content": "Clients can attest to the quality and personalized service delivered by our firm. We strive to exceed expectations in every case."
+        },
+        {
+            "title": "Recognized Firm",
+            "content": "Pregent Law has been featured on CBS News, National Public Radio and a variety of other news sources. Our reputation speaks for itself."
+        },
+        {
+            "title": "A+ Certified",
+            "content": "The Better Business Bureau has provided Pregent Law with an A+ certification since 2015. This reflects our commitment to excellence."
+        },
+        {
+            "title": "Super Lawyer",
+            "content": "Attorney Pregent has been consistently rated a Massachusetts 'Super Lawyer' since 2016. This designation highlights our expertise and dedication."
+        }
+    ],
+    "address": "50 Milk Street, 16th Floor, Boston, MA 02108",
+    "phoneNumber": "978-381-3256",
+    "email": "travis@pregentlaw.com",
+    "linkNames": [
+        "HOME",
+        "PRACTICE AREAS",
+        "ABOUT US",
+        "TESTIMONIALS",
+        "NEWS",
+        "BLOG",
+        "CONTACT"
+    ],
+    "companyName": "Pregent Law",
+    "subHeading": "Compassion\u2026Conviction\u2026Commitment",
+    "valueProp": "Our mission is to maintain the highest standards of professionalism and integrity, while fighting to provide you with the outcome you deserve. We represent clients in all aspects of business and general litigation.",
+    "CTA": "We are here for you 24 hours a day, 7 days a week",
+    "topics": [
+        "Employment Law",
+        "Injury/Wrongful Death",
+        "Litigation",
+        "Wrongful Termination",
+        "Workplace Harassment",
+        "Hour and Wage Issues",
+        "Retaliation and Whistle-Blowing",
+        "Discrimination",
+        "Employee Misclassification"
+    ],
+    "members": [
+        {
+            "name": "Travis T. Pregent",
+            "position": "Founder"
+        }
+    ],
+    "openHours": "24 hours a day, 7 days a week",
+    "testimonalData": [
+        {
+            "text": "Travis and his firm are top shelf, and not once did I have to contact him to find out how my case was progressing because I was informed every step of the way.",
+            "author": "John D.",
+            "location": null
+        },
+        {
+            "text": "Travis was spectacular in representing me for an unfortunate situation that my employer placed me in. He was invariably professional, as well as empathetic and kind.",
+            "author": "Jasmine B.",
+            "location": null
+        },
+        {
+            "text": "Attorney Pregent is a top-notch negotiator who does his homework. I was faced with a tenuous situation that was a combination of discrimination and verbal/mental abuse/harassment in the workplace by a senior executive.",
+            "author": "Lisa D.",
+            "location": null
+        }
+    ]
+}

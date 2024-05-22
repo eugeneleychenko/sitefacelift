@@ -1,0 +1,66 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Experience Matters",
+            "content": "Reza Yassi has a deep understanding of the legal landscape in New York and New Jersey. His background in defense litigation equips him with unique insights that make him both an adequate plaintiff's attorney and a defense-side litigator."
+        },
+        {
+            "title": "Top-Rated Law Firm",
+            "content": "Yassi Law PC is recognized for its excellence in providing relationship-based counseling. The firm is dedicated to achieving favorable outcomes for its clients."
+        },
+        {
+            "title": "Award Winning",
+            "content": "The firm has received numerous accolades for its outstanding legal services. These awards reflect the firm's commitment to excellence and client satisfaction."
+        },
+        {
+            "title": "Legal Authors",
+            "content": "Reza Yassi and his team are published authors in the field of law. Their writings provide valuable insights and contribute to the legal community."
+        }
+    ],
+    "address": "106 W. 32nd St. Suite 123, New York, NY 10001",
+    "phoneNumber": "646-992-2138",
+    "email": "ry@yassilaw.com",
+    "linkNames": [
+        "HOME",
+        "PERSONAL INJURY",
+        "COMMERCIAL LITIGATION",
+        "ABOUT ME",
+        "CONTACT",
+        "BLOG",
+        "LEGAL DISCLAIMERS",
+        "AAA CONSUMER ARBITRATION BOT",
+        "LITIGATION LAWYER IN MANHATTAN",
+        "LITIGATION LAWYER IN BROOKLYN",
+        "MORE"
+    ],
+    "companyName": "Yassi Law PC",
+    "subHeading": "Commercial Litigation and Personal Injury Lawyer",
+    "valueProp": "Manhattan Law firm focused on providing relationship-based counseling in areas of commercial litigation and personal injury law.",
+    "CTA": "BOOK AN APPOINTMENT",
+    "topics": [
+        "CAR ACCIDENTS",
+        "PRODUCT LIABILITY",
+        "WRONGFUL DEATH",
+        "PREMISES LIABILITY/SLIP & FALL",
+        "WORKPLACE ACCIDENTS",
+        "ANIMAL BITES & ATTACKS",
+        "BURN INJURIES",
+        "HEAD INJURIES",
+        "SPINAL CORD INJURIES"
+    ],
+    "members": [
+        {
+            "name": "Reza Yassi",
+            "position": "Principal"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Worked with Yassi Law for legal advice on an event contract. They were a pleasure to work with - professional and super quick to get back to me.",
+            "author": "Amy Marshall",
+            "location": "Via Google Review"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Decades of Experience",
+            "content": "We have decades of experience defending clients in complex criminal and civil matters. Our extensive background allows us to provide expert legal representation."
+        },
+        {
+            "title": "Resourceful Strategies",
+            "content": "We develop out-of-the-box strategies to advocate for you. Our innovative approach ensures that we explore all possible avenues for your defense."
+        },
+        {
+            "title": "Dedicated Representation",
+            "content": "We are devoted to representing our clients with both skill and strength. Our commitment to your case is unwavering, ensuring the best possible outcome."
+        },
+        {
+            "title": "Comprehensive Support",
+            "content": "We help explain the process to our clients and answer their questions about what will happen next. Our support extends beyond legal advice to provide peace of mind."
+        }
+    ],
+    "address": "1100 H Street NW, Suite 1220, Washington, DC 20005",
+    "phoneNumber": "(202) 627-6900",
+    "email": "info@kmlawfirm.com",
+    "linkNames": [
+        "OUR TEAM",
+        "SARA KROPF",
+        "ANDREA MOSELEY",
+        "REBECCA GUITERMAN",
+        "BETSY TUBANDT",
+        "PRACTICE AREAS",
+        "FIRM NEWS",
+        "BLOG",
+        "CONTACT US"
+    ],
+    "companyName": "Kropf Moseley PLLC",
+    "subHeading": "Perspective. Resourceful. Dedicated.",
+    "valueProp": "We have decades of experience defending clients in complex criminal and civil matters. We develop out-of-the-box strategies to advocate for you. We are devoted to representing our clients with both skill and strength.",
+    "CTA": "Contact Us Today",
+    "topics": [
+        "White Collar Defense",
+        "Investigations",
+        "Civil Litigation",
+        "Professional Responsibility & Ethics",
+        "Financial Fraud",
+        "Antitrust",
+        "Public Corruption",
+        "Government Contracting Fraud",
+        "Healthcare Fraud"
+    ],
+    "members": [
+        {
+            "name": "Sara Kropf",
+            "position": "Partner"
+        },
+        {
+            "name": "Andrea Moseley",
+            "position": "Partner"
+        },
+        {
+            "name": "Rebecca Guiterman",
+            "position": "Attorney"
+        },
+        {
+            "name": "Betsy Tubandt",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": "Not specified",
+    "testimonalData": [
+        {
+            "text": "Sara is a stellar attorney. She has a brilliant legal mind and is excellent in the courtroom.",
+            "author": "Chambers USA 2023",
+            "location": "District of Columbia"
+        },
+        {
+            "text": "Andrea is fantastic in grand jury and trial work.",
+            "author": "Chambers USA 2023",
+            "location": "District of Columbia"
+        },
+        {
+            "text": "Sara is described by others as having a brilliant legal mind and being excellent in the courtroom.",
+            "author": "Chambers USA 2023",
+            "location": "District of Columbia"
+        }
+    ]
+}

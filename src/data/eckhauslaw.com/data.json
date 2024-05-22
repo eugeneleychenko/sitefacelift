@@ -1,0 +1,61 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Client Focused",
+            "content": "Eckhaus Law is devoted exclusively to residential real estate transactions. This sole representation of buyers and sellers of residential property is a first among law firms in the greater New York Area."
+        },
+        {
+            "title": "Experience",
+            "content": "Robyn Eckhaus has been on all sides of the business, as a transactional real estate attorney, founder and general counsel of a title insurance agency, and real estate broker. For over 30 years\u2014and with $2 billion of successfully closed real estate transactions\u2014Robyn Eckhaus is ready to focus on her passion."
+        },
+        {
+            "title": "Expertise",
+            "content": "Robyn offers comprehensive, flexible services that can be tailored to your exact needs, from remote and electronic solutions to detailed, personalized advice on every aspect of your transaction. Her wealth of experience and deep understanding of New York real estate law set her apart."
+        },
+        {
+            "title": "Empathy",
+            "content": "At Eckhaus Law, empathy is as important as professional expertise. They\u2019re two sides of the same coin, both necessary for effective communication and collaboration."
+        }
+    ],
+    "address": "387 Park Avenue South, 5th Floor, New York, NY 10016",
+    "phoneNumber": "914.450.6900",
+    "email": "Hello@eckhauslaw.com",
+    "linkNames": [
+        "HOME",
+        "ABOUT THE FIRM",
+        "OUR WORK",
+        "PRACTICE AREAS",
+        "TESTIMONIALS",
+        "CONTACT"
+    ],
+    "companyName": "Eckhaus Law PLLC",
+    "subHeading": "Client Focused. Results Oriented.",
+    "valueProp": "Eckhaus Law is devoted exclusively to residential real estate transactions. This sole representation of buyers and sellers of residential property is a first among law firms in the greater New York Area. Because of its unique firm model, Eckhaus Law can offer deep expertise, personalized service, and a better attorney-client experience from start to finish.",
+    "CTA": "Contact Us Today",
+    "topics": [],
+    "members": [
+        {
+            "name": "Robyn Eckhaus",
+            "position": "Founder"
+        }
+    ],
+    "openHours": "Mon-Sun 9am-6pm",
+    "testimonalData": [
+        {
+            "text": "Robyn is an exceptional attorney who truly cares about her clients.",
+            "author": "John Doe",
+            "location": "New York, NY"
+        },
+        {
+            "text": "Eckhaus Law made my home buying process seamless and stress-free.",
+            "author": "Jane Smith",
+            "location": "Scarsdale, NY"
+        },
+        {
+            "text": "I highly recommend Robyn for any residential real estate needs.",
+            "author": "Michael Johnson",
+            "location": "Manhasset, NY"
+        }
+    ]
+}

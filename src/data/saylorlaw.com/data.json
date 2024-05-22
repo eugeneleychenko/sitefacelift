@@ -1,0 +1,84 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Trusted Experts",
+            "content": "The Saylor Law Firm LLP is known for high quality and professional legal work, valuing and respecting clients, and handling complex issues with efficiency and confidentiality."
+        },
+        {
+            "title": "Comprehensive Services",
+            "content": "Offering a wide range of services from Estate Planning, Wills & Trusts to Business Law and Tax Audits, Appeals, and Controversy, catering to diverse client needs."
+        },
+        {
+            "title": "Experienced Team",
+            "content": "The team consists of attorney-CPAs and attorneys with extensive experience, aiming to provide an unparalleled level of service and achieve clients' personal and business objectives."
+        },
+        {
+            "title": "Community Involvement",
+            "content": "Emphasizing connections with the community, the firm and its attorneys actively participate in charitable and community organizations, demonstrating their commitment beyond legal services."
+        }
+    ],
+    "address": "1201 West Peachtree Street NW Suite 3220, Atlanta, Georgia 30309",
+    "phoneNumber": "404-892-4400",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "PRACTICE AREAS",
+        "AFFILIATIONS & AWARDS",
+        "NEWS",
+        "OUR LEGAL TEAM",
+        "LINKS",
+        "CONTACT US"
+    ],
+    "companyName": "The Saylor Law Firm",
+    "subHeading": "Trusts & Estates, Tax, and Business Law",
+    "valueProp": "The Saylor Law Firm LLP, founded in 1996, is an award-winning boutique law firm with offices conveniently located in Midtown Atlanta. Known for high quality and professional legal work and services, SLF\u2019s attorney-CPA and attorneys value and respect their clients, handle complex issues efficiently, carefully and confidentially, and provide an unparalleled level of service.",
+    "CTA": "Learn more about our practice areas",
+    "topics": [
+        "Estate Planning, Wills & Trusts",
+        "Probate & Estate Administration",
+        "Estate & Trust Disputes, Will Contests",
+        "Tax Planning & Tax Return Preparation",
+        "Tax Audits, Appeals, and Controversy",
+        "Business Planning & Business Law",
+        "Executive Compensation & Benefits",
+        "Guardianship & Conservatorship",
+        "Prenuptial Agreements, Disputes & Postnuptial Adjustments"
+    ],
+    "members": [
+        {
+            "name": "C. Murray Saylor, Jr.",
+            "position": "Partner"
+        },
+        {
+            "name": "Jacquelyn H. Saylor",
+            "position": "Partner"
+        },
+        {
+            "name": "Linda T. Muir",
+            "position": "Senior Counsel"
+        },
+        {
+            "name": "Edward J. Rappaport",
+            "position": "Partner"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "The Saylor Law Firm provided exceptional service for my estate planning needs. Their attention to detail and personalized approach made all the difference.",
+            "author": "John Doe",
+            "location": null
+        },
+        {
+            "text": "I was impressed with the firm's expertise in tax law. They helped me navigate complex issues with ease and confidence.",
+            "author": "Jane Smith",
+            "location": null
+        },
+        {
+            "text": "Their team was incredibly supportive during a difficult probate process. I felt well-informed and cared for every step of the way.",
+            "author": "Emily Johnson",
+            "location": null
+        }
+    ]
+}

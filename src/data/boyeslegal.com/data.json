@@ -1,0 +1,76 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "High Quality",
+            "content": "BoyesLegal, APC provides comprehensive legal services across California, focusing on real estate, estate planning, probate, and personal injury claims. They are known for their informed advocacy and trustworthy advice."
+        },
+        {
+            "title": "Client Focused",
+            "content": "The firm prides itself on understanding clients' circumstances and tailoring services to unique needs, ensuring strategic representation for achieving goals."
+        },
+        {
+            "title": "Experienced Team",
+            "content": "With a team of skilled attorneys, BoyesLegal offers expertise in a range of legal areas, ensuring clients receive first-rate representation and dependable service."
+        },
+        {
+            "title": "Comprehensive Services",
+            "content": "From real estate transactions to personal injury claims, BoyesLegal provides a full suite of legal services, helping clients navigate complex legal challenges."
+        }
+    ],
+    "address": "84 W. Santa Clara Street, Suite 490 San Jose, CA 95113",
+    "phoneNumber": "408.572.5665",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "OUR FIRM",
+        "PRACTICE AREAS",
+        "OUR TEAM",
+        "RESOURCES",
+        "BLOG",
+        "CONTACT US"
+    ],
+    "companyName": "BoyesLegal",
+    "subHeading": "Integrity \u2022 Creativity \u2022 Teamwork",
+    "valueProp": "BoyesLegal, APC provides comprehensive legal services to clients throughout California on matters such as real estate, estate planning, probate, business law, and personal injury claims. We have a well-deserved reputation as informed advocates who offer each client trustworthy advice when they need it most.",
+    "CTA": "Contact Us",
+    "topics": [
+        "Real Estate Law",
+        "Probate Administration",
+        "Personal Injury",
+        "Estate Planning",
+        "Business & Commercial Law",
+        "Residential Real Estate",
+        "Real Estate Litigation",
+        "Commercial Real Estate",
+        "Estate Planning Documents"
+    ],
+    "members": [
+        {
+            "name": "Patricia A. Boyes, Esq.",
+            "position": "Principal Attorney"
+        },
+        {
+            "name": "Elizabeth Boyes",
+            "position": "Associate Attorney"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Patricia Boyes was an excellent lawyer for me in a case that dragged on for two years.",
+            "author": "Anonymous",
+            "location": "San Jose, CA"
+        },
+        {
+            "text": "I recently hired Patricia to help me with a relatively small matter around a service appointment that went sideways.",
+            "author": "Client",
+            "location": "San Jose, CA"
+        },
+        {
+            "text": "We (my wife and I) had severe personal injuries. Patricia and team are amazing.",
+            "author": "Client",
+            "location": "San Jose, CA"
+        }
+    ]
+}

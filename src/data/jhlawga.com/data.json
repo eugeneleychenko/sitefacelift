@@ -1,0 +1,62 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": null,
+    "address": "5008 Buford Hwy Ste C, Atlanta, GA 30341",
+    "phoneNumber": "(678) 723-4444",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "ABOUT US",
+        "ATTORNEY PROFILE",
+        "PRACTICE AREAS",
+        "RESOURCE CENTER",
+        "CONTACT US"
+    ],
+    "companyName": "Jimmy Hwang, LLC",
+    "subHeading": "Elite legal representation and extensive experience ensuring the best settlement for your case.",
+    "valueProp": "Contact Jimmy Hwang, LLC to schedule an appointment with your injury attorney in Atlanta, GA. Jimmy Hwang, LLC is an injury attorney law firm in personal injuries and work injuries.",
+    "CTA": "Contact Us: (678) 723-4444",
+    "topics": [
+        "Motor Vehicle Accidents",
+        "Truck Accidents",
+        "Workers\u2019 Compensation",
+        "Wrongful Death",
+        "Personal Injury",
+        "Medical Malpractice",
+        "DUI Traffic",
+        "Corporate law",
+        "Work accidents"
+    ],
+    "members": [
+        {
+            "name": "Jimmy Hwang",
+            "position": null
+        },
+        {
+            "name": "William L. Ray",
+            "position": null
+        },
+        {
+            "name": "Michael Litzky",
+            "position": null
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "We wanted to thank you for all the help you provided us. It was our first time going through this kind of situation. You were very informative and more than anything, very nice and willing to help. We will never forget your thoughtfulness.",
+            "author": "M.P. and A.M.",
+            "location": null
+        },
+        {
+            "text": "Thanks big time! You\u2019re the best! Thank you!",
+            "author": "L.O.",
+            "location": null
+        },
+        {
+            "text": "I had a great experience with the firm. I\u2019ve actually called them on two different occasions and both cases had great outcomes. They are very kind, caring and I can tell they genuinely care for their clients. I would absolutely recommend them! Thanks for everything!",
+            "author": "J.C.",
+            "location": null
+        }
+    ]
+}

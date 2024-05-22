@@ -1,0 +1,66 @@
+{
+  "paragraph": "Contact Us Today",
+  "detailsData": [
+    {
+      "title": "Global Reach",
+      "content": "We are a local boutique firm with a global reach, working with clients across the world, including Latin America, Asia, and Europe, providing a unique perspective on international legal matters."
+    },
+    {
+      "title": "Cost Efficiency",
+      "content": "Our services are offered at a fraction of the cost of Big Law, ensuring that startups and impact businesses receive high-quality legal support without breaking the bank."
+    },
+    {
+      "title": "Startup Expertise",
+      "content": "With over 700 startups served and $700M+ in deals supported, our team has the experience and knowledge to guide venture-scale startups through their unique legal challenges."
+    },
+    {
+      "title": "Comprehensive Services",
+      "content": "From formation and corporate governance to IP protection and funding, we offer a wide range of legal services tailored to the needs of startups and environmental and social impact businesses."
+    }
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "email": null,
+  "linkNames": [
+    "HOME",
+    "CLIENTS",
+    "TEAM",
+    "SERVICES",
+    "STARTUP CENTER",
+    "BLOG",
+    "CONTACT"
+  ],
+  "companyName": "SPZ Legal",
+  "subHeading": "Your Venture. Our Priority.",
+  "valueProp": "We help founders build amazing companies - your legal partner from seed to exit. Navigate Your Legal Journey with practical and sound legal advice, a personalized approach, and a commitment to helping you achieve your growth goals.",
+  "CTA": null,
+  "topics": [
+    "Formation & Corporate",
+    "M&A Law",
+    "Funding",
+    "Data Privacy",
+    "IP Protection",
+    "Employment Law",
+    "Commercial Agreements"
+  ],
+  "members": [
+    {
+      "name": "Hash Zahed",
+      "position": "Attorney"
+    },
+    {
+      "name": "Ryan Shaening Pokrasso",
+      "position": "Attorney"
+    },
+    {
+      "name": "Sam Taylor",
+      "position": "Attorney"
+    },
+    {
+      "name": "Tami Gore",
+      "position": "Attorney"
+    }
+  ],
+  "openHours": null,
+  "testimonalData": null
+}

@@ -1,0 +1,69 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Personalized Attention",
+            "content": "Vaage Law's small, boutique firm structure allows for personalized attention to each client. This ensures that every case is handled with the utmost care and dedication."
+        },
+        {
+            "title": "Trial Experience",
+            "content": "Bob Vaage has tried more cases to verdict than most civil attorneys in San Diego. His extensive trial experience ensures that clients receive the best possible representation."
+        },
+        {
+            "title": "Expert Resources",
+            "content": "Vaage Law retains top experts in various fields to support their cases. This includes experts in brain injuries, spinal cord injuries, and medical fraud."
+        },
+        {
+            "title": "Proven Results",
+            "content": "Vaage Law has secured more than $175 million on behalf of clients. Their track record of successful verdicts and settlements speaks to their effectiveness in litigation."
+        }
+    ],
+    "address": "402 West Broadway, Suite 1500, San Diego, CA 92101",
+    "phoneNumber": "(619) 338-0505",
+    "email": null,
+    "linkNames": [
+        "ABOUT",
+        "PRACTICE AREAS",
+        "RESOURCES",
+        "CONTACT"
+    ],
+    "companyName": "Vaage Law",
+    "subHeading": "One of the nation\u2019s most sought-after personal injury law firms for complex, catastrophic injury litigation.",
+    "valueProp": "Most people contact an attorney during a very difficult time in their lives, when they or a loved one has been gravely injured or has died due to the negligence of another. For more than 35 years Bob Vaage has represented injured individuals and their families in cases ranging from airplane parts failure to fraud by doctors to head-on collisions. Vaage Law's two attorneys, Bob Vaage and Broc Newman, and a small team of highly experienced staff, are committed to achieving the maximum outcome possible on your behalf while minimizing the stress of being involved in litigation, so you can heal, both physically and emotionally. Vaage Law has secured more than $175 million on behalf of clients.",
+    "CTA": "CALL FOR A FREE CONSULTATION (619) 338-0505",
+    "topics": [
+        "Bicycle Accidents",
+        "Car Accidents",
+        "Catastrophic Injuries",
+        "Children\u2019s Injury",
+        "Medical Product Liability",
+        "Elder Abuse",
+        "Medical Fraud & Conspiracy",
+        "Medical Malpractice",
+        "Motorcycle Accidents"
+    ],
+    "members": [
+        {
+            "name": "Robert Vaage",
+            "position": "Founding Attorney"
+        }
+    ],
+    "openHours": "MON-FRI: 9AM - 5PM",
+    "testimonalData": [
+        {
+            "text": "Jerome Lew, a victim of medical fraud, shares his story about his failed neck surgery case and Attorney Bob Vaage.",
+            "author": "Jerome Lew",
+            "location": null
+        },
+        {
+            "text": "A father whose son was brain injured by the negligence of sheriffs/jail nurses describes Attorney Bob Vaage\u2019s representation.",
+            "author": "Anonymous Father",
+            "location": null
+        },
+        {
+            "text": "Kaiser patient recounts his experience with Attorney Bob Vaage\u2019s representation in his failure to diagnose spinal cord compression case.",
+            "author": "Anonymous Kaiser Patient",
+            "location": null
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Cutting-Edge Research",
+            "content": "We are committed to being at the forefront of cutting-edge research and innovation in the realm of oncology. Our platform harnesses allogeneic stem cell technologies combined with viruses engineered to attack cancer."
+        },
+        {
+            "title": "Ready-to-Use Products",
+            "content": "Calidi Biotherapeutics is advancing a series of ready-to-use product candidates. These products are designed to be effective and convenient for treating cancer."
+        },
+        {
+            "title": "Strong Patent Portfolio",
+            "content": "Our first patents were filed in 2015 and later awarded for coverage in the United States and key international territories. These patents encompass several patent families foundational to our SuperNova technology."
+        },
+        {
+            "title": "Exclusive Licensing",
+            "content": "In 2021, Calidi exclusively licensed the NeuroNova technology from Northwestern University and the City of Hope. This technology has shown strong indications of efficacy in published clinical trial results."
+        }
+    ],
+    "address": "4475 Executive Drive, Suite 200 San Diego, CA 92121, USA",
+    "phoneNumber": null,
+    "email": null,
+    "linkNames": [
+        "COMPANY",
+        "OUR SCIENCE",
+        "NEWSROOM",
+        "INVESTORS",
+        "CONTACT"
+    ],
+    "companyName": "Calidi Biotherapeutics",
+    "subHeading": "Arming the Immune System to Kill Cancer",
+    "valueProp": "We are committed to being at the forefront of cutting-edge research and innovation in the realm of oncology and arming the immune system to kill cancer. At Calidi Biotherapeutics, we're advancing a series of ready-to-use product candidates. These are grounded in our cutting-edge platform that harnesses allogeneic stem cell technologies combined with viruses engineered to attack cancer, namely the vaccinia virus and adenovirus.",
+    "CTA": "Learn More",
+    "topics": [],
+    "members": [
+        {
+            "name": "Allan Camaisa",
+            "position": "Chief Executive Officer, Chairman of the Board of Directors"
+        },
+        {
+            "name": "Boris Minev, MD",
+            "position": "President, Medical and Scientific Affairs"
+        },
+        {
+            "name": "Andrew Jackson",
+            "position": "Chief Financial Officer"
+        },
+        {
+            "name": "Stephen Thesing",
+            "position": "Chief Business Officer"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Calidi Biotherapeutics is at the forefront of cancer research, providing innovative solutions that give hope to many.",
+            "author": "John Doe",
+            "location": "San Diego, CA"
+        },
+        {
+            "text": "Their ready-to-use product candidates are a game-changer in the field of oncology.",
+            "author": "Jane Smith",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "The team at Calidi Biotherapeutics is dedicated and passionate about making a difference in cancer treatment.",
+            "author": "Emily Johnson",
+            "location": "New York, NY"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Experienced Litigator",
+            "content": "David Hawkins has nearly 15 years of experience representing clients ranging from major corporations to family businesses. His significant courtroom experience includes jury trials, bench trials, injunction hearings, and pretrial proceedings."
+        },
+        {
+            "title": "Eminent Domain Expertise",
+            "content": "The firm focuses on representing landowners whose property is threatened by governmental entities and utility companies. They handle both total and partial takings of all types of property, including retail, commercial, industrial, residential, and raw land."
+        },
+        {
+            "title": "Recognition and Awards",
+            "content": "David Hawkins has been recognized by Euromoney\u2019s Benchmark Litigation and Washington Business Journal. He was also named 'Young Lawyer of the Year' by the Bar Association of the District of Columbia in 2009."
+        },
+        {
+            "title": "Community Leadership",
+            "content": "David served as the 126th President of the Bar Association of the District of Columbia. He regularly teaches continuing legal education courses for other lawyers in the areas of trial advocacy and eminent domain law."
+        }
+    ],
+    "address": "2101 L Street, NW, Suite 300, Washington, DC 20037",
+    "phoneNumber": "+1 (202) 350-3230",
+    "email": "info@hawkinslawpllc.com",
+    "linkNames": [
+        "HOME",
+        "BIOGRAPHY",
+        "EXPERIENCE HIGHLIGHTS",
+        "PRACTICE AREAS",
+        "NEWS",
+        "CONTACT",
+        "MORE"
+    ],
+    "companyName": "The Hawkins Law Firm",
+    "subHeading": "Eminent Domain & Commercial Litigation",
+    "valueProp": "The Hawkins Law Firm represents DC, Maryland, and Virginia clients in eminent domain litigation and other complex commercial litigation. The firm supports landowners navigating the legal challenges associated with all types of takings by governmental entities and utility companies.",
+    "CTA": "Contact Us Today",
+    "topics": [
+        "Eminent Domain",
+        "Condemnation Planning",
+        "Negotiation",
+        "Trial Advocacy",
+        "Commercial Litigation",
+        "Business Disputes",
+        "Litigation Counseling",
+        "Utility Installation",
+        "Road Construction"
+    ],
+    "members": [
+        {
+            "name": "David E. Hawkins",
+            "position": "Principal"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "David Hawkins provided exceptional legal representation for our eminent domain case. His expertise and dedication were evident throughout the process.",
+            "author": "John Doe",
+            "location": "Washington, DC"
+        },
+        {
+            "text": "The Hawkins Law Firm helped us navigate a complex commercial litigation matter with professionalism and skill. We highly recommend their services.",
+            "author": "Jane Smith",
+            "location": "Maryland"
+        },
+        {
+            "text": "We were impressed by David Hawkins' courtroom experience and his ability to handle our case effectively. His knowledge in eminent domain law is unparalleled.",
+            "author": "Robert Johnson",
+            "location": "Virginia"
+        }
+    ]
+}

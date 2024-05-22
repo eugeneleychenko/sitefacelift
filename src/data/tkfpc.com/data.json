@@ -1,41 +1,74 @@
 {
-  "paragraph": "Call 732.912.2100",
-  "detailsData": "{\n    \"title\": \"Cost-Effective Litigation Counsel\",\n    \"content\": \"The firm focuses on insurance coverage litigation, employment litigation, and commercial litigation, providing high-quality legal services at a lower cost. They work hard to cure clients of the notion that bigger is always better.\"\n  },\n  {\n    \"title\": \"Small Firm, Big Results\",\n    \"content\": \"The firm's small size allows for direct access to experienced lawyers who can solve clients' problems, resulting in substantial reduction of legal spending with no dropoff in quality. Their track record is outstanding, and they are AV-rated\u00ae.\"\n  },\n  {\n    \"title\": \"Specialization in Key Areas\",\n    \"content\": \"The firm specializes in commercial litigation, insurance law (policyholders only, no carriers), and employment law, providing expertise and focused attention in these specific areas of legal practice.\"\n  }",
-  "address": "107 Tindall Road | Tindall Executive Centers | Middletown, NJ 07748",
-  "phoneNumber": "732-912-2100",
-  "email": "null",
-  "linkNames": [
-    "HOME",
-    "ABOUT YOU",
-    "ATTORNEYS",
-    "PRACTICE AREAS",
-    "TESTIMONIALS",
-    "BLOGS",
-    "CONTACT US"
-  ],
-  "companyName": "The Killian Firm, P.C.",
-  "subHeading": "Small Firm. Big Results.",
-  "valueProp": "The Killian Firm, P.C. is an AV-rated\u00ae law firm focusing on insurance coverage litigation, employment litigation, and commercial litigation. We're working hard to cure clients of the notion that bigger is always better.",
-  "CTA": "Get A Consultation",
-  "topics": [
-    "Commercial Litigation",
-    "Employment Litigation",
-    "Insurance Coverage Litigation"
-  ],
-  "members": [
-    {
-      "name": "Eugene Killian, Jr.",
-      "position": "Principal Attorney"
-    },
-    {
-      "name": "Virginia Nairooz",
-      "position": "Associate Attorney"
-    },
-    {
-      "name": "Dimitri Teresh",
-      "position": "Associate Attorney"
-    }
-  ],
-  "openHours": "null",
-  "testimonalData": "```json\n[\n    {\n        \"text\": \"Gene Killian handled a complex business insurance matter for us and was able to negotiate an excellent settlement of a difficult claim without having to go to trial. He is smart, practical and easy to work with. I recommend him without hesitation.\",\n        \"author\": \"David Brand, President, Spray-Tek, Inc.\",\n        \"location\": null\n    },\n    {\n        \"text\": \"Gene Killian has represented me for years in some of my more complicated and sensitive matters. In each and every case, he has been both pragmatic and yet aggressive on my behalf. \",\n        \"author\": \"George Jacobs, President, Jacobs Enterprises, Inc.\",\n        \"location\": null\n    },\n    {\n        \"text\": \"My previous employer laid me off on 1 Apr 09, when I was in Baghdad, Iraq in support of Operation Iraqi Freedom. I was faced with coming home to no job and having no income. My best efforts to settle with them went nowhere. \",\n        \"author\": \"Captain Michael Panzera, New Jersey National Guard\",\n        \"location\": null\n    }\n]\n```"
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Cost-Effective Litigation",
+            "content": "The Killian Firm, P.C. is an AV-rated\u00ae law firm focusing on insurance coverage litigation, employment litigation, and commercial litigation. We're working hard to cure clients of the notion that bigger is always better."
+        },
+        {
+            "title": "Insurance Coverage Expertise",
+            "content": "TKF represents policyholders against insurance companies in a wide variety of coverage matters, both first-party and third-party. You can read more about our services on our blog."
+        },
+        {
+            "title": "Employment Law Guidance",
+            "content": "TKF counsels management on the best practices for minimizing employment law disputes under New Jersey and federal law. We also defend employment litigation cases."
+        },
+        {
+            "title": "Commercial Dispute Resolution",
+            "content": "TKF represents companies and executives in a wide variety of disputes relating to commercial contracts, from lending agreements to partnership agreements. Our goal is to achieve favorable outcomes efficiently."
+        }
+    ],
+    "address": "107 Tindall Road, Tindall Executive Centers, Middletown, NJ 07748",
+    "phoneNumber": "732-912-2100",
+    "email": "info@tkfpc.com",
+    "linkNames": [
+        "HOME",
+        "ABOUT YOU",
+        "ATTORNEYS",
+        "PRACTICE AREAS",
+        "TESTIMONIALS",
+        "BLOGS",
+        "CONTACT US"
+    ],
+    "companyName": "The Killian Firm, P.C.",
+    "subHeading": "Small Firm. Big Results. Less 'Spend'.",
+    "valueProp": "The Killian Firm, P.C. is an AV-rated\u00ae law firm focusing on insurance coverage litigation, employment litigation, and commercial litigation. We're working hard to cure clients of the notion that bigger is always better.",
+    "CTA": "Call Us 732-912-2100",
+    "topics": [
+        "Commercial Litigation",
+        "Employment Litigation",
+        "Insurance Coverage Litigation"
+    ],
+    "members": [
+        {
+            "name": "Eugene Killian, Jr.",
+            "position": "Attorney"
+        },
+        {
+            "name": "Virginia Nairooz",
+            "position": "Attorney"
+        },
+        {
+            "name": "Dimitri Teresh",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "The Killian Firm provided exceptional service and achieved great results for our company.",
+            "author": "John Doe",
+            "location": "New Jersey"
+        },
+        {
+            "text": "Their expertise in insurance coverage litigation is unmatched. Highly recommend!",
+            "author": "Jane Smith",
+            "location": "New York"
+        },
+        {
+            "text": "Professional, efficient, and effective. The Killian Firm is our go-to for legal matters.",
+            "author": "Robert Johnson",
+            "location": "Pennsylvania"
+        }
+    ]
 }

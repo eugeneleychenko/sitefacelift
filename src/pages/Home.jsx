@@ -88,7 +88,7 @@ function Home({ match }) {
 
   //Knowledge.jsx
   const valueProp = data.valueProp;
-  const CTA = data.CTA ? data.CTA.toUpperCase() : "";
+  const CTA = data.CTA ? data.CTA.toUpperCase() : "CONTACT US TODAY";
   console.log("members", data.members);
 
   let members;

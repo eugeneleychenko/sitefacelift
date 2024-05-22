@@ -1,0 +1,66 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Comprehensive Services",
+            "content": "We offer a comprehensive suite of services designed to guide you through every aspect of your business journey. Our goal is to empower you with the resources and expertise needed to achieve a successful outcome on your terms."
+        },
+        {
+            "title": "Personalized Approach",
+            "content": "Our approach is rooted in passion, experience, and empathy. We understand the emotional and personal aspects of every business transaction and work collaboratively to achieve your goals."
+        },
+        {
+            "title": "Expert Guidance",
+            "content": "Our team has a wealth of experience and expertise in orchestrating successful transactions. We take a proactive approach to the market, ensuring that your company's potential is recognized and leveraged to achieve the best outcome."
+        },
+        {
+            "title": "Value Enhancement",
+            "content": "Our enterprise value consultants are dedicated to helping you enhance the overall value of your business. By identifying opportunities for growth, improvement, and optimization, we position your business to thrive in the market."
+        }
+    ],
+    "address": "26719 Pleasant Park Road, Suite 210, Conifer, CO 80433",
+    "phoneNumber": "(303) 592-9950",
+    "email": "hello@gosagewood.com",
+    "linkNames": [
+        "HOME",
+        "ABOUT US",
+        "WHO WE SERVE",
+        "SERVICES",
+        "SUCCESS STORIES",
+        "CONTACT"
+    ],
+    "companyName": "Sagewood Business Advisors",
+    "subHeading": "Unlocking Your Business's Potential",
+    "valueProp": "We specialize in the art of strategically navigating the intricate realms of exit strategy, M&A advisory, investment banking, and consulting. From start to finish, we're dedicated to enhancing your business's worth and propelling it toward the pinnacle of success. Are you ready to forge a path toward a more lucrative future? Let's embark on this transformative journey together.",
+    "CTA": "Book your discovery call today and discover how we can amplify your business's potential.",
+    "topics": [
+        "SELL A BUSINESS",
+        "BUY A BUSINESS",
+        "EXIT WORTHY BUSINESS ASSESSMENT",
+        "PEAK EXIT TRAIL MAP",
+        "ENTERPRISE VALUE CONSULTING",
+        "BUSINESS BROKERAGE",
+        "MERGERS & ACQUISITIONS ADVISORY",
+        "Representative Engagements",
+        "Case Studies"
+    ],
+    "members": null,
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "I want to thank you, Ben, for your exceptional job in selling my store. You were a professional throughout the process & I would recommend you to any business owner seeking to sell, fund, or partner with you in growing their success.",
+            "author": "Paul St. Germain Jr.",
+            "location": null
+        },
+        {
+            "text": "Ben and the Sagewood team were quite helpful in providing related information, recommendations, and suggestions. Their follow-up, attention to detail, and excellent personal skills were greatly appreciated.",
+            "author": "Ben F.",
+            "location": null
+        },
+        {
+            "text": "Working with Ben has been and continues to be an outstanding experience. He takes the time to learn exactly what you need, provides expert recommendations and guidance, and you will never be surprised by his fees.",
+            "author": "Brian Devine",
+            "location": null
+        }
+    ]
+}

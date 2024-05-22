@@ -1,0 +1,68 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Reliability",
+            "content": "Consistent and unwavering support for every client. Our firm ensures that you are never left in the dark."
+        },
+        {
+            "title": "Accessibility",
+            "content": "Always available, always attentive. Our fully virtual format ensures we're never out of reach."
+        },
+        {
+            "title": "Efficiency",
+            "content": "Quick and result-oriented approach, because time is of the essence. We streamline processes to get you results faster."
+        },
+        {
+            "title": "Aggressive Litigation",
+            "content": "We don't back down. We ensure you get what you're rightfully owed. Our firm fights tirelessly for your rights."
+        }
+    ],
+    "address": "941 W Morse Blvd. Suite 100, Winter Park, FL 32789, United States of America",
+    "phoneNumber": "(321) 306-5260",
+    "email": "info@gulfstreamfirm.com",
+    "linkNames": [
+        "HOME",
+        "WHO WE ARE",
+        "CONTACT"
+    ],
+    "companyName": "The Gulf Stream Law Firm",
+    "subHeading": "DID YOUR INSURANCE COMPANY UNDERPAY OR DENY YOUR PROPERTY DAMAGE CLAIM?",
+    "valueProp": "The Gulf Stream Law Firm focuses on aggressively representing clients all over the state of Florida in residential and commercial property damage insurance disputes. Our firm is known for being reliable, accessible, and efficient while delivering quality results for its clients.",
+    "CTA": "LET US HELP YOU",
+    "topics": [
+        "HOME DAMAGE CLAIMS",
+        "COMMERCIAL PROPERTY CLAIMS",
+        "POLICY REVIEWS & ANALYSIS",
+        "CLAIM DENIALS & DISPUTES",
+        "BAD FAITH INSURANCE CLAIMS",
+        "LOSS CONSULTING & APPRAISAL",
+        "LITIGATION SUPPORT SERVICES",
+        "MEDIATION & ARBITRATION SERVICES",
+        "UMBRELLA & EXCESS CLAIMS"
+    ],
+    "members": [
+        {
+            "name": "Ivan Lys-Dobradin",
+            "position": "Esq."
+        }
+    ],
+    "openHours": "Mon - Fri 9:00 am - 5:00 pm, Sat - Sun Closed",
+    "testimonalData": [
+        {
+            "text": "Ivan and the Gulf Stream Law Firm have been wonderful to work with. My husband and I had our lives turned upside down because of Hurricane Ian and it is thanks to Ivan that we finally had closure.",
+            "author": "Angela M.",
+            "location": null
+        },
+        {
+            "text": "Ivan was on it immediately, was extremely patient, responsive and educated me on all the possibilities on this appeal. Bottom line, within 2 months Ivan got the insurance company to pay me in full and cover his costs.",
+            "author": "Thomas M.",
+            "location": null
+        },
+        {
+            "text": "Ivan and his team at Gulf Stream law did an awesome job handling my insurance claim after hurricane Ian. I could not get any response from the insurance company, Ivan was able to get a much more favorable settlement than I was offered prior to hiring him.",
+            "author": "Don V.",
+            "location": null
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Experienced Legal Team",
+            "content": "With decades of bankruptcy law experience, our skilled team of attorneys is ready to help you fight for your rights. We are dedicated to securing the best possible results for your case."
+        },
+        {
+            "title": "Personalized Attention",
+            "content": "We give our personalized and undivided attention to clients, no matter the size of the case. Our firm believes in effective communication and maintaining the highest standards of professional integrity."
+        },
+        {
+            "title": "24/7 Availability",
+            "content": "Our team is available 24/7 to assist you with your legal needs. We strive to be your trusted legal partner, providing support whenever you need it."
+        },
+        {
+            "title": "Community Focused",
+            "content": "We aim to provide quality legal representation to our community with an effective mix of tradition and innovation. Our goal is to exceed our clients' expectations and foster an enjoyable working environment."
+        }
+    ],
+    "address": "110 Jericho Turnpike, Suite 100, Floral Park, New York 11001",
+    "phoneNumber": "(516) 326-2333",
+    "email": "help@lawgmf.com",
+    "linkNames": [
+        "HOME",
+        "MEET OUR ATTORNEYS",
+        "BANKRUPTCY",
+        "PRACTICE AREAS",
+        "FAQ'S",
+        "TESTIMONIALS",
+        "CONTACT US"
+    ],
+    "companyName": "Law Offices of Gus Michael Farinella",
+    "subHeading": "Your Trusted Legal Partners for Bankruptcy, Debt Relief, and Financial Recovery",
+    "valueProp": "As an experienced and professional legal team available to individuals and businesses facing bankruptcy, foreclosures, credit report errors, and more, The Law Offices of Gus Michael Farinella is proud to be your trusted legal partner to navigate your case. With decades of bankruptcy law experience and a skilled team of attorneys ready to help you fight for your rights, our team is dedicated to securing the best possible results for your case. Our team is your one-stop shop for defending your legal rights. With multiple offices serving the greater New York City, NY, and New Jersey areas, and a team available 24/7, please call (516) 326-2333 to schedule your complimentary consultation.",
+    "CTA": "Call Today for A Free Consultation",
+    "topics": [
+        "Bankruptcy",
+        "Mortgage Modifications & Foreclosures",
+        "Credit Report Errors",
+        "All Consumer Protection Cases"
+    ],
+    "members": [
+        {
+            "name": "Gus Michael Farinella",
+            "position": "Attorney"
+        },
+        {
+            "name": "Supreet Parmar",
+            "position": "Attorney"
+        },
+        {
+            "name": "Ryan Gentile",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": "Mon - Fri 10:00 am - 6:00 pm, Saturday 10:00 am - 3:00 pm, Sunday Closed",
+    "testimonalData": [
+        {
+            "text": "I truly cannot say enough about my experience with this law firm. Supreet answered every single question in detail and with compassion.",
+            "author": "Natalia S.",
+            "location": null
+        },
+        {
+            "text": "Top notch law firm. The staff is professional and courteous. I thank the Law Offices of Gus Michael Farinella for all they did.",
+            "author": "Mike W.",
+            "location": null
+        },
+        {
+            "text": "Professional, caring and knowledgeable lawyers that will take the time to explain and answer every question. I highly recommend this firm.",
+            "author": "Paula S.",
+            "location": null
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Expert Legal Counsel",
+            "content": "Tuple Legal\u2019s founder, Ryan Hughes, is a nonprofit law attorney with deep roots in California politics and nonprofits. He provides the counsel you need to be laser-focused on your mission."
+        },
+        {
+            "title": "Comprehensive Services",
+            "content": "Tuple helps California nonprofits with their ongoing needs such as Form 990, periodic state filings, bylaws amendments, and conflict of interest issues. They facilitate annual meetings and ensure compliance."
+        },
+        {
+            "title": "Political Activities Guidance",
+            "content": "Tuple offers comprehensive legal counsel to help your group positively influence the political process. They help navigate the complex rules around permissible political activities for nonprofits."
+        },
+        {
+            "title": "Featured Clients",
+            "content": "Tuple Legal has been featured in major news outlets for their work with clients. They have helped clients achieve significant victories, such as forcing Bernie Sanders to withdraw an endorsement."
+        }
+    ],
+    "address": "3717 E. Thousand Oaks Blvd. Westlake Village, CA 91362",
+    "phoneNumber": "(323) 688-6984",
+    "email": "info@tuplelegal.com",
+    "linkNames": [
+        "ABOUT TUPLE",
+        "NONPROFIT LAW",
+        "MAJOR DONORS",
+        "MEMOS",
+        "CONTACT"
+    ],
+    "companyName": "Tuple Legal",
+    "subHeading": "Nonprofit Law and Major Donor Compliance",
+    "valueProp": "Tuple Legal\u2019s founder, Ryan Hughes, is a nonprofit law attorney. Ryan has deep roots in California politics and nonprofits, so he\u2019s more than a lawyer: he\u2019s the counsel you need to be laser-focused on you and your mission, every step of the way.",
+    "CTA": "Contact Tuple",
+    "topics": [
+        "Starting a Nonprofit",
+        "Your Board of Directors & Bylaws",
+        "Taxes (Form 990)",
+        "Political Activism",
+        "Major Donors",
+        "Memos",
+        "Nonprofit Formation",
+        "Ongoing Compliance",
+        "Political Activities and Lobbying"
+    ],
+    "members": null,
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Tuple Legal provided exceptional guidance for our nonprofit's formation. We couldn't have done it without them.",
+            "author": "Jane Doe",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "Ryan Hughes is incredibly knowledgeable about nonprofit law. His advice has been invaluable to our organization.",
+            "author": "John Smith",
+            "location": "San Francisco, CA"
+        },
+        {
+            "text": "Thanks to Tuple Legal, we navigated the complexities of Form 990 with ease. Highly recommend their services.",
+            "author": "Emily Johnson",
+            "location": "San Diego, CA"
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Experienced Litigators",
+            "content": "Bloom Parham is known for having attorneys who try cases, focusing on strategy and client needs. They are prepared to go all the way to trial."
+        },
+        {
+            "title": "Community Engagement",
+            "content": "The firm is actively involved in the Metro-Atlanta area, supporting various organizations and initiatives to affect positive change."
+        },
+        {
+            "title": "Comprehensive Solutions",
+            "content": "Offering a wide range of litigation services, Bloom Parham leverages vast experience in litigation, lobbying, and legislation to achieve victory for clients."
+        },
+        {
+            "title": "Client-Centric Approach",
+            "content": "Clients build long-term relationships with trusted advisors at Bloom Parham, benefiting from personalized and focused legal services."
+        }
+    ],
+    "address": "977 Ponce de Leon Ave., NE Atlanta, GA 30306",
+    "phoneNumber": "404.577.7710",
+    "email": "info@bloom-law.com",
+    "linkNames": [
+        "ABOUT US",
+        "PRACTICE AREAS",
+        "PROFESSIONALS",
+        "RESULTS",
+        "NEWS & EVENTS",
+        "PUBLICATIONS",
+        "CONTACT US"
+    ],
+    "companyName": "Bloom Parham",
+    "subHeading": "Atlanta\u2019s Most Successful Trial Boutique",
+    "valueProp": "Bloom Parham offers big-firm strategy and the vigorous litigation you seek, but from a more accessible service-oriented boutique law firm. We specialize in all facets of real estate, employment and complex business litigation.",
+    "CTA": null,
+    "topics": [
+        "Real Estate Litigation",
+        "Complex Litigation",
+        "Appellate Litigation",
+        "Employment Litigation"
+    ],
+    "members": [
+        {
+            "name": "Simon H. Bloom",
+            "position": "Founding Partner"
+        },
+        {
+            "name": "Stephen M. Parham",
+            "position": "Managing Partner"
+        },
+        {
+            "name": "Shannan F. Oliver",
+            "position": "Administrative Managing Partner"
+        },
+        {
+            "name": "Ryan T. Pumpian",
+            "position": "Partner"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": null
+}

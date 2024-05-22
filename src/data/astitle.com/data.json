@@ -1,0 +1,73 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Full-Service Law Firm",
+            "content": "Attorneys Signature Title PLLC offers a broad spectrum of support for residential and commercial real estate transactions. They work with a variety of professionals including real estate brokers, mortgage brokers, and attorneys."
+        },
+        {
+            "title": "Statewide Service",
+            "content": "The firm provides services throughout the entire State of Florida. This ensures that clients from any part of the state can benefit from their expertise."
+        },
+        {
+            "title": "Comprehensive Legal Services",
+            "content": "They offer a wide range of legal services including seller and buyer representation, short sale negotiations, and loan document preparation. Their expertise extends to trusts and estate planning as well."
+        },
+        {
+            "title": "Additional Searches & Services",
+            "content": "The firm conducts various searches such as lien, judgment, and property tax searches. They also handle Section 1031 exchanges and code and permit searches."
+        }
+    ],
+    "address": "2101 NW Corporate Blvd. Suite 410 Boca Raton, FL 33431",
+    "phoneNumber": "561-277-3773",
+    "email": "info@astitle.com",
+    "linkNames": [
+        "HOME",
+        "ABOUT US",
+        "ORDER TITLE",
+        "CONTACT US"
+    ],
+    "companyName": "Attorneys Signature Title PLLC",
+    "subHeading": null,
+    "valueProp": "Attorneys Signature Title PLLC is a full-service law firm that offers a broad spectrum of support for residential real estate and commercial real estate transactions. Our firm regularly works with real estate brokers, realtors, mortgage brokers, banks, correspondent lenders, attorneys, builders, developers, investors, speculators, flippers, buyers and sellers. We provide service throughout the entire State of Florida.",
+    "CTA": "Order Title",
+    "topics": [
+        "Residential and Commercial Transactions",
+        "Refinances",
+        "Owner\u2019s Title Insurance Policies",
+        "Lender\u2019s Title Insurance Policies",
+        "Title Searches",
+        "Seller Representation",
+        "Buyer Representation",
+        "Short Sale Negotiations",
+        "Loan Document Preparation"
+    ],
+    "members": [
+        {
+            "name": "Eric S. Orner, Esq.",
+            "position": "Co-Founder"
+        },
+        {
+            "name": "Tomer L. Alcalay, Esq.",
+            "position": "Co-Founder"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "These attorneys are amazing, knowledgeable, professional and ethical. They helped me every step of the way with patience and care.",
+            "author": "Rachael S.",
+            "location": "Happy Home Owner"
+        },
+        {
+            "text": "Eric and his team have done several closing for my sister and I. He is amazing at communication and is a pleasure to work with.",
+            "author": "Ashley & Blair A.",
+            "location": "Real Estate Agents"
+        },
+        {
+            "text": "I have referred them to friends who have thanked me afterwards! I HIGHLY recommend them!! Thank you again!",
+            "author": "Rachael S.",
+            "location": "Happy Home Owner"
+        }
+    ]
+}

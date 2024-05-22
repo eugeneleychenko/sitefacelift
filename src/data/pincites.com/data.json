@@ -1,0 +1,67 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Automated Analysis",
+            "content": "Automated analysis can help at every step of contract negotiation. We\u2019re integrating it seamlessly into every lawyer\u2019s workflow."
+        },
+        {
+            "title": "AI Integration",
+            "content": "AI-generated redlines and comments based on your preferences. Fully integrated into Microsoft Word."
+        },
+        {
+            "title": "Playbook Management",
+            "content": "You\u2019re in control of the redlines Pincites suggests. Use your existing guidance, our industry-standard checks, or work with us to create a new bespoke playbook."
+        },
+        {
+            "title": "Third-Party Paper Support",
+            "content": "After success with AI redline suggestions for first-party paper we launched 'checks' for third-party paper."
+        }
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "email": null,
+    "linkNames": [
+        "PRODUCT",
+        "COMPANY",
+        "SOCIAL",
+        "LEGAL"
+    ],
+    "companyName": "Pincites Inc.",
+    "subHeading": "AI contract review for busy legal teams",
+    "valueProp": "We\u2019re building the future of contract negotiation. Automated analysis can help at every step of contract negotiation. We\u2019re integrating it seamlessly into every lawyer\u2019s workflow.",
+    "CTA": "Request a demo",
+    "topics": [],
+    "members": [
+        {
+            "name": "Sona Sulakian",
+            "position": "Co-Founder / Co-CEO"
+        },
+        {
+            "name": "Grey Baker",
+            "position": "Co-Founder / Co-CEO"
+        },
+        {
+            "name": "Mariam Sulakian",
+            "position": "Co-Founder / CPO"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Pincites has revolutionized our contract negotiation process. The AI-generated redlines are incredibly accurate.",
+            "author": "John Doe",
+            "location": "New York"
+        },
+        {
+            "text": "The integration with Microsoft Word makes it so easy to use. Our legal team loves it.",
+            "author": "Jane Smith",
+            "location": "San Francisco"
+        },
+        {
+            "text": "The playbook management feature is a game-changer. We can now ensure consistency across all our contracts.",
+            "author": "Emily Johnson",
+            "location": "Chicago"
+        }
+    ]
+}

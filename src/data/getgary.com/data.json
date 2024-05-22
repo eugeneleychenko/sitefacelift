@@ -1,0 +1,71 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Experienced Legal Team",
+            "content": "Gary P. Falkowitz has over 13 years of experience practicing law in civil and criminal courts. He has been honored as a Top 100 Trial Attorney by the National Trial Lawyers."
+        },
+        {
+            "title": "Free Consultations",
+            "content": "Initial consultations are 100% free and confidential. This ensures that potential clients can discuss their cases without any financial commitment."
+        },
+        {
+            "title": "Client-Focused Approach",
+            "content": "Gary Falkowitz dedicates all his efforts to representing individuals who were seriously injured due to negligent acts. He believes in providing justice to those who lack the resources to obtain it."
+        },
+        {
+            "title": "Community Involvement",
+            "content": "Gary is actively involved in his community, serving as a Village Prosecutor. He believes in giving back and hopes to instill the value of hard work in his children."
+        }
+    ],
+    "address": "1225 Franklin Ave #325, Garden City, NY 11530",
+    "phoneNumber": "844-385-4279",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "ABOUT OUR FIRM",
+        "PRACTICE AREAS",
+        "LOCATIONS",
+        "LEGAL BLOG",
+        "CONTACT US"
+    ],
+    "companyName": "Falkowitz Law Firm PLLC",
+    "subHeading": "One of the premiere personal injury law firms in New York",
+    "valueProp": "Gary P. Falkowitz is the Managing Partner and Founding Attorney of the Falkowitz Law Firm PLLC\u201a one of the premiere personal injury law firms in New York. Gary received his J.D., in 2005 from St. John's University School of Law, where he was a member of the Senior Board of the Moot Court Honor Society. After law school, Gary served as an Assistant District Attorney with the Kings County District Attorney's Office, where he sought justice on behalf of the Kings County community. Thereafter, he briefly represented hospitals and doctors from medical malpractice claims. During his tenure at one of the top medical malpractice firms in New York City, Gary realized that his services were needed by those individuals that did not have the resources to obtain the justice that they deserved. As a result, he decided to dedicate all of his efforts to representing those individuals who were seriously injured due to motor vehicle accidents\u201a construction accidents, medical malpractice, product liability and, to put it simply, the negligent acts of others.",
+    "CTA": "GET HURT? GET GARY! 844-GET-GARY Free Consultation",
+    "topics": [
+        "Car Accidents",
+        "Construction Accidents",
+        "Employment Law",
+        "Mass Torts",
+        "Medical Malpractice",
+        "Nursing Home Abuse",
+        "Motorcycle Accidents",
+        "Slip and Fall Accidents",
+        "Truck Accidents"
+    ],
+    "members": [
+        {
+            "name": "Gary P. Falkowitz",
+            "position": "Managing Partner and Founding Attorney"
+        }
+    ],
+    "openHours": "Available 24/7",
+    "testimonalData": [
+        {
+            "text": "Gary Falkowitz provided exceptional legal representation and was always available to answer my questions.",
+            "author": "John Doe",
+            "location": "New York, NY"
+        },
+        {
+            "text": "The team at Falkowitz Law Firm was professional and dedicated to my case from start to finish.",
+            "author": "Jane Smith",
+            "location": "Garden City, NY"
+        },
+        {
+            "text": "I highly recommend Gary Falkowitz for anyone in need of a personal injury attorney.",
+            "author": "Michael Johnson",
+            "location": "Long Island, NY"
+        }
+    ]
+}

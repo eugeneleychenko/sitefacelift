@@ -1,0 +1,83 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Value for Money",
+            "content": "We offer considerable savings compared to traditional office-based law firms. Our leaner model allows savings to be passed directly to your consultant and therefore you."
+        },
+        {
+            "title": "Client Focus",
+            "content": "Our consultants have more time to focus directly on their clients. This approach allows you to develop a much closer working relationship that fits around your demanding personal or professional schedule."
+        },
+        {
+            "title": "Service Excellence",
+            "content": "You will deal with the experienced consultant directly. All work done by Nexa is carried out by a lawyer, barrister or CILEx with not less than eight years\u2019 experience."
+        },
+        {
+            "title": "Flexibility",
+            "content": "Nexa and its consultants are agile and can quickly adapt. They are ready to act in the most effective way for you or your business."
+        }
+    ],
+    "address": "Suite 2, Salop House, 13 Salop Road, Oswestry, Shropshire, SY11 2NR",
+    "phoneNumber": "+44(0)3300 24 24 20",
+    "email": "info@nexa.law",
+    "linkNames": [
+        "OUR SERVICES",
+        "OUR TEAM",
+        "NEXA CAREERS",
+        "WHY NEXA",
+        "NEWS & INSIGHTS",
+        "CONTACT"
+    ],
+    "companyName": "Nexa Law Limited",
+    "subHeading": "Reshaping the business of law",
+    "valueProp": "Nexa delivers innovative legal solutions to a diverse range of business and private clients. Our new model law firm redefines the legal service experience, offering flexibility, accessibility, and cost-effectiveness.",
+    "CTA": "Talk to Nexa",
+    "topics": [
+        "Banking and Finance",
+        "Charity, Third Sector, and Governance",
+        "Commercial law",
+        "Construction & Civil Engineering Disputes",
+        "Contentious Probate Services",
+        "Corporate",
+        "Data Protection / GDPR",
+        "Debt Recovery",
+        "Disputes"
+    ],
+    "members": [
+        {
+            "name": "Jennifer Andrews",
+            "position": "Employment Partner"
+        },
+        {
+            "name": "Keith Arrowsmith",
+            "position": "Consultant Solicitor - Charity, Third Sector & Governance"
+        },
+        {
+            "name": "Sarah Bostock",
+            "position": "Family Partner"
+        },
+        {
+            "name": "Nigel Bowen",
+            "position": "Commercial & Commercial Dispute Resolution Partner"
+        }
+    ],
+    "openHours": "24/7 advice delivered quickly by professional, approachable people.",
+    "testimonalData": [
+        {
+            "text": "Nexa's service delivery and new law model provide a refreshing change from a lot of traditional firms.",
+            "author": "Simon Copleston",
+            "location": "Emirates NBD Bank"
+        },
+        {
+            "text": "We have greatly appreciated Nexa's support and expertise. They have a depth of experience in our home market as well as Europe.",
+            "author": "Frances Finucan",
+            "location": "Collins Foods Limited"
+        },
+        {
+            "text": "Nexa has outstanding expertise and they just 'get it'. They know that we need fast, practical advice.",
+            "author": "Rick Johnson",
+            "location": "EduReach"
+        }
+    ]
+}

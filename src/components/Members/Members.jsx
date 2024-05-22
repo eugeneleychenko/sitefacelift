@@ -23,7 +23,7 @@ function Members() {
         const position =
           item.position && item.position.toLowerCase() !== "null"
             ? item.position
-            : "";
+            : "Attorney";
         if (position.toLowerCase() === "n/a") {
           return null;
         }

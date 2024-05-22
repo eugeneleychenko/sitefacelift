@@ -1,0 +1,75 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Personalized Legal Solutions",
+            "content": "We believe the essence of lawyering is helping people respond to life\u2019s challenges. At Otter Creek Law, PLLC, we are passionate about helping regular folks deal with complex personal relationships."
+        },
+        {
+            "title": "Comprehensive Property Law",
+            "content": "Our business is property law. We understand that life and property are inextricably intertwined, and we help develop strategies to protect your lifestyle and legacy."
+        },
+        {
+            "title": "Elder Law Expertise",
+            "content": "Our goal is to help individuals and families secure autonomy, preserve legacies, and protect our elders by tailoring legal solutions to life circumstances. We focus on legal issues usually associated with aging."
+        },
+        {
+            "title": "Business Law Guidance",
+            "content": "Forming a business or nonprofit has been likened to giving birth or getting married. We\u2019re here to help you navigate the complexities and ensure your success."
+        }
+    ],
+    "address": "110 Merchants Row \u2022 Suite 2 \u2022 Rutland, VT 05701",
+    "phoneNumber": "802-855-8316",
+    "email": "jeff@ottercreeklaw.com",
+    "linkNames": [
+        "HOME",
+        "PHILOSOPHY",
+        "OUR TEAM",
+        "SERVICES",
+        "CONTACT",
+        "BLOG"
+    ],
+    "companyName": "Otter Creek Law, PLLC",
+    "subHeading": "Rutland, Vermont Attorney",
+    "valueProp": "We believe the essence of lawyering is helping people respond to life\u2019s challenges. At Otter Creek Law, PLLC, we are passionate about helping regular folks deal with complex personal relationships, especially as relate to real, personal, and intellectual property.",
+    "CTA": "CONTACT US",
+    "topics": [
+        "Real Estate Transactions",
+        "Landlord/Tenant",
+        "Property Rights Litigation",
+        "Land Use and Act 250",
+        "Intellectual Property",
+        "Elder Law",
+        "Estate Planning",
+        "Business Formation",
+        "Nonprofit Guidance"
+    ],
+    "members": [
+        {
+            "name": "Jeffrey P. Guevin",
+            "position": "Principal & Attorney"
+        },
+        {
+            "name": "Jennifer D. Guevin",
+            "position": "Paralegal"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Jeffrey helped us navigate a complex property dispute with ease and professionalism.",
+            "author": "John Doe",
+            "location": "Rutland, VT"
+        },
+        {
+            "text": "Jennifer's attention to detail and dedication made our estate planning process smooth and stress-free.",
+            "author": "Jane Smith",
+            "location": "Rutland, VT"
+        },
+        {
+            "text": "The team at Otter Creek Law provided exceptional service and guidance for our nonprofit formation.",
+            "author": "Emily Johnson",
+            "location": "Rutland, VT"
+        }
+    ]
+}

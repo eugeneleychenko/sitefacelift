@@ -1,0 +1,79 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Extensive Knowledge",
+            "content": "We provide exceptional service to our clients by pairing an extensive knowledge of the law with superior accommodation and responsiveness. Our team has been negotiating deals for decades."
+        },
+        {
+            "title": "Tailored Approach",
+            "content": "Our tailored approach focuses on understanding each client\u2019s individual situation so we can best advocate and negotiate on the client\u2019s behalf. We pride ourselves on our accessibility and responsiveness."
+        },
+        {
+            "title": "Client Communication",
+            "content": "Each stage of the deal involves direct communication with the attorney assigned to the case with an opportunity to ask questions. We ensure that our clients are always informed and involved."
+        },
+        {
+            "title": "Core Values",
+            "content": "Our Firm's core values are authenticity, reliability, and practicality. We strive to provide the best possible service for each of our clients."
+        }
+    ],
+    "address": "1307 Sterling Blvd., Englewood, NJ 07631",
+    "phoneNumber": "908.589.8988",
+    "email": "[email protected]",
+    "linkNames": [
+        "HOME",
+        "ABOUT US",
+        "PRACTICE AREAS",
+        "INQUIRY FORMS",
+        "CONTACT US",
+        "CLIENT PORTAL"
+    ],
+    "companyName": "Bershtein Law LLC",
+    "subHeading": "We Tailor Our Top Quality Service to Each Client's Individual Needs.",
+    "valueProp": "Each team member of Bershtein Law brings a diverse set of talents and experiences to the group. We band together to create our own unique brand of lawyering to provide the best possible service for each of our clients.",
+    "CTA": "Leave Us A Review",
+    "topics": [
+        "Real Estate",
+        "Litigation",
+        "Business Consultation",
+        "Trusts and Estates",
+        "Tax and Audit",
+        "Residential Real Estate Transactions",
+        "Commercial Real Estate Transactions",
+        "1031 Exchanges",
+        "Commercial Leases"
+    ],
+    "members": [
+        {
+            "name": "Andrew C. Bershtein",
+            "position": "Founding Member"
+        },
+        {
+            "name": "Martin D. Eisenstein",
+            "position": "Of Counsel"
+        },
+        {
+            "name": "Mario G. Bai",
+            "position": "Of Counsel"
+        }
+    ],
+    "openHours": "Meetings by Appointment Only",
+    "testimonalData": [
+        {
+            "text": "Bershtein Law provided exceptional service and guided us through every step of our real estate transaction.",
+            "author": "John Doe",
+            "location": "New Jersey"
+        },
+        {
+            "text": "The team at Bershtein Law is knowledgeable and responsive. They made our business consultation process seamless.",
+            "author": "Jane Smith",
+            "location": "New York"
+        },
+        {
+            "text": "I highly recommend Bershtein Law for their professionalism and dedication to their clients.",
+            "author": "Michael Johnson",
+            "location": "Brooklyn"
+        }
+    ]
+}

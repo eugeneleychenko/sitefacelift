@@ -1,0 +1,64 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Personal Attention",
+            "content": "Every case taken on by L.A. Trial Pros will have the personal and undivided attention of an attorney throughout the lifetime of the case. This ensures that clients receive the highest quality of work."
+        },
+        {
+            "title": "Client Communication",
+            "content": "Asa Yashar focuses on consistent client communication and treating each case as though everything is depending on it. This helps put each client in a position to win."
+        },
+        {
+            "title": "Aggressive Representation",
+            "content": "L.A. Trial Pros believes in continuing to fight every step of the way, including filing lawsuits and using litigation as a tool. This commitment has led to a track record of success for clients."
+        },
+        {
+            "title": "Experience and Knowledge",
+            "content": "With years of experience in personal injury, Asa Yashar is ready to litigate matters from inception to trial. This experience helps in seeking just compensation for clients' injuries."
+        }
+    ],
+    "address": "12304 Santa Monica Blvd., 3rd Floor, Los Angeles, CA 90025",
+    "phoneNumber": "(833) 528-7776",
+    "email": "Asa@latrialpros.com",
+    "linkNames": [
+        "HOME",
+        "ABOUT",
+        "CONTACT",
+        "MORE..."
+    ],
+    "companyName": "L.A. Trial Pros",
+    "subHeading": "Specializing in Protecting Your Personal Injury Rights",
+    "valueProp": "L.A. Trial Pros is a boutique personal injury law firm specializing in recovering compensation for injured persons involved in automobile accidents, rideshare accidents, dog bites, and premises liability cases commonly referred to as slip and falls. After years of gaining experience in personal injury, Asa Yashar is ready to litigate matters from inception to trial.",
+    "CTA": "Learn More",
+    "topics": [
+        "Automobile Accidents",
+        "Rideshare Accidents",
+        "Dog Bites",
+        "Slip and Falls"
+    ],
+    "members": [
+        {
+            "name": "Asa Yashar",
+            "position": "Founder"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Asa Yashar provided excellent representation and kept me informed throughout the process.",
+            "author": "John Doe",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "I highly recommend L.A. Trial Pros for their dedication and professionalism.",
+            "author": "Jane Smith",
+            "location": "Beverly Hills, CA"
+        },
+        {
+            "text": "The team at L.A. Trial Pros fought hard for my case and achieved a great result.",
+            "author": "Michael Johnson",
+            "location": "Santa Monica, CA"
+        }
+    ]
+}

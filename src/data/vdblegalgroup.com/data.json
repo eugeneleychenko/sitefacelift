@@ -1,0 +1,65 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Nimble and Creative",
+            "content": "The firm was born out of the realization that while all businesses need solid legal advice, many find the conventional approach of law firms to be intimidating or unappealing. We offer top-tier legal services, tailored to entrepreneurs and growth-stage companies, without the stuffy feel of traditional law firms."
+        },
+        {
+            "title": "Experienced Founder",
+            "content": "Sarah Van De Bogart has worked at both regional and international law firms assisting clients across a variety of business sectors. She has also represented clients in litigation, giving her the benefit of seeing where companies face exposure when a deal goes wrong on the backend."
+        },
+        {
+            "title": "Passionate About Human Rights",
+            "content": "Sarah has developed a strong interest in international human rights issues and has worked and volunteered to advance these causes. She has worked for the UN in Cambodia prosecuting war crimes and provided assistance on the appeal of the war crimes conviction against Charles Taylor."
+        },
+        {
+            "title": "Client-Centric Approach",
+            "content": "We love working with people and are inspired by our clients who have looked at their industries and decided, there's a better way to do this. Our approach is professional, not proper, matching the mindset of the entrepreneurial clients we serve."
+        }
+    ],
+    "address": null,
+    "phoneNumber": "303-502-9234",
+    "email": "sarah@vdblegalgroup.com",
+    "linkNames": [
+        "HOME",
+        "SERVICES",
+        "PRICING",
+        "ABOUT",
+        "CONTACT"
+    ],
+    "companyName": "VDB Legal Group",
+    "subHeading": "Professional, Not Proper",
+    "valueProp": "VDB Legal Group is a boutique law firm that matches the mindset of the entrepreneurial clients we serve: Nimble, Creative, Determined, and Bold. The firm was born out of the realization that while all businesses need solid legal advice, many find the conventional approach of law firms to be intimidating or unappealing. We offer top-tier legal services, tailored to entrepreneurs and growth-stage companies, without the stuffy feel of traditional law firms.",
+    "CTA": "Let's talk about what's going on with your business and see how we can help. Give us a call, shoot us an email, or use the form below to set up a meeting.",
+    "topics": [
+        "Intellectual Property",
+        "Business Formation",
+        "Commercial Contracts",
+        "Employment Law"
+    ],
+    "members": [
+        {
+            "name": "Sarah Van De Bogart",
+            "position": "Founding Partner"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Sarah is an exceptional lawyer who truly understands the needs of entrepreneurs.",
+            "author": "John Doe",
+            "location": "Denver, CO"
+        },
+        {
+            "text": "The team at VDB Legal Group is both professional and approachable.",
+            "author": "Jane Smith",
+            "location": "Boulder, CO"
+        },
+        {
+            "text": "I highly recommend VDB Legal Group for any business legal needs.",
+            "author": "Michael Johnson",
+            "location": "Aurora, CO"
+        }
+    ]
+}

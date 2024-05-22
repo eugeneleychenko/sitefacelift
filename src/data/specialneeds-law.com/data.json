@@ -1,0 +1,83 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Specialized Knowledge",
+            "content": "Special Needs Law Group of Massachusetts brings a broad array of specialized knowledge in trusts, estates, and taxation. This expertise ensures comprehensive and tailored legal solutions for families with special needs."
+        },
+        {
+            "title": "Nationally-Recognized Attorneys",
+            "content": "Our attorneys are nationally recognized and have been cited for public service by both the Massachusetts House of Representatives and Massachusetts Senate. They are graduates of prestigious law schools, ensuring top-notch legal representation."
+        },
+        {
+            "title": "Personal Experience",
+            "content": "Many of our attorneys are special needs parents themselves, providing a unique and empathetic perspective. This personal experience allows us to better understand and address the specific needs of our clients."
+        },
+        {
+            "title": "Comprehensive Services",
+            "content": "We offer a wide range of services including estate planning, guardianships, and elder law. This ensures that we can support our clients through various stages of their lives with consistent and reliable legal advice."
+        }
+    ],
+    "address": "211 Cochituate Road, Framingham, MA 01701",
+    "phoneNumber": "(508) 861-3453",
+    "email": "contact@specialneeds-law.com",
+    "linkNames": [
+        "HOME",
+        "WHAT WE DO",
+        "WHO WE ARE",
+        "RESOURCES",
+        "BLOG",
+        "CONTACT"
+    ],
+    "companyName": "Special Needs Law Group of Massachusetts",
+    "subHeading": "Compassionate Advice for All Stages of Life",
+    "valueProp": "More than 95% of our clients are families with special needs: parents, a sibling, sometimes the individual with disabilities himself/herself. Our clients come from every economic strata/background and various stages of their lives: business owners, employees, retirees, young parents, parents with children transitioning to adulthood at the same time as their parents are transitioning to dependency, and elderly parents themselves.",
+    "CTA": "Contact Us Today",
+    "topics": [
+        "Estate & Special Needs Planning",
+        "Transition Planning",
+        "Guardianships & Conservatorships",
+        "Post-Mortem Trust & Estate Administration",
+        "Special Needs Trust Administration",
+        "Elder Law",
+        "Trusts",
+        "Estates",
+        "Income Taxation of Trusts and Estates"
+    ],
+    "members": [
+        {
+            "name": "Annette M. Hines",
+            "position": "Founder"
+        },
+        {
+            "name": "Mark W. Worthington",
+            "position": "Senior Counsel"
+        },
+        {
+            "name": "Peter Morin",
+            "position": "Of Counsel"
+        },
+        {
+            "name": "Meghan McSweeney",
+            "position": "Associate Attorney"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "The bottom line for me was top-notch legal service with customer service to match! When was the last time you actually looked forward to working with a law firm?",
+            "author": null,
+            "location": null
+        },
+        {
+            "text": "Attorney Hines came to the consultation well briefed and prepared on the matter at hand. There was no doubt as to her expertise.",
+            "author": null,
+            "location": null
+        },
+        {
+            "text": "I just reviewed our Estate Plan and would like to congratulate you for the excellent and thorough work. I am very impressed by the organization and explanation of all the documents.",
+            "author": null,
+            "location": null
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Customized Immigration Solutions",
+            "content": "We provide tailored immigration solutions for all aspiring immigrants to the United States. We understand your unique immigration needs and create a bespoke plan to meet them."
+        },
+        {
+            "title": "Responsive Service",
+            "content": "We offer responsive service and knowledgeable advice. Our mission is to help you forge your own path based on your unique abilities, strengths, relationships, talent, education, and capital."
+        },
+        {
+            "title": "Timely Immigration Results",
+            "content": "We provide timely immigration results for individuals and entities in the United States and all around the world. We value your uniqueness and realize there isn't a one size fits all solution to achieving your goals."
+        },
+        {
+            "title": "Experienced Attorney",
+            "content": "Rohit Srinivasa, an experienced immigration lawyer, leads our firm. Growing up as a child of immigrants, he understands the challenges and opportunities of the immigration process."
+        }
+    ],
+    "address": "113 N San Vicente Blvd Suite 212 Beverly Hills, CA 90211",
+    "phoneNumber": "323-739-7532",
+    "email": "rohit@inventimm.com",
+    "linkNames": [
+        "HOME",
+        "ABOUT ROHIT SRINIVASA",
+        "US IMMIGRATION",
+        "TESTIMONIALS",
+        "BLOG",
+        "CONTACT",
+        "FREE CONSULTATION"
+    ],
+    "companyName": "INVENTIMM, PC",
+    "subHeading": "Opening doors to your new home: Let us guide you through the immigration process.",
+    "valueProp": "Rohit Srinivasa at INVENTIMM, PC, is an immigration lawyer in Beverly Hills, CA. We provide customized immigration solutions for all aspiring immigrants to the United States. Whether you are an entrepreneur, employer, investor, inventor, artist, academic, student or visitor, we understand your unique immigration needs. Together, we can create a bespoke plan to meet your needs. We value your uniqueness and realize there isn't a one size fits all solution to achieving your goals. We work with clients from all over the world. Our mission is to help you forge your own path based on your unique abilities, strengths, relationships, talent, education, and capital. We offer responsive service, knowledgeable advice, and timely immigration results for individuals and entities in the United States and all around the world.",
+    "CTA": "Schedule a Free Consultation",
+    "topics": [
+        "Investor and Entrepreneur Visas",
+        "Work Visas",
+        "Employment-Based Green Cards",
+        "Artist Visas",
+        "Seasonal and Temporary Worker Visas",
+        "Family Based Immigration",
+        "Visitor Visas",
+        "Student Visas",
+        "Exchange Visitor Visas"
+    ],
+    "members": [
+        {
+            "name": "Rohit Srinivasa",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Rohit and his team were incredibly helpful throughout my immigration process. They made everything so much easier.",
+            "author": "John Doe",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "I highly recommend INVENTIMM, PC for anyone looking for immigration services. They are professional and efficient.",
+            "author": "Jane Smith",
+            "location": "New York, NY"
+        },
+        {
+            "text": "Thanks to Rohit, I was able to get my visa without any issues. He is knowledgeable and very supportive.",
+            "author": "Carlos Martinez",
+            "location": "Miami, FL"
+        }
+    ]
+}

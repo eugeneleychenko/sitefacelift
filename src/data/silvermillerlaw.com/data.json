@@ -1,0 +1,83 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Experienced Attorneys",
+            "content": "Silver Miller is a team of talented, experienced attorneys \u2014 each of whom has been recognized and honored by peers as being among the most respected and accomplished attorneys in the legal profession."
+        },
+        {
+            "title": "Client-Centric Approach",
+            "content": "We represent our clients' interests as if they were our own, believing that anything less is simply not acceptable. Our pure contingency-fee structure ensures that our interests align with yours: if we don't win, we don't get paid."
+        },
+        {
+            "title": "Proven Track Record",
+            "content": "Silver Miller has secured an impressive list of favorable judgments and settlements. Our winning track record is testament to our expertise, our tireless work ethic, and our deep understanding of the complex legal landscape."
+        },
+        {
+            "title": "Comprehensive Legal Services",
+            "content": "We delve into the heart of business disputes, investment fraud, and consumer class action cases, armed with aggressive litigation strategies and a keen eye for legal analysis."
+        }
+    ],
+    "address": "4450 NW 126th Avenue, Suite 101, Coral Springs, FL 33065",
+    "phoneNumber": "954-516-6000",
+    "email": null,
+    "linkNames": [
+        "ABOUT US",
+        "PRACTICE AREAS",
+        "CASES",
+        "CURRENT INVESTIGATIONS",
+        "PRESS",
+        "CONTACT US"
+    ],
+    "companyName": "Silver Miller",
+    "subHeading": "Taking a Stand: Your Financial Security Matters",
+    "valueProp": "Welcome to Silver Miller, where your financial safety is our top priority. We firmly believe that nobody should lose money due to unscrupulous business practices, fraudulent investments, or corporate negligence. We leverage our legal prowess and years of experience to safeguard your hard-earned assets and seek restitution for your losses. With Silver Miller at your side, rest assured, you have a staunch advocate in the fight for justice and fair play.",
+    "CTA": "Get a FREE Consultation",
+    "topics": [
+        "Business Litigation",
+        "Digital Investments (Cryptocurrency)",
+        "Investment Fraud",
+        "Professional Malpractice",
+        "Class Actions",
+        "Whistleblower Claims",
+        "Securities Litigation & Arbitration",
+        "Stockbroker Misconduct",
+        "Financial Advisors Disputes"
+    ],
+    "members": [
+        {
+            "name": "David C. Silver",
+            "position": "Founder"
+        },
+        {
+            "name": "Jason S. Miller",
+            "position": "Founder"
+        },
+        {
+            "name": "Eric F. Rosenberg",
+            "position": "Partner"
+        },
+        {
+            "name": "Peter S. Fayne",
+            "position": "Of Counsel"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Silver Miller represented me on a very sensitive matter. I didn\u2019t know where to begin in the process. This firm walked me through every step and the outcome was better than I could have expected.",
+            "author": "Jarred E",
+            "location": null
+        },
+        {
+            "text": "Silver Miller exceeded my expectations. They were professional, timely in responses and could not have asked for a better result.",
+            "author": "Aaron G",
+            "location": null
+        },
+        {
+            "text": "Family members of mine lost a lifetime of earnings by trusting the wrong person. David Silver aggressively handled the matter and resolved it quickly and within 30 days of filing a complaint.",
+            "author": "David G",
+            "location": null
+        }
+    ]
+}

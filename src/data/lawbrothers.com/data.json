@@ -1,0 +1,65 @@
+{
+    "paragraph": "Call Us Now",
+    "detailsData": [
+        {
+            "title": "No Fee Promise",
+            "content": "Our firm operates on a contingency fee basis, meaning you don't pay unless we win your case."
+        },
+        {
+            "title": "24/7 Availability",
+            "content": "We are available around the clock to offer legal assistance and support whenever you need it."
+        },
+        {
+            "title": "Experienced Attorneys",
+            "content": "Our team of attorneys has a proven track record of success in personal injury cases, ensuring you get the best representation."
+        },
+        {
+            "title": "Client-Focused",
+            "content": "We treat our clients like family, providing personalized and compassionate service to help you through this challenging time."
+        }
+    ],
+    "address": "8370 Wilshire Blvd #205, Beverly Hills, CA 90211",
+    "phoneNumber": "(800) 222-2222",
+    "email": "contact@lawbrothers.com",
+    "linkNames": [
+        "HOME",
+        "ABOUT US",
+        "PERSONAL INJURY",
+        "CONTACT US",
+        "ESPA\u00d1OL"
+    ],
+    "companyName": "The Law Brothers\u00ae",
+    "subHeading": "Vehicle Accident and Personal Injury Attorneys",
+    "valueProp": "The Law Brothers\u00ae proudly serve and represent those injured in accidents. We have offices throughout the United States including California, Texas, Washington and more. Led by Shawn and Shervin Lalezary, our firm has vast knowledge and experience in a wide variety of personal injury cases, and works with a large network of legal experts to represent our clients.",
+    "CTA": "Call Now For Your Free Consultation",
+    "topics": [
+        "Car Accidents",
+        "Motorcycle Accidents",
+        "Truck Accidents",
+        "Bicycle Accidents",
+        "Pedestrian Accidents",
+        "Premises Liability",
+        "Wrongful Death",
+        "Brain Injury",
+        "Medical Malpractice"
+    ],
+    "members": null,
+    "openHours": "AVAILABLE 24/7",
+    "testimonalData": [
+        {
+            "text": "Honestly can't say enough positive things about the Law Brothers! They are super professional and really helped me get through this hardship in my life.",
+            "author": "Ivonne K.",
+            "location": null
+        },
+        {
+            "text": "Last year I contacted your law firm when I got into a car accident. Once my case was settled I ended up getting more than I was expecting.",
+            "author": "William Charlton",
+            "location": null
+        },
+        {
+            "text": "The team at the Law Brothers were amazing! Now I am back to where I was physically before the accident and I am able to ride a motorcycle again.",
+            "author": "Charles Mortensen",
+            "location": null
+        }
+    ]
+}

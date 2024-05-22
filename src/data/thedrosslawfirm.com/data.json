@@ -1,0 +1,74 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Raw Experience",
+            "content": "We are not your run-of-the-mill law firm. Our founding attorney, Arique Dross III, brings his unique personal journey from adversity to triumph into our practice."
+        },
+        {
+            "title": "Insightful Representation",
+            "content": "Our commitment to providing insightful representation is shaped by lived personal and professional experiences. We ensure that our clients' needs are anticipated, their rights defended, and their stories heard."
+        },
+        {
+            "title": "Strategic Solutions",
+            "content": "We believe in crafting strategic solutions that are tailored to each client's unique circumstances. We provide solutions designed to safeguard our clients' interests and achieve their objectives."
+        },
+        {
+            "title": "Client Advocacy",
+            "content": "We deliver an attorney-client relationship rooted in client advocacy and relentless representation. Our approach is characterized by tailored guidance and strategic representation."
+        }
+    ],
+    "address": "One Liberty Plaza,165 Broadway - 23rd Floor,New York, NY 10006",
+    "phoneNumber": "(718) 540-5536",
+    "email": "inquiry@thedrosslawfirm.com",
+    "linkNames": [
+        "HOME",
+        "MEET THE FIRM",
+        "PRACTICES",
+        "LEGAL GUIDES",
+        "FIRM NEWS"
+    ],
+    "companyName": "The Dross Law Firm",
+    "subHeading": "Committed to Your Journey",
+    "valueProp": "In-court legal experience combined with out-of-court real-life experience allows us to fully empathize with our clients, delivering an attorney-client relationship rooted in client advocacy and relentless representation. An unparalleled fusion of in-court legal experience and real-world lived experience, enables us to genuinely understand our client's unique needs and circumstances, and deliver an elevated attorney-client relationship characterized by tailored guidance, relentless advocacy, and strategic representation.",
+    "CTA": "Contact Us Today",
+    "topics": [
+        "Child Abuse, Neglect or Maltreatment",
+        "Voluntary Foster Care",
+        "Family Offenses / Order of Protection",
+        "Juvenile Delinquency",
+        "Person in Need of Supervision (PINS)",
+        "Termination of Parental Rights (TPR)",
+        "Special Immigrant Juveniles (SIJS)",
+        "Destitute Child",
+        "Former Foster Care Youth Re-Entry"
+    ],
+    "members": [
+        {
+            "name": "Arique Dross III",
+            "position": "Founder, Managing Attorney"
+        },
+        {
+            "name": "Stavros S. Skendres",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Attorney Arique Dross represented me and walked me through an harassment charge I had against a family member. He fought for me and was extremely assertive with the opposing counsel.",
+            "author": "Maria McDonald",
+            "location": null
+        },
+        {
+            "text": "Highly recommend. Professional, and great experience. Dealing with my situation, Arique\u2019s performance gave me confidence and hope, for a situation most people would fold under.",
+            "author": "Justin Marrero",
+            "location": null
+        },
+        {
+            "text": "Mr. Dross is one of the best attorneys I\u2019ve ever had the pleasure of dealing with. He is patient, knowledge, and ALWAYS reachable. He was always prepared in court and was very accurate in his predictions about the moves of the opposing counsel.",
+            "author": "Lawreece Fluellen",
+            "location": null
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Integrated Credit Tracker",
+            "content": "Never lose a CLE certificate again! Our advanced credit tracker ensures all your certificates are stored and easily accessible."
+        },
+        {
+            "title": "All Specialty Credits Covered",
+            "content": "We offer a wide range of specialty CLE courses, including ethics and elimination of bias. Find the courses you need, when you need them."
+        },
+        {
+            "title": "Multi Jurisdiction CLE Certificate",
+            "content": "Our courses are accredited in both the US and Canada. Earn your CLE credits no matter where you practice."
+        },
+        {
+            "title": "Mobile Friendly",
+            "content": "Complete your CLE courses on the go with our mobile-friendly platform. Study anytime, anywhere, on any device."
+        }
+    ],
+    "address": "CLE Companion PO Box 160411 Austin, TX 78716",
+    "phoneNumber": "877-670-2520",
+    "email": "Info@clecompanion.com",
+    "linkNames": [
+        "CLE COURSES",
+        "UNLIMITED CLE MEMBERSHIPS",
+        "RESOURCES",
+        "CART",
+        "LOGIN"
+    ],
+    "companyName": "CLE Companion",
+    "subHeading": "Online Continuing Legal Education built for YOU",
+    "valueProp": "CLE Companion is a nationally accredited virtual continuing legal education provider. We produce top-quality courses to lawyers across the United States and Canada. Our mission is to utilize technologies to support the completion of CLE with unparalleled convenience and value. This led CLE Companion to create the most innovative CLE platform in the industry.",
+    "CTA": "Start Today for that 'DONE WITH MY CLE' Feeling!",
+    "topics": [
+        "Succession Planning for Lawyers",
+        "Cybersecurity Basics for Legal Practitioners",
+        "Protect Your Firm from Cyber Attacks",
+        "Foreign Corrupt Policies Act of 1977",
+        "Technology and Ethics for Lawyers",
+        "Elimination of Bias",
+        "Case Law Research",
+        "Digital Legal Advertising Compliance",
+        "Psychedelic Series with Plant Medicine Law Group"
+    ],
+    "members": [
+        {
+            "name": "Holt Hackney",
+            "position": "CEO"
+        },
+        {
+            "name": "Francine Tone",
+            "position": "Principal Attorney"
+        },
+        {
+            "name": "Fletcher Brown",
+            "position": "Partner"
+        },
+        {
+            "name": "Carla Varriale-Barker",
+            "position": "Shareholder"
+        }
+    ],
+    "openHours": "Not specified",
+    "testimonalData": [
+        {
+            "text": "CLE Companion is the best online CLE provider I have worked with. I refer all the attorneys in my network to CLE Companion.",
+            "author": "Holt Hackney",
+            "location": "Hackney Publications"
+        },
+        {
+            "text": "Working with CLE Companion, heavy on tech, is also customer-centric. It\u2019s nice to have cutting edge technology for online CLE courses.",
+            "author": "Francine Tone",
+            "location": "Tone and Tone, LLP"
+        },
+        {
+            "text": "CLE Companion has now become my only source for online CLE courses. Easy, efficient, with a great variety of bar CLE.",
+            "author": "Fletcher Brown",
+            "location": "Waller, Lansden Dortch & David, LLP"
+        }
+    ]
+}

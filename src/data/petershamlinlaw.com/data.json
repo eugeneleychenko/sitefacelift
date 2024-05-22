@@ -1,0 +1,72 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Creative, Practical Solutions",
+            "content": "Peters Hamlin Law, LLC distinguishes itself from other law firms through its unique approach to solving legal problems. The practice of law is strategic, cost-effective and individually tailored to every client's needs."
+        },
+        {
+            "title": "Proven Experience",
+            "content": "Kristan Peters-Hamlin has served as Assistant U.S. Attorney in Washington, D.C. and litigated on behalf of Fortune 500 clients in 30 states. She brings over 33 years of experience and has tried dozens of cases to verdict."
+        },
+        {
+            "title": "Award-Winning Lawyer",
+            "content": "Kristan Peters-Hamlin has been repeatedly selected for inclusion in Super Lawyers and awarded for high verdicts. She was recognized by TopVerdict.com for winning one of the Top 20 Verdicts of the year in Connecticut."
+        },
+        {
+            "title": "Client-Centric Approach",
+            "content": "Every client works directly with a Connecticut employment lawyer who has been repeatedly selected for inclusion in Super Lawyers. The goal is to solve your legal problem whether inside or outside the courtroom."
+        }
+    ],
+    "address": "21 Compo Pkwy, Westport, CT 06880",
+    "phoneNumber": "(203) 504-2050",
+    "email": "kph@petershamlinlaw.com",
+    "linkNames": [
+        "HOME",
+        "ATTORNEY PROFILE",
+        "PRACTICE AREAS",
+        "NOTABLE CASES",
+        "PRESS & ARTICLES",
+        "CLIENT TESTIMONIALS",
+        "CONTACT US"
+    ],
+    "companyName": "Peters Hamlin Law, LLC",
+    "subHeading": "New York City Employment Attorney",
+    "valueProp": "Peters Hamlin Law, LLC is a litigation boutique, focusing its practice on employment law, severance negotiations, whistleblower suits, wrongful termination suits, Dodd Frank and Sarbanes-Oxley lawsuits, fraud and white collar criminal litigation, executive compensation, retaliation, discrimination, labor union disputes, trade secret disputes, qui tam cases, and complex civil litigation. Peters Hamlin Law, LLC distinguishes itself from other law firms through its unique approach to solving legal problems. At Peters Hamlin Law, LLC, the practice of law is strategic, cost-effective and individually tailored to every client's needs.",
+    "CTA": "TAP HERE TO CALL US",
+    "topics": [
+        "Employment Litigation",
+        "Executive Compensation",
+        "Criminal Defense & Fraud",
+        "Civil Litigation",
+        "Advice, Counsel & Investigations",
+        "Defamation Litigation",
+        "Unfair Competition and Trade Secret Disputes",
+        "Discrimination",
+        "Retaliation"
+    ],
+    "members": [
+        {
+            "name": "Kristan Peters-Hamlin",
+            "position": "Managing Partner"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Working with Kristan was like a dream come true! She had my back from the first phone call to the outcome of settlement negotiations.",
+            "author": "Annette Garaghty",
+            "location": null
+        },
+        {
+            "text": "Kristan represented me in litigation in a retaliation and race discrimination claim. Her trial skills were masterful.",
+            "author": "Michael Barham",
+            "location": null
+        },
+        {
+            "text": "Kristan Peters-Hamlin is the BEST employment litigator I've ever engaged. She is intelligent, highly fluent in negotiation, and knows how to transform during different stages of a suit.",
+            "author": "Matthew Epstein",
+            "location": null
+        }
+    ]
+}

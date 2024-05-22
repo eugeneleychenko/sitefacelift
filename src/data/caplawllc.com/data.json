@@ -1,0 +1,78 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Focused On Immigration",
+            "content": "At Capstone Law, LLC, we are focused on immigration law. We have devoted our careers to developing the skills necessary to serve as highly effective advocates for our clients."
+        },
+        {
+            "title": "Experience & Results",
+            "content": "Our past experience at larger firms provides us with a legal skill set that has been honed to take on the most complex problems. We bring those skills in the more personal setting of our current firm."
+        },
+        {
+            "title": "Commitment To Clients",
+            "content": "We are fully dedicated to providing our clients with the superior service they need to achieve their goals. We will create a tailored strategy that truly helps you."
+        },
+        {
+            "title": "Understanding Difficulties",
+            "content": "We have seen firsthand the damage our clients face from the issues they must confront. We know the struggles our clients face and that is why we put in the hard work we do."
+        }
+    ],
+    "address": "2119 3rd Ave N. Suite 202, Birmingham, AL 35203",
+    "phoneNumber": "659-977-3388",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "ABOUT",
+        "PRACTICE AREAS",
+        "BLOG",
+        "CONTACT"
+    ],
+    "companyName": "Capstone Law, LLC",
+    "subHeading": "Your Trusted Advocate",
+    "valueProp": "At Capstone Law, LLC, we are focused on immigration law. We have devoted our careers to developing the skills necessary to serve as highly effective advocates for our clients. Our past experience at larger firms provides us with a legal skill set that has been honed to take on the most complex problems. We bring those skills in the more personal setting of our current firm where we can focus on our clients and provide them with the one-on-one attention everyone deserves.",
+    "CTA": "Request a consultation Today",
+    "topics": [
+        "Audits And Compliance",
+        "Citizenship",
+        "Consular Representation",
+        "Employment-Based Immigration",
+        "Individuals With Extraordinary Ability Or Achievement",
+        "Investors And Eb5",
+        "Physician National Interest Waiver (NIW)",
+        "Students And Visitors",
+        "Visas For Canadian And Mexican NAFTA Professional Workers"
+    ],
+    "members": [
+        {
+            "name": "Joey A. Chbeir",
+            "position": "Attorney"
+        },
+        {
+            "name": "Sam Badawi",
+            "position": "Attorney"
+        },
+        {
+            "name": "Andrew Sandlin",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Capstone Law, LLC helped me navigate the complex immigration process with ease.",
+            "author": "John Doe",
+            "location": "Birmingham, AL"
+        },
+        {
+            "text": "The team at Capstone Law, LLC is dedicated and knowledgeable. They truly care about their clients.",
+            "author": "Jane Smith",
+            "location": "Birmingham, AL"
+        },
+        {
+            "text": "I highly recommend Capstone Law, LLC for anyone facing immigration issues. They are the best in the business.",
+            "author": "Carlos Martinez",
+            "location": "Birmingham, AL"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Experienced Attorneys",
+            "content": "Castle Law offers the experience of attorneys who have represented business clients at preeminent international law firms for decades combined. This ensures that clients receive top-notch legal representation."
+        },
+        {
+            "title": "Exclusive Focus",
+            "content": "Castle Law practices exclusively in the area of employment law. This specialization allows them to stay on top of the newest cases, recent legislation, and litigation strategies."
+        },
+        {
+            "title": "Integrity and Honesty",
+            "content": "Integrity, honesty, creativity, and hard work are the pillars of Castle Law. They work zealously to represent their client's interests with an honest assessment of circumstances."
+        },
+        {
+            "title": "Dual Perspective",
+            "content": "Castle Law represents both employers and employees in civil disputes. This approach provides unparalleled perspective, benefits, and value to their clients."
+        }
+    ],
+    "address": "2999 Douglas Blvd., Suite 180, Roseville, CA 95661",
+    "phoneNumber": "916-245-0122",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "ABOUT OUR FIRM",
+        "FOR EMPLOYERS",
+        "FOR EMPLOYEES",
+        "BLOG",
+        "RESOURCES",
+        "CONTACT"
+    ],
+    "companyName": "Castle Law",
+    "subHeading": "California Employment Counsel, PC",
+    "valueProp": "Castle Law: California Employment Counsel, PC represents clients throughout all of California, North and South, providing representation for both employers and employees. Despite what other law firms might tell you, knowing how the other side thinks actually makes us better lawyers! Castle Law offers employers advice and counsel to ensure compliance and representation in litigation before courts and state agencies. Castle Law also offers employees representation in disputes with their employers and former employers.",
+    "CTA": "Learn More",
+    "topics": [
+        "Unlawful Termination",
+        "Unpaid Wages",
+        "Retaliation",
+        "Sexual Harassment",
+        "Disability Discrimination",
+        "Employee Misclassification",
+        "Disability Rights",
+        "Harassment",
+        "Age Discrimination"
+    ],
+    "members": [
+        {
+            "name": "Timothy B. Del Castillo",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Everything went well, since the first day of consultation. I am very pleased and satisfied with them.",
+            "author": "Anonymous",
+            "location": null
+        },
+        {
+            "text": "Castle Law is an outstanding employment law firm, and champions for their clients.",
+            "author": "Anonymous",
+            "location": null
+        },
+        {
+            "text": "Timothy Del Castillo has provided our company with excellent, timely and personalized legal advice for several years.",
+            "author": "Anonymous",
+            "location": null
+        }
+    ]
+}

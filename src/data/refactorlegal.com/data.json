@@ -1,0 +1,54 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Complex Agreement Negotiation",
+            "content": "Jay has extensive experience negotiating complex commercial agreements with top technology companies. This ensures that clients receive the best possible terms and protections."
+        },
+        {
+            "title": "Tailored Legal Strategy",
+            "content": "Jay provides tailored advice and strategy for agreements ranging from five to nine figures. This personalized approach ensures that each client's unique needs are met."
+        },
+        {
+            "title": "Efficient Legal Services",
+            "content": "Jay makes legal services more efficient by creating form libraries and negotiation playbooks. This reduces time and costs for clients."
+        },
+        {
+            "title": "Comprehensive Product Counseling",
+            "content": "Jay offers product counseling through all aspects of developing, operating, and monetizing websites and mobile applications. This comprehensive service helps clients navigate complex legal landscapes."
+        }
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "email": "jay@refactorlegal.com",
+    "linkNames": [
+        "HOME",
+        "BIO",
+        "EXPERIENCE",
+        "CONTACT"
+    ],
+    "companyName": "Refactor Legal LLC",
+    "subHeading": "Bringing a problem-solving and intellectually curious engineering mentality to legal services.",
+    "valueProp": "Bringing a problem-solving and intellectually curious engineering mentality to legal services.",
+    "CTA": null,
+    "topics": [],
+    "members": [],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Jay's expertise in negotiating complex agreements has been invaluable to our business.",
+            "author": "John Doe",
+            "location": "San Francisco, CA"
+        },
+        {
+            "text": "The tailored legal strategies provided by Jay have significantly benefited our company.",
+            "author": "Jane Smith",
+            "location": "New York, NY"
+        },
+        {
+            "text": "Jay's efficient legal services have saved us both time and money.",
+            "author": "Michael Johnson",
+            "location": "Los Angeles, CA"
+        }
+    ]
+}

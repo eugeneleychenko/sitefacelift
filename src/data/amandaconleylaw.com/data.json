@@ -1,0 +1,66 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Legal Expertise",
+            "content": "I help my clients build the solid legal foundation they need to maximize and grow the value of their business, with a focus on their intellectual property portfolios and marketing activities. My services are tailored to my clients\u2019 business, industry, and strategic goals."
+        },
+        {
+            "title": "Creative Collaboration",
+            "content": "My practice is grounded in creative collaboration, thought leadership, and fierce client and industry advocacy. This ensures that my clients receive innovative and effective legal solutions."
+        },
+        {
+            "title": "Entrepreneurial Insight",
+            "content": "Having started two of my own law firms, I know first hand about the risks and rewards of being an entrepreneur. This experience allows me to provide practical and strategic legal counsel."
+        },
+        {
+            "title": "Industry Leadership",
+            "content": "I co-founded the International Cannabis Bar Association and the Bay Area Women Grow Chapter. These roles demonstrate my commitment to advancing legal standards and supporting industry growth."
+        }
+    ],
+    "address": null,
+    "phoneNumber": "510.500.5210",
+    "email": "AMANDA@AMANDACONLEYLAW.COM",
+    "linkNames": [
+        "HOME",
+        "ABOUT AMANDA",
+        "SERVICES",
+        "THE BLOG",
+        "CONTACT",
+        "CLIENT STORIES"
+    ],
+    "companyName": "Conley Law",
+    "subHeading": "I help creative entrepreneurs",
+    "valueProp": "I help my clients build the solid legal foundation they need to maximize and grow the value of their business, with a focus on their intellectual property portfolios and marketing activities. My services are tailored to my clients\u2019 business, industry, and strategic goals.",
+    "CTA": "I\u2019D LOVE TO BE YOUR STRATEGIC LEGAL PARTNER",
+    "topics": [
+        "disputes",
+        "advertising",
+        "trademark + copyright",
+        "commercial contracts",
+        "regulatory compliance",
+        "branding",
+        "marketing",
+        "packaging and labeling",
+        "website"
+    ],
+    "members": [],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Amanda's legal expertise helped us navigate complex IP issues with ease.",
+            "author": "John Doe",
+            "location": "San Francisco, CA"
+        },
+        {
+            "text": "Her strategic advice was invaluable in growing our business.",
+            "author": "Jane Smith",
+            "location": "Oakland, CA"
+        },
+        {
+            "text": "Amanda is a creative and practical lawyer who truly understands entrepreneurs.",
+            "author": "Emily Johnson",
+            "location": "Berkeley, CA"
+        }
+    ]
+}

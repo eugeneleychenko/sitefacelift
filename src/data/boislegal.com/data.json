@@ -1,0 +1,69 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Practical Business Solutions",
+            "content": "We provide practical business solutions to our clients' legal problems. Our attorneys are skilled and tenacious advocates, but we recognize that the most aggressive (and expensive) approach may not be the best solution to a client\u2019s problem."
+        },
+        {
+            "title": "Client's Business Knowledge",
+            "content": "We learn our clients\u2019 business and industry. We take the time to learn the business environment in which our clients operate so that the advice we provide fits the client."
+        },
+        {
+            "title": "Responsive Service",
+            "content": "We recognize that we are in the client service business. We return calls and E-mails quickly and are highly accessible to our clients."
+        },
+        {
+            "title": "Preventive Legal Advice",
+            "content": "We help our clients avoid legal problems. We provide thoughtful advice and counsel designed to anticipate and prevent claims and lawsuits, government investigations, and to support business risk management."
+        }
+    ],
+    "address": "940 South Coast Drive, Suite 180, Costa Mesa, CA 92626",
+    "phoneNumber": "(949) 660-0022",
+    "email": "tbois@boislegal.com",
+    "linkNames": [
+        "HOME",
+        "ABOUT",
+        "OUR PRACTICE AREAS",
+        "CONTACT US"
+    ],
+    "companyName": "Bois Legal Counsel",
+    "subHeading": "Seeking and Defending Truth",
+    "valueProp": "Bois Legal Counsel is a boutique law firm. We focus on only those areas we have expertise in. We founded the firm to provide 'big firm' quality work more economically. We can do this because our hourly rates are comparably lower and we use our expertise to limit legal activities to essential tasks.",
+    "CTA": "GET IN TOUCH",
+    "topics": [
+        "Business",
+        "Construction",
+        "Employment",
+        "Environmental",
+        "Real Estate",
+        "Church",
+        "Transactions",
+        "Regulatory Compliance",
+        "Disputes"
+    ],
+    "members": [
+        {
+            "name": "Thomas J. Bois",
+            "position": "Founder"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Over the last 9 years our company has been very satisfied in our partnership with Tom Bois\u2019 legal services. His knowledge and experience has proven to be a tremendous asset in the most complex situations.",
+            "author": "Leo Liedke",
+            "location": "L&M Dealer Solutions"
+        },
+        {
+            "text": "I met Tom early in my career on environmental projects in mid-1990s. Later that decade, Tom defended me and my employer on a labor dispute, showing his excellence in labor law.",
+            "author": "Bita Tabatabai",
+            "location": "GSI Environmental Inc."
+        },
+        {
+            "text": "I have worked with Tom Bois for over 12 years on specialty Environmental Liability insurance placements and as corporate counsel. My experience with him exceeded expectations.",
+            "author": "Canaan Crouch",
+            "location": "Landmark E&S Insurance Brokers, LLC"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Sophisticated Counsel",
+            "content": "We deliver sophisticated counsel with the personal service, responsiveness, and cost-effectiveness of a small boutique firm. Our mission is to provide high-quality legal services while maintaining a constant focus on our clients\u2019 goals and financial parameters."
+        },
+        {
+            "title": "Decade of Expertise",
+            "content": "We bring more than a decade of expertise to advocacy and problem-solving. We distill complex legal issues to find practical business solutions, ensuring favorable results for our clients."
+        },
+        {
+            "title": "Personalized Service",
+            "content": "We provide the personal service and responsiveness of a boutique law firm. We take the time to understand the needs of our clients and tailor our approach to meet their objectives."
+        },
+        {
+            "title": "Cost-Effective Solutions",
+            "content": "Our structure allows us to be more cost-effective than larger firms. Our fee arrangements are designed to meet our clients\u2019 objectives while maximizing the value of the services we provide."
+        }
+    ],
+    "address": "265 Franklin Street, Suite 1702, Boston, MA 02110",
+    "phoneNumber": "617-502-6561",
+    "email": "nghabai@glgesq.com",
+    "linkNames": [
+        "WHO WE ARE",
+        "PRACTICE AREAS",
+        "N. NANCY GHABAI",
+        "NEWS",
+        "CONTACT"
+    ],
+    "companyName": "Ghabai Law Group LLC",
+    "subHeading": "Representing Financial Services Firms and Professionals",
+    "valueProp": "Ghabai Law Group LLC is a boutique law firm located in Boston\u2019s Financial District. The firm specializes in representing financial services firms and professionals in arbitration, litigation, and regulatory matters nationwide. Our mission is to deliver sophisticated counsel \u2013 with the personal service, responsiveness, and cost-effectiveness of a small boutique firm.",
+    "CTA": "Learn More \u00bb",
+    "topics": [
+        "Financial Services Litigation",
+        "Regulatory Defense",
+        "Dispute Resolution",
+        "Counseling",
+        "Business Litigation",
+        "Sales Practice Violations",
+        "Federal Securities Laws Violations",
+        "Wrongful Discharge",
+        "Form U4/U5 Matters"
+    ],
+    "members": [
+        {
+            "name": "N. Nancy Ghabai",
+            "position": "Founder"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Ghabai Law Group provided exceptional service and expertise in handling our regulatory matters.",
+            "author": "John Doe",
+            "location": "Boston, MA"
+        },
+        {
+            "text": "Their personalized approach and dedication to our case were outstanding.",
+            "author": "Jane Smith",
+            "location": "New York, NY"
+        },
+        {
+            "text": "We highly recommend Ghabai Law Group for their professionalism and cost-effective solutions.",
+            "author": "Michael Johnson",
+            "location": "Chicago, IL"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Respected Advocates",
+            "content": "Attorneys at our Needham, Massachusetts, law firm are highly respected advocates who are recognized as leaders in the legal community. Many of our attorneys have spent in excess of 20 years in private practice, with significant experience at large downtown law firms."
+        },
+        {
+            "title": "Multidisciplinary Approach",
+            "content": "Our lawyers work together when legal matters encompass several areas of law. As a result, our clients receive the benefit of comprehensive representation that draws on in-depth knowledge in specific areas of law."
+        },
+        {
+            "title": "Diverse Legal Services",
+            "content": "We offer a wide array of diverse legal services, including corporate and business law, real estate, taxation, estate planning, and elder law. This approach allows us to effectively represent closely held and family-owned businesses, startup companies, financial institutions, real estate developers, corporations, and individuals."
+        },
+        {
+            "title": "Effective Communication",
+            "content": "Our firm believes that effective communication between lawyer and client is fundamental to successful representation. We seek to ensure our clients feel comfortable and assured about our legal knowledge and skills, our awareness of their unique needs, and our readiness to listen to them."
+        }
+    ],
+    "address": "160 Gould Street, Needham, MA 02494",
+    "phoneNumber": "781-239-8900",
+    "email": null,
+    "linkNames": [
+        "Home",
+        "Our Firm",
+        "Attorneys",
+        "Practice Areas",
+        "Legal Blog",
+        "Contact"
+    ],
+    "companyName": "Orsi Arone Rothenberg Turner, LLP",
+    "subHeading": "The Downtown Law Firm in the Suburbs",
+    "valueProp": "At Orsi Arone Rothenberg Turner, LLP, we are known for the high levels of experience, knowledge and professionalism with which we serve clients in the Boston area. We offer the same high caliber legal representation of the downtown Boston law firms, but with the convenience and reasonable cost associated with a suburban location.",
+    "CTA": "Speak with an attorney",
+    "topics": [
+        "Corporate & Business",
+        "Elder Law",
+        "Estate Planning",
+        "Probate",
+        "Real Estate & Development",
+        "Tax Law",
+        "Trusts and Asset Protection",
+        "Guardianship or Conservatorship",
+        "Transactional Matters and Litigation"
+    ],
+    "members": [
+        {
+            "name": "Julia K. Abbott",
+            "position": "Attorney"
+        },
+        {
+            "name": "Robert L. Arone",
+            "position": "Attorney"
+        },
+        {
+            "name": "Theresa Kelly Banash",
+            "position": "Attorney"
+        },
+        {
+            "name": "Christopher J. Catrambone",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "I found Orsi Arone Rothenberg Turner, while searching for an attorney in my area. I worked with Attorney Rothenberg who is a Tax and business lawyer. He is excellent and very knowledgeable.",
+            "author": "Iyabo O.",
+            "location": "Business & Tax Client"
+        },
+        {
+            "text": "Over twenty years of legal advise to our family members. Rothenberg has guided us thru tax, business, and estate planning issues. He has a fantastic no nonsense approach to resolve the issues at hand.",
+            "author": "Linda T.",
+            "location": "Estate Planning Client"
+        },
+        {
+            "text": "We have used this firm for over 2 1/2 years in all our tax, estate planning and elder law matters. During this time, we were fortunate to experience vast knowledge, wonderful resources, expertise, skills and tireless energy to resolve, what I felt were very complex legal matters.",
+            "author": "Johnnett W.",
+            "location": "Estate and Elder Law Client"
+        }
+    ]
+}

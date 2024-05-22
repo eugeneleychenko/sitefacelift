@@ -1,0 +1,73 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Global Production Network",
+            "content": "MixiP connects the world's creative talent, offering a vast network of professionals and comprehensive production services that transcend geographical limits. Access to over 20,000 vetted, global professionals."
+        },
+        {
+            "title": "Advanced IP Rights Management",
+            "content": "MixiP ensures the protection and proper compensation of creative works, utilizing blockchain technology for transparent and efficient IP management. Blockchain-based asset IDs embedded into IPTC for secure IP tracking."
+        },
+        {
+            "title": "Advanced Content Distribution",
+            "content": "MixiP empowers creators with tools for wide-reaching content syndication and insightful analytics, maximizing the impact and understanding of audience engagement. Syndication suite with detailed analytics for cross-platform content distribution."
+        },
+        {
+            "title": "Security and Compliance",
+            "content": "End-to-End Encryption: HIPPA and Sox encryption protocols protect sensitive media transfers and communications within the platform. Compliance Standards: Adherence to international legal standards, ensuring operations across countries are compliant and secure."
+        }
+    ],
+    "address": null,
+    "phoneNumber": "+1 (214) 526-3116",
+    "email": "[email protected]",
+    "linkNames": [
+        "BRANDS",
+        "PUBLISHERS",
+        "AI & ADTECH",
+        "CREATORS",
+        "ABOUT",
+        "CASE STUDIES"
+    ],
+    "companyName": "MixiP",
+    "subHeading": "Together, we create, innovate, and inspire.",
+    "valueProp": "We're driving the future of creative content management, production, and syndication. Our technology empowers creators, streamlines workflows, protects intellectual property, and drives new revenue opportunities for the entire media and entertainment industry, all while harnessing the power of global collaboration.",
+    "CTA": "Get started",
+    "topics": [],
+    "members": [
+        {
+            "name": "Jonathan Giesen",
+            "position": "CEO"
+        },
+        {
+            "name": "Ulises Cabrera",
+            "position": "COO"
+        },
+        {
+            "name": "Maria Dayton",
+            "position": "CFO"
+        },
+        {
+            "name": "Moe Sayadi",
+            "position": "CTO"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "As an independent production house, project and freelancer management is 90% of our work. We'd love to just shoot, edit, upload and get paid.",
+            "author": "G. Castro",
+            "location": "Buenos Aires - Argentina"
+        },
+        {
+            "text": "MixiP allows us to automate the entire back-office legal and payment process at scale.",
+            "author": "G. Castro",
+            "location": "Buenos Aires - Argentina"
+        },
+        {
+            "text": "MixiP is revolutionizing the creative industry by integrating advanced IP management, global production capabilities, and innovative content distribution.",
+            "author": null,
+            "location": null
+        }
+    ]
+}

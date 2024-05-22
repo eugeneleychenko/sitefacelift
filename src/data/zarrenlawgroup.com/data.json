@@ -1,0 +1,85 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Prior Business Experience",
+            "content": "Almost every member of our team has prior experience in the business world as a business owner/entrepreneur, C-level executive, and/or part of a senior management team. Certain team members hold graduate degrees in business (e.g. MBA), in addition to their JDs."
+        },
+        {
+            "title": "Proactive Client Understanding",
+            "content": "We take a practical approach to practicing law by not only focusing on legal issues, but more importantly from a business perspective, provide practical business advice. We invest the time to understand our clients and their particular needs, goals, and objectives."
+        },
+        {
+            "title": "Experienced Lawyers",
+            "content": "Our model focuses on having a team consisting of seasoned business attorneys with the background and knowledge to understand and solve our clients\u2019 most complex issues. We do not rely on junior and mid-level attorneys for the bulk of the heavy lifting."
+        },
+        {
+            "title": "Quarterbacking",
+            "content": "For areas outside of our core practice, we serve to the legal market what a great quarterback is to a winning football team. We utilize strategic relationships with other law firms to partner with the best lawyers for the job, eliminating inherent conflicts."
+        }
+    ],
+    "address": "8 Park Center Court, Suite 100, Baltimore, Maryland 21117",
+    "phoneNumber": "410-457-3444",
+    "email": "info@zarrenlawgroup.com",
+    "linkNames": [
+        "NEWS",
+        "GIVING BACK",
+        "CAREERS",
+        "ABOUT US",
+        "PRACTICE AREAS",
+        "TEAMZLG",
+        "SUCCESSES",
+        "CONTACT US"
+    ],
+    "companyName": "Zarren Law Group, LLC",
+    "subHeading": "Setting the Bar\u00ae",
+    "valueProp": "A unique business boutique law firm, notably comprised of former \u201cbig firm\u201d attorneys. Fixated on delivering exceptional outcomes specifically geared to middle-market companies, entrepreneurs, private equity and venture capital firms and other stakeholders -- by applying a disciplined and time-tested \u201cresults-oriented, value-add approach\u201d to solving our clients' most complex legal, business, and often life-changing issues.",
+    "CTA": "Learn More About Us",
+    "topics": [
+        "Mergers & Acquisitions",
+        "Capital & Debt Raises",
+        "Business and Corporate Law",
+        "Commercial Real Estate",
+        "Contractual Matters",
+        "Strategic Advisory Services",
+        "External General Counsel",
+        "Ownership Structure",
+        "Estate and Tax Mitigation Planning"
+    ],
+    "members": [
+        {
+            "name": "Katelynn \u2018Katie\u2019 Brennan",
+            "position": "Attorney"
+        },
+        {
+            "name": "Ted Brooks",
+            "position": "Of Counsel"
+        },
+        {
+            "name": "Jason C. Harmon",
+            "position": "Partner"
+        },
+        {
+            "name": "Doug Howard",
+            "position": "Partner"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Zarren Law Group provided exceptional service and practical business advice that helped us navigate complex legal issues.",
+            "author": "John Doe",
+            "location": "Baltimore, MD"
+        },
+        {
+            "text": "Their proactive approach and deep understanding of our business needs set them apart from other firms.",
+            "author": "Jane Smith",
+            "location": "New York, NY"
+        },
+        {
+            "text": "The team at Zarren Law Group is knowledgeable, experienced, and always available to provide guidance.",
+            "author": "Michael Johnson",
+            "location": "Los Angeles, CA"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Local Expertise",
+            "content": "Mondock Law is a local transactional law firm based in Naples, Florida. We have the unique ability to serve clients in multiple legal fields, simplifying your legal needs."
+        },
+        {
+            "title": "Personalized Service",
+            "content": "We work with our clients personally to understand their needs and communicate with them throughout the process. Our goal is to provide tailored legal solutions that best fit our clients' specific situations."
+        },
+        {
+            "title": "Comprehensive Solutions",
+            "content": "From real estate to estate planning and business law, Mondock Law offers a wide range of legal services. We ensure that all your legal needs are handled efficiently and effectively."
+        },
+        {
+            "title": "Remote Services",
+            "content": "While currently serving the Southwest Florida area, Mondock Law also provides remote services throughout the state of Florida. This allows us to assist clients no matter where they are located."
+        }
+    ],
+    "address": "4760 Tamiami Trail N Unit 23, Naples, Florida 34103",
+    "phoneNumber": "239-673-2211",
+    "email": "amber@mondocklaw.com",
+    "linkNames": [
+        "HOME",
+        "ABOUT",
+        "SERVICES",
+        "CONTACT",
+        "DISCLAIMER",
+        "PRIVACY POLICY",
+        "MORE"
+    ],
+    "companyName": "Mondock Law",
+    "subHeading": "A Local Naples Law Firm Specializing in Real Estate, Estate Planning and Business Law",
+    "valueProp": "Mondock Law is a local transactional law firm based in Naples, Florida for your Real Estate, Estate Planning, and Business Law needs. Mondock Law has the unique ability to serve clients in multiple legal fields, simplifying your legal needs. While, currently serving the Southwest Florida area, Mondock also provides remote services throughout the state of Florida. Whether you need help with a complex closing, setting up a trust, or drafting business formation documents Mondock Law has you covered.",
+    "CTA": "Learn More",
+    "topics": [
+        "Real Estate Law",
+        "Estate Planning",
+        "Business Law",
+        "Last Will & Testaments",
+        "Revocable Trusts",
+        "Durable Power of Attorneys",
+        "Health Care Surrogates",
+        "Living Wills",
+        "HIPAA Releases"
+    ],
+    "members": null,
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Mondock Law provided exceptional service for my real estate closing. Highly recommend!",
+            "author": "John Doe",
+            "location": "Naples, FL"
+        },
+        {
+            "text": "The team at Mondock Law made setting up my trust a seamless process.",
+            "author": "Jane Smith",
+            "location": "Fort Myers, FL"
+        },
+        {
+            "text": "Great experience with Mondock Law for my business formation. Very professional.",
+            "author": "Michael Johnson",
+            "location": "Cape Coral, FL"
+        }
+    ]
+}

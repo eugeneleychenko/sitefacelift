@@ -1,0 +1,72 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Specialized Expertise",
+            "content": "The Law Office of Stephen Wade Nebgen, PLLC specializes in Entertainment Law. With over twenty years of experience, we create a plan to help you achieve the desired result."
+        },
+        {
+            "title": "Experienced Leadership",
+            "content": "Mr. Nebgen has over forty years in the entertainment industry, first as a producer and then as an attorney. His extensive background ensures knowledgeable and effective counsel."
+        },
+        {
+            "title": "Comprehensive Services",
+            "content": "We offer a wide range of services including business formation, intellectual property matters, contract negotiations, and more. Our goal is to address all your legal needs under one roof."
+        },
+        {
+            "title": "Educational Contributions",
+            "content": "Mr. Nebgen teaches at the Conservatory of Recording Arts and Sciences and has lectured extensively on Entertainment Law. His commitment to education keeps him at the forefront of the field."
+        }
+    ],
+    "address": "3370 North Hayden Road Suite 123-565, Scottsdale, Arizona 85251 United States",
+    "phoneNumber": "(480) 215-6305",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "ABOUT US",
+        "FAQ'S",
+        "NEWS/UPCOMING EVENTS",
+        "CLIENTS & TESTIMONIALS",
+        "CONTACT US",
+        "MORE"
+    ],
+    "companyName": "Law Offices of Stephen Wade Nebgen",
+    "subHeading": "Arizona Entertainment Law",
+    "valueProp": "The entertainment industry is one of the most intricate and nuanced businesses in the world. Whether an experienced professional or a new artist just entering show business, it is imperative to have an experienced Entertainment Law attorney to help you with Copyright Law and other Intellectual Property issues of the industry. Don\u2019t let yourself get buried in details. Contact an experienced Arizona Entertainment Law attorney at The Law Offices of Stephen Wade Nebgen, PLLC.",
+    "CTA": "Contact an experienced Arizona Entertainment Law attorney at The Law Offices of Stephen Wade Nebgen, PLLC.",
+    "topics": [
+        "Entertainment Law",
+        "Intellectual Property",
+        "Copyright",
+        "Trademark",
+        "Securities",
+        "Arizona production tax incentives",
+        "Business entity formation",
+        "Contract writing and negotiation",
+        "Licensing"
+    ],
+    "members": [
+        {
+            "name": "Stephen Wade Nebgen",
+            "position": "Esq."
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Stephen Nebgen provided exceptional legal advice for our film production. His expertise in entertainment law is unparalleled.",
+            "author": "John Doe",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "Working with Stephen was a game-changer for our music label. His knowledge and professionalism are top-notch.",
+            "author": "Jane Smith",
+            "location": "New York, NY"
+        },
+        {
+            "text": "Stephen's guidance on intellectual property matters has been invaluable. We highly recommend his services.",
+            "author": "Mike Johnson",
+            "location": "Scottsdale, AZ"
+        }
+    ]
+}

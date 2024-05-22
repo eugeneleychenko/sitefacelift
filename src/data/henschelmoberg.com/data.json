@@ -1,0 +1,83 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Experienced Professionals",
+            "content": "Our attorneys are experienced professionals who employ innovative approaches stemming from a deep understanding of the breadth and nuances of family law disputes. They have been consistently recognized for their superior courtroom skills."
+        },
+        {
+            "title": "Innovative Approaches",
+            "content": "Our attorneys are known for their talent and creativity in reaching beneficial settlements for their clients. We provide highly personal service grounded in discreet, open, and timely communications."
+        },
+        {
+            "title": "Full Team Support",
+            "content": "Everyone here\u2014from our attorneys to our support staff\u2014has an important role and takes it seriously. Work with us and you put the full experience of Henschel Moberg on your side."
+        },
+        {
+            "title": "Client-Centered Strategy",
+            "content": "We understand the unique and often uncertain world you face when confronting a divorce. Our mission is to work closely with you to develop a strategy to protect your interests and achieve the best possible result."
+        }
+    ],
+    "address": "150 S 5th St , Suite 3400, Minneapolis, MN 55402",
+    "phoneNumber": "612.326.6000",
+    "email": "Jill.Kealy@henschelmoberg.com",
+    "linkNames": [
+        "SERVICES",
+        "LAWYERS",
+        "PARALEGALS",
+        "SUPPORT STAFF",
+        "PUBLISHED WORKS",
+        "CONTACT US"
+    ],
+    "companyName": "Henschel Moberg",
+    "subHeading": "Respected. Experienced. Innovative.",
+    "valueProp": "When you\u2019re facing the complex personal and financial issues involved in family law disputes, you need experienced legal representation to help find solutions allowing you and your family to move forward. That\u2019s what we provide at Henschel Moberg.",
+    "CTA": "Contact Us Today",
+    "topics": [
+        "Dissolution",
+        "Post-Dissolution",
+        "Paternity",
+        "Antenuptial Agreements",
+        "Alternative Dispute Resolution",
+        "Mediation",
+        "Social Early Neutral Evaluations",
+        "Financial Neutral Evaluations",
+        "Moderated Settlement Conferences"
+    ],
+    "members": [
+        {
+            "name": "Ben M. Henschel",
+            "position": "Partner"
+        },
+        {
+            "name": "Joani C. Moberg",
+            "position": "Partner"
+        },
+        {
+            "name": "Susan A. Daudelin",
+            "position": "Attorney"
+        },
+        {
+            "name": "Mylene Landry",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "The team at Henschel Moberg provided exceptional service and support during a difficult time.",
+            "author": "John Doe",
+            "location": "Minneapolis, MN"
+        },
+        {
+            "text": "Their innovative approaches and deep understanding of family law made a significant difference in my case.",
+            "author": "Jane Smith",
+            "location": "St. Paul, MN"
+        },
+        {
+            "text": "I highly recommend Henschel Moberg for their professionalism and dedication to their clients.",
+            "author": "Robert Johnson",
+            "location": "Bloomington, MN"
+        }
+    ]
+}

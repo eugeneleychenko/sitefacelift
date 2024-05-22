@@ -1,0 +1,85 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Proven Experience",
+            "content": "Axiom has over 20 years of proven experience in the legal industry. They handle more than 3,000 engagements per year."
+        },
+        {
+            "title": "Client Satisfaction",
+            "content": "Axiom boasts a 95% client satisfaction rate. Their client revenue retention is at 104%."
+        },
+        {
+            "title": "Diverse Talent",
+            "content": "Axiom has a diverse pool of over 14,000 lawyers. 55% of their lawyers identify as women, and 34% as racial/ethnic minorities."
+        },
+        {
+            "title": "Cost Efficiency",
+            "content": "Axiom offers legal talent solutions for up to 50% less than national law firms. They help clients optimize their overall spend and efficiency."
+        }
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "email": null,
+    "linkNames": [
+        "FIND A LAWYER",
+        "JOIN OUR TEAM",
+        "SOLUTIONS",
+        "PRACTICE AREAS",
+        "INDUSTRIES",
+        "RESOURCES",
+        "ABOUT AXIOM",
+        "CONTACT US"
+    ],
+    "companyName": "Axiom Law",
+    "subHeading": null,
+    "valueProp": "Axiom gives you a single trusted provider who can deliver flexible in-house legal talent solutions and law firm services for up to 50% less than national law firms. Axiom can help you fill an individual role within your team, engage a team to complete a project, or access subject matter knowledge not available in-house.",
+    "CTA": "Get Legal Support",
+    "topics": [
+        "Artificial Intelligence",
+        "Capital Markets",
+        "Commercial & Contract Law",
+        "Corporate Law",
+        "Data Privacy & Cybersecurity",
+        "Finance",
+        "Insurance",
+        "Intellectual Property",
+        "Labor & Employment"
+    ],
+    "members": [
+        {
+            "name": "Katrina Benjamin",
+            "position": "Chief Product Officer"
+        },
+        {
+            "name": "Eric Bouchard",
+            "position": "Chief Financial Officer"
+        },
+        {
+            "name": "Andy Burtis",
+            "position": "Chief Marketing Officer"
+        },
+        {
+            "name": "David McVeigh",
+            "position": "Chief Executive Officer"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "We're starting with, 'Tell me why Axiom couldn't do this.' Only if Axiom isn't the right choice, then we'll go somewhere else.",
+            "author": "James Turoff",
+            "location": "The Hershey Company"
+        },
+        {
+            "text": "By partnering with Axiom, we get the quality, flexibility, and expertise we would normally find at a top law firm, but delivered in a way that\u2019s much more integrated with our business.",
+            "author": "Divisional General Counsel",
+            "location": "F500 Professional Services Firm"
+        },
+        {
+            "text": "Axiom lawyers have the same acumen and capability as large law firm lawyers or members of my in-house team, and they sit with us to understand how the business operates.",
+            "author": "Executive Vice President and General Counsel",
+            "location": "Senior Assisted Service Provider"
+        }
+    ]
+}

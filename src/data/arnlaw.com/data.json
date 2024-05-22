@@ -1,0 +1,84 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Award-Winning Litigators",
+            "content": "Our attorneys offer decades of experience and a strategic, thorough approach to assist you with your unique business-related concern or dispute. We have built our trusted reputation through many years of proactively identifying potential litigation risks."
+        },
+        {
+            "title": "Extensive Experience",
+            "content": "At Arnold & Clifford LLP, we focus on business litigation and trial practice for both individual and corporate clients in both state and federal courts. Our lawyers have been recognized for excellence in their fields by numerous professional organizations."
+        },
+        {
+            "title": "Client Commitment",
+            "content": "Whatever your legal issue, our attorneys are well-prepared and able to provide a plan forward. We are dedicated to our clients, putting in the time and effort it takes to get the best possible result."
+        },
+        {
+            "title": "Significant Courtroom Victories",
+            "content": "Our trial lawyers have won numerous significant cases, including the largest wrongful death verdict to date in Franklin County and one of the highest Consumer Sales Practices Act awards rendered in Ohio."
+        }
+    ],
+    "address": "115 W. Main St. Suite 400 Columbus, OH 43215",
+    "phoneNumber": "614-460-1600",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "ABOUT",
+        "ATTORNEYS",
+        "PRACTICE AREAS",
+        "NEWS & ARTICLES",
+        "BLOG",
+        "CONTACT"
+    ],
+    "companyName": "Arnold & Clifford LLP",
+    "subHeading": "Award-winning Litigators",
+    "valueProp": "Arnold & Clifford LLP specializes in a variety of different legal practice areas, but business litigation remains at the forefront of the firm. Our attorneys offer decades of experience and a strategic, thorough approach to assist you with your unique business-related concern or dispute. We have built our trusted reputation through many years of proactively identifying potential litigation risks and are aptly prepared to handle business disputes when they inevitably arise.",
+    "CTA": "Contact Us",
+    "topics": [
+        "Business Litigation",
+        "Tax Litigation",
+        "Labor & Employment",
+        "Executive Agreements",
+        "Appeals",
+        "Wrongful Death / Catastrophic P.I.",
+        "Estate Litigation",
+        "Estate Planning And Probate",
+        "Class Actions"
+    ],
+    "members": [
+        {
+            "name": "James E. Arnold",
+            "position": "Partner"
+        },
+        {
+            "name": "Damion M. Clifford",
+            "position": "Managing Partner"
+        },
+        {
+            "name": "Gerhardt \u201cGage\u201d Gosnell II",
+            "position": "Partner"
+        },
+        {
+            "name": "Jonathan P. Corwin",
+            "position": "Partner"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "I have always been impressed with Damion's knowledge of the law. His background in tax and his litigation experience give me confidence that I can count on his advice and safely refer clients to his practice.",
+            "author": "Nicholas A.",
+            "location": "Attorney"
+        },
+        {
+            "text": "Jim Arnold helped our firm on an issue we faced in an on-going case. He was responsive, efficient, and offered unparalleled guidance.",
+            "author": "Roger S.",
+            "location": "Attorney"
+        },
+        {
+            "text": "James E. Arnold is a strategic litigator with a proven track record of results for his clients.",
+            "author": "Phil R.",
+            "location": "EVP"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Flexible Meetings",
+            "content": "A virtual attorney is a great option for the flexibility of meeting in-person or via zoom. You don't have to go to your attorney's office and we are available at times that are most convenient for our clients."
+        },
+        {
+            "title": "Remote Access",
+            "content": "We use case management software that can be used by our clients completely remotely. No more having to come in to sign papers or to make a payment."
+        },
+        {
+            "title": "Experienced Representation",
+            "content": "Rob Calvert has over three years of experience in real property law and has handled hearings in circuit court assisting clients with their criminal expungements. Feel confident that your business is in the right hands with us."
+        },
+        {
+            "title": "Personalized Service",
+            "content": "At Calvert Law PLLC, we tailor your needs and wants to your individual plan. Rob's goal is to zealously represent his clients and to help individuals and families through all of their legal needs."
+        }
+    ],
+    "address": null,
+    "phoneNumber": "616-263-1934",
+    "email": "[email protected]",
+    "linkNames": [
+        "HOME",
+        "LAW SERVICES",
+        "BLOG",
+        "ABOUT",
+        "CONTACT"
+    ],
+    "companyName": "Calvert Law PLLC",
+    "subHeading": "START YOUR VIRTUAL CONSULT",
+    "valueProp": "Welcome to our virtual law office",
+    "CTA": "Call now for a Virtual Consultation",
+    "topics": [
+        "Estate Planning",
+        "Real Property",
+        "Business Law",
+        "Expungements"
+    ],
+    "members": [
+        {
+            "name": "Rob Calvert",
+            "position": "Founding Attorney/Managing Partner"
+        }
+    ],
+    "openHours": "Daily - 9:30 am to 6:30 pm, Sunday - Closed, Major Holidays - Closed",
+    "testimonalData": [
+        {
+            "text": "Rob is an exceptional attorney who truly cares about his clients.",
+            "author": "John Doe",
+            "location": "Grand Rapids, MI"
+        },
+        {
+            "text": "I highly recommend Calvert Law for their professionalism and dedication.",
+            "author": "Jane Smith",
+            "location": "Lowell, MI"
+        },
+        {
+            "text": "The virtual consultation was convenient and efficient. Great service!",
+            "author": "Emily Johnson",
+            "location": "Grand Rapids, MI"
+        }
+    ]
+}

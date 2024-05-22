@@ -1,0 +1,65 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Efficient",
+            "content": "Drive efficiency into your dispute resolution process freeing you to use the uniquely human skills that are at the heart of what you do. Use technology to get the administrative task out of your way."
+        },
+        {
+            "title": "Intuitive",
+            "content": "The user interface is intuitive, incorporating some of the techniques that mediators use when taking notes on paper. But it\u2019s so much easier with ADR Notable to find the note you want, edit it, move it, and pop it into a term sheet."
+        },
+        {
+            "title": "Secure",
+            "content": "Storing data in the cloud means heightened security and backups. And your case information is available wherever and whenever you need it."
+        },
+        {
+            "title": "Collaborative",
+            "content": "Collaboration is at the heart of it all. Our platform easily allows you to collaborate with your included 'plus one', other mediators and participants. You will also appreciate the integration with Google and Outlook calendars and email."
+        }
+    ],
+    "address": "875 N. High Street, Suite 300, Columbus, Ohio 43215",
+    "phoneNumber": null,
+    "email": null,
+    "linkNames": [
+        "WHO WE HELP",
+        "FEATURES",
+        "RESOURCES",
+        "PRICING",
+        "CONTACT"
+    ],
+    "companyName": "ADR Notable",
+    "subHeading": "Mediation Software for Case and Practice Management",
+    "valueProp": "ADR Notable's mediation software is your workbench with every tool you need. Our secure platform helps you manage every step of the mediation process.",
+    "CTA": "Start your Free Trial",
+    "topics": [
+        "Case Intake",
+        "Digital Noteboard",
+        "Document Creation",
+        "Scheduling",
+        "Document Library",
+        "Billing",
+        "Request Documents",
+        "CRM",
+        "Checklists"
+    ],
+    "members": null,
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "I have been a fan of ADR Notable\u2019s since the very first time that I saw it. As one of the leading online mediators in the country, I find that technology makes the dispute resolution process easier, more streamlined and visual for all participants including the practitioners and ADR Notable is at the top of my list!",
+            "author": "Susan Guthrie",
+            "location": null
+        },
+        {
+            "text": "I found that there is a not so difficult learning curve and I know that the features will definitely be an asset for my mediation practice. Before ADR Notable, I was paying multiple subscriptions for different tools necessary to run my practice.",
+            "author": "Roberto Garcia",
+            "location": null
+        },
+        {
+            "text": "ADR Notable app is a game changer for the way I manage my mediation cases. I love the clean, clear design that I can use on my iPad or any computer; using Apple Pencil in addition to a keyboard is what lets me actually give up the pen and paper.",
+            "author": "Charlotte Parsons",
+            "location": null
+        }
+    ]
+}

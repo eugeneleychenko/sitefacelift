@@ -1,0 +1,84 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Experienced Attorneys",
+            "content": "Our attorneys possess the necessary mix of advocacy, experience, knowledge and skill to help our clients with issues such as discrimination, harassment, wage issues, disciplinary proceedings, and more."
+        },
+        {
+            "title": "Proven Success",
+            "content": "We have recovered over $100 million in settlements and verdicts for our clients. Our record of success speaks volumes about our dedication and expertise."
+        },
+        {
+            "title": "Client-Centered Approach",
+            "content": "Every client receives individual consideration through our confidential intake process. We offer a safe, confidential, and thorough consultation and discussion regarding legal rights and options."
+        },
+        {
+            "title": "Comprehensive Services",
+            "content": "From representation on big litigation matters to advice on ongoing employment and job transition issues, our lawyers provide strategies and solutions for all employment needs."
+        }
+    ],
+    "address": "221 North Main St., Suite 300 Ann Arbor, MI 48104",
+    "phoneNumber": "(734) 929-4313",
+    "email": "info@blanchardandwalker.com",
+    "linkNames": [
+        "HOME",
+        "ABOUT OUR FIRM",
+        "OUR TEAM",
+        "WHO WE SERVE",
+        "PRACTICE AREAS",
+        "NEWS",
+        "CONTACT US"
+    ],
+    "companyName": "Blanchard & Walker PLLC",
+    "subHeading": "The Law at Work",
+    "valueProp": "Blanchard & Walker represents and advises clients in all matters of employment law, business policies, and compensation advice. Our team of Michigan based lawyers fight for the rights of clients in EEOC actions, disciplinary review proceedings, and employment related lawsuits, including discrimination, retaliation, and whistleblower litigation. Employees come to Blanchard & Walker for representation and legal advice on all matters of wrongful discharge, discrimination, or retaliation. Blanchard & Walker lawyers are industry leaders on accommodations and medical leave issues, wage violations, and whistleblower law.",
+    "CTA": "Request a Consultation",
+    "topics": [
+        "Employment Discrimination",
+        "Severance Negotiation",
+        "Workplace Sexual Harassment",
+        "Retaliation",
+        "Wage & Hour Law",
+        "Executive Compensation Contracts",
+        "Professional Licensing and Disciplinary Review",
+        "Whistleblower and False Claims Act",
+        "Non-Compete and Trade Secrets Claims"
+    ],
+    "members": [
+        {
+            "name": "David Blanchard",
+            "position": "Founding Partner"
+        },
+        {
+            "name": "Angela Walker",
+            "position": "Founding Partner"
+        },
+        {
+            "name": "Kelly R. McClintock",
+            "position": "Associate Attorney"
+        },
+        {
+            "name": "Frances Hollander",
+            "position": "Associate Attorney"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "David and his staff are empathetic, kind, compassionate and caring. He is an incredibly gifted attorney and he knows employment law and how to navigate what is a very complicated and confusing system.",
+            "author": "Kellie Saunders",
+            "location": null
+        },
+        {
+            "text": "Words can't express my gratitude to Angela Walker and her assistant, Leslie Wenzel. Along with their incredible professionalism and consistently timely follow-up, both Angela and Leslie were extremely kind and compassionate.",
+            "author": "Renee Krajcev",
+            "location": null
+        },
+        {
+            "text": "Recently worked with Frances Hollander, needing a consult on a severance package. Not only was the response quick, and efficient in covering every aspect of the agreement, Frances was also extremely personable and caring about my situation.",
+            "author": "Kasey Cox",
+            "location": null
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Experienced and Dedicated",
+            "content": "Prior to starting Tej Law Firm, Tej Singh worked for several years as an Insurance Defense Attorney in both California and Texas. We are dedicated to helping our clients find solutions to their problems, and we are ready to aggressively advocate for your rights."
+        },
+        {
+            "title": "Transparent Fees",
+            "content": "We have no hidden fees, no additional out-of-pocket costs, and we do not charge by the hour! All of our fees are fixed, transparent, or contingency based."
+        },
+        {
+            "title": "Unparalleled Customer Service",
+            "content": "We will work with you as a team to solve your problems. We value communication above all else and want to make sure you are completely satisfied with our work."
+        },
+        {
+            "title": "Solution Oriented Representation",
+            "content": "At Tej Law Firm, we will do our best to help with any legal problem or financial issue that you or your loved ones may be dealing with. If we cannot directly provide you with a solution, we will find a trustworthy attorney or financial planner that can properly assist you."
+        }
+    ],
+    "address": "8190 Barker Cypress Rd, Ste 1900, PMB 2019, Cypress, TX 77433",
+    "phoneNumber": "(832) 877-3132",
+    "email": "info@tejlawfirm.com",
+    "linkNames": [
+        "HOME",
+        "ATTORNEY PROFILE",
+        "CALIFORNIA",
+        "TEXAS",
+        "CONTACT US"
+    ],
+    "companyName": "Tej Law Firm",
+    "subHeading": "Serving Real People with Real Problems",
+    "valueProp": "Tej Singh began this firm with the intention of helping real people like you. At Tej Law Firm, we will do our best to help with any legal problem or financial issue that you or your loved ones may be dealing with. If we cannot directly provide you with a solution, we will find a trustworthy attorney or financial planner that can properly assist you. We have one objective and that is to serve.",
+    "CTA": "Contact us today for your free consultation!",
+    "topics": [
+        "Employment law",
+        "Wage and hour claims",
+        "California Workers' Compensation claims",
+        "Personal injury",
+        "Medical malpractice",
+        "Texas windstorm insurance",
+        "Wills and Estate Planning",
+        "Intellectual property",
+        "Texas Dram Shop Law"
+    ],
+    "members": [
+        {
+            "name": "Tej Singh",
+            "position": "Founder"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Tej Singh provided excellent legal advice and support during a difficult time. Highly recommend!",
+            "author": "John Doe",
+            "location": "Houston, TX"
+        },
+        {
+            "text": "The team at Tej Law Firm was professional and responsive. They helped me navigate my legal issues with ease.",
+            "author": "Jane Smith",
+            "location": "Riverside, CA"
+        },
+        {
+            "text": "I was very impressed with the level of dedication and transparency from Tej Singh. Great experience overall.",
+            "author": "Michael Johnson",
+            "location": "Cypress, TX"
+        }
+    ]
+}

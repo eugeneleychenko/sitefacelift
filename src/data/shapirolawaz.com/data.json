@@ -1,0 +1,85 @@
+{
+    "paragraph": "text or call for a Free Consultation",
+    "detailsData": [
+        {
+            "title": "Personal attention",
+            "content": "To us, you're not just a case. Our team of compassionate attorneys put you, our client, first."
+        },
+        {
+            "title": "Available 24/7",
+            "content": "We take cases on a contingency fee-basis. That means you pay no fees unless we recover compensation for you."
+        },
+        {
+            "title": "Proven track record",
+            "content": "In a personal injury case, experience really does matter. Our results speak for themselves."
+        },
+        {
+            "title": "Trial lawyers",
+            "content": "We do not give up on cases that cannot settle. We take defendants to court in Arizona when we believe it is necessary for a positive outcome."
+        }
+    ],
+    "address": "5725 N. Scottsdale Road Ste C-110 Scottsdale, AZ 85250",
+    "phoneNumber": "(480) 300-5405",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "ABOUT US",
+        "TEAM",
+        "PRACTICE AREAS",
+        "ESPA\u00d1OL",
+        "TESTIMONIALS",
+        "RESULTS",
+        "CONTACT"
+    ],
+    "companyName": "Shapiro Law Team",
+    "subHeading": "Superior Representation",
+    "valueProp": "We offer experienced representation for personal injury & accident victims. At Shapiro Law Team, we know how difficult life can be after an accident. Fortunately, our award-winning personal injury attorneys help make things right.",
+    "CTA": "request a free consultation",
+    "topics": [
+        "Car Accidents",
+        "Truck Accidents",
+        "Motorcycle Accidents",
+        "Rideshare Accidents",
+        "Medical Malpractice",
+        "Premises Liability",
+        "Personal Injury",
+        "Dog Bites",
+        "Wrongful Death"
+    ],
+    "members": [
+        {
+            "name": "David Shapiro",
+            "position": "Attorney"
+        },
+        {
+            "name": "Charles Wallace",
+            "position": "Attorney"
+        },
+        {
+            "name": "Heather Bushor",
+            "position": "Attorney"
+        },
+        {
+            "name": "Jackson Ross",
+            "position": "Attorney"
+        }
+    ],
+    "openHours": "By appointment only",
+    "testimonalData": [
+        {
+            "text": "I had the pleasure of working with David back in 2014. I must say I was extremely impressed with his professionalism and more importantly the empathy and personal interest he showed towards my family and myself.",
+            "author": "Gabriel",
+            "location": null
+        },
+        {
+            "text": "We couldn\u2019t be more pleased with the performance of David Shapiro. He went above and beyond what we expected from him.",
+            "author": "Suzanne",
+            "location": null
+        },
+        {
+            "text": "A true 5-Star Law Firm. Shapiro Law Firm, David, and the entire staff are highly qualified to represent clients involved in vehicle accidents.",
+            "author": "Joe & Tania",
+            "location": null
+        }
+    ]
+}

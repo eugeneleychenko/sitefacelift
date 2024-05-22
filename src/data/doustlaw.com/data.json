@@ -1,0 +1,65 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Experienced Personal Injury Lawyers",
+            "content": "Our team has over 20 years of experience in handling personal injury cases. We have a proven track record of success and have recovered millions of dollars for our clients."
+        },
+        {
+            "title": "No Fee Unless We Win",
+            "content": "We understand that dealing with a personal injury can be costly. That's why we work on a contingency fee basis. You don't pay us anything unless we win your case!"
+        },
+        {
+            "title": "Compassionate and Personalized Service",
+            "content": "We know that dealing with a personal injury can be a stressful and emotional time. That's why we provide compassionate and personalized service to each of our clients."
+        },
+        {
+            "title": "Free Consultation",
+            "content": "We offer a free consultation to discuss your case and answer any questions you may have. Contact us today to schedule your free consultation."
+        }
+    ],
+    "address": "2129 North Cherry Road, Rock Hill, South Carolina 29732, United States",
+    "phoneNumber": "(334)-530-6500",
+    "email": null,
+    "linkNames": [
+        "ABOUT DOUST LAW LLC",
+        "OUR EXPERIENCE",
+        "CLIENT SATISFACTION",
+        "OUR CLIENTS' STORIES",
+        "CONTACT US"
+    ],
+    "companyName": "Doust Law LLC",
+    "subHeading": "Don't suffer in silence",
+    "valueProp": "Our team of experienced attorneys have been successfully handling personal injury cases for over 20 years. We have a proven track record of winning cases and securing maximum compensation for our clients. Client satisfaction is our top priority. We work closely with our clients to understand their needs and concerns and provide personalized legal representation to ensure the best possible outcome for their case.",
+    "CTA": "Speak to an Attorney",
+    "topics": [
+        "Car Accidents",
+        "Slip and Falls",
+        "Dog Bites",
+        "Medical Malpractice",
+        "Workplace Injuries",
+        "Product Liability",
+        "Wrongful Death",
+        "Bicycle Accidents",
+        "Motorcycle Accidents"
+    ],
+    "members": null,
+    "openHours": "09:00 am \u2013 05:00 pm",
+    "testimonalData": [
+        {
+            "text": "Matt is my go to lawyer. He has been there for me and so many of my teammates over the years.",
+            "author": "Dwight Gooden",
+            "location": null
+        },
+        {
+            "text": "Matt is a strategic thinker and really knows how to analyze and formulate a litigation game plan.",
+            "author": "Phil Regan",
+            "location": null
+        },
+        {
+            "text": "I heard other players saying amazing things about Matt and now I know for myself that it's all true as he never quits until the catch is made!",
+            "author": "Endy Chavez, NY Mets Player",
+            "location": null
+        }
+    ]
+}

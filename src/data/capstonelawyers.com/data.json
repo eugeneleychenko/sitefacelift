@@ -1,0 +1,82 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Experienced Attorneys",
+            "content": "Capstone\u2019s Labor and Employment practice features some of the state\u2019s most experienced employment attorneys. They have certified multiple employee classes and negotiated millions of dollars in settlements over the course of their careers."
+        },
+        {
+            "title": "Appellate Victories",
+            "content": "Capstone\u2019s attorneys have achieved important appellate victories on behalf of employees. For example, in Brown v. Ralphs Grocery Co., the California Court of Appeal carved out an exception to the federal preemption of claims brought under the California Labor Code\u2019s Private Attorneys General Act."
+        },
+        {
+            "title": "Broad Industry Experience",
+            "content": "Capstone litigates cases on behalf of employees across a broad range of industries, including retail, food services, medical, insurance, banking, and securities. This diverse experience allows them to handle complex cases effectively."
+        },
+        {
+            "title": "Commitment to Social Justice",
+            "content": "As part of their commitment to social justice, Capstone supports public policy, educational campaigns, and legislative efforts. They aim to secure and expand the rights of consumers and working people."
+        }
+    ],
+    "address": null,
+    "phoneNumber": "310.556.4811",
+    "email": null,
+    "linkNames": [
+        "FIRM OVERVIEW",
+        "OUR ATTORNEYS",
+        "PRACTICE AREAS",
+        "CO-COUNSEL",
+        "IMPACT LITIGATION JOURNAL",
+        "RESOURCES",
+        "CAREERS",
+        "CONTACT US"
+    ],
+    "companyName": "Capstone Law APC",
+    "subHeading": null,
+    "valueProp": "At Capstone Law APC, we believe that employees should be treated fairly, consumers should get what they pay for, and rights should be protected even when someone cannot afford a lawyer. Capstone Law seeks to represent employees, consumers and investors across the country in litigation involving labor and workplace rights, privacy laws, automobile and other product defects, consumer protection, false advertising or other deceptive trade practices, and securities fraud.",
+    "CTA": "Call Us Today! 310.556.4811",
+    "topics": [
+        "Consumer Rights",
+        "Automotive Defects",
+        "Labor & Employment",
+        "Securities Fraud",
+        "Appeals & Complex Motions",
+        "Mass Actions"
+    ],
+    "members": [
+        {
+            "name": "Ra\u00fal P\u00e9rez",
+            "position": "Partner"
+        },
+        {
+            "name": "Rebecca Labat",
+            "position": "Partner"
+        },
+        {
+            "name": "Melissa Grant",
+            "position": "Partner"
+        },
+        {
+            "name": "Ryan Wu",
+            "position": "Partner"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Capstone Law provided exceptional service and achieved a great result for our case.",
+            "author": "John Doe",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "text": "The attorneys at Capstone Law are highly skilled and dedicated to their clients.",
+            "author": "Jane Smith",
+            "location": "San Francisco, CA"
+        },
+        {
+            "text": "I highly recommend Capstone Law for their professionalism and expertise.",
+            "author": "Robert Johnson",
+            "location": "San Diego, CA"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Real Success",
+            "content": "Over the past three decades, we have obtained more multi-million dollar verdicts and settlements for our clients than any other firm in Northern California."
+        },
+        {
+            "title": "Extensive Experience",
+            "content": "We have in-depth experience in all types of personal injury and wrongful death claims, big and small."
+        },
+        {
+            "title": "Responsiveness",
+            "content": "You can count on working with your own lawyer and receiving prompt responses to your inquiries and concerns."
+        },
+        {
+            "title": "Nationwide Representation",
+            "content": "While our main office is in Sacramento, California, we serve clients throughout the state and across the U.S."
+        }
+    ],
+    "address": "20 Bicentennial Circle Sacramento, CA 95826",
+    "phoneNumber": "916-999-9132",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "ABOUT US",
+        "ATTORNEYS",
+        "PRACTICE AREAS",
+        "CASE RESULTS",
+        "CONTACT US"
+    ],
+    "companyName": "Dreyer Babich Buccola Wood Campora",
+    "subHeading": "Northern California's Most Trusted Injury Attorneys",
+    "valueProp": "At Dreyer Babich Buccola Wood Campora, LLP we aggressively represent clients who have suffered personal injuries or the loss of a loved one in virtually every type of case. We have a national reputation for our attaining record-setting results in high profile and catastrophic injury cases, but also pride ourselves in our handling of smaller, but meritorious, non-permanent injury cases for those in need.",
+    "CTA": "Start With A Free Consultation",
+    "topics": [
+        "Auto Accidents",
+        "Bicycle Accidents",
+        "Boating Accidents",
+        "Bus Accidents",
+        "Claims Against Public Entities",
+        "Common Carrier Claims",
+        "Explosions & Fire Injuries",
+        "Motorcycle Accidents",
+        "Mass Transit Accidents"
+    ],
+    "members": [
+        {
+            "name": "Roger A. Dreyer",
+            "position": "Partner"
+        },
+        {
+            "name": "Joseph J. Babich",
+            "position": "Partner"
+        },
+        {
+            "name": "Robert A. Buccola",
+            "position": "Partner"
+        },
+        {
+            "name": "Christopher W. Wood",
+            "position": "Partner"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "I would definitely recommend Dreyer Babich Buccola Wood Campora to anyone looking for a firm with integrity, honesty, and compassion.",
+            "author": "Former Client",
+            "location": null
+        },
+        {
+            "text": "I cannot express enough gratitude for his exceptional support and expertise.",
+            "author": "Anonymous",
+            "location": null
+        },
+        {
+            "text": "Thank you and your staff for all your work on our behalf.",
+            "author": "Jess",
+            "location": null
+        }
+    ]
+}

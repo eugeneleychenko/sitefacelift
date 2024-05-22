@@ -1,0 +1,82 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Statewide Reach",
+            "content": "Arash Law is a statewide injury law firm with a proven track record of success, offering services across California with access to the best medical specialists."
+        },
+        {
+            "title": "24/7 Availability",
+            "content": "Our staff of over 100 legal professionals is available around the clock, every day of the year, ensuring we're here whenever you need us."
+        },
+        {
+            "title": "No Win, No Fee",
+            "content": "We operate on a contingency fee basis, meaning you don't pay unless we win your case and you receive compensation."
+        },
+        {
+            "title": "Multilingual Service",
+            "content": "Our talented multilingual staff can communicate with you in your native language, offering services in English, Spanish, Italian, Farsi, Korean, French, and Hebrew."
+        }
+    ],
+    "address": "2960 Wilshire Blvd. Los Angeles, CA 90010",
+    "phoneNumber": "(888) 488-1391",
+    "email": null,
+    "linkNames": [
+        "HOME",
+        "OUR FIRM",
+        "PRACTICE AREAS",
+        "SUCCESS RECORD",
+        "ENGLISH"
+    ],
+    "companyName": "Arash Law",
+    "subHeading": "California\u2019s Powerhouse Injury Law Firm",
+    "valueProp": "Our firm is one of the most widely-known and thriving California injury law firms with a legal team of over 100, who collectively give unparalleled customer service and results. Our firm\u2019s sought-after trial attorneys have won multimillion-dollar verdicts and settlements in catastrophic injury & wrongful death cases.",
+    "CTA": "FREE CONSULTATION",
+    "topics": [
+        "Car Accidents",
+        "Truck Accidents",
+        "Motorcycle Accidents",
+        "Bicycle Accidents",
+        "Uber Accidents",
+        "Brain Injury Accidents",
+        "Workers\u2019 Compensation",
+        "Pedestrian Accidents",
+        "View All Areas"
+    ],
+    "members": [
+        {
+            "name": "Arash Khorsandi",
+            "position": "Founder"
+        },
+        {
+            "name": "Brian Beecher",
+            "position": "Partner"
+        },
+        {
+            "name": "Tina Eshghieh",
+            "position": "Partner"
+        },
+        {
+            "name": "Judd Ross Allen",
+            "position": "Senior Trial Attorney"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Arash thank you for being so great to work with.",
+            "author": "Jacob R.",
+            "location": null
+        },
+        {
+            "text": "I can\u2019t even express in words how grateful I am and how incredible Arash and his team are.",
+            "author": "Jullie G.",
+            "location": null
+        },
+        {
+            "text": "After getting in a horrible car accident, I called Arash Law and from the start, they made it an effortless and painless process for my case.",
+            "author": "Matthew P.",
+            "location": null
+        }
+    ]
+}

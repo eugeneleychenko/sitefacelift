@@ -1,0 +1,69 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Client-Centered Approach",
+            "content": "We listen first to understand who you are and what your goals are. This ensures that our advice is tailored to your specific needs."
+        },
+        {
+            "title": "Regular Updates",
+            "content": "You will never be left wondering about the status of your matter. We provide regular updates and respond to all e-mails promptly."
+        },
+        {
+            "title": "Experienced Representation",
+            "content": "Darian M. Butcher has extensive experience in probate and fiduciary litigation. She has practiced at top firms and clerked at the Massachusetts Appeals Court."
+        },
+        {
+            "title": "Professional Fiduciary Services",
+            "content": "We offer high-touch, duty-focused services as trustee, personal representative, guardian, and conservator. Our experience ensures your fiduciary needs are met with the highest standards."
+        }
+    ],
+    "address": null,
+    "phoneNumber": "(617) 971-6474",
+    "email": "dbutcher@butcherlawllc.com",
+    "linkNames": [
+        "ABOUT",
+        "SERVICES",
+        "CONTACT",
+        "WORK WITH US"
+    ],
+    "companyName": "Butcher Law LLC",
+    "subHeading": "For Your Trust and Estate Litigation, Guardianship, and Conservatorship Needs.",
+    "valueProp": "We listen first. Before we can give you any advice we need to know who you are and what your goals are. In all aspects of our practice, we provide a client-centered approach that begins with listening to you.",
+    "CTA": "We can help",
+    "topics": [
+        "Will contests",
+        "Actions concerning breach of fiduciary duty",
+        "Actions concerning lack of capacity and undue influence",
+        "Trust reformation and termination",
+        "Actions concerning the removal of trustees and personal representatives",
+        "Guardianships",
+        "Conservatorships",
+        "Trust and estate administration",
+        "Professional fiduciary services"
+    ],
+    "members": [
+        {
+            "name": "Darian M. Butcher",
+            "position": "Founder"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Darian provided exceptional service and was always available to answer my questions.",
+            "author": "John Doe",
+            "location": "Boston, MA"
+        },
+        {
+            "text": "I highly recommend Butcher Law for their professionalism and dedication.",
+            "author": "Jane Smith",
+            "location": "Cambridge, MA"
+        },
+        {
+            "text": "The team at Butcher Law made a difficult process much easier to navigate.",
+            "author": "Robert Johnson",
+            "location": "Newton, MA"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "paragraph": "Contact Us Today",
+    "detailsData": [
+        {
+            "title": "Experienced Divorce Attorney",
+            "content": "Stephanie has earned a solid reputation as an experienced Divorce Attorney who effectively advances the interests of every client. She is committed to the success of every case she takes on."
+        },
+        {
+            "title": "Compassionate Case Handling",
+            "content": "Our clients can expect us to handle their case with compassion while still zealously advocating for them in the courtroom. We understand the complexities of child custody."
+        },
+        {
+            "title": "Exclusive Family Law Focus",
+            "content": "SLS Law has been exclusively handling family law matters including complex dissolutions for over 10 years. We handle property division, custody, child support, and maintenance."
+        },
+        {
+            "title": "Proven Success",
+            "content": "Kendall is your paralegal, with years of proven experience and success for our clients. Get in touch with her now."
+        }
+    ],
+    "address": "8640 N. Green Hills Road, Suite 41, Kansas City, Missouri 64154",
+    "phoneNumber": "816-631-4141",
+    "email": "admin@slslawkc.com",
+    "linkNames": [
+        "HOME",
+        "ABOUT",
+        "AREAS OF LAW",
+        "OUR TEAM",
+        "NEWS & UPDATES",
+        "LEGAL RESOURCES",
+        "CONTACT",
+        "BOOK ONLINE",
+        "DISCLAIMER",
+        "MORE"
+    ],
+    "companyName": "SLS Law",
+    "subHeading": "More Than Just an Attorney",
+    "valueProp": "Our skilled team of professionals are the backbone of SLS Law. Their ideas help shape the direction of our business as it continues to develop, and they have the wherewithal to get every job done right.",
+    "CTA": "Request Now",
+    "topics": [
+        "Custody and Child Support",
+        "Dissolution of Marriage",
+        "Paternity"
+    ],
+    "members": [
+        {
+            "name": "Stephanie L. Schutt",
+            "position": "Attorney & Founder"
+        },
+        {
+            "name": "Dana N. Weisz",
+            "position": "Paralegal & Office Manager"
+        },
+        {
+            "name": "Kendall E. Burnette",
+            "position": "Paralegal"
+        }
+    ],
+    "openHours": null,
+    "testimonalData": [
+        {
+            "text": "Stephanie is an exceptional attorney who truly cares about her clients.",
+            "author": "John Doe",
+            "location": "Kansas City, MO"
+        },
+        {
+            "text": "Dana was incredibly helpful and always available to answer my questions.",
+            "author": "Jane Smith",
+            "location": "Kansas City, MO"
+        },
+        {
+            "text": "Kendall's experience and dedication made a huge difference in my case.",
+            "author": "Michael Johnson",
+            "location": "Kansas City, MO"
+        }
+    ]
+}
